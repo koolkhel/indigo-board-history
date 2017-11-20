@@ -1,0 +1,22 @@
+
+Indigo Device_2_2 9
+indigo-tracker login: 
+Indigo Device_2_2 9
+indigo-tracker login: root
+Password: 
+# mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# madplay 1m.mp3
+MPEG Audio Decoder 0.15.2 (beta) - Copyright (C) 2000-2004 Robert Leslie et al.
+          Title: Satisfaction
+         Artist: BennyBenassi The Biz
+      Orchestra: BennyBenassi The Biz
+          Album: Hypnotica
+          Track: 1/14
+           Year: 2003
+          Genre: House
+        Comment: EAC V0.99 prebeta 4, Secure Mode, Test & Copy, AccurateRip,
+                 FLAC -8
+
+# 

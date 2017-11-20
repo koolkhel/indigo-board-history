@@ -1,0 +1,567 @@
+
+Indigo Device_2_2 13
+indigo-tracker login: 
+Indigo Device_2_2 13
+indigo-tracker login: root
+Password: 
+# ls
+minicom.log    updates_ready
+# dmesg
+yaffs: checking block 1471 bad
+yaffs: checking block 1472 bad
+yaffs: checking block 1473 bad
+yaffs: checking block 1474 bad
+yaffs: checking block 1475 bad
+yaffs: checking block 1476 bad
+yaffs: checking block 1477 bad
+yaffs: checking block 1478 bad
+yaffs: checking block 1479 bad
+yaffs: checking block 1480 bad
+yaffs: checking block 1481 bad
+yaffs: checking block 1482 bad
+yaffs: checking block 1483 bad
+yaffs: checking block 1484 bad
+yaffs: checking block 1485 bad
+yaffs: checking block 1486 bad
+yaffs: checking block 1487 bad
+yaffs: checking block 1488 bad
+yaffs: checking block 1489 bad
+yaffs: checking block 1490 bad
+yaffs: checking block 1491 bad
+yaffs: checking block 1492 bad
+yaffs: checking block 1493 bad
+yaffs: checking block 1494 bad
+yaffs: checking block 1495 bad
+yaffs: checking block 1496 bad
+yaffs: checking block 1497 bad
+yaffs: checking block 1498 bad
+yaffs: checking block 1499 bad
+yaffs: checking block 1500 bad
+yaffs: checking block 1501 bad
+yaffs: checking block 1502 bad
+yaffs: checking block 1503 bad
+yaffs: checking block 1504 bad
+yaffs: checking block 1505 bad
+yaffs: checking block 1506 bad
+yaffs: checking block 1507 bad
+yaffs: checking block 1508 bad
+yaffs: checking block 1509 bad
+yaffs: checking block 1510 bad
+yaffs: checking block 1511 bad
+yaffs: checking block 1512 bad
+yaffs: checking block 1513 bad
+yaffs: checking block 1514 bad
+yaffs: checking block 1515 bad
+yaffs: checking block 1516 bad
+yaffs: checking block 1517 bad
+yaffs: checking block 1518 bad
+yaffs: checking block 1519 bad
+yaffs: checking block 1520 bad
+yaffs: checking block 1521 bad
+yaffs: checking block 1522 bad
+yaffs: checking block 1523 bad
+yaffs: checking block 1524 bad
+yaffs: checking block 1525 bad
+yaffs: checking block 1526 bad
+yaffs: checking block 1527 bad
+yaffs: checking block 1528 bad
+yaffs: checking block 1529 bad
+yaffs: checking block 1530 bad
+yaffs: checking block 1531 bad
+yaffs: checking block 1532 bad
+yaffs: checking block 1533 bad
+yaffs: checking block 1534 bad
+yaffs: checking block 1535 bad
+yaffs: checking block 1536 bad
+yaffs: checking block 1537 bad
+yaffs: checking block 1538 bad
+yaffs: checking block 1539 bad
+yaffs: checking block 1540 bad
+yaffs: checking block 1541 bad
+yaffs: checking block 1542 bad
+yaffs: checking block 1543 bad
+yaffs: checking block 1544 bad
+yaffs: checking block 1545 bad
+yaffs: checking block 1546 bad
+yaffs: checking block 1547 bad
+yaffs: checking block 1548 bad
+yaffs: checking block 1549 bad
+yaffs: checking block 1550 bad
+yaffs: checking block 1551 bad
+yaffs: checking block 1552 bad
+yaffs: checking block 1553 bad
+yaffs: checking block 1554 bad
+yaffs: checking block 1555 bad
+yaffs: checking block 1556 bad
+yaffs: checking block 1557 bad
+yaffs: checking block 1558 bad
+yaffs: checking block 1559 bad
+yaffs: checking block 1560 bad
+yaffs: checking block 1561 bad
+yaffs: checking block 1562 bad
+yaffs: checking block 1563 bad
+yaffs: checking block 1564 bad
+yaffs: checking block 1565 bad
+yaffs: checking block 1566 bad
+yaffs: checking block 1567 bad
+yaffs: checking block 1568 bad
+yaffs: checking block 1569 bad
+yaffs: checking block 1570 bad
+yaffs: checking block 1571 bad
+yaffs: checking block 1572 bad
+yaffs: checking block 1573 bad
+yaffs: checking block 1574 bad
+yaffs: checking block 1575 bad
+yaffs: checking block 1576 bad
+yaffs: checking block 1577 bad
+yaffs: checking block 1578 bad
+yaffs: checking block 1579 bad
+yaffs: checking block 1580 bad
+yaffs: checking block 1581 bad
+yaffs: checking block 1582 bad
+yaffs: checking block 1583 bad
+yaffs: checking block 1584 bad
+yaffs: checking block 1585 bad
+yaffs: checking block 1586 bad
+yaffs: checking block 1587 bad
+yaffs: checking block 1588 bad
+yaffs: checking block 1589 bad
+yaffs: checking block 1590 bad
+yaffs: checking block 1591 bad
+yaffs: checking block 1592 bad
+yaffs: checking block 1593 bad
+yaffs: checking block 1594 bad
+yaffs: checking block 1595 bad
+yaffs: checking block 1596 bad
+yaffs: checking block 1597 bad
+yaffs: checking block 1598 bad
+yaffs: checking block 1599 bad
+yaffs: checking block 1600 bad
+yaffs: checking block 1601 bad
+yaffs: checking block 1602 bad
+yaffs: checking block 1603 bad
+yaffs: checking block 1604 bad
+yaffs: checking block 1605 bad
+yaffs: checking block 1606 bad
+yaffs: checking block 1607 bad
+yaffs: checking block 1608 bad
+yaffs: checking block 1609 bad
+yaffs: checking block 1610 bad
+yaffs: checking block 1611 bad
+yaffs: checking block 1612 bad
+yaffs: checking block 1613 bad
+yaffs: checking block 1614 bad
+yaffs: checking block 1615 bad
+yaffs: checking block 1616 bad
+yaffs: checking block 1617 bad
+yaffs: checking block 1618 bad
+yaffs: checking block 1619 bad
+yaffs: checking block 1620 bad
+yaffs: checking block 1621 bad
+yaffs: checking block 1622 bad
+yaffs: checking block 1623 bad
+yaffs: checking block 1624 bad
+yaffs: checking block 1625 bad
+yaffs: checking block 1626 bad
+yaffs: checking block 1627 bad
+yaffs: checking block 1628 bad
+yaffs: checking block 1629 bad
+yaffs: checking block 1630 bad
+yaffs: checking block 1631 bad
+yaffs: checking block 1632 bad
+yaffs: checking block 1633 bad
+yaffs: checking block 1634 bad
+yaffs: checking block 1635 bad
+yaffs: checking block 1636 bad
+yaffs: checking block 1637 bad
+yaffs: checking block 1638 bad
+yaffs: checking block 1639 bad
+yaffs: checking block 1640 bad
+yaffs: checking block 1641 bad
+yaffs: checking block 1642 bad
+yaffs: checking block 1643 bad
+yaffs: checking block 1644 bad
+yaffs: checking block 1645 bad
+yaffs: checking block 1646 bad
+yaffs: checking block 1647 bad
+yaffs: checking block 1648 bad
+yaffs: checking block 1649 bad
+yaffs: checking block 1650 bad
+yaffs: checking block 1651 bad
+yaffs: checking block 1652 bad
+yaffs: checking block 1653 bad
+yaffs: checking block 1654 bad
+yaffs: checking block 1655 bad
+yaffs: checking block 1656 bad
+yaffs: checking block 1657 bad
+yaffs: checking block 1658 bad
+yaffs: checking block 1659 bad
+yaffs: checking block 1660 bad
+yaffs: checking block 1661 bad
+yaffs: checking block 1662 bad
+yaffs: checking block 1663 bad
+yaffs: checking block 1664 bad
+yaffs: checking block 1665 bad
+yaffs: checking block 1666 bad
+yaffs: checking block 1667 bad
+yaffs: checking block 1668 bad
+yaffs: checking block 1669 bad
+yaffs: checking block 1670 bad
+yaffs: checking block 1671 bad
+yaffs: checking block 1672 bad
+yaffs: checking block 1673 bad
+yaffs: checking block 1674 bad
+yaffs: checking block 1675 bad
+yaffs: checking block 1676 bad
+yaffs: checking block 1677 bad
+yaffs: checking block 1678 bad
+yaffs: checking block 1679 bad
+yaffs: checking block 1680 bad
+yaffs: checking block 1681 bad
+yaffs: checking block 1682 bad
+yaffs: checking block 1683 bad
+yaffs: checking block 1684 bad
+yaffs: checking block 1685 bad
+yaffs: checking block 1686 bad
+yaffs: checking block 1687 bad
+yaffs: checking block 1688 bad
+yaffs: checking block 1689 bad
+yaffs: checking block 1690 bad
+yaffs: checking block 1691 bad
+yaffs: checking block 1692 bad
+yaffs: checking block 1693 bad
+yaffs: checking block 1694 bad
+yaffs: checking block 1695 bad
+yaffs: checking block 1696 bad
+yaffs: checking block 1697 bad
+yaffs: checking block 1698 bad
+yaffs: checking block 1699 bad
+yaffs: checking block 1700 bad
+yaffs: checking block 1701 bad
+yaffs: checking block 1702 bad
+yaffs: checking block 1703 bad
+yaffs: checking block 1704 bad
+yaffs: checking block 1705 bad
+yaffs: checking block 1706 bad
+yaffs: checking block 1707 bad
+yaffs: checking block 1708 bad
+yaffs: checking block 1709 bad
+yaffs: checking block 1710 bad
+yaffs: checking block 1711 bad
+yaffs: checking block 1712 bad
+yaffs: checking block 1713 bad
+yaffs: checking block 1714 bad
+yaffs: checking block 1715 bad
+yaffs: checking block 1716 bad
+yaffs: checking block 1717 bad
+yaffs: checking block 1718 bad
+yaffs: checking block 1719 bad
+yaffs: checking block 1720 bad
+yaffs: checking block 1721 bad
+yaffs: checking block 1722 bad
+yaffs: checking block 1723 bad
+yaffs: checking block 1724 bad
+yaffs: checking block 1725 bad
+yaffs: checking block 1726 bad
+yaffs: checking block 1727 bad
+yaffs: checking block 1728 bad
+yaffs: checking block 1729 bad
+yaffs: checking block 1730 bad
+yaffs: checking block 1731 bad
+yaffs: checking block 1732 bad
+yaffs: checking block 1733 bad
+yaffs: checking block 1734 bad
+yaffs: checking block 1735 bad
+yaffs: checking block 1736 bad
+yaffs: checking block 1737 bad
+yaffs: checking block 1738 bad
+yaffs: checking block 1739 bad
+yaffs: checking block 1740 bad
+yaffs: checking block 1741 bad
+yaffs: checking block 1742 bad
+yaffs: checking block 1743 bad
+yaffs: checking block 1744 bad
+yaffs: checking block 1745 bad
+yaffs: checking block 1746 bad
+yaffs: checking block 1747 bad
+yaffs: checking block 1748 bad
+yaffs: checking block 1749 bad
+yaffs: checking block 1750 bad
+yaffs: checking block 1751 bad
+yaffs: checking block 1752 bad
+yaffs: checking block 1753 bad
+yaffs: checking block 1754 bad
+yaffs: checking block 1755 bad
+yaffs: checking block 1756 bad
+yaffs: checking block 1757 bad
+yaffs: checking block 1758 bad
+yaffs: checking block 1759 bad
+yaffs: checking block 1760 bad
+yaffs: checking block 1761 bad
+yaffs: checking block 1762 bad
+yaffs: checking block 1763 bad
+yaffs: checking block 1764 bad
+yaffs: checking block 1765 bad
+yaffs: checking block 1766 bad
+yaffs: checking block 1767 bad
+yaffs: checking block 1768 bad
+yaffs: checking block 1769 bad
+yaffs: checking block 1770 bad
+yaffs: checking block 1771 bad
+yaffs: checking block 1772 bad
+yaffs: checking block 1773 bad
+yaffs: checking block 1774 bad
+yaffs: checking block 1775 bad
+yaffs: checking block 1776 bad
+yaffs: checking block 1777 bad
+yaffs: checking block 1778 bad
+yaffs: checking block 1779 bad
+yaffs: checking block 1780 bad
+yaffs: checking block 1781 bad
+yaffs: checking block 1782 bad
+yaffs: checking block 1783 bad
+yaffs: checking block 1784 bad
+yaffs: checking block 1785 bad
+yaffs: checking block 1786 bad
+yaffs: checking block 1787 bad
+yaffs: checking block 1788 bad
+yaffs: checking block 1789 bad
+yaffs: checking block 1790 bad
+yaffs: checking block 1791 bad
+usb 2-2: not running at top speed; connect to a high speed hub
+usb 2-2: config 1 has an invalid descriptor of length 0, skipping remainder of the config
+usb 2-2: config 1 interface 0 altsetting 0 has an invalid endpoint with address 0x41, skipping
+usb 2-2: config 1 interface 0 altsetting 0 has 3 endpoint descriptors, different from the interface descriptor's value: 5
+yaffs: yaffs_read_super: is_checkpointed 0
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+# lsusb
+Bus 002 Device 002: ID 0b95:a02b
+Bus 001 Device 001: ID 1d6b:0002
+Bus 002 Device 001: ID 1d6b:0001
+# usb 2-2: USB disconnect, device number 2
+usb 2-2: new full-speed USB device number 3 using at91_ohci
+usb 2-2: not running at top speed; connect to a high speed hub
+usb 2-2: config 1 has an invalid descriptor of length 0, skipping remainder of the config
+usb 2-2: config 1 interface 0 altsetting 0 has an invalid endpoint with address 0x41, skipping
+usb 2-2: config 1 interface 0 altsetting 0 has 3 endpoint descriptors, different from the interface descriptor's value: 5
+ls
+minicom.log    updates_ready
+# eifconfig
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:152 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:152 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:13372 (13.0 KiB)  TX bytes:13372 (13.0 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.125.241.254  P-t-P:192.200.1.21  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:107 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:128 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:14654 (14.3 KiB)  TX bytes:10970 (10.7 KiB)
+
+# reboot
+# Restarting system.þStart AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1736152 Bytes = 1.7 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #284 Fri Dec 27 12:46:52 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60196k/60196k available, 5340k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc04222bc   (4201 kB)
+      .init : 0xc0423000 - 0xc0447eac   ( 148 kB)
+      .data : 0xc0448000 - 0xc04866c0   ( 250 kB)
+       .bss : 0xc04866c0 - 0xc049ee48   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x703044c8 - 0x70304504
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 371 at 0x000002e60000
+Bad eraseblock 443 at 0x000003760000
+Bad eraseblock 852 at 0x000006a80000
+Bad eraseblock 891 at 0x000006f60000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+usbcore: registered new interface driver asix
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-2: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+asix 1-2:1.0 eth0: register 'asix' at usb-atmel-ehci-2, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:12:b3
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 13
+indigo-tracker login: 

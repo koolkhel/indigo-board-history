@@ -1,0 +1,544 @@
+
+Indigo Device_2_2 13
+indigo-tracker login: root
+Password: 
+# usb 2-2: new full-speed USB device number 2 using at91_ohci
+usb 2-2: not running at top speed; connect to a high speed hub
+scsi0 : usb-storage 2-2:1.0
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+# 
+# 
+# mount
+rootfs on / type rootfs (rw)
+/dev/root on / type yaffs (rw,relatime)
+proc on /proc type proc (rw,relatime)
+sysfs on /sys type sysfs (rw,relatime)
+mdev on /dev type tmpfs (rw,relatime)
+none on /tmp type tmpfs (rw,relatime)
+devpts on /dev/pts type devpts (rw,relatime,mode=600)
+none on /sys/kernel/debug type debugfs (rw,relatime)
+# mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3                          nmea.log.txt
+2f10ca6-65fba6e.ready.tar.gz   root.tar
+R2898D89A2N018851545.rtf       rootfs-boot-to-initrd.bin
+battery                        run-all.sh
+battery.cpp                    run-kernel.sh
+bootstrap.bin                  run-uboot.sh
+debug                          run.sh
+efl-final-rotate               sam-ba_2.11.zip
+kernel-old.bin                 samba-full.bat
+kernel.bin                     u-boot.bin
+microhttpd                     uImage-unified-9g45.bin
+nandflash_at91sam9g45ekes.bin  volatile.tar
+# cat run-kern# cat run-kernel.sh 
+flash_erase -N /dev/mtd0 0xA0000 16
+nandwrite -a -s 0xA0000 -p /dev/mtd0 kernel.bin
+# cp uI# cp uImage-unified-9g45.bin kernel.bin
+sh run-kernel.sh
+# sh run-kernel.sh
+Erasing 128 Kibyte @ a0000 --  0 % complete Erasing 128 Kibyte @ c0000 --  6 % complete Erasing 128 Kibyte @ e0000 -- 12 % complete Erasing 128 Kibyte @ 100000 -- 18 % complete Erasing 128 Kibyte @ 120000 -- 25 % complete Erasing 128 Kibyte @ 140000 -- 31 % complete Erasing 128 Kibyte @ 160000 -- 37 % complete Erasing 128 Kibyte @ 180000 -- 43 % complete Erasing 128 Kibyte @ 1a0000 -- 50 % complete Erasing 128 Kibyte @ 1c0000 -- 56 % complete Erasing 128 Kibyte @ 1e0000 -- 62 % complete Erasing 128 Kibyte @ 200000 -- 68 % complete Erasing 128 Kibyte @ 220000 -- 75 % complete Erasing 128 Kibyte @ 240000 -- 81 % complete Erasing 128 Kibyte @ 260000 -- 87 % complete Erasing 128 Kibyte @ 280000 -- 93 % complete Erasing 128 Kibyte @ 280000 -- 100 % complete 
+Writing data to block 5 at offset 0xa0000
+Writing data to block 6 at offset 0xc0000
+Writing data to block 7 at offset 0xe0000
+Writing data to block 8 at offset 0x100000
+Writing data to block 9 at offset 0x120000
+Writing data to block 10 at offset 0x140000
+Writing data to block 11 at offset 0x160000
+Writing data to block 12 at offset 0x180000
+Writing data to block 13 at offset 0x1a0000
+Writing data to block 14 at offset 0x1c0000
+Writing data to block 15 at offset 0x1e0000
+Writing data to block 16 at offset 0x200000
+Writing data to block 17 at offset 0x220000
+Writing data to block 18 at offset 0x240000
+# 
+# 
+# reboot
+# Restarting system.þStart AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1736152 Bytes = 1.7 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #284 Fri Dec 27 12:46:52 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60196k/60196k available, 5340k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc04222bc   (4201 kB)
+      .init : 0xc0423000 - 0xc0447eac   ( 148 kB)
+      .data : 0xc0448000 - 0xc04866c0   ( 250 kB)
+       .bss : 0xc04866c0 - 0xc049ee48   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x703044c8 - 0x70304504
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 371 at 0x000002e60000
+Bad eraseblock 443 at 0x000003760000
+Bad eraseblock 852 at 0x000006a80000
+Bad eraseblock 891 at 0x000006f60000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+usbcore: registered new interface driver asix
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-2: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+scsi0 : usb-storage 1-2:1.0
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 13
+indigo-tracker login: root
+Password: 
+# 
+# 
+# 
+# uname -a
+Linux indigo-tracker 3.8.13+ #284 Fri Dec 27 12:46:52 MSK 2013 armv5tejl GNU/Linux
+# usb 1-2: USB disconnect, device number 2
+usb 1-2: new high-speed USB device number 3 using atmel-ehci
+asix 1-2:1.0 eth0: register 'asix' at usb-atmel-ehci-2, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:12:b3
+
+# 
+# 
+# ifconfig
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:144 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:144 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:12716 (12.4 KiB)  TX bytes:12716 (12.4 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.79.157.80  P-t-P:192.200.1.21  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:60 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:75 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:6905 (6.7 KiB)  TX bytes:5146 (5.0 KiB)
+
+# ifconfig eth0
+eth0      Link encap:Ethernet  HWaddr 00:00:00:00:12:B3  
+          BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+# ifconfig eth0 192.168.17.50 netmask 255.255.255.0
+# asix 1-2:1.0 eth0: link up, 100Mbps, full-duplex, lpa 0xCDE1
+ping 192.168.17.150
+PING 192.168.17.150 (192.168.17.150): 56 data bytes
+64 bytes from 192.168.17.150: seq=0 ttl=64 time=1.641 ms
+64 bytes from 192.168.17.150: seq=1 ttl=64 time=0.574 ms
+64 bytes from 192.168.17.150: seq=2 ttl=64 time=1.254 ms
+64 bytes from 192.168.17.150: seq=3 ttl=64 time=0.603 ms
+64 bytes from 192.168.17.150: seq=4 ttl=64 time=0.607 ms
+64 bytes from 192.168.17.150: seq=5 ttl=64 time=1.242 ms
+64 bytes from 192.168.17.150: seq=6 ttl=64 time=0.583 ms
+64 bytes from 192.168.17.150: seq=7 ttl=64 time=0.611 ms
+64 bytes from 192.168.17.150: seq=8 ttl=64 time=1.160 ms
+64 bytes from 192.168.17.150: seq=9 ttl=64 time=0.672 ms
+64 bytes from 192.168.17.150: seq=10 ttl=64 time=0.582 ms
+64 bytes from 192.168.17.150: seq=11 ttl=64 time=10.046 ms
+64 bytes from 192.168.17.150: seq=12 ttl=64 time=0.663 ms
+
+--- 192.168.17.150 ping statistics ---
+13 packets transmitted, 13 packets received, 0% packet loss
+round-trip min/avg/max = 0.574/1.556/10.046 ms
+# 
+# # ping 192.168.17.150# ifconfig eth0 192.168.17.50 netmask 255.255.255.0# ping 192.168.17.150
+PING 192.168.17.150 (192.168.17.150): 56 data bytes
+64 bytes from 192.168.17.150: seq=0 ttl=64 time=2.748 ms
+64 bytes from 192.168.17.150: seq=1 ttl=64 time=0.716 ms
+64 bytes from 192.168.17.150: seq=2 ttl=64 time=0.565 ms
+64 bytes from 192.168.17.150: seq=3 ttl=64 time=1.154 ms
+64 bytes from 192.168.17.150: seq=4 ttl=64 time=0.569 ms
+
+--- 192.168.17.150 ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 0.565/1.150/2.748 ms
+# dmesg
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #284 Fri Dec 27 12:46:52 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+On node 0 totalpages: 16384
+free_area_init_node: node 0, pgdat c0485f88, node_mem_map c049f000
+  Normal zone: 128 pages used for memmap
+  Normal zone: 0 pages reserved
+  Normal zone: 16256 pages, LIFO batch:3
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+pcpu-alloc: [0] 0 
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60196k/60196k available, 5340k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc04222bc   (4201 kB)
+      .init : 0xc0423000 - 0xc0447eac   ( 148 kB)
+      .data : 0xc0448000 - 0xc04866c0   ( 250 kB)
+       .bss : 0xc04866c0 - 0xc049ee48   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x703044c8 - 0x70304504
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+yaffs: yaffs built Sep 11 2013 18:09:00 Installing.
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 371 at 0x000002e60000
+Bad eraseblock 443 at 0x000003760000
+Bad eraseblock 852 at 0x000006a80000
+Bad eraseblock 891 at 0x000006f60000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: CANSTAT 0x80 CANCTRL 0x07
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+usbcore: registered new interface driver asix
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-2: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+scsi0 : usb-storage 1-2:1.0
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+yaffs: yaffs: Attempting MTD mount of 31.1,"mtdblock1"
+yaffs: auto selecting yaffs2
+yaffs: checking block 1 bad
+yaffs: checking block 2 bad
+yaffs: yaffs_read_super: is_checkpointed 1
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] Mode Sense: 43 00 00 00
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+usb 1-2: USB disconnect, device number 2
+usb 1-2: new high-speed USB device number 3 using atmel-ehci
+asix 1-2:1.0 eth0: register 'asix' at usb-atmel-ehci-2, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:12:b3
+asix 1-2:1.0 eth0: link up, 100Mbps, full-duplex, lpa 0xCDE1
+# 

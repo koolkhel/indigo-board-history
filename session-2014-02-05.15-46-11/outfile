@@ -1,0 +1,47 @@
+Start AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2 Start AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1736152 Bytes = 1.7 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux...@(    @@Ä@Ä ¿ Ä  Ä@@Ñ 0ÄÄ†¿`¿$Ä6Ä¿¿√`¿ê`8A8ƒ8	x0

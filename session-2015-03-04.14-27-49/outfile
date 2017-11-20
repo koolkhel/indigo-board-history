@@ -1,0 +1,793 @@
+
+# 
+# ls
+minicom.log    updates_ready
+# gpsd --version
+gpsd: invalid option -- '-'
+usage: gpsd [-b] [-n] [-N] [-D n] [-F sockfile] [-G] [-P pidfile] [-S port] [-h] device...
+  Options include: 
+  -b		     	    = bluetooth-safe: open data sources read-only
+  -n			    = don't wait for client connects to poll GPS
+  -N			    = don't go into background
+  -F sockfile		    = specify control socket location
+  -G         		    = make gpsd listen on INADDR_ANY
+  -P pidfile	      	    = set file to record process ID 
+  -D integer (default 0)    = set debug level 
+  -S integer (default 2947) = set port for daemon 
+  -h		     	    = help message 
+  -V			    = emit version and exit.
+A device may be a local serial device for GPS input, or a URL of the form:
+     {dgpsip|ntrip}://[user:passwd@]host[:port][/stream]
+     gpsd://host[:port][/device][?protocol]
+in which case it specifies an input source for GPSD, DGPS or ntrip data.
+
+The following driver types are compiled into this gpsd instance:
+    Unknown
+    Generic NMEA
+    Ashtech
+    Delorme TripMate
+    Delorme EarthMate (pre-2003, Zodiac chipset)
+    Furuno Electric GH-79L4
+    Garmin NMEA
+    MTK-3301
+    OceanServer Digital Compass OS5000
+    San Jose Navigation FV18
+    True North
+    AIVDM
+    EverMore binary
+    Garmin Serial binary
+    Garmin USB binary
+    GeoStar binary
+    iTalk binary
+    oncore binary
+    Navcom binary
+    SiRF binary
+    SuperStarII binary
+    Trimble TSIP
+    uBlox UBX binary
+    Zodiac binary
+    RTCM104V2
+    RTCM104V3
+    Garmin Simple Text
+    JSON slave driver
+# # gpsd --versionV
+gpsd: 3.2~dev (revision release-3.1-58-gbca8366)
+# usb 1-1: USB disconnect, device number 14
+asix 1-1:1.0 eth0: unregister 'asix' usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet
+usb 1-1: new high-speed USB device number 15 using atmel-ehci
+asix 1-1:1.0 eth0: register 'asix' at usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:00:01
+usb 1-1: USB disconnect, device number 15
+asix 1-1:1.0 eth0: unregister 'asix' usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet
+usb 1-1: new high-speed USB device number 16 using atmel-ehci
+asix 1-1:1.0 eth0: register 'asix' at usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:00:01
+usb 1-1: USB disconnect, device number 16
+asix 1-1:1.0 eth0: unregister 'asix' usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet
+usb 1-1: new high-speed USB device number 17 using atmel-ehci
+asix 1-1:1.0 eth0: register 'asix' at usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:00:01
+usb 1-1: USB disconnect, device number 17
+asix 1-1:1.0 eth0: unregister 'asix' usb-atmel-ehci-1, ASIX AX88772 USB 2.0 Ethernet
+usb 1-1: new high-speed USB device number 18 using atmel-ehci
+hub 1-0:1.0: unable to enumerate USB device on port 1
+usb 2-1: new full-speed USB device number 2 using at91_ohci
+usb 2-1: not running at top speed; connect to a high speed hub
+asix 2-1:1.0 eth0: register 'asix' at usb-at91-1, ASIX AX88772 USB 2.0 Ethernet, 00:00:00:00:00:01
+?
+-sh: Ð¸: not found
+# ps ax | grep ssh
+ 1320 root       0:00 /usr/sbin/sshd
+ 2270 root       0:00 grep ssh
+# piping 192.168.17.150
+PING 192.168.17.150 (192.168.17.150): 56 data bytes
+
+--- 192.168.17.150 ping statistics ---
+1 packets transmitted, 0 packets received, 100% packet loss
+# # ping 192.168.17.150254
+PING 192.168.17.254 (192.168.17.254): 56 data bytes
+
+--- 192.168.17.254 ping statistics ---
+2 packets transmitted, 0 packets received, 100% packet loss
+# ifconfig eth0
+eth0      Link encap:Ethernet  HWaddr 00:00:00:00:00:01  
+          BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+# # ifconfig eth0 192.168.17.1505 netasksmask 255.5255.255.0
+# # ifconfig eth0 192.168.17.155 netmask 255.255.255.0# ifconfig eth0asix 2-1:1.0 eth0: link up, 100Mbps, full-duplex, lpa 0xCDE1
+# ping 192.168.17.254
+PING 192.168.17.254 (192.168.17.254): 56 data bytes
+64 bytes from 192.168.17.254: seq=0 ttl=64 time=3.061 ms
+
+--- 192.168.17.254 ping statistics ---
+1 packets transmitted, 1 packets received, 0% packet loss
+round-trip min/avg/max = 3.061/3.061/3.061 ms
+# asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 586
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 538
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 538
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 538
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 586
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 562
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 538
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 538
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 538
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+
+# 
+# 
+# killall efl-final
+# # killall efl-final
+# asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+
+# 
+# cgps
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    Time:n/a³
+³    Latitude:   n/a³
+³    Longitude:  n/a³
+³    Altitude:   n/a³
+³    Speed:n/a³
+³    Heading:    n/a³
+³    Climb:n/a³
+³    Status:     NO FIX (0 secs)³
+³    GPS Type:³
+³    Longitude Err:   n/a³
+³    Latitude Err:    n/a³
+³    Altitude Err:    n/a³
+³    Course Err:n/a³
+³    Speed Err:n/a³
+³    Grid Square:     n/a³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³PRN:   Elev:  Azim:  SNR:  Used: ³³³³³³³³³³³³³³³³³³³³³³³³³³³³³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"
+8:23.741Z","flags":1,"driver":"Generic NMEA","native":0,"bps":115200,"parity":"N","stopbits":1,"cycle":1.00}]}{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"timing":false}2015-03-04T14:48:25.000Z 47.216368 N 38.933214 E37.7 ft0.0 ft/min3D1
+
++/- 38 ft+/- 71 ft+/- 75 ft+/- 97 mphKN97lf
+
+
+
+{"class":"TPV","tag":"GGA","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:25.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"speed":0.000,"climb":0.000,"eps":43.54}0.0 mph36.3 deg (true)0
+
+
+{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:25.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54}5    09    228    15N7    12    101    25N11    14    067    32N13    69    257    21N15    37    302    31N17    35    154    23N28    74    053    42N30    41    093    34N33    15    242    00N37    33    203    01N39    34    198    01N40    33    158    00N
+
+  
+
+},{"PRN":11,"el":14,"az":67,"ss":32,"used":false},{"PRN":13,"el":69,"az":257,"ss":21,"used":false},{"PRN":15,"el":37,"az":302,"ss":31,"used":false},{"PRN":17,"el":35,"az":154,"ss":23,"used":false},{"PRN":28,"el":74,"az":53,"ss":42,"used":false},{"PRN":30,"el":41,"az":93,"ss":34,"used":false},{"PRN":33,"el":15,"az":242,"ss":0,"used":false},{"PRN":37,"el":33,"az":203,"ss":1,"used":false},{"PRN":39,
+el":34,"az":198,"ss":1,"used":false},{"PRN":40,"el":33,"az":158,"ss":0,"used":false}]}65    33    239    01Y66    34    307    26Y74    33    070    21Y75    65    348    37Y76    24    284    00Y83    11    018    2184    38    067    2385    30    129    00    
+
+  
+
+{"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.78,"ydop":1.45,"vdop":2.89,"tdop":1.81,"hdop":1.65,"gdop":3.79,"pdop":3.33,"satellites":[{"PRN":65,"el":33,"az":239,"ss":1,"used":false},{"PRN":66,"el":34,"az":307,"ss":26,"used":true},{"PRN":74,"el":33,"az":70,"ss":21,"used":true},{"PRN":75,"el":65,"az":348,"ss:37,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el
+:11,"az":18,"ss":21,"used":true},{"PRN":84,"el":38,"az":67,"ss":23,"used":true},{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}6n/a    n/a            1
+
+48:26.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"e
+tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:26.000Z","ept0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21
+0.0 mph36.3 deg (true)
+
+tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:26.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:26.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54} 5    09    228    14N 7    12    101    22N11    14    067    3N13    69    257    23N15    37    302    31N17    35    154    2328    74    053    4230    41    093    3433    15    242    00N37    33    203    00N39    34    198    00N40    33    158    00N
+
+  e},{"PRN":74,"el":33,"az":70,"ss":20,"used":true},{"PRN":75,"el":65,"az":348,"ss":37,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":23,"used":true},{"PRN":84,"el":38,"az":67,"ss":23,"used":true},},{"PRN":33,"el":15,"az":242,"ss":0,"used":false},{"PRN":37,"el":33,"az":203,"ss":0,"used":false},{"PRN":39,"el":34,"az":198,"ss":0,"used":false},{"PRN":40,"el
+:33,"az":158,"ss":0,"used":false}]}65    33    239    01Y66    34    307    25Y74    33    070    20Y75    65    348    37Y76    24    284    00Y83    11    01884    38    067    2385    30    129    00    
+
+  {"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.78,"ydop":1.45,"vdop":2.89,"tdop":1.81,"hdop":1.65,"gdop":3.79,"pdop":3.33,"satellites":[{"PRN":65,"el":33,"az":239,"ss":1,"used":false},{"PRN":66,"el":34,"az":307,"ss":25,"used":tru{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}7n/a    n/a            2
+
+48:27.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"e
+tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:27.000Z","ept0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21
+0.0 mph36.3 deg (true)
+
+tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:27.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:27.000Z","ept":0.005,"lat":47.216368333,"lon":38.933215000,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54} 5    09    228    19N 7    12    101    24N11    14    067    31N13    69    257    22N15    37    302    32N17    35    154    1928    74    053    4230    41    093    3433    15    242    01N37    33    203    00N39    34    198    00N40    33    158    01N
+
+  e},{"PRN":74,"el":33,"az":70,"ss":22,"used":true},{"PRN":75,"el":65,"az":348,"ss":37,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":22,"used":true},{"PRN":84,"el":38,"az":67,"ss":23,"used":true},},{"PRN":33,"el":15,"az":242,"ss":1,"used":false},{"PRN":37,"el":33,"az":203,"ss":0,"used":false},{"PRN":39,"el":34,"az":198,"ss":0,"used":false},{"PRN":40,"el
+:33,"az":158,"ss":1,"used":false}]}65    33    239    01Y66    34    307Y74    33    070    22Y75    65    348    37Y76    24    284    00Y83    11    018    2284    38    067    2385    30    129    00    
+
+  {"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.78,"ydop":1.45,"vdop":2.89,"tdop":1.81,"hdop":1.65,"gdop":3.79,"pdop":3.33,"satellites":[{"PRN":65,"el":33,"az":239,"ss":1,"used":false},{"PRN":66,"el":34,"az":307,"ss":24,"used":tru{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}cgps: caught signal 2
+# # cgps
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    Time:n/a³
+³    Latitude:   n/a³
+³    Longitude:  n/a³
+³    Altitude:   n/a³
+³    Speed:n/a³
+³    Heading:    n/a³
+³    Climb:n/a³
+³    Status:     NO FIX (0 secs)³
+³    GPS Type:³
+³    Longitude Err:   n/a³
+³    Latitude Err:    n/a³
+³    Altitude Err:    n/a³
+³    Course Err:n/a³
+³    Speed Err:n/a³
+³    Grid Square:     n/a³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³PRN:   Elev:  Azim:  SNR:  Used: ³³³³³³³³³³³³³³³³³³³³³³³³³³³³³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"
+8:27.738Z","flags":1,"driver":"Generic NMEA","native":0,"bps":115200,"parity":"N","stopbits":1,"cycle":1.00}]}{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"timing":false}2015-03-04T14:48:29.000Z 47.216368 N 38.933213 E37.7 ft0.0 ft/min3D1
+
++/- 38 ft+/- 71 ft+/- 75 ft+/- 97 mphKN97lf48:29.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx
+:11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"e
+tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:29.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":210.0 mph36.3 deg (true)0tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:29.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:29.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54}5    09    228    13N7    12    101    23N11    14    067    31N13    69    257    22N15    37    302    32N17    35    154    01N28    74    053    42N30    41    093    34N33    15    242    00N37    33    203    00N39    34    198    30N40    33    158    00N
+
+  e},{"PRN":74,"el":33,"az":70,"ss":22,"used":true},{"PRN":75,"el":65,"az":348,"ss":38,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":22,"used":true},{"PRN":84,"el":38,"az":67,"ss":24,"used":true},,{"PRN":33,"el":15,"az":242,"ss":0,"used":false},{"PRN":37,"el":33,"az":203,"ss":0,"used":false},{"PRN":39,"el":34,"az":198,"ss":30,"used":false},{"PRN":40,"el
+:33,"az":158,"ss":0,"used":false}]}65    33    239    01Y66    34    307    25Y74    33    070    22Y75    65    348    38Y76    24    284    00Y83    11    018    2284    38    067    2485    30    129    00    
+
+  {"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.78,"ydop":1.45,"vdop":2.89,"tdop":1.81,"hdop":1.65,"gdop":3.79,"pdop":3.33,"satellites":[{"PRN":65,"el":33,"az":239,"ss":1,"used":false},{"PRN":66,"el":34,"az":307,"ss":25,"used":tru{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}30n/a    n/a            1
+
+
+
+
+
+{"class":"TPV","tag":"GGA","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:30.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":23.000,"speed":0.000,"climb":0.000,"eps":43.54}0.0 mph36.3 deg (true)
+
+
+BS
+
+:5.400,"epy":11.400,"epv":10.200,"track":36.3000,"speed":0.000,"climb":0.000,"ep 5    09    228N 7    12    101N11    14    067    31N13    69    257    22N15    37    302    31N17    35    154    1828    74    053    4230    41    093    3433    15    242    00N37    33    203    01N39    34    198    00N40    33    158    00N
+
+  65    33    239Y66    34    307Y74    33    070    20Y75    65    348    37Y76    24    284    00Y83    11    018    2184    38    067    2485    30    129    00    
+
+  
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ4,"el":33,"az":70,"ss":20,"used":true},{"PRN":75,"el":65,"az":348,"ss":37,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":21,"used":true},{"PRN":84,"el":38,"az":67,"ss":24,"used":true},{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}17
+37
+33
+
+
+
+
+{"class":"TPV","tag":"GBS","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:30.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":5.400,"epy":11.400,"epv":10.200,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54}1n/a    n/a            2
+
+38
+71
+98
+
+74
+
+
+
+
+
+{"class":"TPV","tag":"GGA","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:31.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":29.900,"speed":0.000,"climb":0.000,"eps":33.17}0.0 mph36.3 deg (true)
+
+
+
+
+{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:31.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":29.900,"track":36.3000,"speed":0.000,"climb":0.000,"eps":33.17} 5    09    228N 7    12    101    26N11    14    067    3N13    69    257    19N15    37    302    32N17    35    154    028    74    053    4230    41    093    3433    15    242    00N37    33    203    00N39    34    198    00N40    33    158    01N
+
+  
+
+,{"PRN":11,"el":14,"az":67,"ss":30,"used":false},{"PRN":13,"el":69,"az":257,"ss":19,"used":false},{"PRN":15,"el":37,"az":302,"ss":32,"used":false},{"PRN":17,"el":35,"az":154,"ss":1,"used":false},{"PRN":28,"el":74,"az":53,"ss":42,"used":false},{"PRN":30,"el":41,"az":93,"ss":34,"used":false},{"PRN":33,"el":15,"az":242,"ss":0,"used":false},{"PRN":37,"el":33,"az":203,"ss":0,"used":false},{"PRN":39,"el":34,"az":198,"ss":0,"used":false},{"PRN":40,"el":33,"az":158,"ss":1,"used":false}]}65    33    239Y66    34    307Y74    33    070    21Y75    65    348    37Y76    24    284    00Y83    11    018    2384    38    067    2485    30    129    00    
+
+  
+
+{"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.78,"ydop":1.45,"vdop":2.89,"tdop":1.81,"hdop":1.65,"gdop":3.79,"pdop":3.33,"satellites":[65
+":33239663307,"ss":26,"used":tru74337021true},{"PRN":75,"el":65,"az":348,"s
+":37true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":23,"used":true},{"PRN":84,"el":38,"az":67,"ss":24,"used":true},{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}2n/a    n/a            3
+
+
+
+113 ft97
+
+
+
+
+
+{"class":"TPV","tag":"GGA","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:32.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":34.500,"speed":0.000,"climb":0.000,"eps":43.54}0.0 mph36.3 deg (true)
+
+
+
+
+{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:32.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":34.500,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54} 5    09    228N 7    12    101    28N11    14    067    3N13    69    257    23N15    37    302    32N17    35    154    0128    74    053    4230    41    093    3433    15    242    01N37    33    203    00N39    34    198    00N40    33    158    00N
+
+  
+
+ue},{"PRN":74,"el":33,"az":70,"ss":22,"used":true},{"PRN":75,"el":65,"az":348,"ss":37,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":20,"used":true},{"PRN":84,"el":38,"az":67,"ss":24,"used":true}
+"PRN":33,"el":15,"az":242,"ss":1,"used":false},{"PRN":37,"el":33,"az":203,"ss":0,"used":false},{"PRN":39,"el":34,"az":198,"ss":0,"used":false},{"PRN":40,"el":33,"az":158,"ss":0,"used":false}]}65    33    239    19Y66    34    307    26Y74    33    070    22Y75    65    348    37Y76    24    284    00Y83    11    018    2084    38    067    2485    30    129    00    
+
+  {"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.78,"ydop":1.45,"vdop":2.89,"tdop":1.81,"hdop":1.65,"gdop":3.79,"pdop":3.33,"satellites":[{"PRN":65,"el":33,"az":239,"ss":19,"used":false},{"PRN":66,"el":34,"az":307,"ss":26,"used":tr{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}3n/a    n/a            4
+
+
+
+90 ft {"class":"TPV","tag":"GGA","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:33.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":27.600,"speed":0.000,"climb":0.000,"eps":43.54}0.0 mph36.3 deg (true)
+
+
+
+
+{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:33.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.758,"epy":21.772,"epv":27.600,"track":36.3000,"speed":0.000,"climb":0.000,"eps":43.54} 5    09    228    01N 7    12    101    29N11    14    067    3N13    69    257    22N15    37    302    32N17    35    154    0228    74    053    4330    41    093    3433    15    242    00N37    33    203    01N39    34    198    00N40    33    158    00N
+
+  
+
+e},{"PRN":74,"el":33,"az":70,"ss":22,"used":true},{"PRN":75,"el":65,"az":348,"ss":38,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":21,"used":true},{"PRN":84,"el":38,"az":67,"ss":25,"used":true},
+{"PRN":33,"el":15,"az":242,"ss":0,"used":false},{"PRN":37,"el":33,"az":203,"ss":1,"used":false},{"PRN":39,"el":34,"az":198,"ss":0,"used":false},{"PRN":40,"el":33,"az":158,"ss":0,"used":false}]}65    33    239    19Y66    34    307    25Y74    33    070    2Y75    65    348    38Y76    24    284    00Y83    11    018    21Y84    38    067    2585    30    129    00    
+
+  {"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.76,"ydop":1.19,"vdop":2.03,"tdop":1.35,"hdop":1.41,"gdop":2.82,"pdop":2.47,"satellites":[{"PRN":65,"el":33,"az":239,"ss":19,"used":true},{"PRN":66,"el":34,"az":307,"ss":25,"used":tru{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}4n/a    n/a            5
+
+37
+58
+
+
+88
+
+
+
+
+
+{"class":"TPV","tag":"GGA","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:34.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.373,"epy":17.811,"epv":27.600,"speed":0.000,"climb":0.000,"eps":39.58}0.0 mph36.3 deg (true)
+
+
+
+
+{"class":"TPV","tag":"RMC","device":"/dev/ttyS2","mode":3,"time":"2015-03-04T14:48:34.000Z","ept":0.005,"lat":47.216368333,"lon":38.933213333,"alt":11.500,"epx":11.373,"epy":17.811,"epv":27.600,"track":36.3000,"speed":0.000,"climb":0.000,"eps":39.58} 5    09    228    01N 7    12    101    31N11    14    067    3N13    69    257    22N15    37    302    33N17    35    154    16N28    74    053    4230    41    093    3533    15    242    00N37    33    203    00N39    34    198    01N40    33    158    00N
+
+  
+
+,{"PRN":11,"el":14,"az":67,"ss":32,"used":false},{"PRN":13,"el":69,"az":257,"ss":22,"used":false},{"PRN":15,"el":37,"az":302,"ss":33,"used":false},{"PRN":17,"el":35,"az":154,"ss":16,"used":false},{"PRN":28,"el":74,"az":53,"ss":42,"used":false},{"PRN":30,"el":41,"az":93,"ss":35,"used":false},{"PRN":33,"el":15,"az":242,"ss":0,"used":false},{"PRN":37,"el":33,"az":203,"ss":0,"used":false},{"PRN":39,"el":34,"az":198,"ss":1,"used":false},{"PRN":40,"el":33,"az":158,"ss":0,"used":false}]}65    33    239    19Y66    34    307    26Y74    33    070    2Y75    65    348    38Y76    24    284    00Y83    11    018    22Y84    38    067    2585    30    129    00    
+
+  
+
+{"class":"SKY","tag":"GSV","device":"/dev/ttyS2","xdop":0.76,"ydop":1.19,"vdop":2.03,"tdop":1.35,"hdop":1.41,"gdop":2.82,"pdop":2.47,"satellites":[65
+":332399true},{"PRN":66,"el":34,"az":30726true},{"PRN":74,"el":33,"az":70,"ss":22,"used":true},{"PRN":75,"el":65,"az":348,"ss":38,"used":true},{"PRN":76,"el":24,"az":284,"ss":0,"used":false},{"PRN":83,"el":11,"az":18,"ss":22,"used":true},{"PRN":84,"el":38,"az":67,"ss":25,"used":true},{"PRN":85,"el":30,"az":129,"ss":0,"used":false}]}cgps: caught signal 2
+# asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+
+# 
+# ps ax
+PID   USER     TIME   COMMAND
+    1 root       0:01 init
+    2 root       0:00 [kthreadd]
+    3 root       0:05 [ksoftirqd/0]
+    5 root       0:00 [kworker/0:0H]
+    6 root       0:00 [kworker/u:0]
+    7 root       0:00 [kworker/u:0H]
+    8 root       0:00 [watchdog/0]
+    9 root       0:00 [khelper]
+  170 root       0:00 [bdi-default]
+  172 root       0:00 [kblockd]
+  193 root       0:00 [khubd]
+  296 root       0:00 [khungtaskd]
+  297 root       0:00 [kswapd0]
+  343 root       0:00 [fsnotify_mark]
+  347 root       0:00 [crypto]
+  364 root       0:07 [kworker/0:1]
+ 1066 root       0:00 [deferwq]
+ 1073 root       0:00 [kworker/u:3]
+ 1077 root       0:00 [yaffs-bg-1]
+ 1111 root       0:00 crond
+ 1113 root       0:00 watchdog -T 10 -t 5 /dev/watchdog
+ 1130 nobody     6:29 /usr/sbin/gpsd -N /dev/ttyS2
+ 1197 root       0:00 /opt/gsmmux-arm -h
+ 1207 root       0:00 /usr/sbin/pppd call gprs-megafon
+ 1215 root       0:32 /opt/cbclogger-arm /dev/gsmtty4
+ 1219 root       0:00 /opt/battery-arm -b -g
+ 1227 dbus       0:00 dbus-daemon --system
+ 1231 root       0:00 /opt/sysdaemon-arm
+ 1239 root       0:33 /opt/microhttpd
+ 1249 root       0:00 /usr/sbin/telnetd
+ 1261 root       0:00 vsftpd /etc/vsftpd.conf
+ 1263 root       0:00 /usr/sbin/atd -f
+ 1278 root       0:00 -sh
+ 1279 root       0:00 /sbin/syslogd -n -b 29 -s 200
+ 1280 root       0:00 /sbin/klogd -n
+ 1289 root       0:00 /opt/sender-arm -i 1 -k /opt/key.txt -l 50
+ 1292 root       0:37 /opt/gpsreader-arm -i 5
+ 1301 root       0:01 /usr/sbin/openvpn --daemon --writepid /var/run/openvpn.in
+ 1320 root       0:00 /usr/sbin/sshd
+ 2275 root       0:00 [kworker/0:0]
+ 2575 root       0:00 [flush-31:1]
+ 2578 root       0:00 sshd: root@notty
+ 3038 root       0:00 sh -c test -f /etc/profile && . /etc/profile;test -f $HOM
+ 3042 root       0:01 /opt/Qt-arm/gpsdpositionsource
+ 3055 root       0:00 ps ax
+# kill 3042
+# # kill 3042
+sh: can't kill pid 3042: No such process
+# asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad RX Length 1514
+asix 2-1:1.0 eth0: asix_rx_fixup() Bad Header Length

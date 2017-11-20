@@ -1,0 +1,12 @@
+ CTRL-A Z for help |115200 8N1 | NOR | Minicom 2.5    | VT102 | Online 00:00   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³    Leave Minicom?    ³³               No     ³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ   Yes  Press CTRL-A Z for help on special keys                                                                                                                                                                             ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³               ³³  Hanging up   ³³               ³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙPress CTRL-A Z for help on special keys                                                                                                                                                                                                                    Offline ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³                   ³³  Resetting Modem  ³³                   ³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙPress CTRL-A Z for help on special keys                                                                                                                                                                                                                        # cd /sys/kernel/indigo/gsm
+# ls
+EN_GSM              check_and_power_on  reset
+PWRkey              power_off           status
+STATUS_GSM          power_on
+# cat status
+off
+# echo on > status
+gsm: creating command 1
+# cat status
+off
+# usb 1-1: USB disconnect, device number 2

@@ -1,0 +1,3806 @@
+
+Password: 
+rLogin incorrect
+indigo-tracker login: root
+Password: 
+# 
+# 
+# cat /etc/rev# cat /etc/revision 
+c24e2869a70753c6584414a8a0f2b3435321171e
+# 
+# 
+# 
+# 
+# 
+# usb 2-1: new full-speed USB device number 2 using at91_ohci
+usb 2-1: not running at top speed; connect to a high speed hub
+scsi0 : usb-storage 2-1:1.0
+
+# 
+# scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+# ?????mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3                          nmea.log.txt
+R2898D89A2N018851545.rtf       root.tar
+b39da0b-c24e286.ready.tar.gz   rootfs-boot-to-initrd.bin
+battery                        run-all.sh
+battery.cpp                    run-kernel.sh
+bootstrap.bin                  run-uboot.sh
+efl-final-rotate               run.sh
+kernel-old.bin                 sam-ba_2.11.zip
+kernel.bin                     samba-full.bat
+microhttpd                     u-boot.bin
+nandflash_at91sam9g45ekes.bin  volatile.tar
+# cp b3# cp b39da0b-c24e286.ready.tar.gz /opt
+# cd /opt
+# watch ls
+Every 2s: ls                                                2013-09-24 10:26:42
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:44
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:46
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:48
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:50
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:53
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:55
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:57
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:26:59
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:27:01
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:27:03
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:05
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:07
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:09
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:11
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:13
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:15
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:17
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:27:19
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+
+# reboot
+# Restarting system.þStart AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1719872 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #283 Wed Sep 11 18:20:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0416e44   (4156 kB)
+      .init : 0xc0417000 - 0xc043bd9c   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a4a0   ( 250 kB)
+       .bss : 0xc047a4a0 - 0xc0492c08   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fcab8 - 0x702fcaf4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+tried to power on device with status pin 1indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 617 at 0x000004d20000
+Bad eraseblock 979 at 0x000007a60000
+Bad eraseblock 1047 at 0x0000082e0000
+Bad eraseblock 1425 at 0x00000b220000
+Bad eraseblock 1595 at 0x00000c760000
+Bad eraseblock 1814 at 0x00000e2c0000
+Bad eraseblock 1851 at 0x00000e760000
+Bad eraseblock 1995 at 0x00000f960000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-1: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+scsi0 : usb-storage 1-1:1.0
+AC'97 0 does not respond - RESET
+AC'97 0 access is not valid [0xffffffff], removing mixer.
+atmel_ac97c: probe of atmel_ac97c.0 failed with error -5
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  No soundcards found.
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 9
+indigo-tracker login: root
+Password: 
+# ls /dev/videoaudio(*
+ls: /dev/audio*: No such file or directory
+# retelnet localhost 8888
+GET / HTTP
+Console escape. Commands are:
+
+ l	go to line mode
+ c	go to character mode
+ z	suspend telnet
+ e	exit telnet
+# 
+# # telnet localhost 8888
+GET /status HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 675
+Date: Tue, 24 Sep 2013 06:29:30 GMT
+
+Linux indigo-tracker 3.8.13+ #283 Wed Sep 11 18:20:25 MSK 2013 armv5tejl GNU/Linux
+<br/> 10:29:29 up 1 min, load average: 2.10, 0.79, 0.28
+<br/>Running on DC power
+<br/>Filesystem                Size      Used Available Use% Mounted on
+<br/>/dev/root               224.0M     51.0M    173.0M  23% /
+<br/>No antenna
+<br/>root b39da0bac37618f34aafad19aacd914ed2302676
+<br/>GNSS: NO<br/>
+             total         used         free       shared      buffers
+<br/>Mem:            58           31           27            0            0
+<br/>-/+ buffers:                 31           27
+<br/>Swap:           29            0           29
+<br/>/dev/sda
+<br/>/dev/sda1
+<br/>END
+<br/>Connection closed by foreign host
+# reboot
+# Restarting system.þStart AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1719872 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #283 Wed Sep 11 18:20:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0416e44   (4156 kB)
+      .init : 0xc0417000 - 0xc043bd9c   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a4a0   ( 250 kB)
+       .bss : 0xc047a4a0 - 0xc0492c08   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fcab8 - 0x702fcaf4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+tried to power on device with status pin 1indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 617 at 0x000004d20000
+Bad eraseblock 979 at 0x000007a60000
+Bad eraseblock 1047 at 0x0000082e0000
+Bad eraseblock 1425 at 0x00000b220000
+Bad eraseblock 1595 at 0x00000c760000
+Bad eraseblock 1814 at 0x00000e2c0000
+Bad eraseblock 1851 at 0x00000e760000
+Bad eraseblock 1995 at 0x00000f960000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-1: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+scsi0 : usb-storage 1-1:1.0
+AC'97 0 does not respond - RESET
+AC'97 0 access is not valid [0xffffffff], removing mixer.
+atmel_ac97c: probe of atmel_ac97c.0 failed with error -5
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  No soundcards found.
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 9
+indigo-tracker login: root
+Password: 
+# usb 1-1: USB disconnect, device number 2
+Start AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717184 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #280 Mon Aug 19 13:05:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 94 at 0x000000bc0000
+Bad eraseblock 116 at 0x000000e80000
+Bad eraseblock 184 at 0x000001700000
+Bad eraseblock 190 at 0x0000017c0000
+Bad eraseblock 403 at 0x000003260000
+Bad eraseblock 965 at 0x0000078a0000
+Bad eraseblock 1021 at 0x000007fa0000
+Bad eraseblock 1145 at 0x000008f20000
+Bad eraseblock 1300 at 0x00000a280000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 73
+indigo-tracker login: root
+Password: 
+# mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+mount: mounting /dev/sda1 on /mnt/mmcblk0p1/ failed: No such file or directory
+# usb 1-1: new high-speed USB device number 2 using atmel-ehci
+scsi0 : usb-storage 1-1:1.0
+
+# scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+
+# sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+# # mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# 
+# 
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3                          nmea.log.txt
+R2898D89A2N018851545.rtf       root.tar
+b39da0b-c24e286.ready.tar.gz   rootfs-boot-to-initrd.bin
+battery                        run-all.sh
+battery.cpp                    run-kernel.sh
+bootstrap.bin                  run-uboot.sh
+efl-final-rotate               run.sh
+kernel-old.bin                 sam-ba_2.11.zip
+kernel.bin                     samba-full.bat
+microhttpd                     u-boot.bin
+nandflash_at91sam9g45ekes.bin  volatile.tar
+# cp b3# cp b39da0b-c24e286.ready.tar.gz /opt
+# wcat /etc/re# cat /etc/re
+cat: can't open '/etc/re': No such file or directory
+# # cat /etc/rev# cat /etc/revision 
+c24e2869a70753c6584414a8a0f2b3435321171e
+# cd /opt
+# watch ls
+Every 2s: ls                                                1970-01-01 03:01:22
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:24
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:26
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:28
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:31
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:33
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:35
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:37
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:39
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:41
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:43
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:45
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:47
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:49
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:51
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:53
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:55
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:57
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:01:59
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:02:01
+
+b39da0b-c24e286               modbus-relay
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+microhttpd                    sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+Every 2s: ls                                                1970-01-01 03:02:03
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:05
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:07
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:09
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:11
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:13
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:15
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:18
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:20
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:22
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:24
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:26
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                1970-01-01 03:02:28
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+
+# reboot
+# Restarting system.
+Start AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717184 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #280 Mon Aug 19 13:05:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 94 at 0x000000bc0000
+Bad eraseblock 116 at 0x000000e80000
+Bad eraseblock 184 at 0x000001700000
+Bad eraseblock 190 at 0x0000017c0000
+Bad eraseblock 403 at 0x000003260000
+Bad eraseblock 965 at 0x0000078a0000
+Bad eraseblock 1021 at 0x000007fa0000
+Bad eraseblock 1145 at 0x000008f20000
+Bad eraseblock 1300 at 0x00000a280000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-1: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+scsi0 : usb-storage 1-1:1.0
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 73
+indigo-tracker login: root
+Password: 
+# 
+# telnet localhost 8888
+GET /status HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 675
+Date: Tue, 24 Sep 2013 06:36:42 GMT
+
+Linux indigo-tracker 3.8.13+ #280 Mon Aug 19 13:05:25 MSK 2013 armv5tejl GNU/Linux
+<br/> 10:36:41 up 2 min, load average: 2.34, 1.22, 0.48
+<br/>Running on DC power
+<br/>Filesystem                Size      Used Available Use% Mounted on
+<br/>/dev/root               224.0M     50.5M    173.5M  23% /
+<br/>No antenna
+<br/>root b39da0bac37618f34aafad19aacd914ed2302676
+<br/>GNSS: NO<br/>
+             total         used         free       shared      buffers
+<br/>Mem:            58           32           26            0            0
+<br/>-/+ buffers:                 32           26
+<br/>Swap:           29            0           29
+<br/>/dev/sda
+<br/>/dev/sda1
+<br/>END
+<br/>Connection closed by foreign host
+# umount /mnt/mm# umount /mnt/mmcblk0p1/
+umount: can't umount /mnt/mmcblk0p1/: Invalid argument
+# usb 1-1: USB disconnect, device number 2
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717184 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #280 Mon Aug 19 13:05:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 861 at 0x000006ba0000
+Bad eraseblock 1137 at 0x000008e20000
+Bad eraseblock 1871 at 0x00000e9e0000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 42
+indigo-tracker login: root
+Password: 
+# cat /etc/rev# cat /etc/revision 
+c24e2869a70753c6584414a8a0f2b3435321171e
+# usb 2-1: new full-speed USB device number 2 using at91_ohci
+usb 2-1: not running at top speed; connect to a high speed hub
+scsi0 : usb-storage 2-1:1.0
+
+# 
+# moscsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+usd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+nt -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3                          nmea.log.txt
+R2898D89A2N018851545.rtf       root.tar
+b39da0b-c24e286.ready.tar.gz   rootfs-boot-to-initrd.bin
+battery                        run-all.sh
+battery.cpp                    run-kernel.sh
+bootstrap.bin                  run-uboot.sh
+efl-final-rotate               run.sh
+kernel-old.bin                 sam-ba_2.11.zip
+kernel.bin                     samba-full.bat
+microhttpd                     u-boot.bin
+nandflash_at91sam9g45ekes.bin  volatile.tar
+# cp b3# cp b39da0b-c24e286.ready.tar.gz /opt
+# cd /opt
+# watch ls
+Every 2s: ls                                                1970-01-01 03:00:55
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:16
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:18
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:20
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:22
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:24
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:26
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:29
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:31
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:33
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:35
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:37
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:39
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:41
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:43
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:45
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:47
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:49
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:51
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:53
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:55
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:57
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:38:59
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:39:01
+
+b39da0b-c24e286               modbus-relay
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:39:03
+
+b39da0b-c24e286.installed  modbus-relay
+battery-arm                modbus-tester
+can                        output_file.so
+cbclogger-arm              output_http.so
+debug-sample-0A.txt        people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+
+# reboot
+# Restarting system.þStart AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717184 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #280 Mon Aug 19 13:05:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 861 at 0x000006ba0000
+Bad eraseblock 1137 at 0x000008e20000
+Bad eraseblock 1871 at 0x00000e9e0000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-1: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+scsi0 : usb-storage 1-1:1.0
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 42
+indigo-tracker login: root
+Password: 
+# telnet localhost 8888
+GET /status HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 675
+Date: Tue, 24 Sep 2013 06:40:31 GMT
+
+Linux indigo-tracker 3.8.13+ #280 Mon Aug 19 13:05:25 MSK 2013 armv5tejl GNU/Linux
+<br/> 10:40:30 up 1 min, load average: 1.77, 0.52, 0.18
+<br/>Running on DC power
+<br/>Filesystem                Size      Used Available Use% Mounted on
+<br/>/dev/root               224.0M     64.7M    159.3M  29% /
+<br/>No antenna
+<br/>root b39da0bac37618f34aafad19aacd914ed2302676
+<br/>GNSS: NO<br/>
+             total         used         free       shared      buffers
+<br/>Mem:            58           31           27            0            0
+<br/>-/+ buffers:                 31           27
+<br/>Swap:           29            0           29
+<br/>/dev/sda
+<br/>/dev/sda1
+<br/>END
+<br/>Connection closed by foreign host
+# usb 1-1: USB disconnect, device number 2
+Start AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717184 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #280 Mon Aug 19 13:05:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 120 at 0x000000f00000
+Bad eraseblock 708 at 0x000005880000
+Bad eraseblock 1269 at 0x000009ea0000
+Bad eraseblock 1628 at 0x00000cb80000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 39
+indigo-tracker login: root
+Password: 
+# cat /etc/rev# cat /etc/revision 
+c24e2869a70753c6584414a8a0f2b3435321171e
+# usb 1-2: new high-speed USB device number 2 using atmel-ehci
+scsi0 : usb-storage 1-2:1.0
+
+# 
+# ifconscsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+fsd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+i sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+g
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:38 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:38 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:3642 (3.5 KiB)  TX bytes:3642 (3.5 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.178.3.129  P-t-P:192.200.1.21  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:32 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:38 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:3061 (2.9 KiB)  TX bytes:2395 (2.3 KiB)
+
+# 
+# 
+# cd mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3                          nmea.log.txt
+R2898D89A2N018851545.rtf       root.tar
+b39da0b-c24e286.ready.tar.gz   rootfs-boot-to-initrd.bin
+battery                        run-all.sh
+battery.cpp                    run-kernel.sh
+bootstrap.bin                  run-uboot.sh
+efl-final-rotate               run.sh
+kernel-old.bin                 sam-ba_2.11.zip
+kernel.bin                     samba-full.bat
+microhttpd                     u-boot.bin
+nandflash_at91sam9g45ekes.bin  volatile.tar
+# cp b3# cp b39da0b-c24e286.ready.tar.gz /opt
+# cd /opt
+# atchwatch ls
+Every 2s: ls                                                2013-09-24 10:42:50
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:42:52
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:42:54
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:42:56
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:42:58
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:43:00
+
+b39da0b-c24e286.ready.tar.gz  modbus-tester
+battery-arm                   output_file.so
+can                           output_http.so
+cbclogger-arm                 people-arm
+events.db                     recorder-arm
+feel-arm                      relay
+gps.db                        ridership.db
+gpsreader-arm                 rs485-tester
+gsmmux-arm                    samplecollector-arm
+input_uvc.so                  samples
+key.txt                       script_events.sql
+lcd                           script_gps.sql
+logitech.xml                  script_logging.sql
+logs.db                       script_people.sql
+mjpeg                         sender-arm
+mjpg_streamer                 syncher.sh
+modbus-relay                  sysdaemon-arm
+Every 2s: ls                                                2013-09-24 10:43:02
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:04
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:06
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:08
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:11
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:13
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:15
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:17
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:19
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:21
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+Every 2s: ls                                                2013-09-24 10:43:23
+
+b39da0b-c24e286.installed  modbus-tester
+battery-arm                output_file.so
+can                        output_http.so
+cbclogger-arm              people-arm
+events.db                  recorder-arm
+feel-arm                   relay
+gps.db                     ridership.db
+gpsreader-arm              rs485-tester
+gsmmux-arm                 samplecollector-arm
+input_uvc.so               samples
+key.txt                    script_events.sql
+lcd                        script_gps.sql
+logitech.xml               script_logging.sql
+logs.db                    script_people.sql
+microhttpd                 sender-arm
+mjpeg                      syncher.sh
+mjpg_streamer              sysdaemon-arm
+modbus-relay
+
+# reboot
+# Restarting system.þStart AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717184 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #280 Mon Aug 19 13:05:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 120 at 0x000000f00000
+Bad eraseblock 708 at 0x000005880000
+Bad eraseblock 1269 at 0x000009ea0000
+Bad eraseblock 1628 at 0x00000cb80000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-2: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+scsi0 : usb-storage 1-2:1.0
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 39
+indigo-tracker login: root
+Password: 
+# mount -t vfat /devgtelnet localhost 8888
+GET /status HTTP/1.1
+
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 675
+Date: Tue, 24 Sep 2013 06:44:29 GMT
+
+Linux indigo-tracker 3.8.13+ #280 Mon Aug 19 13:05:25 MSK 2013 armv5tejl GNU/Linux
+<br/> 10:44:28 up 0 min, load average: 1.44, 0.39, 0.13
+<br/>Running on DC power
+<br/>Filesystem                Size      Used Available Use% Mounted on
+<br/>/dev/root               224.0M     50.3M    173.7M  22% /
+<br/>No antenna
+<br/>root b39da0bac37618f34aafad19aacd914ed2302676
+<br/>GNSS: NO<br/>
+             total         used         free       shared      buffers
+<br/>Mem:            58           30           28            0            0
+<br/>-/+ buffers:                 30           28
+<br/>Swap:           29            0           29
+<br/>/dev/sda
+<br/>/dev/sda1
+<br/>END
+<br/>Connection closed by foreign host
+# usb 1-2: USB disconnect, device number 2
+

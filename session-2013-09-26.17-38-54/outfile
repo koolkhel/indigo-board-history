@@ -1,0 +1,932 @@
+
+Indigo Device_2_2 13
+indigo-tracker login: 
+Indigo Device_2_2 13
+indigo-tracker login: 
+Indigo Device_2_2 13
+indigo-tracker login: 
+Password: 
+
+Login incorrect
+indigo-tracker login: root
+Password: 
+# cat /etc/issue
+Indigo Device_2_2 53
+# 
+# 
+# cgps
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    Time:n/a³
+³    Latitude:   n/a³
+³    Longitude:  n/a³
+³    Altitude:   n/a³
+³    Speed:n/a³
+³    Heading:    n/a³
+³    Climb:n/a³
+³    Status:     NO FIX (0 secs)³
+³    GPS Type:³
+³    Longitude Err:   n/a³
+³    Latitude Err:    n/a³
+³    Altitude Err:    n/a³
+³    Course Err:n/a³
+³    Speed Err:n/a³
+³    Grid Square:     n/a³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³PRN:   Elev:  Azim:  SNR:  Used: ³³³³³³³³³³³³³³³³³³³³³³³³³³³³³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"
+9:23.699Z","flags":1,"driver":"Generic NMEA","native":0,"bps":115200,"parity":"N","stopbits":1,"cycle":1.00}]}{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"timing":false}cgps: caught signal 2
+# cat </dev/ttyS2
+$GPGGA,133929.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*53
+$GPRMC,133929.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*44
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGBS,133929.68,,,,,,,*62
+$GPGGA,133930.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5B
+$GPRMC,133930.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4C
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,133931.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5A
+$GPRMC,133931.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4D
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,133932.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*59
+$GPRMC,133932.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4E
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+)ÊÊrÊR’5
+$GPGGA,133933.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*58
+
+$GPRMC,133933.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4F
+
+$GPGSV,1,1,00*79
+
+$GLGSV,1,1,00*65
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$PORZD,V,999.9*2B
+
+$GPGGA,133934.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5F
+
+$GPRMC,133934.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*48
+
+$GPGSV,1,1,00*79
+
+$GLGSV,1,1,00*65
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$PORZD,V,999.9*2B
+
+$GPGGA,133935.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5E
+
+$GPRMC,133935.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*49
+
+$GPGSV,1,1,00*79
+
+$GLGSV,1,1,00*65
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$PORZD,V,999.9*2B
+
+$GPGGA,133936.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5D
+
+$GPRMC,133936.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4A
+
+$GPGSV,1,1,00*79
+
+$GLGSV,1,1,00*65
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$PORZD,V,999.9*2B
+
+$GPGGA,133937.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5C
+
+$GPRMC,133937.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4B
+
+$GPGSV,1,1,00*79
+
+$GLGSV,1,1,00*65
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$PORZD,V,999.9*2B
+
+$GPGGA,133938.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*53
+
+$GPRMC,133938.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*44
+
+$GPGSV,1,1,00*79
+
+$GLGSV,1,1,00*65
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$PORZD,V,999.9*2B
+
+
+# cgps
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    Time:n/a³
+³    Latitude:   n/a³
+³    Longitude:  n/a³
+³    Altitude:   n/a³
+³    Speed:n/a³
+³    Heading:    n/a³
+³    Climb:n/a³
+³    Status:     NO FIX (0 secs)³
+³    GPS Type:³
+³    Longitude Err:   n/a³
+³    Latitude Err:    n/a³
+³    Altitude Err:    n/a³
+³    Course Err:n/a³
+³    Speed Err:n/a³
+³    Grid Square:     n/a³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³PRN:   Elev:  Azim:  SNR:  Used: ³³³³³³³³³³³³³³³³³³³³³³³³³³³³³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ{"class":"VERSION","release":"3.2~dev","rev":"release-3.1-58-gbca8366","proto_major":3,"proto_minor":6}cgps: GPS timeout
+# cat </devtest_gns# test_gnss_antenna.sh 
+Got antenna
+# test_acc# test_accelerometer.sh 
+(0,-54,1170)
+(0,-54,1152)
+(0,-54,1170)
+(0,-54,1152)
+(0,-54,1170)
+
+# test_gy# test_gyro.sh 
+in_anglvel_x_raw
+15878
+in_anglvel_y_raw
+-5250
+in_anglvel_z_raw
+-1050
+
+# test_can_sen# test_can_send.sh 
+mcp251x spi1.0: CNF: 0x01 0xb5 0x01
+
+# cgps
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    Time:n/a³
+³    Latitude:   n/a³
+³    Longitude:  n/a³
+³    Altitude:   n/a³
+³    Speed:n/a³
+³    Heading:    n/a³
+³    Climb:n/a³
+³    Status:     NO FIX (0 secs)³
+³    GPS Type:³
+³    Longitude Err:   n/a³
+³    Latitude Err:    n/a³
+³    Altitude Err:    n/a³
+³    Course Err:n/a³
+³    Speed Err:n/a³
+³    Grid Square:     n/a³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿³PRN:   Elev:  Azim:  SNR:  Used: ³³³³³³³³³³³³³³³³³³³³³³³³³³³³³ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"
+0:38.702Z","flags":1,"driver":"Generic NMEA","native":0,"bps":115200,"parity":"N","stopbits":1,"cycle":1.00}]}{"class":"WATCH","enable":true,"json":true,"nmea":false,"raw":0,"scaled":false,"timing":false}cgps: caught signal 2
+# cat </dev/tty2S2
+$GPGGA,134045.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*57
+$GPRMC,134045.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*40
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+
+# ls /dev/audio
+/dev/audio
+# usb 1-2: new high-speed USB device number 2 using atmel-ehci
+scsi0 : usb-storage 1-2:1.0
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+-sh: ???: not found
+# 
+# 
+# ls
+minicom.log    updates_ready
+# madpmount -t vsdvfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd/ mnt/mm
+-sh: cd/: not found
+# lcd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3
+3ae20e5-c24e286-libcurl-efl-final.loading.tar.gz
+R2898D89A2N018851545.rtf
+b39da0b-c24e286.ready.tar.gz
+b39da0b-c6ffbd4-battery-and-remote-monitor.loading.tar.gz
+battery
+battery.cpp
+bootstrap.bin
+c6ffbd4-3ae20e5-cron-pppd-nighttime.loading.tar.gz
+debug
+efl-final-rotate
+kernel-old.bin
+kernel.bin
+microhttpd
+nandflash_at91sam9g45ekes.bin
+nmea.log.txt
+root.tar
+rootfs-boot-to-initrd.bin
+run-all.sh
+run-kernel.sh
+run-uboot.sh
+run.sh
+sam-ba_2.11.zip
+samba-full.bat
+u-boot.bin
+volatile.tar
+# madplay 1.mp3
+MPEG Audio Decoder 0.15.2 (beta) - Copyright (C) 2000-2004 Robert Leslie et al.
+          Title: Satisfaction
+         Artist: BennyBenassi The Biz
+      Orchestra: BennyBenassi The Biz
+          Album: Hypnotica
+          Track: 1/14
+           Year: 2003
+          Genre: House
+        Comment: EAC V0.99 prebeta 4, Secure Mode, Test & Copy, AccurateRip,
+                 FLAC -8
+
+# cd /
+# tecat </dev/ttyS2
+$GPGGA,134227.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*51
+$GPRMC,134227.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*46
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134228.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5E
+$GPRMC,134228.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*49
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134229.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5F
+$GPRMC,134229.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*48
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGBS,134229.68,,,,,,,*6E
+$GPGGA,134230.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*57
+$GPRMC,134230.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*40
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134231.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*56
+$GPRMC,134231.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*41
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134232.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*55
+$GPRMC,134232.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*42
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134233.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*54
+$GPRMC,134233.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*43
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134234.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*53
+$GPRMC,134234.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*44
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134235.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*52
+$GPRMC,134235.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*45
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134236.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*51
+$GPRMC,134236.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*46
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134237.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*50
+$GPRMC,134237.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*47
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134238.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5F
+$GPRMC,134238.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*48
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134239.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*5E
+$GPRMC,134239.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*49
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGBS,134239.68,,,,,,,*6F
+$GPGGA,134240.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*50
+$GPRMC,134240.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*47
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134241.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*51
+$GPRMC,134241.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*46
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134242.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*52
+$GPRMC,134242.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*45
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134243.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*53
+$GPRMC,134243.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*44
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134244.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*54
+$GPRMC,134244.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*43
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134245.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*55
+$GPRMC,134245.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*42
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134246.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*56
+$GPRMC,134246.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*41
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134247.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*57
+$GPRMC,134247.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*40
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134248.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*58
+$GPRMC,134248.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4F
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134249.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*59
+$GPRMC,134249.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4E
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGBS,134249.68,,,,,,,*68
+$GPGGA,134250.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*51
+$GPRMC,134250.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*46
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134251.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*50
+$GPRMC,134251.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*47
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134252.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*53
+$GPRMC,134252.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*44
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134253.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*52
+$GPRMC,134253.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*45
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134254.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*55
+$GPRMC,134254.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*42
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+usb 1-2: USB disconnect, device number 3
+$GPGGA,134255.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*54
+$GPRMC,134255.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*43
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134256.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*57
+$GPRMC,134256.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*40
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134257.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*56
+$GPRMC,134257.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*41
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134258.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*59
+$GPRMC,134258.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4E
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134259.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*58
+$GPRMC,134259.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*4F
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGBS,134259.68,,,,,,,*69
+$GPGGA,134300.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*55
+$GPRMC,134300.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*42
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+$GPGGA,134301.68,0000.0000,N,00000.0000,E,0,,,-18.0,M,18.0,M,,*54
+$GPRMC,134301.68,V,0000.0000,N,00000.0000,E,00.00,000.0,260913,,,N*43
+$GPGSV,1,1,00*79
+$GLGSV,1,1,00*65
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$PORZD,V,999.9*2B
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  0 
+U-Boot> boot
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1717440 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #279 Thu Aug 15 16:29:21 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0415d9c   (4152 kB)
+      .init : 0xc0416000 - 0xc043acc4   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a3e0   ( 249 kB)
+       .bss : 0xc047a3e0 - 0xc0492b28   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fb788 - 0x702fb7c4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 712 at 0x000005900000
+Bad eraseblock 767 at 0x000005fe0000
+Bad eraseblock 1223 at 0x0000098e0000
+Bad eraseblock 1626 at 0x00000cb40000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 17
+indigo-tracker login: root
+Password: 
+# mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+mount: mounting /dev/sda1 on /mnt/mmcblk0p1/ failed: No such file or directory
+# usb 1-2: new high-speed USB device number 2 using atmel-ehci
+scsi0 : usb-storage 1-2:1.0
+
+# 
+# scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+
+# sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+# 
+# mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/m# cd /mnt/mmcblk0p1/
+# ls
+1.mp3
+3ae20e5-c24e286-libcurl-efl-final.loading.tar.gz
+R2898D89A2N018851545.rtf
+b39da0b-c24e286.ready.tar.gz
+b39da0b-c6ffbd4-battery-and-remote-monitor.loading.tar.gz
+battery
+battery.cpp
+bootstrap.bin
+c6ffbd4-3ae20e5-cron-pppd-nighttime.loading.tar.gz
+debug
+efl-final-rotate
+kernel-old.bin
+kernel.bin
+microhttpd
+nandflash_at91sam9g45ekes.bin
+nmea.log.txt
+root.tar
+rootfs-boot-to-initrd.bin
+run-all.sh
+run-kernel.sh
+run-uboot.sh
+run.sh
+sam-ba_2.11.zip
+samba-full.bat
+u-boot.bin
+volatile.tar
+# madplls /dev/audio*
+/dev/audio
+# mplayer adplay 1.mp3
+MPEG Audio Decoder 0.15.2 (beta) - Copyright (C) 2000-2004 Robert Leslie et al.
+          Title: Satisfaction
+         Artist: BennyBenassi The Biz
+      Orchestra: BennyBenassi The Biz
+          Album: Hypnotica
+          Track: 1/14
+           Year: 2003
+          Genre: House
+        Comment: EAC V0.99 prebeta 4, Secure Mode, Test & Copy, AccurateRip,
+                 FLAC -8
+
+# In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1719872 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #283 Wed Sep 11 18:20:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0416e44   (4156 kB)
+      .init : 0xc0417000 - 0xc043bd9c   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a4a0   ( 250 kB)
+       .bss : 0xc047a4a0 - 0xc0492c08   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fcab8 - 0x702fcaf4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 617 at 0x000004d20000
+Bad eraseblock 979 at 0x000007a60000
+Bad eraseblock 1047 at 0x0000082e0000
+Bad eraseblock 1425 at 0x00000b220000
+Bad eraseblock 1595 at 0x00000c760000
+Bad eraseblock 1814 at 0x00000e2c0000
+Bad eraseblock 1851 at 0x00000e760000
+Bad eraseblock 1995 at 0x00000f960000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+usb 2-2: new full-speed USB device number 2 using at91_ohci
+usb 2-2: not running at top speed; connect to a high speed hub
+scsi0 : usb-storage 2-2:1.0
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+gps: creating command 4
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+Indigo Device_2_2 9
+indigo-tracker login: 

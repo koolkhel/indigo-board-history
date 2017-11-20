@@ -1,0 +1,24 @@
+
+Indigo Device_2_2 13
+indigo-tracker login: 
+Indigo Device_2_2 13
+indigo-tracker login: root
+Password: 
+# ping 192.168.17.120
+PING 192.168.17.20 (192.168.17.20): 56 data bytes
+
+--- 192.168.17.20 ping statistics ---
+1 packets transmitted, 0 packets received, 100% packet loss
+# 
+# # ping 192.168.17.20
+PING 192.168.17.20 (192.168.17.20): 56 data bytes
+64 bytes from 192.168.17.20: seq=0 ttl=128 time=1.531 ms
+64 bytes from 192.168.17.20: seq=1 ttl=128 time=0.792 ms
+64 bytes from 192.168.17.20: seq=2 ttl=128 time=0.629 ms
+64 bytes from 192.168.17.20: seq=3 ttl=128 time=0.699 ms
+64 bytes from 192.168.17.20: seq=4 ttl=128 time=0.677 ms
+
+--- 192.168.17.20 ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 0.629/0.865/1.531 ms
+# 

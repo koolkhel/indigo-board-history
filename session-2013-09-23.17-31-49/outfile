@@ -1,0 +1,920 @@
+
+Password: 
+
+Login incorrect
+indigo-tracker login: root
+Password: 
+# cat /etc/re# cat /etc/re
+cat: can't open '/etc/re': No such file or directory
+# # cat /etc/rev# cat /etc/revision 
+root dc9c3c37bf8f9c416f8201330f3779e408cbe2df
+# usb 2-2: new full-speed USB device number 2 using at91_ohci
+usb 2-2: not running at top speed; connect to a high speed hub
+scsi0 : usb-storage 2-2:1.0
+
+# scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+
+# sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+
+# mount -t vfat /dev/sda1 /mnt/mm# mount -t vfat /dev/sda1 /mnt/mmcblk0p1/
+FAT-fs (sda1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+# cd /mnt/mm# cd /mnt/mmcblk0p1/
+# ls
+1.mp3                          nmea.log.txt
+R2898D89A2N018851545.rtf       root.tar
+b39da0b-dc9c3c3.ready.tar.gz   rootfs-boot-to-initrd.bin
+battery                        run-all.sh
+battery.cpp                    run-kernel.sh
+bootstrap.bin                  run-uboot.sh
+efl-final-rotate               run.sh
+kernel-old.bin                 sam-ba_2.11.zip
+kernel.bin                     samba-full.bat
+microhttpd                     u-boot.bin
+nandflash_at91sam9g45ekes.bin  volatile.tar
+# cp b39# cp b39da0b-dc9c3c3.ready.tar.gz /opt
+# cd /otpt
+# watch ls
+Every 2s: ls                                                2013-09-23 17:32:54
+
+b39da0b-dc9c3c3.ready.tar.gz  modbus-relay
+battery-arm                   modbus-tester
+can                           output_file.so
+cbclogger-arm                 output_http.so
+dc9c3c3-c24e286.installed     people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+Every 2s: ls                                                2013-09-23 17:32:56
+
+b39da0b-dc9c3c3.ready.tar.gz  modbus-relay
+battery-arm                   modbus-tester
+can                           output_file.so
+cbclogger-arm                 output_http.so
+dc9c3c3-c24e286.installed     people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+Every 2s: ls                                                2013-09-23 17:32:58
+
+b39da0b-dc9c3c3.ready.tar.gz  modbus-relay
+battery-arm                   modbus-tester
+can                           output_file.so
+cbclogger-arm                 output_http.so
+dc9c3c3-c24e286.installed     people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+Every 2s: ls                                                2013-09-23 17:33:00
+
+b39da0b-dc9c3c3.ready.tar.gz  modbus-relay
+battery-arm                   modbus-tester
+can                           output_file.so
+cbclogger-arm                 output_http.so
+dc9c3c3-c24e286.installed     people-arm
+debug-sample-0A.txt           recorder-arm
+events.db                     relay
+feel-arm                      ridership.db
+gps.db                        rs485-tester
+gpsreader-arm                 samplecollector-arm
+gsmmux-arm                    samples
+input_uvc.so                  script_events.sql
+key.txt                       script_gps.sql
+lcd                           script_logging.sql
+logitech.xml                  script_people.sql
+logs.db                       sender-arm
+mjpeg                         syncher.sh
+mjpg_streamer                 sysdaemon-arm
+Every 2s: ls                                                2013-09-23 17:33:02
+
+b39da0b-dc9c3c3.installed  modbus-relay
+battery-arm                modbus-tester
+can                        output_file.so
+cbclogger-arm              output_http.so
+dc9c3c3-c24e286.installed  people-arm
+debug-sample-0A.txt        recorder-arm
+events.db                  relay
+feel-arm                   ridership.db
+gps.db                     rs485-tester
+gpsreader-arm              samplecollector-arm
+gsmmux-arm                 samples
+input_uvc.so               script_events.sql
+key.txt                    script_gps.sql
+lcd                        script_logging.sql
+logitech.xml               script_people.sql
+logs.db                    sender-arm
+microhttpd                 syncher.sh
+mjpeg                      sysdaemon-arm
+mjpg_streamer
+Every 2s: ls                                                2013-09-23 17:33:04
+
+b39da0b-dc9c3c3.installed  modbus-relay
+battery-arm                modbus-tester
+can                        output_file.so
+cbclogger-arm              output_http.so
+dc9c3c3-c24e286.installed  people-arm
+debug-sample-0A.txt        recorder-arm
+events.db                  relay
+feel-arm                   ridership.db
+gps.db                     rs485-tester
+gpsreader-arm              samplecollector-arm
+gsmmux-arm                 samples
+input_uvc.so               script_events.sql
+key.txt                    script_gps.sql
+lcd                        script_logging.sql
+logitech.xml               script_people.sql
+logs.db                    sender-arm
+microhttpd                 syncher.sh
+mjpeg                      sysdaemon-arm
+mjpg_streamer
+Every 2s: ls                                                2013-09-23 17:33:06
+
+b39da0b-dc9c3c3.installed  modbus-relay
+battery-arm                modbus-tester
+can                        output_file.so
+cbclogger-arm              output_http.so
+dc9c3c3-c24e286.installed  people-arm
+debug-sample-0A.txt        recorder-arm
+events.db                  relay
+feel-arm                   ridership.db
+gps.db                     rs485-tester
+gpsreader-arm              samplecollector-arm
+gsmmux-arm                 samples
+input_uvc.so               script_events.sql
+key.txt                    script_gps.sql
+lcd                        script_logging.sql
+logitech.xml               script_people.sql
+logs.db                    sender-arm
+microhttpd                 syncher.sh
+mjpeg                      sysdaemon-arm
+mjpg_streamer
+Every 2s: ls                                                2013-09-23 17:33:08
+
+b39da0b-dc9c3c3.installed  modbus-relay
+battery-arm                modbus-tester
+can                        output_file.so
+cbclogger-arm              output_http.so
+dc9c3c3-c24e286.installed  people-arm
+debug-sample-0A.txt        recorder-arm
+events.db                  relay
+feel-arm                   ridership.db
+gps.db                     rs485-tester
+gpsreader-arm              samplecollector-arm
+gsmmux-arm                 samples
+input_uvc.so               script_events.sql
+key.txt                    script_gps.sql
+lcd                        script_logging.sql
+logitech.xml               script_people.sql
+logs.db                    sender-arm
+microhttpd                 syncher.sh
+mjpeg                      sysdaemon-arm
+mjpg_streamer
+Every 2s: ls                                                2013-09-23 17:33:11
+
+b39da0b-dc9c3c3.installed  modbus-relay
+battery-arm                modbus-tester
+can                        output_file.so
+cbclogger-arm              output_http.so
+dc9c3c3-c24e286.installed  people-arm
+debug-sample-0A.txt        recorder-arm
+events.db                  relay
+feel-arm                   ridership.db
+gps.db                     rs485-tester
+gpsreader-arm              samplecollector-arm
+gsmmux-arm                 samples
+input_uvc.so               script_events.sql
+key.txt                    script_gps.sql
+lcd                        script_logging.sql
+logitech.xml               script_people.sql
+logs.db                    sender-arm
+microhttpd                 syncher.sh
+mjpeg                      sysdaemon-arm
+mjpg_streamer
+
+# /etc/init.d/mi# /etc/init.d/microhttpd 
+Usage: /etc/init.d/microhttpd {start|stop|restart|force-reload}
+# # /etc/init.d/microhttpd start
+Starting microhttpd daemon: OK
+# 
+# 
+# 
+# telnet localhost
+
+Entering character mode
+Escape character is '^]'.
+
+
+indigo-tracker login: ^CConnection closed by foreign host
+# # telnet localhost 8888
+GET /status HTTP/1/.1
+
+
+cat: can't open '/etc/revision-volatile': No such file or directory
+ls: /dev/video*: No such file or directory
+HTTP/1.1 200 OK
+Content-Length: 790
+Date: Mon, 23 Sep 2013 13:33:31 GMT
+
+Linux indigo-tracker 3.8.13+ #283 Wed Sep 11 18:20:25 MSK 2013 armv5tejl GNU/Linux
+<br/> 17:33:31 up 13 min, load average: 1.85, 1.66, 1.04
+<br/>Running on DC power
+<br/>Filesystem                Size      Used Available Use% Mounted on
+<br/>/dev/root               224.0M     56.7M    167.3M  25% /
+<br/>No antenna
+<br/>root b39da0bac37618f34aafad19aacd914ed2302676
+<br/>GNSS: NO<br/>
+             total         used         free       shared      buffers
+<br/>Mem:            58           33           25            0            0
+<br/>-/+ buffers:                 33           25
+<br/>Swap:           29            0           29
+<br/>Bus 002 Device 002: ID 090c:1000
+<br/>Bus 001 Device 001: ID 1d6b:0002
+<br/>Bus 002 Device 001: ID 1d6b:0001
+<br/>/dev/sda
+<br/>/dev/sda1
+<br/>END
+<br/>Connection closed by foreign host
+# ifconfig tun0
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+# 
+# 
+# 
+# 
+# 
+# telnet localhos tt 8888
+GET /status HTTP/1.1
+
+
+cat: can't open '/etc/revision-volatile': No such file or directory
+ls: /dev/video*: No such file or directory
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 790
+Date: Mon, 23 Sep 2013 13:35:21 GMT
+
+Linux indigo-tracker 3.8.13+ #283 Wed Sep 11 18:20:25 MSK 2013 armv5tejl GNU/Linux
+<br/> 17:35:20 up 15 min, load average: 2.01, 1.81, 1.17
+<br/>Running on DC power
+<br/>Filesystem                Size      Used Available Use% Mounted on
+<br/>/dev/root               224.0M     56.7M    167.3M  25% /
+<br/>No antenna
+<br/>root b39da0bac37618f34aafad19aacd914ed2302676
+<br/>GNSS: NO<br/>
+             total         used         free       shared      buffers
+<br/>Mem:            58           33           25            0            0
+<br/>-/+ buffers:                 33           25
+<br/>Swap:           29            0           29
+<br/>Bus 002 Device 002: ID 090c:1000
+<br/>Bus 001 Device 001: ID 1d6b:0002
+<br/>Bus 002 Device 001: ID 1d6b:0001
+<br/>/dev/sda
+<br/>/dev/sda1
+<br/>END
+<br/>Connection closed by foreign host
+# ps ax
+PID   USER     TIME   COMMAND
+    1 root       0:01 init
+    2 root       0:00 [kthreadd]
+    3 root       0:00 [ksoftirqd/0]
+    4 root       0:00 [kworker/0:0]
+    5 root       0:00 [kworker/0:0H]
+    6 root       0:00 [kworker/u:0]
+    7 root       0:00 [kworker/u:0H]
+    8 root       0:00 [watchdog/0]
+    9 root       0:00 [khelper]
+  169 root       0:00 [bdi-default]
+  171 root       0:00 [kblockd]
+  189 root       0:00 [khubd]
+  292 root       0:00 [khungtaskd]
+  293 root       0:00 [kswapd0]
+  339 root       0:00 [fsnotify_mark]
+  343 root       0:00 [crypto]
+  360 root       0:00 [kworker/0:1]
+ 1062 root       0:00 [deferwq]
+ 1067 root       0:00 [kworker/u:3]
+ 1069 root       0:00 [yaffs-bg-1]
+ 1103 root       0:00 crond
+ 1105 root       0:00 watchdog -T 10 -t 5 /dev/watchdog
+ 1122 nobody     0:03 /usr/sbin/gpsd -N /dev/ttyS2
+ 1189 root       0:00 /opt/gsmmux-arm -h
+ 1199 root       0:00 /usr/sbin/pppd call gprs-megafon
+ 1207 root       0:00 /opt/cbclogger-arm /dev/gsmtty4
+ 1217 dbus       0:00 dbus-daemon --system
+ 1221 root       0:00 /opt/sysdaemon-arm
+ 1239 root       0:00 /usr/sbin/telnetd
+ 1250 root       0:00 /usr/sbin/atd -f
+ 1252 root       0:00 vsftpd /etc/vsftpd.conf
+ 1256 root       0:00 [flush-31:1]
+ 1265 root       0:22 ./efl-final -r /opt/lcd/route-60.edj
+ 1267 root       0:00 -sh
+ 1268 root       0:00 /sbin/syslogd -n -b 29 -s 200
+ 1269 root       0:00 /sbin/klogd -n
+ 1278 root       0:00 /opt/sender-arm -i 1 -k /opt/key.txt -l 50
+ 1281 root       0:00 /opt/gpsreader-arm -i 10
+ 1290 root       0:00 /usr/sbin/openvpn --daemon --writepid /var/run/openvpn.in
+ 1355 root       0:00 [scsi_eh_0]
+ 1356 root       0:00 [usb-storage]
+ 1361 root       0:00 [kworker/0:2]
+ 1365 root       0:00 [kworker/u:1]
+ 1382 root       0:00 [flush-8:0]
+ 1414 root       0:00 /opt/microhttpd
+ 1476 root       0:00 ps ax
+# netstat -atn
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       
+tcp        0      0 0.0.0.0:2947            0.0.0.0:*               LISTEN      
+tcp        0      0 0.0.0.0:21              0.0.0.0:*               LISTEN      
+tcp        0      0 0.0.0.0:23              0.0.0.0:*               LISTEN      
+tcp        0      0 0.0.0.0:8888            0.0.0.0:*               LISTEN      
+tcp        0      0 10.145.202.6:57870      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:57862      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 127.0.0.1:2947          127.0.0.1:53240         ESTABLISHED 
+tcp        0      0 10.145.202.6:57865      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 127.0.0.1:53402         127.0.0.1:2947          ESTABLISHED 
+tcp        0      0 127.0.0.1:2947          127.0.0.1:53242         ESTABLISHED 
+tcp        0      0 127.0.0.1:53242         127.0.0.1:2947          ESTABLISHED 
+tcp        0      0 127.0.0.1:2947          127.0.0.1:53402         ESTABLISHED 
+tcp        0      0 10.145.202.6:57869      72.249.145.165:80       TIME_WAIT   
+tcp        1      0 10.145.202.6:35821      72.249.145.165:8180     CLOSE_WAIT  
+tcp        0      0 10.145.202.6:57864      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 127.0.0.1:2947          127.0.0.1:53244         ESTABLISHED 
+tcp        0      0 10.145.202.6:57857      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:57866      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:45625      72.249.145.165:1195     ESTABLISHED 
+tcp        0      0 10.145.202.6:57856      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:57859      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 127.0.0.1:8888          127.0.0.1:52634         TIME_WAIT   
+tcp        0      0 10.145.202.6:57861      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 127.0.0.1:53244         127.0.0.1:2947          ESTABLISHED 
+tcp        0      0 127.0.0.1:53240         127.0.0.1:2947          ESTABLISHED 
+tcp        0      0 10.145.202.6:57867      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:57860      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:57858      72.249.145.165:80       TIME_WAIT   
+tcp        0      0 10.145.202.6:57863      72.249.145.165:80       TIME_WAIT   
+netstat: /proc/net/tcp6: No such file or directory
+# cat: can't open '/etc/revision-volatile': No such file or directory
+ls: /dev/video*: No such file or directory
+
+# 
+# 
+# 
+# 
+# reboot
+# Restarting system.
+Start AT91Bootstrap...
+bootstrap: reading nandflash
+DDR2 configuration register is 0x39 01 00 00 
+bootstrap: jumping to 0x73F00000
+
+
+U-Boot 2010.09-00000-g32ac874 (Aug 07 2013 - 15:14:13)
+
+DRAM:  64 MiB
+## Unknown FLASH on Bank 1 - Size = 0x00000000 = 0 MB
+Flash: 0 Bytes
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+Hit any key to stop autoboot:  3  2  1  0 
+
+NAND read: device 0 offset 0xa0000, size 0x200000
+ 2097152 bytes read: OK
+## Booting kernel from Legacy Image at 70400000 ...
+   Image Name:   Linux-3.8.13+
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1719872 Bytes = 1.6 MiB
+   Load Address: 70008000
+   Entry Point:  70008000
+   Verifying Checksum ... OK
+   Loading Kernel Image ... OK
+OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+Booting Linux on physical CPU 0x0
+Linux version 3.8.13+ (yury@nehalem) (gcc version 4.4.5 (indigo-ct-ng) ) #283 Wed Sep 11 18:20:25 MSK 2013
+CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+CPU: VIVT data cache, VIVT instruction cache
+Machine: Indigo Tracker 2.1
+Memory policy: ECC disabled, Data cache writeback
+AT91: Detected soc type: at91sam9g45
+AT91: Detected soc subtype: Unknown
+AT91: sram at 0x300000 of 0x10000 mapped at 0xfef68000
+Clocks: CPU 400 MHz, master 133 MHz, main 12.000 MHz
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Kernel command line: console=ttyS0,115200 console=tty0 phram.phram=swap,0x20000000,30Mi root=/dev/mtdblock1
+PID hash table entries: 256 (order: -2, 1024 bytes)
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+__ex_table already sorted, skipping sort
+Memory: 64MB = 64MB total
+Memory: 60244k/60244k available, 5292k reserved, 0K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    vmalloc : 0xc4800000 - 0xff000000   ( 936 MB)
+    lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+    modules : 0xbf000000 - 0xc0000000   (  16 MB)
+      .text : 0xc0008000 - 0xc0416e44   (4156 kB)
+      .init : 0xc0417000 - 0xc043bd9c   ( 148 kB)
+      .data : 0xc043c000 - 0xc047a4a0   ( 250 kB)
+       .bss : 0xc047a4a0 - 0xc0492c08   (  98 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+NR_IRQS:16 nr_irqs:16 16
+AT91: 160 gpio irqs in 5 banks
+sched_clock: 32 bits at 100 Hz, resolution 10000000ns, wraps every 4294967286ms
+Console: colour dummy device 80x30
+console [tty0] enabled
+Calibrating delay loop... 199.06 BogoMIPS (lpj=995328)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+Setting up static identity map for 0x702fcab8 - 0x702fcaf4
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+not enabling RS-485 transceiver, fix system_rev
+gpio_keys: 7 many buttons
+bio: create slab <bio-0> at 0
+at_hdmac at91sam9g45_dma: Atmel AHB DMA Controller ( cpy slave ), 8 channels
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Linux video capture interface: v2.00
+Advanced Linux Sound Architecture Driver Initialized.
+Switching to clocksource pit
+NET: Registered protocol family 2
+TCP established hash table entries: 512 (order: 0, 4096 bytes)
+TCP bind hash table entries: 512 (order: -1, 2048 bytes)
+TCP: Hash tables configured (established 512 bind 512)
+TCP: reno registered
+UDP hash table entries: 256 (order: 0, 4096 bytes)
+UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+NET: Registered protocol family 1
+msgmni has been set to 117
+io scheduler noop registered (default)
+io scheduler deadline registered
+atmel_lcdfb atmel_lcdfb.0: 2048KiB frame buffer at 21e00000 (mapped at c4c00000)
+Console: switching to colour frame buffer device 100x60
+atmel_lcdfb atmel_lcdfb.0: fb0: Atmel LCDC at 0x00500000 (mapped at c4846000), irq 39
+atmel_usart.0: ttyS0 at MMIO 0xffffee00 (irq = 17) is a ATMEL_SERIAL
+console [ttyS0] enabled
+atmel_usart.2: ttyS1 at MMIO 0xfff90000 (irq = 24) is a ATMEL_SERIAL
+atmel_usart.3: ttyS2 at MMIO 0xfff94000 (irq = 25) is a ATMEL_SERIAL
+atmel_usart.1: ttyS3 at MMIO 0xfff8c000 (irq = 23) is a ATMEL_SERIAL
+atmel_usart.4: ttyS4 at MMIO 0xfff98000 (irq = 26) is a ATMEL_SERIAL
+brd: module loaded
+loop: module loaded
+adding device NV08C-CSM GNSS
+indigo gpioperiph: gps peripheral NV08C-CSM GNSS added
+adding device BQ24032a
+indigo gpioperiph: power peripheral BQ24032a added
+adding device Sim900 GSM
+gsm: creating command 1
+indigo gpioperiph: gsm peripheral Sim900 GSM added
+adding device io pins groupped together
+indigo gpioperiph: io peripheral io pins groupped together added
+atmel_nand atmel_nand: Using dma0chan0 for DMA transfers.
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit), 256MiB, page size: 2048, OOB size: 64
+Scanning device for bad blocks
+Bad eraseblock 371 at 0x000002e60000
+Bad eraseblock 443 at 0x000003760000
+Bad eraseblock 852 at 0x000006a80000
+Bad eraseblock 891 at 0x000006f60000
+Creating 2 MTD partitions on "atmel_nand":
+0x000000000000-0x000002000000 : "System Images"
+0x000002000000-0x000010000000 : "Root partitions"
+phram: swap device: 0x1e00000 at 0x20000000
+atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffa8000 (irq 31)
+atmel_spi atmel_spi.1: master is unqueued, this is deprecated
+lis3lv02d: 8 bits 3DC sensor found
+input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input0
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+CAN device driver interface
+mcp251x spi1.0: probed
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+atmel-ehci atmel-ehci: Atmel EHCI UHP HS
+atmel-ehci atmel-ehci: new USB bus registered, assigned bus number 1
+atmel-ehci atmel-ehci: irq 38, io mem 0x00800000
+atmel-ehci atmel-ehci: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+at91_ohci at91_ohci: AT91 OHCI
+at91_ohci at91_ohci: new USB bus registered, assigned bus number 2
+at91_ohci at91_ohci: irq 38, io mem 0x00700000
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mousedev: PS/2 mouse device common for all mice
+rtc-at91sam9 rtc-at91sam9.0: rtc core: registered rtc-at91sam9 as rtc0
+rtc-at91sam9 rtc-at91sam9.0: rtc0: SET TIME!
+i2c /dev entries driver
+usbcore: registered new interface driver uvcvideo
+USB Video Class driver (1.1.1)
+at91sam9_wdt: enabled (heartbeat=15 sec, nowayout=0)
+atmel_aes atmel_aes: Atmel AES
+usb 1-2: new high-speed USB device number 2 using atmel-ehci
+atmel_tdes atmel_tdes: Atmel DES/TDES
+atmel_sha atmel_sha: Atmel SHA1/SHA256
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+st_gyro: probe SUCCESS
+usbcore: registered new interface driver snd-usb-audio
+atmel_ac97c atmel_ac97c.0: Atmel AC97 controller at 0xc4898000, irq = 40
+TCP: cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20120528 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20120528)
+can: broadcast manager protocol (rev 20120528 t)
+can: netlink gateway (rev 20101209)
+input: gpio-keys as /devices/platform/gpio-keys/input/input1
+rtc-at91sam9 rtc-at91sam9.0: hctosys: unable to read the hardware clock
+atmel_mci atmel_mci.0: version: 0x410
+atmel_mci atmel_mci.0: using dma0chan3 for DMA transfers
+scsi0 : usb-storage 1-2:1.0
+atmel_mci atmel_mci.0: Atmel MCI controller at 0xfff80000 irq 27, 1 slots
+ALSA device list:
+  #0: Atmel AC97 controller
+FAT-fs (mtdblock1): utf8 is not a recommended IO charset for FAT filesystems, filesystem will be case sensitive!
+yaffs: dev is 32505857 name is "mtdblock1" rw
+yaffs: passed flags ""
+VFS: Mounted root (yaffs filesystem) on device 31:1.
+Freeing init memory: 144K
+scsi 0:0:0:0: Direct-Access     UFD 2.0  Silicon-Power4G  1100 PQ: 0 ANSI: 0 CCS
+sd 0:0:0:0: [sda] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+sd 0:0:0:0: [sda] Write Protect is off
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+ sda: sda1
+sd 0:0:0:0: [sda] No Caching mode page present
+sd 0:0:0:0: [sda] Assuming drive cache: write through
+sd 0:0:0:0: [sda] Attached SCSI removable disk
+Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+gps: creating command 4
+
+Indigo Device_2_2 13
+indigo-tracker login: root
+Password: 
+# ifconfig
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:152 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:152 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:13372 (13.0 KiB)  TX bytes:13372 (13.0 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.181.223.9  P-t-P:192.200.1.21  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:58 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:74 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:7324 (7.1 KiB)  TX bytes:5262 (5.1 KiB)
+
+# # ifconfig tun0
+ifconfig: tun0: error fetching interface information: Device not found
+# # ifconfig tun0
+ifconfig: tun0: error fetching interface information: Device not found
+# # ifconfig tun0
+ifconfig: tun0: error fetching interface information: Device not found
+# # ifconfig tun0
+ifconfig: tun0: error fetching interface information: Device not found
+# # ifconfig tun0wifconfig tun0aifconfig tun0tifconfig tun0cifconfig tun0hifconfig tun0 ifconfig tun0ifconfig tun0
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:38
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:40
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:42
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:44
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:46
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:48
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:50
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:52
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:54
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:56
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:39:58
+
+ifconfig: tun0: error fetching interface information: Device not found
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:00
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:02
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:04
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:06
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:09
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:2 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:120 (120.0 B)  TX bytes:180 (180.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:11
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:4 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:232 (232.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:13
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:15
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:17
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:19
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:21
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:23
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:25
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:7 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:424 (424.0 B)  TX bytes:240 (240.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:27
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:8 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:498 (498.0 B)  TX bytes:292 (292.0 B)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:29
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:9 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:8 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:552 (552.0 B)  TX bytes:1219 (1.1 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:31
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:10 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:9 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:606 (606.0 B)  TX bytes:1259 (1.2 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:33
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:35
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:37
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:39
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:41
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:43
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:45
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+Every 2s: ifconfig tun0                                     2013-09-23 17:40:47
+
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.1.0.80  P-t-P:10.1.0.80  Mask:255.255.255.0
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:100 
+          RX bytes:710 (710.0 B)  TX bytes:1339 (1.3 KiB)
+
+
+# cat /etc/rev# cat /etc/revision 
+root b39da0bac37618f34aafad19aacd914ed2302676
+# 
