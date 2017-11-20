@@ -1,0 +1,7 @@
+#!/bin/bash
+/etc/init.d/S43ntp status
+# if there is no flag and there is no time
+if [ ! -f /tmp/got_time -o $? -eq 1]; then
+	# if noone is trying to set time now, run ntp
+	ps ax | grep ntpdate | grep S43ntp | grep -v grep > /dev/null || /etc/init.d/S43ntp start
+fi

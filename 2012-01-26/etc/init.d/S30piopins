@@ -1,0 +1,26 @@
+#!/bin/bash
+case "$1" in
+    start|restart)
+	killall relay
+	rmmod piopins
+	insmod /lib/modules/piopins/piopins.ko debug=0 pullup=1
+	mknod /dev/piopins0 c 240 0
+	/opt/relay &
+	rmmod pio
+	insmod /lib/modules/pio/pio.ko
+	for i in `seq 0 31`; do
+	    let a=32+$i
+	    let b=32+32+$i
+	    let c=32+32+32+$i
+	    
+	    mknod /dev/pa$i c 101 $a
+	    mknod /dev/pb$i c 101 $b
+	    mknod /dev/pc$i c 101 $c
+	done;
+	mknod /dev/sim508 c 135 0
+	;;
+    status)
+	test -c /dev/piopins && echo "piopins ok" || (echo "piopins not running"; exit 1)
+	;;
+esac
+

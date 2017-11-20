@@ -1,0 +1,355 @@
+
+<html><head><title>Application Exception</title><link type="text/css" rel="stylesheet" href="/serv/assets/tapestry/5.1.0.5/default.css"></link><link type="text/css" rel="stylesheet" href="/serv/assets/blackbird/5.1.0.5/blackbird.css"></link><meta content="Apache Tapestry Framework (version 5.1.0.5)" name="generator"></meta><script src="/serv/assets/scriptaculous/5.1.0.5/prototype.js" type="text/javascript"></script><script src="/serv/assets/scriptaculous/5.1.0.5/scriptaculous.js" type="text/javascript"></script><script src="/serv/assets/scriptaculous/5.1.0.5/effects.js" type="text/javascript"></script><script src="/serv/assets/tapestry/5.1.0.5/tapestry.js" type="text/javascript"></script><script src="/serv/assets/blackbird/5.1.0.5/blackbird.js" type="text/javascript"></script><script src="/serv/assets/tapestry/5.1.0.5/tapestry-messages.js" type="text/javascript"></script><script src="/serv/assets/ctx/1.0-SNAPSHOT/jquery-1.3.2.js" type="text/javascript"></script><script src="/serv/assets/ctx/1.0-SNAPSHOT/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script><script src="/serv/assets/app/1.0-SNAPSHOT/components/js/indigo.js" type="text/javascript"></script><script src="/serv/assets/tapestry/5.1.0.5/corelib/components/exceptiondisplay.js" type="text/javascript"></script></head><body><h1 class="t-exception-report">An unexpected application exception has occurred.</h1><div class="t-exception-report"><ul><li><span class="t-exception-class-name">org.apache.tapestry5.runtime.ComponentEventException</span><dl><dt>context</dt><dd></dd><dt>eventType</dt><dd>deviceevent</dd></dl></li><li><span class="t-exception-class-name">java.lang.NullPointerException</span><dl><dt><span class="t-exception-stack-controls"><input checked="checked" id="toggleStack" type="checkbox"></input><label for="toggleStack">Hide uninteresting stack frames</label></span>
+Stack trace
+</dt><dd><ul class="t-stack-trace"><li class="t-usercode-frame">
+ru.indigosystem.cars.serv.services.biz.impl.ServerServiceImpl.processParameters(ServerServiceImpl.java:189)
+</li><li class="t-omitted-frame">
+$ServerService_12b6879b267.processParameters($ServerService_12b6879b267.java)
+</li><li class="t-usercode-frame">
+ru.indigosystem.cars.serv.pages.Server.onDeviceEvent(Server.java:33)
+</li><li>
+ru.indigosystem.cars.serv.pages.Server.dispatchComponentEvent(Server.java)
+</li><li>
+org.apache.tapestry5.internal.structure.ComponentPageElementImpl.dispatchEvent(ComponentPageElementImpl.java:902)
+</li><li>
+org.apache.tapestry5.internal.structure.ComponentPageElementImpl.triggerContextEvent(ComponentPageElementImpl.java:1081)
+</li><li>
+org.apache.tapestry5.internal.services.ComponentEventRequestHandlerImpl.handle(ComponentEventRequestHandlerImpl.java:75)
+</li><li>
+org.apache.tapestry5.internal.services.ImmediateActionRenderResponseFilter.handle(ImmediateActionRenderResponseFilter.java:42)
+</li><li class="t-omitted-frame">
+$ComponentEventRequestHandler_12b6879b203.handle($ComponentEventRequestHandler_12b6879b203.java)
+</li><li>
+org.apache.tapestry5.internal.services.AjaxFilter.handle(AjaxFilter.java:42)
+</li><li class="t-omitted-frame">
+$ComponentEventRequestHandler_12b6879b203.handle($ComponentEventRequestHandler_12b6879b203.java)
+</li><li>
+org.apache.tapestry5.upload.internal.services.UploadExceptionFilter.handle(UploadExceptionFilter.java:75)
+</li><li class="t-omitted-frame">
+$ComponentEventRequestHandler_12b6879b203.handle($ComponentEventRequestHandler_12b6879b203.java)
+</li><li>
+org.apache.tapestry5.services.TapestryModule$36.handle(TapestryModule.java:2164)
+</li><li class="t-omitted-frame">
+$ComponentEventRequestHandler_12b6879b203.handle($ComponentEventRequestHandler_12b6879b203.java)
+</li><li class="t-omitted-frame">
+$ComponentEventRequestHandler_12b6879b151.handle($ComponentEventRequestHandler_12b6879b151.java)
+</li><li>
+org.apache.tapestry5.internal.services.ComponentRequestHandlerTerminator.handleComponentEvent(ComponentRequestHandlerTerminator.java:43)
+</li><li class="t-omitted-frame">
+$ComponentRequestHandler_12b6879b145.handleComponentEvent($ComponentRequestHandler_12b6879b145.java)
+</li><li>
+org.apache.tapestry5.internal.services.ComponentEventDispatcher.dispatch(ComponentEventDispatcher.java:46)
+</li><li class="t-omitted-frame">
+$Dispatcher_12b6879b147.dispatch($Dispatcher_12b6879b147.java)
+</li><li class="t-omitted-frame">
+$Dispatcher_12b6879b13e.dispatch($Dispatcher_12b6879b13e.java)
+</li><li>
+org.apache.tapestry5.services.TapestryModule$RequestHandlerTerminator.service(TapestryModule.java:245)
+</li><li>
+org.apache.tapestry5.internal.services.RequestErrorFilter.service(RequestErrorFilter.java:26)
+</li><li class="t-omitted-frame">
+$RequestHandler_12b6879b13f.service($RequestHandler_12b6879b13f.java)
+</li><li>
+org.apache.tapestry5.services.TapestryModule$4.service(TapestryModule.java:778)
+</li><li class="t-omitted-frame">
+$RequestHandler_12b6879b13f.service($RequestHandler_12b6879b13f.java)
+</li><li>
+org.apache.tapestry5.services.TapestryModule$3.service(TapestryModule.java:767)
+</li><li class="t-omitted-frame">
+$RequestHandler_12b6879b13f.service($RequestHandler_12b6879b13f.java)
+</li><li>
+org.apache.tapestry5.internal.services.StaticFilesFilter.service(StaticFilesFilter.java:85)
+</li><li class="t-omitted-frame">
+$RequestHandler_12b6879b13f.service($RequestHandler_12b6879b13f.java)
+</li><li>
+org.apache.tapestry5.internal.services.CheckForUpdatesFilter$2.invoke(CheckForUpdatesFilter.java:90)
+</li><li>
+org.apache.tapestry5.internal.services.CheckForUpdatesFilter$2.invoke(CheckForUpdatesFilter.java:81)
+</li><li>
+org.apache.tapestry5.ioc.internal.util.ConcurrentBarrier.withRead(ConcurrentBarrier.java:85)
+</li><li>
+org.apache.tapestry5.internal.services.CheckForUpdatesFilter.service(CheckForUpdatesFilter.java:103)
+</li><li class="t-omitted-frame">
+$RequestHandler_12b6879b13f.service($RequestHandler_12b6879b13f.java)
+</li><li class="t-omitted-frame">
+$RequestHandler_12b6879b133.service($RequestHandler_12b6879b133.java)
+</li><li>
+org.apache.tapestry5.services.TapestryModule$HttpServletRequestHandlerTerminator.service(TapestryModule.java:197)
+</li><li>
+org.apache.tapestry5.internal.gzip.GZipFilter.service(GZipFilter.java:53)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li>
+org.apache.tapestry5.upload.internal.services.MultipartServletRequestFilter.service(MultipartServletRequestFilter.java:44)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li>
+org.apache.tapestry5.internal.services.IgnoredPathsFilter.service(IgnoredPathsFilter.java:62)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b132.service($HttpServletRequestFilter_12b6879b132.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li>
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+org.springframework.security.intercept.web.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)
+</li><li class="t-omitted-frame">
+org.springframework.security.intercept.web.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b12e.service($HttpServletRequestFilter_12b6879b12e.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.SpringSecurityExceptionTranslationFilter.doFilterHttp(SpringSecurityExceptionTranslationFilter.java:100)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+org.springframework.security.providers.anonymous.AnonymousProcessingFilter.doFilterHttp(AnonymousProcessingFilter.java:105)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b12d.service($HttpServletRequestFilter_12b6879b12d.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+org.springframework.security.wrapper.SecurityContextHolderAwareRequestFilter.doFilterHttp(SecurityContextHolderAwareRequestFilter.java:91)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b12c.service($HttpServletRequestFilter_12b6879b12c.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.rememberme.RememberMeProcessingFilter.doFilterHttp(RememberMeProcessingFilter.java:109)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b12b.service($HttpServletRequestFilter_12b6879b12b.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.AbstractProcessingFilter.doFilterHttp(AbstractProcessingFilter.java:277)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b12a.service($HttpServletRequestFilter_12b6879b12a.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper$1.doFilter(HttpServletRequestFilterWrapper.java:56)
+</li><li class="t-omitted-frame">
+org.springframework.security.context.HttpSessionContextIntegrationFilter.doFilterHttp(HttpSessionContextIntegrationFilter.java:235)
+</li><li class="t-omitted-frame">
+org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)
+</li><li class="t-omitted-frame">
+nu.localhost.tapestry5.springsecurity.services.internal.HttpServletRequestFilterWrapper.service(HttpServletRequestFilterWrapper.java:52)
+</li><li class="t-omitted-frame">
+$HttpServletRequestFilter_12b6879b129.service($HttpServletRequestFilter_12b6879b129.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+org.apache.tapestry5.services.TapestryModule$2.service(TapestryModule.java:726)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b135.service($HttpServletRequestHandler_12b6879b135.java)
+</li><li class="t-omitted-frame">
+$HttpServletRequestHandler_12b6879b125.service($HttpServletRequestHandler_12b6879b125.java)
+</li><li class="t-omitted-frame">
+org.apache.tapestry5.TapestryFilter.doFilter(TapestryFilter.java:127)
+</li><li class="t-omitted-frame">
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:215)
+</li><li class="t-omitted-frame">
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+</li><li class="t-omitted-frame">
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+</li><li class="t-omitted-frame">
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:172)
+</li><li class="t-omitted-frame">
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+</li><li class="t-omitted-frame">
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:117)
+</li><li class="t-omitted-frame">
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:108)
+</li><li class="t-omitted-frame">
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:174)
+</li><li class="t-omitted-frame">
+org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:874)
+</li><li class="t-omitted-frame">
+org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:665)
+</li><li class="t-omitted-frame">
+org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:528)
+</li><li class="t-omitted-frame">
+org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:81)
+</li><li class="t-omitted-frame">
+org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:689)
+</li><li class="t-omitted-frame">
+java.lang.Thread.run(Thread.java:619)
+</li></ul></dd></dl></li></ul></div><div class="t-env-data"><h2>Tapestry Framework</h2><dl><dt>Tapestry Version</dt><dd>5.1.0.5</dd><dt>Application Version</dt><dd>1.0-SNAPSHOT</dd></dl><h2>Request</h2><dl><dt>Context Path</dt><dd>/serv</dd><dt>Request Path</dt><dd>/server:deviceevent</dd><dt>Locale</dt><dd>en_US</dd><dt>Secure</dt><dd>false</dd><dt>Server Name</dt><dd>serv.indigosystem.ru</dd></dl><div class="t-env-data-section">Headers</div><dl><dt>accept</dt><dd>*/*</dd><dt>content-length</dt><dd>17074</dd><dt>content-type</dt><dd>application/x-www-form-urlencoded</dd><dt>expect</dt><dd>100-continue</dd><dt>host</dt><dd>serv.indigosystem.ru:8180</dd></dl><div class="t-env-data-section">Context Attributes</div><dl><dt>javax.servlet.context.tempdir</dt><dd>/var/lib/tomcat5.5/work/Catalina/localhost/serv</dd><dt>org.apache.catalina.WELCOME_FILES</dt><dd><ul class="t-data-list"><li>index.html</li><li>index.htm</li><li>index.jsp</li></ul></dd><dt>org.apache.catalina.jsp_classpath</dt><dd>/var/lib/tomcat5.5/webapps/serv/WEB-INF/classes/:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/ant-1.7.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/ant-launcher-1.7.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/antlr-2.7.6.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/antlr-runtime-3.1.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/aopalliance-1.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/asm-1.5.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/asm-attrs-1.5.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/bcmail-jdk14-136.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/bcprov-jdk14-136.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/bcprov-jdk15-135.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/c3p0-0.9.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/cglib-2.1_3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/chenillekit-quartz-1.1.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-beanutils-1.8.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-codec-1.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-collections-3.2.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-digester-2.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-fileupload-1.2.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-io-1.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-lang-2.4.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/commons-logging-1.0.4.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/dom4j-1.6.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/ehcache-1.2.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/ejb3-persistence-1.0.2.GA.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/geronimo-spec-jta-1.0-M1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/groovy-all-1.5.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/hibernate-3.2.7.ga.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/hibernate-annotations-3.4.0.GA.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/hibernate-c3p0-3.3.1.GA.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/hibernate-commons-annotations-3.1.0.GA.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/hibernate-core-3.3.1.GA.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/hsqldb-1.8.0.10.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/itext-2.1.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jasperreports-3.5.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/javassist-3.9.0.GA.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jcommon-1.0.15.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jdtcore-3.1.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jettison-1.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jfreechart-1.0.12.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jline-0.9.94.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/jta-1.0.1B.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/junit-3.8.2.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/log4j-1.2.14.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/org.mortbay.jetty-5.1.12.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/postgresql-8.4-701.jdbc4.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/quartz-1.6.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/quartz-all-1.6.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/selenium-core-1.0.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/selenium-java-client-driver-1.0.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/selenium-server-1.0.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/selenium-server-coreless-1.0.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/slf4j-api-1.5.6.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/slf4j-log4j12-1.5.2.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-aop-2.0.8.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-beans-2.0.8.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-context-2.0.8.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-core-2.0.8.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-dao-2.0.8.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-security-core-2.0.4.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-security-core-tiger-2.0.4.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/spring-support-2.0.8.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/stax-api-1.0.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/stax2-api-3.0.1.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry-core-5.1.0.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry-hibernate-5.1.0.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry-hibernate-core-5.1.0.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry-ioc-5.1.0.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry-javascript-1.5.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry-upload-5.1.0.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapestry5-annotations-5.1.0.5.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/tapx-datefield-1.0.0.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/woodstox-core-asl-4.0.3.jar:/var/lib/tomcat5.5/webapps/serv/WEB-INF/lib/xml-apis-1.3.02.jar:/var/lib/tomcat5.5/shared/classes/:/var/lib/tomcat5.5/shared/lib/postgresql-8.4-701.jdbc4.jar:/usr/share/tomcat5.5/common/classes/:/usr/share/tomcat5.5/common/i18n/tomcat-i18n-en.jar:/usr/share/tomcat5.5/common/i18n/tomcat-i18n-es.jar:/usr/share/tomcat5.5/common/i18n/tomcat-i18n-fr.jar:/usr/share/tomcat5.5/common/i18n/tomcat-i18n-ja.jar:/usr/share/java/eclipse-ecj.jar:/usr/share/java/commons-dbcp-1.2.1.jar:/usr/share/java/jsp-api-2.0.jar:/usr/share/tomcat5.5/common/lib/naming-factory.jar:/usr/share/java/commons-collections3-3.2.1.jar:/usr/share/java/servlet-api-2.4.jar:/usr/share/tomcat5.5/common/lib/jasper-runtime.jar:/usr/share/java/commons-pool-1.3.jar:/usr/share/tomcat5.5/common/lib/naming-resources.jar:/usr/share/tomcat5.5/common/lib/jasper-compiler.jar:/usr/share/java/commons-el-1.0.jar:/usr/share/java/commons-daemon-1.0.2.jar:/usr/share/tomcat5.5/bin/bootstrap.jar:/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/ext/sunpkcs11.jar</dd><dt>org.apache.catalina.resources</dt><dd>org.apache.naming.resources.ProxyDirContext@15143ab</dd><dt>org.apache.tapestry5.application-registry</dt><dd>org.apache.tapestry5.ioc.internal.RegistryWrapper@1ad31cd</dd></dl><h2>System Properties</h2><dl><dt>catalina.base</dt><dd>
+/var/lib/tomcat5.5
+</dd><dt>catalina.home</dt><dd>
+/usr/share/tomcat5.5
+</dd><dt>catalina.useNaming</dt><dd>
+true
+</dd><dt>common.loader</dt><dd>
+${catalina.home}/common/classes,${catalina.home}/common/i18n/*.jar,${catalina.home}/common/endorsed/*.jar,${catalina.home}/common/lib/*.jar
+</dd><dt>file.encoding</dt><dd>
+ANSI_X3.4-1968
+</dd><dt>file.encoding.pkg</dt><dd>
+sun.io
+</dd><dt>file.separator</dt><dd>
+/
+</dd><dt>java.awt.graphicsenv</dt><dd>
+sun.awt.X11GraphicsEnvironment
+</dd><dt>java.awt.printerjob</dt><dd>
+sun.print.PSPrinterJob
+</dd><dt>java.class.path</dt><dd><ul><li>
+/usr/share/java/commons-daemon.jar
+</li><li>
+/usr/share/tomcat5.5/bin/bootstrap.jar
+</li></ul></dd><dt>java.class.version</dt><dd>
+50.0
+</dd><dt>java.endorsed.dirs</dt><dd>
+/usr/share/tomcat5.5/common/endorsed
+</dd><dt>java.ext.dirs</dt><dd>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/ext:/usr/java/packages/lib/ext
+</dd><dt>java.home</dt><dd>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre
+</dd><dt>java.io.tmpdir</dt><dd>
+/var/lib/tomcat5.5/temp
+</dd><dt>java.library.path</dt><dd><ul><li>
+/usr/java/packages/lib/i386
+</li><li>
+/lib
+</li><li>
+/usr/lib
+</li></ul></dd><dt>java.naming.factory.initial</dt><dd>
+org.apache.naming.java.javaURLContextFactory
+</dd><dt>java.naming.factory.url.pkgs</dt><dd>
+org.apache.naming
+</dd><dt>java.runtime.name</dt><dd>
+Java(TM) SE Runtime Environment
+</dd><dt>java.runtime.version</dt><dd>
+1.6.0_20-b02
+</dd><dt>java.specification.name</dt><dd>
+Java Platform API Specification
+</dd><dt>java.specification.vendor</dt><dd>
+Sun Microsystems Inc.
+</dd><dt>java.specification.version</dt><dd>
+1.6
+</dd><dt>java.util.logging.config.file</dt><dd>
+/var/lib/tomcat5.5/conf/logging.properties
+</dd><dt>java.util.logging.manager</dt><dd>
+org.apache.juli.ClassLoaderLogManager
+</dd><dt>java.vendor</dt><dd>
+Sun Microsystems Inc.
+</dd><dt>java.vendor.url</dt><dd>
+http://java.sun.com/
+</dd><dt>java.vendor.url.bug</dt><dd>
+http://java.sun.com/cgi-bin/bugreport.cgi
+</dd><dt>java.version</dt><dd>
+1.6.0_20
+</dd><dt>java.vm.info</dt><dd>
+mixed mode, sharing
+</dd><dt>java.vm.name</dt><dd>
+Java HotSpot(TM) Client VM
+</dd><dt>java.vm.specification.name</dt><dd>
+Java Virtual Machine Specification
+</dd><dt>java.vm.specification.vendor</dt><dd>
+Sun Microsystems Inc.
+</dd><dt>java.vm.specification.version</dt><dd>
+1.0
+</dd><dt>java.vm.vendor</dt><dd>
+Sun Microsystems Inc.
+</dd><dt>java.vm.version</dt><dd>
+16.3-b01
+</dd><dt>line.separator</dt><dd>
+
+
+</dd><dt>os.arch</dt><dd>
+i386
+</dd><dt>os.name</dt><dd>
+Linux
+</dd><dt>os.version</dt><dd>
+2.6.18-028stab069.6
+</dd><dt>package.access</dt><dd>
+sun.,org.apache.catalina.,org.apache.coyote.,org.apache.tomcat.,org.apache.jasper.,sun.beans.
+</dd><dt>package.definition</dt><dd>
+sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.tomcat.,org.apache.jasper.
+</dd><dt>path.separator</dt><dd>
+:
+</dd><dt>server.loader</dt><dd>
+${catalina.home}/server/classes,${catalina.home}/server/lib/*.jar
+</dd><dt>shared.loader</dt><dd>
+${catalina.base}/shared/classes,${catalina.base}/shared/lib/*.jar
+</dd><dt>sun.arch.data.model</dt><dd>
+32
+</dd><dt>sun.boot.class.path</dt><dd><ul><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/resources.jar
+</li><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/rt.jar
+</li><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/sunrsasign.jar
+</li><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/jsse.jar
+</li><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/jce.jar
+</li><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/charsets.jar
+</li><li>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/classes
+</li></ul></dd><dt>sun.boot.library.path</dt><dd>
+/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/i386
+</dd><dt>sun.cpu.endian</dt><dd>
+little
+</dd><dt>sun.cpu.isalist</dt><dd>
+
+</dd><dt>sun.io.unicode.encoding</dt><dd>
+UnicodeLittle
+</dd><dt>sun.jnu.encoding</dt><dd>
+ANSI_X3.4-1968
+</dd><dt>sun.management.compiler</dt><dd>
+HotSpot Client Compiler
+</dd><dt>sun.os.patch.level</dt><dd>
+unknown
+</dd><dt>tomcat.util.buf.StringCache.byte.enabled</dt><dd>
+true
+</dd><dt>user.country</dt><dd>
+US
+</dd><dt>user.dir</dt><dd>
+/var/lib/tomcat5.5/temp
+</dd><dt>user.home</dt><dd>
+/usr/share/tomcat5.5
+</dd><dt>user.language</dt><dd>
+en
+</dd><dt>user.name</dt><dd>
+tomcat55
+</dd><dt>user.timezone</dt><dd>
+Europe/Moscow
+</dd></dl></div><script type="text/javascript">Tapestry.DEBUG_ENABLED = true;
+Tapestry.onDOMLoaded(function() {
+Tapestry.stackFrameToggle('toggleStack');
+});
+</script></body></html>cannot send message to server, http_code 500 and curl_result 0

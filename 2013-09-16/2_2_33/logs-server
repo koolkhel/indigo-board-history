@@ -1,0 +1,751 @@
+messages:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+messages:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+messages:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+messages:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+messages:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+messages:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+messages:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+messages:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+messages:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+messages:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+messages:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+messages:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+messages:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog:Sep 16 02:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 02:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 03:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 03:56:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 04:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 04:56:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 05:56:32 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 05:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+syslog:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+syslog:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+syslog:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+syslog:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+syslog:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+syslog:Sep 16 06:56:55 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 06:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+syslog:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+syslog:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+syslog:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+syslog:Sep 16 07:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 07:58:11 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+syslog:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+syslog:Sep 16 08:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 08:58:42 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 09:58:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 09:59:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+syslog:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+syslog:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+syslog:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+syslog:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+syslog:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+syslog:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+syslog:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+syslog:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+syslog:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:58:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 read TCPv4_SERVER [NO-INFO]: Connection timed out (code=110)
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Connection reset, restarting [0]
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 SIGUSR1[soft,connection-reset] received, client-instance restarting
+syslog:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog.0:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+syslog.0:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+syslog.0:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog.0:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+syslog.0:Sep 16 00:54:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 00:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog.0:Sep 16 01:54:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 01:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+user.log:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+user.log:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+user.log:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+user.log:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+user.log:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+user.log:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+user.log:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+user.log:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+user.log:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+user.log:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+user.log:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+user.log:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+user.log:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+user.log:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+user.log:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+user.log:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+user.log:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+user.log:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+user.log:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+user.log:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+user.log:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+user.log:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+user.log:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+user.log:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+user.log:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+user.log:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+user.log:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+yury@indigosystem:/var/log$ sudo grep device_2_2_33 * | grep "Sep 16"
+daemon.log:Sep 16 02:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 02:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 03:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 03:56:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 04:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 04:56:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 05:56:32 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 05:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 06:56:55 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 06:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 07:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 07:58:11 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 08:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 08:58:42 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 09:58:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 09:59:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 10:58:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 read TCPv4_SERVER [NO-INFO]: Connection timed out (code=110)
+daemon.log:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Connection reset, restarting [0]
+daemon.log:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 SIGUSR1[soft,connection-reset] received, client-instance restarting
+daemon.log.0:Sep 16 00:54:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 00:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log.0:Sep 16 01:54:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 01:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+messages:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+messages:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+messages:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+messages:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+messages:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+messages:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+messages:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+messages:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+messages:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+messages:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+messages:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+messages:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+messages:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+messages:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+messages:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+messages:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+messages:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+messages:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+messages:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+messages:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+messages:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+messages:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+messages:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+messages:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+messages:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+messages:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+messages:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog:Sep 16 02:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 02:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 03:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 03:56:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 04:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 04:56:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 05:56:32 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 05:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+syslog:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+syslog:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+syslog:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+syslog:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+syslog:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+syslog:Sep 16 06:56:55 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 06:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+syslog:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+syslog:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+syslog:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+syslog:Sep 16 07:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 07:58:11 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+syslog:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+syslog:Sep 16 08:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 08:58:42 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 09:58:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 09:59:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+syslog:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+syslog:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+syslog:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+syslog:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+syslog:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+syslog:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+syslog:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+syslog:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+syslog:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:58:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 read TCPv4_SERVER [NO-INFO]: Connection timed out (code=110)
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Connection reset, restarting [0]
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 SIGUSR1[soft,connection-reset] received, client-instance restarting
+syslog:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog.0:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+syslog.0:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+syslog.0:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog.0:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+syslog.0:Sep 16 00:54:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 00:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog.0:Sep 16 01:54:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 01:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+user.log:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+user.log:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+user.log:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+user.log:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+user.log:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+user.log:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+user.log:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+user.log:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+user.log:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+user.log:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+user.log:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+user.log:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+user.log:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+user.log:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+user.log:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+user.log:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+user.log:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+user.log:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+user.log:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+user.log:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+user.log:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+user.log:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+user.log:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+user.log:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+user.log:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+user.log:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+user.log:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+yury@indigosystem:/var/log$ clear
+yury@indigosystem:/var/log$ sudo grep device_2_2_33 * | grep "Sep 16"
+daemon.log:Sep 16 02:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 02:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 03:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 03:56:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 04:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 04:56:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 05:56:32 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 05:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 06:56:55 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 06:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 07:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 07:58:11 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 08:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 08:58:42 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 09:58:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log:Sep 16 09:59:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log:Sep 16 10:58:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 read TCPv4_SERVER [NO-INFO]: Connection timed out (code=110)
+daemon.log:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Connection reset, restarting [0]
+daemon.log:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 SIGUSR1[soft,connection-reset] received, client-instance restarting
+daemon.log.0:Sep 16 00:54:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 00:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+daemon.log.0:Sep 16 01:54:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+daemon.log.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+daemon.log.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+daemon.log.0:Sep 16 01:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+messages:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+messages:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+messages:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+messages:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+messages:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+messages:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+messages:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+messages:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+messages:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+messages:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+messages:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+messages:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+messages:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+messages:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+messages:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+messages:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+messages:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+messages:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+messages:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+messages:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+messages:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+messages:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+messages:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+messages:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+messages:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+messages:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+messages:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+messages:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog:Sep 16 02:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 02:55:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 02:56:01 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 02:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 03:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 03:56:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 03:56:31 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 03:56:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 04:56:02 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 04:56:49 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 04:56:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 04:56:56 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 05:56:32 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 05:57:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 05:57:19 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 05:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+syslog:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+syslog:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+syslog:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+syslog:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+syslog:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+syslog:Sep 16 06:56:55 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 06:57:35 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 06:57:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 06:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+syslog:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+syslog:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+syslog:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+syslog:Sep 16 07:57:20 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 07:58:03 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 07:58:09 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 07:58:11 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+syslog:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+syslog:Sep 16 08:57:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 08:58:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 08:58:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 08:58:42 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 09:58:13 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 09:59:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog:Sep 16 09:59:25 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog:Sep 16 09:59:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+syslog:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+syslog:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+syslog:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+syslog:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+syslog:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+syslog:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+syslog:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+syslog:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+syslog:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 10:58:41 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 read TCPv4_SERVER [NO-INFO]: Connection timed out (code=110)
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Connection reset, restarting [0]
+syslog:Sep 16 11:02:46 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 SIGUSR1[soft,connection-reset] received, client-instance restarting
+syslog:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+syslog:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog.0:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+syslog.0:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+syslog.0:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+syslog.0:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+syslog.0:Sep 16 00:54:30 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 00:55:10 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 00:55:16 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 00:55:17 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+syslog.0:Sep 16 01:54:54 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 TLS: tls_process: killed expiring key
+syslog.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 01:55:33 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=device_2_2_33/name=device_2_2_33/emailAddress=yury@indigosystem.ru
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+syslog.0:Sep 16 01:55:38 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+syslog.0:Sep 16 01:55:40 indigosystem ovpn-indigoserver-tcp[16010]: device_2_2_33/95.153.179.176:37057 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+user.log:Sep 16 00:00:00 indigosystem nagios3: CURRENT HOST STATE: device_2_2_33_X051BP;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1998.21 ms
+user.log:Sep 16 00:00:00 indigosystem nagios3: CURRENT SERVICE STATE: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 814.01 ms
+user.log:Sep 16 00:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+user.log:Sep 16 00:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 567.78 ms
+user.log:Sep 16 06:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+user.log:Sep 16 06:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 489.46 ms
+user.log:Sep 16 06:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+user.log:Sep 16 06:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 536.53 ms
+user.log:Sep 16 06:42:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 50%, RTA = 5703.13 ms
+user.log:Sep 16 06:43:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 907.61 ms
+user.log:Sep 16 07:47:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+user.log:Sep 16 07:47:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 487.66 ms
+user.log:Sep 16 07:52:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 503.15 ms
+user.log:Sep 16 07:52:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+user.log:Sep 16 08:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 492.99 ms
+user.log:Sep 16 08:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 732.35 ms
+user.log:Sep 16 10:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+user.log:Sep 16 10:17:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 774.28 ms
+user.log:Sep 16 10:27:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+user.log:Sep 16 10:27:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.34 ms
+user.log:Sep 16 10:32:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+user.log:Sep 16 10:32:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;CRITICAL;notify-service-by-email;PING CRITICAL - Packet loss = 0%, RTA = 580.22 ms
+user.log:Sep 16 10:37:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;WARNING;HARD;4;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+user.log:Sep 16 10:37:32 indigosystem nagios3: SERVICE NOTIFICATION: root;device_2_2_33_X051BP;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 485.12 ms
+user.log:Sep 16 10:42:32 indigosystem nagios3: SERVICE ALERT: device_2_2_33_X051BP;PING;CRITICAL;HARD;4;PING CRITICAL - Packet loss = 0%, RTA = 884.73 ms
+user.log:Sep 16 10:42:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+user.log:Sep 16 10:51:52 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:53:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:54:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:55:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;4;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:57:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;5;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:58:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;6;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 10:59:32 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;7;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:00:42 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;8;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:02:02 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;SOFT;9;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:03:22 indigosystem nagios3: HOST ALERT: device_2_2_33_X051BP;DOWN;HARD;10;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 11:03:22 indigosystem nagios3: HOST NOTIFICATION: root;device_2_2_33_X051BP;DOWN;notify-host-by-email;PING CRITICAL - Packet loss = 100%
+user.log:Sep 16 12:17:32 indigosystem nagios3: SERVICE FLAPPING ALERT: device_2_2_33_X051BP;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)

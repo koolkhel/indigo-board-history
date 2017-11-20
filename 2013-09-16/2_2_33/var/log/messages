@@ -1,0 +1,1970 @@
+Sep 16 13:46:56 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]: abort on (BUSY)
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]: abort on (ERROR)
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]: abort on (NO CARRIER)
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]: timeout set to 12 seconds
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]: send (AT^M)
+Sep 16 13:46:58 indigo-tracker local2.info chat[11407]:  -- write failed: Input/output error
+Sep 16 13:46:58 indigo-tracker local2.err chat[11407]: Failed
+Sep 16 13:46:58 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11408 cmd /etc/cron/check_updates.sh
+Sep 16 13:47:01 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]: abort on (BUSY)
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]: abort on (ERROR)
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]: abort on (NO CARRIER)
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]: timeout set to 12 seconds
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]: send (AT^M)
+Sep 16 13:47:13 indigo-tracker local2.info chat[11411]:  -- write failed: Input/output error
+Sep 16 13:47:13 indigo-tracker local2.err chat[11411]: Failed
+Sep 16 13:47:13 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:47:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]: abort on (BUSY)
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]: abort on (ERROR)
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]: abort on (NO CARRIER)
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]: timeout set to 12 seconds
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]: send (AT^M)
+Sep 16 13:47:28 indigo-tracker local2.info chat[11413]:  -- write failed: Input/output error
+Sep 16 13:47:28 indigo-tracker local2.err chat[11413]: Failed
+Sep 16 13:47:28 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:47:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:43 indigo-tracker local2.info chat[11415]: abort on (BUSY)
+Sep 16 13:47:43 indigo-tracker local2.info chat[11415]: abort on (ERROR)
+Sep 16 13:47:43 indigo-tracker local2.info chat[11415]: abort on (NO CARRIER)
+Sep 16 13:47:43 indigo-tracker local2.info chat[11415]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:47:43 indigo-tracker local2.info chat[11415]: timeout set to 12 seconds
+Sep 16 13:47:43 indigo-tracker local2.info chat[11415]: send (AT^M)
+Sep 16 13:47:44 indigo-tracker local2.info chat[11415]:  -- write failed: Input/output error
+Sep 16 13:47:44 indigo-tracker local2.err chat[11415]: Failed
+Sep 16 13:47:44 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:47:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]: abort on (BUSY)
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]: abort on (ERROR)
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]: abort on (NO CARRIER)
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]: timeout set to 12 seconds
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]: send (AT^M)
+Sep 16 13:47:59 indigo-tracker local2.info chat[11417]:  -- write failed: Input/output error
+Sep 16 13:47:59 indigo-tracker local2.err chat[11417]: Failed
+Sep 16 13:47:59 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11418 cmd /etc/cron/check_updates.sh
+Sep 16 13:48:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]: abort on (BUSY)
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]: abort on (ERROR)
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]: abort on (NO CARRIER)
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]: timeout set to 12 seconds
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]: send (AT^M)
+Sep 16 13:48:14 indigo-tracker local2.info chat[11421]:  -- write failed: Input/output error
+Sep 16 13:48:14 indigo-tracker local2.err chat[11421]: Failed
+Sep 16 13:48:14 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:48:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:17 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:48:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]: abort on (BUSY)
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]: abort on (ERROR)
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]: abort on (NO CARRIER)
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]: timeout set to 12 seconds
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]: send (AT^M)
+Sep 16 13:48:29 indigo-tracker local2.info chat[11427]:  -- write failed: Input/output error
+Sep 16 13:48:29 indigo-tracker local2.err chat[11427]: Failed
+Sep 16 13:48:29 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:48:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:37 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:48:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]: abort on (BUSY)
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]: abort on (ERROR)
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]: abort on (NO CARRIER)
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]: timeout set to 12 seconds
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]: send (AT^M)
+Sep 16 13:48:44 indigo-tracker local2.info chat[11433]:  -- write failed: Input/output error
+Sep 16 13:48:44 indigo-tracker local2.err chat[11433]: Failed
+Sep 16 13:48:44 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:48:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:48:58 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]: abort on (BUSY)
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]: abort on (ERROR)
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]: abort on (NO CARRIER)
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]: timeout set to 12 seconds
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]: send (AT^M)
+Sep 16 13:48:59 indigo-tracker local2.info chat[11439]:  -- write failed: Input/output error
+Sep 16 13:48:59 indigo-tracker local2.err chat[11439]: Failed
+Sep 16 13:48:59 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11440 cmd /etc/cron/check_updates.sh
+Sep 16 13:49:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:08 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:49:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]: abort on (BUSY)
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]: abort on (ERROR)
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]: abort on (NO CARRIER)
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]: timeout set to 12 seconds
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]: send (AT^M)
+Sep 16 13:49:14 indigo-tracker local2.info chat[11447]:  -- write failed: Input/output error
+Sep 16 13:49:14 indigo-tracker local2.err chat[11447]: Failed
+Sep 16 13:49:14 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:49:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]: abort on (BUSY)
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]: abort on (ERROR)
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]: abort on (NO CARRIER)
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]: timeout set to 12 seconds
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]: send (AT^M)
+Sep 16 13:49:29 indigo-tracker local2.info chat[11449]:  -- write failed: Input/output error
+Sep 16 13:49:29 indigo-tracker local2.err chat[11449]: Failed
+Sep 16 13:49:29 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:49:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]: abort on (BUSY)
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]: abort on (ERROR)
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]: abort on (NO CARRIER)
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]: timeout set to 12 seconds
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]: send (AT^M)
+Sep 16 13:49:44 indigo-tracker local2.info chat[11451]:  -- write failed: Input/output error
+Sep 16 13:49:44 indigo-tracker local2.err chat[11451]: Failed
+Sep 16 13:49:44 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:49:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:48 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:49:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:49:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]: abort on (BUSY)
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]: abort on (ERROR)
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]: abort on (NO CARRIER)
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]: timeout set to 12 seconds
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]: send (AT^M)
+Sep 16 13:50:00 indigo-tracker local2.info chat[11457]:  -- write failed: Input/output error
+Sep 16 13:50:00 indigo-tracker local2.err chat[11457]: Failed
+Sep 16 13:50:00 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11458 cmd /etc/cron/check_updates.sh
+Sep 16 13:50:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]: abort on (BUSY)
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]: abort on (ERROR)
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]: abort on (NO CARRIER)
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]: timeout set to 12 seconds
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]: send (AT^M)
+Sep 16 13:50:15 indigo-tracker local2.info chat[11461]:  -- write failed: Input/output error
+Sep 16 13:50:15 indigo-tracker local2.err chat[11461]: Failed
+Sep 16 13:50:15 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:50:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:29 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]: abort on (BUSY)
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]: abort on (ERROR)
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]: abort on (NO CARRIER)
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]: timeout set to 12 seconds
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]: send (AT^M)
+Sep 16 13:50:30 indigo-tracker local2.info chat[11467]:  -- write failed: Input/output error
+Sep 16 13:50:30 indigo-tracker local2.err chat[11467]: Failed
+Sep 16 13:50:30 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:50:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:39 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:50:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]: abort on (BUSY)
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]: abort on (ERROR)
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]: abort on (NO CARRIER)
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]: timeout set to 12 seconds
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]: send (AT^M)
+Sep 16 13:50:45 indigo-tracker local2.info chat[11473]:  -- write failed: Input/output error
+Sep 16 13:50:45 indigo-tracker local2.err chat[11473]: Failed
+Sep 16 13:50:45 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:50:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:50:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]: abort on (BUSY)
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]: abort on (ERROR)
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]: abort on (NO CARRIER)
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]: timeout set to 12 seconds
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]: send (AT^M)
+Sep 16 13:51:00 indigo-tracker local2.info chat[11475]:  -- write failed: Input/output error
+Sep 16 13:51:00 indigo-tracker local2.err chat[11475]: Failed
+Sep 16 13:51:00 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11476 cmd /etc/cron/check_updates.sh
+Sep 16 13:51:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]: abort on (BUSY)
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]: abort on (ERROR)
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]: abort on (NO CARRIER)
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]: timeout set to 12 seconds
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]: send (AT^M)
+Sep 16 13:51:15 indigo-tracker local2.info chat[11479]:  -- write failed: Input/output error
+Sep 16 13:51:15 indigo-tracker local2.err chat[11479]: Failed
+Sep 16 13:51:15 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:51:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:28 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]: abort on (BUSY)
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]: abort on (ERROR)
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]: abort on (NO CARRIER)
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]: timeout set to 12 seconds
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]: send (AT^M)
+Sep 16 13:51:30 indigo-tracker local2.info chat[11481]:  -- write failed: Input/output error
+Sep 16 13:51:30 indigo-tracker local2.err chat[11481]: Failed
+Sep 16 13:51:30 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:51:33 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:38 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:39 indigo-tracker user.debug sqlite: sending keepalive
+Sep 16 13:51:39 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:51:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]: abort on (BUSY)
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]: abort on (ERROR)
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]: abort on (NO CARRIER)
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]: timeout set to 12 seconds
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]: send (AT^M)
+Sep 16 13:51:45 indigo-tracker local2.info chat[11491]:  -- write failed: Input/output error
+Sep 16 13:51:45 indigo-tracker local2.err chat[11491]: Failed
+Sep 16 13:51:45 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:51:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:51:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]: abort on (BUSY)
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]: abort on (ERROR)
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]: abort on (NO CARRIER)
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]: timeout set to 12 seconds
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]: send (AT^M)
+Sep 16 13:52:00 indigo-tracker local2.info chat[11493]:  -- write failed: Input/output error
+Sep 16 13:52:00 indigo-tracker local2.err chat[11493]: Failed
+Sep 16 13:52:00 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11494 cmd /etc/cron/check_updates.sh
+Sep 16 13:52:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]: abort on (BUSY)
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]: abort on (ERROR)
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]: abort on (NO CARRIER)
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]: timeout set to 12 seconds
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]: send (AT^M)
+Sep 16 13:52:16 indigo-tracker local2.info chat[11497]:  -- write failed: Input/output error
+Sep 16 13:52:16 indigo-tracker local2.err chat[11497]: Failed
+Sep 16 13:52:16 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:52:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:28 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]: abort on (BUSY)
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]: abort on (ERROR)
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]: abort on (NO CARRIER)
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]: timeout set to 12 seconds
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]: send (AT^M)
+Sep 16 13:52:31 indigo-tracker local2.info chat[11499]:  -- write failed: Input/output error
+Sep 16 13:52:31 indigo-tracker local2.err chat[11499]: Failed
+Sep 16 13:52:31 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:52:33 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:38 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:40 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:52:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]: abort on (BUSY)
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]: abort on (ERROR)
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]: abort on (NO CARRIER)
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]: timeout set to 12 seconds
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]: send (AT^M)
+Sep 16 13:52:46 indigo-tracker local2.info chat[11505]:  -- write failed: Input/output error
+Sep 16 13:52:46 indigo-tracker local2.err chat[11505]: Failed
+Sep 16 13:52:46 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:52:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:52:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:00 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]: abort on (BUSY)
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]: abort on (ERROR)
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]: abort on (NO CARRIER)
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]: timeout set to 12 seconds
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]: send (AT^M)
+Sep 16 13:53:01 indigo-tracker local2.info chat[11511]:  -- write failed: Input/output error
+Sep 16 13:53:01 indigo-tracker local2.err chat[11511]: Failed
+Sep 16 13:53:01 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11512 cmd /etc/cron/check_updates.sh
+Sep 16 13:53:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:10 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:53:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]: abort on (BUSY)
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]: abort on (ERROR)
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]: abort on (NO CARRIER)
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]: timeout set to 12 seconds
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]: send (AT^M)
+Sep 16 13:53:16 indigo-tracker local2.info chat[11519]:  -- write failed: Input/output error
+Sep 16 13:53:16 indigo-tracker local2.err chat[11519]: Failed
+Sep 16 13:53:16 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:53:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:21 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:53:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:28 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:31 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]: abort on (BUSY)
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]: abort on (ERROR)
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]: abort on (NO CARRIER)
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]: timeout set to 12 seconds
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]: send (AT^M)
+Sep 16 13:53:31 indigo-tracker local2.info chat[11529]:  -- write failed: Input/output error
+Sep 16 13:53:31 indigo-tracker local2.err chat[11529]: Failed
+Sep 16 13:53:31 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:53:33 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:38 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]: abort on (BUSY)
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]: abort on (ERROR)
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]: abort on (NO CARRIER)
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]: timeout set to 12 seconds
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]: send (AT^M)
+Sep 16 13:53:46 indigo-tracker local2.info chat[11531]:  -- write failed: Input/output error
+Sep 16 13:53:46 indigo-tracker local2.err chat[11531]: Failed
+Sep 16 13:53:46 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:53:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:51 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:53:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:53:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11536 cmd /etc/cron/check_updates.sh
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]: abort on (BUSY)
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]: abort on (ERROR)
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]: abort on (NO CARRIER)
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]: timeout set to 12 seconds
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]: send (AT^M)
+Sep 16 13:54:01 indigo-tracker local2.info chat[11543]:  -- write failed: Input/output error
+Sep 16 13:54:01 indigo-tracker local2.err chat[11543]: Failed
+Sep 16 13:54:01 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:54:02 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:54:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:12 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:54:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]: abort on (BUSY)
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]: abort on (ERROR)
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]: abort on (NO CARRIER)
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]: timeout set to 12 seconds
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]: send (AT^M)
+Sep 16 13:54:17 indigo-tracker local2.info chat[11549]:  -- write failed: Input/output error
+Sep 16 13:54:17 indigo-tracker local2.err chat[11549]: Failed
+Sep 16 13:54:17 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:54:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:22 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:54:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:28 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]: abort on (BUSY)
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]: abort on (ERROR)
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]: abort on (NO CARRIER)
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]: timeout set to 12 seconds
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]: send (AT^M)
+Sep 16 13:54:32 indigo-tracker local2.info chat[11555]:  -- write failed: Input/output error
+Sep 16 13:54:32 indigo-tracker local2.err chat[11555]: Failed
+Sep 16 13:54:32 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:54:32 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:54:33 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:38 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:43 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:54:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]: abort on (BUSY)
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]: abort on (ERROR)
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]: abort on (NO CARRIER)
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]: timeout set to 12 seconds
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]: send (AT^M)
+Sep 16 13:54:47 indigo-tracker local2.info chat[11565]:  -- write failed: Input/output error
+Sep 16 13:54:47 indigo-tracker local2.err chat[11565]: Failed
+Sep 16 13:54:47 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:54:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:53 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:54:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:54:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11570 cmd /etc/cron/check_updates.sh
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]: abort on (BUSY)
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]: abort on (ERROR)
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]: abort on (NO CARRIER)
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]: timeout set to 12 seconds
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]: send (AT^M)
+Sep 16 13:55:02 indigo-tracker local2.info chat[11573]:  -- write failed: Input/output error
+Sep 16 13:55:02 indigo-tracker local2.err chat[11573]: Failed
+Sep 16 13:55:02 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:55:03 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:55:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]: abort on (BUSY)
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]: abort on (ERROR)
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]: abort on (NO CARRIER)
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]: timeout set to 12 seconds
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]: send (AT^M)
+Sep 16 13:55:17 indigo-tracker local2.info chat[11579]:  -- write failed: Input/output error
+Sep 16 13:55:17 indigo-tracker local2.err chat[11579]: Failed
+Sep 16 13:55:17 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:55:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]: abort on (BUSY)
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]: abort on (ERROR)
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]: abort on (NO CARRIER)
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]: timeout set to 12 seconds
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]: send (AT^M)
+Sep 16 13:55:32 indigo-tracker local2.info chat[11581]:  -- write failed: Input/output error
+Sep 16 13:55:32 indigo-tracker local2.err chat[11581]: Failed
+Sep 16 13:55:32 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:55:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:43 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:55:44 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]: abort on (BUSY)
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]: abort on (ERROR)
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]: abort on (NO CARRIER)
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]: timeout set to 12 seconds
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]: send (AT^M)
+Sep 16 13:55:47 indigo-tracker local2.info chat[11587]:  -- write failed: Input/output error
+Sep 16 13:55:47 indigo-tracker local2.err chat[11587]: Failed
+Sep 16 13:55:47 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:55:49 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:54 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:55:54 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:55:59 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11592 cmd /etc/cron/check_updates.sh
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]: abort on (BUSY)
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]: abort on (ERROR)
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]: abort on (NO CARRIER)
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]: timeout set to 12 seconds
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]: send (AT^M)
+Sep 16 13:56:02 indigo-tracker local2.info chat[11595]:  -- write failed: Input/output error
+Sep 16 13:56:02 indigo-tracker local2.err chat[11595]: Failed
+Sep 16 13:56:02 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:56:04 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:04 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:56:09 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:14 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:14 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]: abort on (BUSY)
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]: abort on (ERROR)
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]: abort on (NO CARRIER)
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]: timeout set to 12 seconds
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]: send (AT^M)
+Sep 16 13:56:17 indigo-tracker local2.info chat[11605]:  -- write failed: Input/output error
+Sep 16 13:56:17 indigo-tracker local2.err chat[11605]: Failed
+Sep 16 13:56:18 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:56:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:24 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:56:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]: abort on (BUSY)
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]: abort on (ERROR)
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]: abort on (NO CARRIER)
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]: timeout set to 12 seconds
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]: send (AT^M)
+Sep 16 13:56:33 indigo-tracker local2.info chat[11611]:  -- write failed: Input/output error
+Sep 16 13:56:33 indigo-tracker local2.err chat[11611]: Failed
+Sep 16 13:56:33 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:56:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:35 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:56:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:44 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:45 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]: abort on (BUSY)
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]: abort on (ERROR)
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]: abort on (NO CARRIER)
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]: timeout set to 12 seconds
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]: send (AT^M)
+Sep 16 13:56:48 indigo-tracker local2.info chat[11621]:  -- write failed: Input/output error
+Sep 16 13:56:48 indigo-tracker local2.err chat[11621]: Failed
+Sep 16 13:56:48 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:56:49 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:54 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:56:59 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11622 cmd /etc/cron/check_updates.sh
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]: abort on (BUSY)
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]: abort on (ERROR)
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]: abort on (NO CARRIER)
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]: timeout set to 12 seconds
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]: send (AT^M)
+Sep 16 13:57:03 indigo-tracker local2.info chat[11625]:  -- write failed: Input/output error
+Sep 16 13:57:03 indigo-tracker local2.err chat[11625]: Failed
+Sep 16 13:57:03 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:57:04 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:05 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:57:09 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:14 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]: abort on (BUSY)
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]: abort on (ERROR)
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]: abort on (NO CARRIER)
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]: timeout set to 12 seconds
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]: send (AT^M)
+Sep 16 13:57:18 indigo-tracker local2.info chat[11631]:  -- write failed: Input/output error
+Sep 16 13:57:18 indigo-tracker local2.err chat[11631]: Failed
+Sep 16 13:57:18 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:57:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]: abort on (BUSY)
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]: abort on (ERROR)
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]: abort on (NO CARRIER)
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]: timeout set to 12 seconds
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]: send (AT^M)
+Sep 16 13:57:33 indigo-tracker local2.info chat[11633]:  -- write failed: Input/output error
+Sep 16 13:57:33 indigo-tracker local2.err chat[11633]: Failed
+Sep 16 13:57:33 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:57:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:35 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:57:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:44 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:46 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]: abort on (BUSY)
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]: abort on (ERROR)
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]: abort on (NO CARRIER)
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]: timeout set to 12 seconds
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]: send (AT^M)
+Sep 16 13:57:48 indigo-tracker local2.info chat[11643]:  -- write failed: Input/output error
+Sep 16 13:57:48 indigo-tracker local2.err chat[11643]: Failed
+Sep 16 13:57:48 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:57:49 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:54 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:57:59 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11644 cmd /etc/cron/check_updates.sh
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]: abort on (BUSY)
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]: abort on (ERROR)
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]: abort on (NO CARRIER)
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]: timeout set to 12 seconds
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]: send (AT^M)
+Sep 16 13:58:03 indigo-tracker local2.info chat[11647]:  -- write failed: Input/output error
+Sep 16 13:58:03 indigo-tracker local2.err chat[11647]: Failed
+Sep 16 13:58:03 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:58:04 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:06 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:58:09 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:14 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:16 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]: abort on (BUSY)
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]: abort on (ERROR)
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]: abort on (NO CARRIER)
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]: timeout set to 12 seconds
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]: send (AT^M)
+Sep 16 13:58:18 indigo-tracker local2.info chat[11657]:  -- write failed: Input/output error
+Sep 16 13:58:18 indigo-tracker local2.err chat[11657]: Failed
+Sep 16 13:58:18 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:58:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]: abort on (BUSY)
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]: abort on (ERROR)
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]: abort on (NO CARRIER)
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]: timeout set to 12 seconds
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]: send (AT^M)
+Sep 16 13:58:34 indigo-tracker local2.info chat[11659]:  -- write failed: Input/output error
+Sep 16 13:58:34 indigo-tracker local2.err chat[11659]: Failed
+Sep 16 13:58:34 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:58:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:44 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]: abort on (BUSY)
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]: abort on (ERROR)
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]: abort on (NO CARRIER)
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]: timeout set to 12 seconds
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]: send (AT^M)
+Sep 16 13:58:49 indigo-tracker local2.info chat[11661]:  -- write failed: Input/output error
+Sep 16 13:58:49 indigo-tracker local2.err chat[11661]: Failed
+Sep 16 13:58:49 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:58:49 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:54 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:58:59 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11662 cmd /etc/cron/check_updates.sh
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]: abort on (BUSY)
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]: abort on (ERROR)
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]: abort on (NO CARRIER)
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]: timeout set to 12 seconds
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]: send (AT^M)
+Sep 16 13:59:04 indigo-tracker local2.info chat[11665]:  -- write failed: Input/output error
+Sep 16 13:59:04 indigo-tracker local2.err chat[11665]: Failed
+Sep 16 13:59:04 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:59:04 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:07 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:59:09 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:14 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]: abort on (BUSY)
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]: abort on (ERROR)
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]: abort on (NO CARRIER)
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]: timeout set to 12 seconds
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]: send (AT^M)
+Sep 16 13:59:19 indigo-tracker local2.info chat[11671]:  -- write failed: Input/output error
+Sep 16 13:59:19 indigo-tracker local2.err chat[11671]: Failed
+Sep 16 13:59:19 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:59:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:27 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:59:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]: abort on (BUSY)
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]: abort on (ERROR)
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]: abort on (NO CARRIER)
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]: timeout set to 12 seconds
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]: send (AT^M)
+Sep 16 13:59:34 indigo-tracker local2.info chat[11677]:  -- write failed: Input/output error
+Sep 16 13:59:34 indigo-tracker local2.err chat[11677]: Failed
+Sep 16 13:59:34 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:59:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:37 indigo-tracker user.debug sqlite: movement start
+Sep 16 13:59:40 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:47 indigo-tracker user.debug sqlite: movement stop
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]: abort on (BUSY)
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]: abort on (ERROR)
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]: abort on (NO CARRIER)
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]: timeout set to 12 seconds
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]: send (AT^M)
+Sep 16 13:59:49 indigo-tracker local2.info chat[11687]:  -- write failed: Input/output error
+Sep 16 13:59:49 indigo-tracker local2.err chat[11687]: Failed
+Sep 16 13:59:49 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 13:59:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 13:59:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:00 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 11688 cmd /etc/cron/check_pppd
+Sep 16 14:00:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 11689 cmd /etc/cron/check_updates.sh
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]: abort on (BUSY)
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]: abort on (ERROR)
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]: abort on (NO CARRIER)
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]: timeout set to 12 seconds
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]: send (AT^M)
+Sep 16 14:00:04 indigo-tracker local2.info chat[11700]:  -- write failed: Input/output error
+Sep 16 14:00:04 indigo-tracker local2.err chat[11700]: Failed
+Sep 16 14:00:04 indigo-tracker daemon.err pppd[11084]: Connect script failed
+Sep 16 14:00:05 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:08 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:00:10 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:13 indigo-tracker user.notice root: GSMmux restarted from check_pppd with reset of GPRS module
+Sep 16 14:00:13 indigo-tracker daemon.info pppd[11084]: Terminating on signal 15
+Sep 16 14:00:13 indigo-tracker daemon.info pppd[11084]: Exit.
+Sep 16 14:00:13 indigo-tracker user.notice root: pppd stopped
+Sep 16 14:00:15 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:18 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:00:20 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:20 indigo-tracker user.notice root: Stopping cbclogger daemon: OK
+Sep 16 14:00:23 indigo-tracker user.notice root: pppd stopped
+Sep 16 14:00:23 indigo-tracker user.notice root: Stopping cbclogger daemon: OK
+Sep 16 14:00:25 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:30 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:34 indigo-tracker user.notice root: clients still using gsm mux, can not stop.
+Sep 16 14:00:34 indigo-tracker user.notice root: ppp0.pid
+Sep 16 14:00:35 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:37 indigo-tracker user.err kernel: gsm: creating command 2
+Sep 16 14:00:40 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:44 indigo-tracker user.err kernel: gsm: creating command 1
+Sep 16 14:00:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:00:56 indigo-tracker user.notice root: gsmmux is starting
+Sep 16 14:00:56 indigo-tracker user.notice root: gsmmux is started successfully
+Sep 16 14:01:00 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11785 cmd /etc/cron/check_updates.sh
+Sep 16 14:01:05 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:06 indigo-tracker user.notice root: PPPd is starting
+Sep 16 14:01:06 indigo-tracker daemon.notice pppd[11792]: pppd 2.4.5 started by root, uid 0
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]: abort on (BUSY)
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]: abort on (ERROR)
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]: abort on (NO CARRIER)
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]: timeout set to 12 seconds
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]: send (AT^M)
+Sep 16 14:01:06 indigo-tracker local2.info chat[11795]:  -- write failed: Input/output error
+Sep 16 14:01:06 indigo-tracker local2.err chat[11795]: Failed
+Sep 16 14:01:06 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:01:07 indigo-tracker user.notice root: PPPd started
+Sep 16 14:01:07 indigo-tracker user.notice root: Starting cbclogger daemon: OK
+Sep 16 14:01:07 indigo-tracker user.notice root: GSMmux/pppd should be started now
+Sep 16 14:01:07 indigo-tracker user.debug sqlite: gps connected ok
+Sep 16 14:01:08 indigo-tracker user.debug sqlite: got carrier
+Sep 16 14:01:09 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:01:10 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:15 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:19 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:01:20 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]: abort on (BUSY)
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]: abort on (ERROR)
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]: abort on (NO CARRIER)
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]: timeout set to 12 seconds
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]: send (AT^M)
+Sep 16 14:01:22 indigo-tracker local2.info chat[11816]:  -- write failed: Input/output error
+Sep 16 14:01:22 indigo-tracker local2.err chat[11816]: Failed
+Sep 16 14:01:22 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:01:25 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:30 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:35 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]: abort on (BUSY)
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]: abort on (ERROR)
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]: abort on (NO CARRIER)
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]: timeout set to 12 seconds
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]: send (AT^M)
+Sep 16 14:01:37 indigo-tracker local2.info chat[11818]:  -- write failed: Input/output error
+Sep 16 14:01:37 indigo-tracker local2.err chat[11818]: Failed
+Sep 16 14:01:37 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:01:40 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:01:40 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:50 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:01:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]: abort on (BUSY)
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]: abort on (ERROR)
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]: abort on (NO CARRIER)
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]: timeout set to 12 seconds
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]: send (AT^M)
+Sep 16 14:01:52 indigo-tracker local2.info chat[11828]:  -- write failed: Input/output error
+Sep 16 14:01:52 indigo-tracker local2.err chat[11828]: Failed
+Sep 16 14:01:52 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:01:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:00 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:02:00 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11833 cmd /etc/cron/check_updates.sh
+Sep 16 14:02:05 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]: abort on (BUSY)
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]: abort on (ERROR)
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]: abort on (NO CARRIER)
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]: timeout set to 12 seconds
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]: send (AT^M)
+Sep 16 14:02:07 indigo-tracker local2.info chat[11836]:  -- write failed: Input/output error
+Sep 16 14:02:07 indigo-tracker local2.err chat[11836]: Failed
+Sep 16 14:02:07 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:02:10 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:11 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:02:15 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:20 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:21 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]: abort on (BUSY)
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]: abort on (ERROR)
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]: abort on (NO CARRIER)
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]: timeout set to 12 seconds
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]: send (AT^M)
+Sep 16 14:02:22 indigo-tracker local2.info chat[11846]:  -- write failed: Input/output error
+Sep 16 14:02:22 indigo-tracker local2.err chat[11846]: Failed
+Sep 16 14:02:22 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:02:25 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:30 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:35 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]: abort on (BUSY)
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]: abort on (ERROR)
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]: abort on (NO CARRIER)
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]: timeout set to 12 seconds
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]: send (AT^M)
+Sep 16 14:02:37 indigo-tracker local2.info chat[11848]:  -- write failed: Input/output error
+Sep 16 14:02:37 indigo-tracker local2.err chat[11848]: Failed
+Sep 16 14:02:37 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:02:40 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:41 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:02:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:02:51 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]: abort on (BUSY)
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]: abort on (ERROR)
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]: abort on (NO CARRIER)
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]: timeout set to 12 seconds
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]: send (AT^M)
+Sep 16 14:02:52 indigo-tracker local2.info chat[11858]:  -- write failed: Input/output error
+Sep 16 14:02:52 indigo-tracker local2.err chat[11858]: Failed
+Sep 16 14:02:52 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:02:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:00 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11859 cmd /etc/cron/check_updates.sh
+Sep 16 14:03:02 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:03:05 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]: abort on (BUSY)
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]: abort on (ERROR)
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]: abort on (NO CARRIER)
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]: timeout set to 12 seconds
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]: send (AT^M)
+Sep 16 14:03:07 indigo-tracker local2.info chat[11866]:  -- write failed: Input/output error
+Sep 16 14:03:07 indigo-tracker local2.err chat[11866]: Failed
+Sep 16 14:03:07 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:03:10 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:12 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:03:16 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:21 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:22 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]: abort on (BUSY)
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]: abort on (ERROR)
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]: abort on (NO CARRIER)
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]: timeout set to 12 seconds
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]: send (AT^M)
+Sep 16 14:03:23 indigo-tracker local2.info chat[11876]:  -- write failed: Input/output error
+Sep 16 14:03:23 indigo-tracker local2.err chat[11876]: Failed
+Sep 16 14:03:23 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:03:26 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:31 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:32 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:03:36 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]: abort on (BUSY)
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]: abort on (ERROR)
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]: abort on (NO CARRIER)
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]: timeout set to 12 seconds
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]: send (AT^M)
+Sep 16 14:03:38 indigo-tracker local2.info chat[11882]:  -- write failed: Input/output error
+Sep 16 14:03:38 indigo-tracker local2.err chat[11882]: Failed
+Sep 16 14:03:38 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:03:41 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:43 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:03:46 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:51 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]: abort on (BUSY)
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]: abort on (ERROR)
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]: abort on (NO CARRIER)
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]: timeout set to 12 seconds
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]: send (AT^M)
+Sep 16 14:03:53 indigo-tracker local2.info chat[11888]:  -- write failed: Input/output error
+Sep 16 14:03:53 indigo-tracker local2.err chat[11888]: Failed
+Sep 16 14:03:53 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:03:53 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:03:56 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:01 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11893 cmd /etc/cron/check_updates.sh
+Sep 16 14:04:03 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:04:06 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]: abort on (BUSY)
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]: abort on (ERROR)
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]: abort on (NO CARRIER)
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]: timeout set to 12 seconds
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]: send (AT^M)
+Sep 16 14:04:08 indigo-tracker local2.info chat[11900]:  -- write failed: Input/output error
+Sep 16 14:04:08 indigo-tracker local2.err chat[11900]: Failed
+Sep 16 14:04:08 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:04:11 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:14 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:04:16 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:21 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]: abort on (BUSY)
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]: abort on (ERROR)
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]: abort on (NO CARRIER)
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]: timeout set to 12 seconds
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]: send (AT^M)
+Sep 16 14:04:23 indigo-tracker local2.info chat[11906]:  -- write failed: Input/output error
+Sep 16 14:04:23 indigo-tracker local2.err chat[11906]: Failed
+Sep 16 14:04:23 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:04:26 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:31 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:36 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]: abort on (BUSY)
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]: abort on (ERROR)
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]: abort on (NO CARRIER)
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]: timeout set to 12 seconds
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]: send (AT^M)
+Sep 16 14:04:38 indigo-tracker local2.info chat[11908]:  -- write failed: Input/output error
+Sep 16 14:04:38 indigo-tracker local2.err chat[11908]: Failed
+Sep 16 14:04:38 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:04:41 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:46 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:51 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]: abort on (BUSY)
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]: abort on (ERROR)
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]: abort on (NO CARRIER)
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]: timeout set to 12 seconds
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]: send (AT^M)
+Sep 16 14:04:53 indigo-tracker local2.info chat[11910]:  -- write failed: Input/output error
+Sep 16 14:04:53 indigo-tracker local2.err chat[11910]: Failed
+Sep 16 14:04:53 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:04:54 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:04:56 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11915 cmd /etc/cron/check_updates.sh
+Sep 16 14:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11916 cmd /etc/cron/rotate_video.sh
+Sep 16 14:05:01 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:04 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep 16 14:05:06 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]: abort on (BUSY)
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]: abort on (ERROR)
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]: abort on (NO CARRIER)
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]: timeout set to 12 seconds
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]: send (AT^M)
+Sep 16 14:05:09 indigo-tracker local2.info chat[11935]:  -- write failed: Input/output error
+Sep 16 14:05:09 indigo-tracker local2.err chat[11935]: Failed
+Sep 16 14:05:09 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:05:11 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:16 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:21 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]: abort on (BUSY)
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]: abort on (ERROR)
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]: abort on (NO CARRIER)
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]: timeout set to 12 seconds
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]: send (AT^M)
+Sep 16 14:05:24 indigo-tracker local2.info chat[11937]:  -- write failed: Input/output error
+Sep 16 14:05:24 indigo-tracker local2.err chat[11937]: Failed
+Sep 16 14:05:24 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:05:26 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:31 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:36 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]: abort on (BUSY)
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]: abort on (ERROR)
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]: abort on (NO CARRIER)
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]: timeout set to 12 seconds
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]: send (AT^M)
+Sep 16 14:05:39 indigo-tracker local2.info chat[11939]:  -- write failed: Input/output error
+Sep 16 14:05:39 indigo-tracker local2.err chat[11939]: Failed
+Sep 16 14:05:39 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:05:41 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:46 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:51 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]: abort on (BUSY)
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]: abort on (ERROR)
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]: abort on (NO CARRIER)
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]: timeout set to 12 seconds
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]: send (AT^M)
+Sep 16 14:05:54 indigo-tracker local2.info chat[11941]:  -- write failed: Input/output error
+Sep 16 14:05:54 indigo-tracker local2.err chat[11941]: Failed
+Sep 16 14:05:54 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:05:56 indigo-tracker user.debug sqlite: sending keepalive
+Sep 16 14:05:56 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11946 cmd /etc/cron/check_updates.sh
+Sep 16 14:06:01 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:06 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]: abort on (BUSY)
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]: abort on (ERROR)
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]: abort on (NO CARRIER)
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]: timeout set to 12 seconds
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]: send (AT^M)
+Sep 16 14:06:09 indigo-tracker local2.info chat[11949]:  -- write failed: Input/output error
+Sep 16 14:06:09 indigo-tracker local2.err chat[11949]: Failed
+Sep 16 14:06:09 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:06:11 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:16 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:21 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]: abort on (BUSY)
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]: abort on (ERROR)
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]: abort on (NO CARRIER)
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]: timeout set to 12 seconds
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]: send (AT^M)
+Sep 16 14:06:24 indigo-tracker local2.info chat[11951]:  -- write failed: Input/output error
+Sep 16 14:06:24 indigo-tracker local2.err chat[11951]: Failed
+Sep 16 14:06:24 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:06:26 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:31 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:36 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:39 indigo-tracker local2.info chat[11953]: abort on (BUSY)
+Sep 16 14:06:39 indigo-tracker local2.info chat[11953]: abort on (ERROR)
+Sep 16 14:06:39 indigo-tracker local2.info chat[11953]: abort on (NO CARRIER)
+Sep 16 14:06:39 indigo-tracker local2.info chat[11953]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:06:39 indigo-tracker local2.info chat[11953]: timeout set to 12 seconds
+Sep 16 14:06:39 indigo-tracker local2.info chat[11953]: send (AT^M)
+Sep 16 14:06:40 indigo-tracker local2.info chat[11953]:  -- write failed: Input/output error
+Sep 16 14:06:40 indigo-tracker local2.err chat[11953]: Failed
+Sep 16 14:06:40 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:06:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]: abort on (BUSY)
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]: abort on (ERROR)
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]: abort on (NO CARRIER)
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]: timeout set to 12 seconds
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]: send (AT^M)
+Sep 16 14:06:55 indigo-tracker local2.info chat[11955]:  -- write failed: Input/output error
+Sep 16 14:06:55 indigo-tracker local2.err chat[11955]: Failed
+Sep 16 14:06:55 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:06:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11956 cmd /etc/cron/check_updates.sh
+Sep 16 14:07:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]: abort on (BUSY)
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]: abort on (ERROR)
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]: abort on (NO CARRIER)
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]: timeout set to 12 seconds
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]: send (AT^M)
+Sep 16 14:07:10 indigo-tracker local2.info chat[11959]:  -- write failed: Input/output error
+Sep 16 14:07:10 indigo-tracker local2.err chat[11959]: Failed
+Sep 16 14:07:10 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:07:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]: abort on (BUSY)
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]: abort on (ERROR)
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]: abort on (NO CARRIER)
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]: timeout set to 12 seconds
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]: send (AT^M)
+Sep 16 14:07:25 indigo-tracker local2.info chat[11961]:  -- write failed: Input/output error
+Sep 16 14:07:25 indigo-tracker local2.err chat[11961]: Failed
+Sep 16 14:07:25 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:07:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:27 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:07:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]: abort on (BUSY)
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]: abort on (ERROR)
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]: abort on (NO CARRIER)
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]: timeout set to 12 seconds
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]: send (AT^M)
+Sep 16 14:07:40 indigo-tracker local2.info chat[11967]:  -- write failed: Input/output error
+Sep 16 14:07:40 indigo-tracker local2.err chat[11967]: Failed
+Sep 16 14:07:40 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:07:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]: abort on (BUSY)
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]: abort on (ERROR)
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]: abort on (NO CARRIER)
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]: timeout set to 12 seconds
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]: send (AT^M)
+Sep 16 14:07:55 indigo-tracker local2.info chat[11969]:  -- write failed: Input/output error
+Sep 16 14:07:55 indigo-tracker local2.err chat[11969]: Failed
+Sep 16 14:07:55 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:07:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 11970 cmd /etc/cron/check_updates.sh
+Sep 16 14:08:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]: abort on (BUSY)
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]: abort on (ERROR)
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]: abort on (NO CARRIER)
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]: timeout set to 12 seconds
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]: send (AT^M)
+Sep 16 14:08:11 indigo-tracker local2.info chat[11973]:  -- write failed: Input/output error
+Sep 16 14:08:11 indigo-tracker local2.err chat[11973]: Failed
+Sep 16 14:08:11 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:08:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]: abort on (BUSY)
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]: abort on (ERROR)
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]: abort on (NO CARRIER)
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]: timeout set to 12 seconds
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]: send (AT^M)
+Sep 16 14:08:26 indigo-tracker local2.info chat[11975]:  -- write failed: Input/output error
+Sep 16 14:08:26 indigo-tracker local2.err chat[11975]: Failed
+Sep 16 14:08:26 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:08:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:29 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:08:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:40 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]: abort on (BUSY)
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]: abort on (ERROR)
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]: abort on (NO CARRIER)
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]: timeout set to 12 seconds
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]: send (AT^M)
+Sep 16 14:08:41 indigo-tracker local2.info chat[11985]:  -- write failed: Input/output error
+Sep 16 14:08:41 indigo-tracker local2.err chat[11985]: Failed
+Sep 16 14:08:41 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:08:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]: abort on (BUSY)
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]: abort on (ERROR)
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]: abort on (NO CARRIER)
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]: timeout set to 12 seconds
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]: send (AT^M)
+Sep 16 14:08:57 indigo-tracker local2.info chat[11987]:  -- write failed: Input/output error
+Sep 16 14:08:57 indigo-tracker local2.err chat[11987]: Failed
+Sep 16 14:08:57 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:08:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 11992 cmd /etc/cron/check_updates.sh
+Sep 16 14:09:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:04 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:09:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]: abort on (BUSY)
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]: abort on (ERROR)
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]: abort on (NO CARRIER)
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]: timeout set to 12 seconds
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]: send (AT^M)
+Sep 16 14:09:13 indigo-tracker local2.info chat[11995]:  -- write failed: Input/output error
+Sep 16 14:09:13 indigo-tracker local2.err chat[11995]: Failed
+Sep 16 14:09:13 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:09:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:15 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:09:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]: abort on (BUSY)
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]: abort on (ERROR)
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]: abort on (NO CARRIER)
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]: timeout set to 12 seconds
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]: send (AT^M)
+Sep 16 14:09:28 indigo-tracker local2.info chat[12001]:  -- write failed: Input/output error
+Sep 16 14:09:28 indigo-tracker local2.err chat[12001]: Failed
+Sep 16 14:09:28 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:09:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:38 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:09:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:44 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]: abort on (BUSY)
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]: abort on (ERROR)
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]: abort on (NO CARRIER)
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]: timeout set to 12 seconds
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]: send (AT^M)
+Sep 16 14:09:44 indigo-tracker local2.info chat[12007]:  -- write failed: Input/output error
+Sep 16 14:09:44 indigo-tracker local2.err chat[12007]: Failed
+Sep 16 14:09:44 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:09:49 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:54 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:09:59 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]: abort on (BUSY)
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]: abort on (ERROR)
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]: abort on (NO CARRIER)
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]: timeout set to 12 seconds
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]: send (AT^M)
+Sep 16 14:10:01 indigo-tracker local2.info chat[12011]:  -- write failed: Input/output error
+Sep 16 14:10:01 indigo-tracker local2.err chat[12011]: Failed
+Sep 16 14:10:02 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:10:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12012 cmd /etc/cron/check_updates.sh
+Sep 16 14:10:05 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:06 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:10:10 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:15 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]: abort on (BUSY)
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]: abort on (ERROR)
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]: abort on (NO CARRIER)
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]: timeout set to 12 seconds
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]: send (AT^M)
+Sep 16 14:10:19 indigo-tracker local2.info chat[12017]:  -- write failed: Input/output error
+Sep 16 14:10:19 indigo-tracker local2.err chat[12017]: Failed
+Sep 16 14:10:19 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:10:20 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:25 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:28 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:10:30 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]: abort on (BUSY)
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]: abort on (ERROR)
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]: abort on (NO CARRIER)
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]: timeout set to 12 seconds
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]: send (AT^M)
+Sep 16 14:10:35 indigo-tracker local2.info chat[12023]:  -- write failed: Input/output error
+Sep 16 14:10:35 indigo-tracker local2.err chat[12023]: Failed
+Sep 16 14:10:35 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:10:35 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:40 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:10:40 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]: abort on (BUSY)
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]: abort on (ERROR)
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]: abort on (NO CARRIER)
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]: timeout set to 12 seconds
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]: send (AT^M)
+Sep 16 14:10:50 indigo-tracker local2.info chat[12029]:  -- write failed: Input/output error
+Sep 16 14:10:50 indigo-tracker local2.err chat[12029]: Failed
+Sep 16 14:10:50 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:10:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:10:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:00 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12032 cmd /etc/cron/check_updates.sh
+Sep 16 14:11:04 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:11:06 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]: abort on (BUSY)
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]: abort on (ERROR)
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]: abort on (NO CARRIER)
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]: timeout set to 12 seconds
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]: send (AT^M)
+Sep 16 14:11:06 indigo-tracker local2.info chat[12037]:  -- write failed: Input/output error
+Sep 16 14:11:06 indigo-tracker local2.err chat[12037]: Failed
+Sep 16 14:11:06 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:11:11 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:17 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]: abort on (BUSY)
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]: abort on (ERROR)
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]: abort on (NO CARRIER)
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]: timeout set to 12 seconds
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]: send (AT^M)
+Sep 16 14:11:21 indigo-tracker local2.info chat[12043]:  -- write failed: Input/output error
+Sep 16 14:11:21 indigo-tracker local2.err chat[12043]: Failed
+Sep 16 14:11:21 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:11:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:27 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:32 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]: abort on (BUSY)
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]: abort on (ERROR)
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]: abort on (NO CARRIER)
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]: timeout set to 12 seconds
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]: send (AT^M)
+Sep 16 14:11:36 indigo-tracker local2.info chat[12045]:  -- write failed: Input/output error
+Sep 16 14:11:36 indigo-tracker local2.err chat[12045]: Failed
+Sep 16 14:11:36 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:11:37 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:40 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:11:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]: abort on (BUSY)
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]: abort on (ERROR)
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]: abort on (NO CARRIER)
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]: timeout set to 12 seconds
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]: send (AT^M)
+Sep 16 14:11:53 indigo-tracker local2.info chat[12051]:  -- write failed: Input/output error
+Sep 16 14:11:53 indigo-tracker local2.err chat[12051]: Failed
+Sep 16 14:11:53 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:11:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12056 cmd /etc/cron/check_updates.sh
+Sep 16 14:12:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:04 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:12:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]: abort on (BUSY)
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]: abort on (ERROR)
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]: abort on (NO CARRIER)
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]: timeout set to 12 seconds
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]: send (AT^M)
+Sep 16 14:12:09 indigo-tracker local2.info chat[12059]:  -- write failed: Input/output error
+Sep 16 14:12:09 indigo-tracker local2.err chat[12059]: Failed
+Sep 16 14:12:09 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:12:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:17 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:12:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]: abort on (BUSY)
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]: abort on (ERROR)
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]: abort on (NO CARRIER)
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]: timeout set to 12 seconds
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]: send (AT^M)
+Sep 16 14:12:25 indigo-tracker local2.info chat[12065]:  -- write failed: Input/output error
+Sep 16 14:12:25 indigo-tracker local2.err chat[12065]: Failed
+Sep 16 14:12:25 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:12:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:30 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:12:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:41 indigo-tracker local2.info chat[12073]: abort on (BUSY)
+Sep 16 14:12:42 indigo-tracker local2.info chat[12073]: abort on (ERROR)
+Sep 16 14:12:42 indigo-tracker local2.info chat[12073]: abort on (NO CARRIER)
+Sep 16 14:12:42 indigo-tracker local2.info chat[12073]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:12:42 indigo-tracker local2.info chat[12073]: timeout set to 12 seconds
+Sep 16 14:12:42 indigo-tracker local2.info chat[12073]: send (AT^M)
+Sep 16 14:12:42 indigo-tracker local2.info chat[12073]:  -- write failed: Input/output error
+Sep 16 14:12:42 indigo-tracker local2.err chat[12073]: Failed
+Sep 16 14:12:43 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:12:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:45 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:12:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:12:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]: abort on (BUSY)
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]: abort on (ERROR)
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]: abort on (NO CARRIER)
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]: timeout set to 12 seconds
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]: send (AT^M)
+Sep 16 14:13:01 indigo-tracker local2.info chat[12081]:  -- write failed: Input/output error
+Sep 16 14:13:01 indigo-tracker local2.err chat[12081]: Failed
+Sep 16 14:13:01 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:01 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:13:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12082 cmd /etc/cron/check_updates.sh
+Sep 16 14:13:03 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:13:06 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:11 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:16 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:18 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]: abort on (BUSY)
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]: abort on (ERROR)
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]: abort on (NO CARRIER)
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]: timeout set to 12 seconds
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]: send (AT^M)
+Sep 16 14:13:19 indigo-tracker local2.info chat[12089]:  -- write failed: Input/output error
+Sep 16 14:13:19 indigo-tracker local2.err chat[12089]: Failed
+Sep 16 14:13:19 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:13:21 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:26 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:31 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]: abort on (BUSY)
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]: abort on (ERROR)
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]: abort on (NO CARRIER)
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]: timeout set to 12 seconds
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]: send (AT^M)
+Sep 16 14:13:35 indigo-tracker local2.info chat[12091]:  -- write failed: Input/output error
+Sep 16 14:13:35 indigo-tracker local2.err chat[12091]: Failed
+Sep 16 14:13:35 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:13:36 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:40 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:13:42 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:47 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]: abort on (BUSY)
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]: abort on (ERROR)
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]: abort on (NO CARRIER)
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]: timeout set to 12 seconds
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]: send (AT^M)
+Sep 16 14:13:50 indigo-tracker local2.info chat[12097]:  -- write failed: Input/output error
+Sep 16 14:13:50 indigo-tracker local2.err chat[12097]: Failed
+Sep 16 14:13:50 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:13:52 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:13:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:04 indigo-tracker cron.info crond[1103]: crond: USER root pid 12102 cmd /etc/cron/check_updates.sh
+Sep 16 14:14:04 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:07 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]: abort on (BUSY)
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]: abort on (ERROR)
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]: abort on (NO CARRIER)
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]: timeout set to 12 seconds
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]: send (AT^M)
+Sep 16 14:14:09 indigo-tracker local2.info chat[12105]:  -- write failed: Input/output error
+Sep 16 14:14:09 indigo-tracker local2.err chat[12105]: Failed
+Sep 16 14:14:09 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:14:09 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:14 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]: abort on (BUSY)
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]: abort on (ERROR)
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]: abort on (NO CARRIER)
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]: timeout set to 12 seconds
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]: send (AT^M)
+Sep 16 14:14:25 indigo-tracker local2.info chat[12107]:  -- write failed: Input/output error
+Sep 16 14:14:25 indigo-tracker local2.err chat[12107]: Failed
+Sep 16 14:14:25 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:14:31 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:33 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:14:36 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]: abort on (BUSY)
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]: abort on (ERROR)
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]: abort on (NO CARRIER)
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]: timeout set to 12 seconds
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]: send (AT^M)
+Sep 16 14:14:41 indigo-tracker local2.info chat[12113]:  -- write failed: Input/output error
+Sep 16 14:14:41 indigo-tracker local2.err chat[12113]: Failed
+Sep 16 14:14:41 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:14:41 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:46 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:51 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]: abort on (BUSY)
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]: abort on (ERROR)
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]: abort on (NO CARRIER)
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]: timeout set to 12 seconds
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]: send (AT^M)
+Sep 16 14:14:57 indigo-tracker local2.info chat[12115]:  -- write failed: Input/output error
+Sep 16 14:14:57 indigo-tracker local2.err chat[12115]: Failed
+Sep 16 14:14:57 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:14:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12116 cmd /etc/cron/check_ntp
+Sep 16 14:15:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12118 cmd /etc/cron/check_updates.sh
+Sep 16 14:15:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:18 indigo-tracker local2.info chat[12128]: abort on (BUSY)
+Sep 16 14:15:18 indigo-tracker local2.info chat[12128]: abort on (ERROR)
+Sep 16 14:15:18 indigo-tracker local2.info chat[12128]: abort on (NO CARRIER)
+Sep 16 14:15:18 indigo-tracker local2.info chat[12128]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:15:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:19 indigo-tracker local2.info chat[12128]: timeout set to 12 seconds
+Sep 16 14:15:19 indigo-tracker local2.info chat[12128]: send (AT^M)
+Sep 16 14:15:19 indigo-tracker local2.info chat[12128]:  -- write failed: Input/output error
+Sep 16 14:15:19 indigo-tracker local2.err chat[12128]: Failed
+Sep 16 14:15:19 indigo-tracker user.notice root: Current time is valid
+Sep 16 14:15:20 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:15:21 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:15:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:35 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:38 indigo-tracker local2.info chat[12134]: abort on (BUSY)
+Sep 16 14:15:38 indigo-tracker local2.info chat[12134]: abort on (ERROR)
+Sep 16 14:15:38 indigo-tracker local2.info chat[12134]: abort on (NO CARRIER)
+Sep 16 14:15:38 indigo-tracker local2.info chat[12134]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:15:39 indigo-tracker local2.info chat[12134]: timeout set to 12 seconds
+Sep 16 14:15:39 indigo-tracker local2.info chat[12134]: send (AT^M)
+Sep 16 14:15:39 indigo-tracker local2.info chat[12134]:  -- write failed: Input/output error
+Sep 16 14:15:39 indigo-tracker local2.err chat[12134]: Failed
+Sep 16 14:15:39 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:15:40 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:15:40 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:51 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:57 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]: abort on (BUSY)
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]: abort on (ERROR)
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]: abort on (NO CARRIER)
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]: timeout set to 12 seconds
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]: send (AT^M)
+Sep 16 14:15:57 indigo-tracker local2.info chat[12140]:  -- write failed: Input/output error
+Sep 16 14:15:57 indigo-tracker local2.err chat[12140]: Failed
+Sep 16 14:15:58 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:15:59 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 12141 cmd /etc/cron/check_updates.sh
+Sep 16 14:16:02 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:07 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:12 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:16:12 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:13 indigo-tracker local2.info chat[12148]: abort on (BUSY)
+Sep 16 14:16:13 indigo-tracker local2.info chat[12148]: abort on (ERROR)
+Sep 16 14:16:13 indigo-tracker local2.info chat[12148]: abort on (NO CARRIER)
+Sep 16 14:16:13 indigo-tracker local2.info chat[12148]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:16:14 indigo-tracker local2.info chat[12148]: timeout set to 12 seconds
+Sep 16 14:16:14 indigo-tracker local2.info chat[12148]: send (AT^M)
+Sep 16 14:16:14 indigo-tracker local2.info chat[12148]:  -- write failed: Input/output error
+Sep 16 14:16:14 indigo-tracker local2.err chat[12148]: Failed
+Sep 16 14:16:14 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:16:17 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:22 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:24 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:16:28 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]: abort on (BUSY)
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]: abort on (ERROR)
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]: abort on (NO CARRIER)
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]: timeout set to 12 seconds
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]: send (AT^M)
+Sep 16 14:16:29 indigo-tracker local2.info chat[12154]:  -- write failed: Input/output error
+Sep 16 14:16:29 indigo-tracker local2.err chat[12154]: Failed
+Sep 16 14:16:29 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:16:33 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:38 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]: abort on (BUSY)
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]: abort on (ERROR)
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]: abort on (NO CARRIER)
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]: timeout set to 12 seconds
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]: send (AT^M)
+Sep 16 14:16:44 indigo-tracker local2.info chat[12156]:  -- write failed: Input/output error
+Sep 16 14:16:44 indigo-tracker local2.err chat[12156]: Failed
+Sep 16 14:16:44 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:16:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:16:58 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:16:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]: abort on (BUSY)
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]: abort on (ERROR)
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]: abort on (NO CARRIER)
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]: timeout set to 12 seconds
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]: send (AT^M)
+Sep 16 14:17:00 indigo-tracker local2.info chat[12162]:  -- write failed: Input/output error
+Sep 16 14:17:00 indigo-tracker local2.err chat[12162]: Failed
+Sep 16 14:17:00 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:17:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12163 cmd /etc/cron/check_updates.sh
+Sep 16 14:17:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:12 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:17:14 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]: abort on (BUSY)
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]: abort on (ERROR)
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]: abort on (NO CARRIER)
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]: timeout set to 12 seconds
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]: send (AT^M)
+Sep 16 14:17:16 indigo-tracker local2.info chat[12170]:  -- write failed: Input/output error
+Sep 16 14:17:16 indigo-tracker local2.err chat[12170]: Failed
+Sep 16 14:17:16 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:17:19 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:24 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:29 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]: abort on (BUSY)
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]: abort on (ERROR)
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]: abort on (NO CARRIER)
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]: timeout set to 12 seconds
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]: send (AT^M)
+Sep 16 14:17:34 indigo-tracker local2.info chat[12172]:  -- write failed: Input/output error
+Sep 16 14:17:34 indigo-tracker local2.err chat[12172]: Failed
+Sep 16 14:17:34 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:35 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:17:39 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:45 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:45 indigo-tracker user.debug sqlite: movement start
+Sep 16 14:17:50 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]: abort on (BUSY)
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]: abort on (ERROR)
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]: abort on (NO CARRIER)
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]: timeout set to 12 seconds
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]: send (AT^M)
+Sep 16 14:17:51 indigo-tracker local2.info chat[12178]:  -- write failed: Input/output error
+Sep 16 14:17:51 indigo-tracker local2.err chat[12178]: Failed
+Sep 16 14:17:51 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:17:55 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:18:00 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:18:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 12179 cmd /etc/cron/check_updates.sh
+Sep 16 14:18:05 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:18:11 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]: abort on (BUSY)
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]: abort on (ERROR)
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]: abort on (NO CARRIER)
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]: abort on (UNDER-VOLTAGE WARNNING)
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]: timeout set to 12 seconds
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]: send (AT^M)
+Sep 16 14:18:11 indigo-tracker local2.info chat[12186]:  -- write failed: Input/output error
+Sep 16 14:18:11 indigo-tracker local2.err chat[12186]: Failed
+Sep 16 14:18:12 indigo-tracker daemon.err pppd[11792]: Connect script failed
+Sep 16 14:18:13 indigo-tracker user.debug sqlite: movement stop
+Sep 16 14:18:16 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep 16 14:18:21 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Jan  1 03:00:32 indigo-tracker syslog.info syslogd started: BusyBox v1.18.3
+Jan  1 03:00:32 indigo-tracker user.notice kernel: klogd started: BusyBox v1.18.3 (2013-04-04 22:24:48 MSK)
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1460 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1461 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1462 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1463 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1464 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1465 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1466 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1467 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1468 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1469 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1470 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1471 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1472 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1473 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1474 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1475 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1476 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1477 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1478 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1479 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1480 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1481 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1482 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1483 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1484 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1485 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1486 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1487 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1488 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1489 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1490 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1491 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1492 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1493 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1494 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1495 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1496 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1497 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1498 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1499 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1500 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1501 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1502 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1503 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1504 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1505 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1506 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1507 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1508 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1509 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1510 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1511 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1512 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1513 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1514 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1515 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1516 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1517 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1518 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1519 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1520 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1521 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1522 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1523 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1524 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1525 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1526 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1527 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1528 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1529 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1530 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1531 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1532 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1533 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1534 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1535 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1536 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1537 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1538 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1539 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1540 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1541 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1542 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1543 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1544 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1545 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1546 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1547 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1548 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1549 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1550 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1551 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1552 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1553 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1554 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1555 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1556 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1557 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1558 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1559 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1560 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1561 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1562 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1563 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1564 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1565 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1566 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1567 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1568 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1569 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1570 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1571 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1572 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1573 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1574 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1575 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1576 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1577 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1578 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1579 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1580 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1581 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1582 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1583 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1584 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1585 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1586 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1587 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1588 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1589 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1590 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1591 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1592 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1593 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1594 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1595 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1596 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1597 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1598 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1599 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1600 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1601 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1602 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1603 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1604 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1605 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1606 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1607 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1608 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1609 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1610 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1611 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1612 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1613 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1614 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1615 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1616 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1617 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1618 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1619 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1620 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1621 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1622 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1623 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1624 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1625 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1626 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1627 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1628 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1629 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1630 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1631 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1632 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1633 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1634 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1635 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1636 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1637 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1638 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1639 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1640 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1641 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1642 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1643 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1644 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1645 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1646 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1647 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1648 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1649 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1650 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1651 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1652 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1653 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1654 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1655 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1656 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1657 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1658 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1659 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1660 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1661 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1662 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1663 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1664 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1665 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1666 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1667 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1668 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1669 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1670 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1671 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1672 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1673 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1674 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1675 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1676 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1677 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1678 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1679 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1680 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1681 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1682 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1683 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1684 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1685 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1686 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1687 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1688 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1689 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1690 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1691 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1692 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1693 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1694 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1695 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1696 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1697 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1698 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1699 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1700 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1701 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1702 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1703 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1704 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1705 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1706 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1707 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1708 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1709 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1710 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1711 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1712 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1713 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1714 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1715 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1716 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1717 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1718 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1719 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1720 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1721 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1722 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1723 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1724 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1725 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1726 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1727 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1728 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1729 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1730 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1731 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1732 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1733 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1734 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1735 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1736 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1737 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1738 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1739 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1740 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1741 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1742 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1743 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1744 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1745 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1746 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1747 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1748 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1749 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1750 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1751 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1752 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1753 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1754 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1755 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1756 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1757 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1758 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1759 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1760 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1761 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1762 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: block 1763 is bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1763 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1764 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1765 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1766 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1767 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1768 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1769 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1770 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1771 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1772 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1773 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1774 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1775 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1776 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1777 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1778 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1779 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1780 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1781 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1782 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1783 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1784 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1785 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1786 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1787 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1788 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1789 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1790 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1791 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: yaffs_read_super: is_checkpointed 0
+Jan  1 03:00:32 indigo-tracker user.info kernel: VFS: Mounted root (yaffs filesystem) on device 31:1.
+Jan  1 03:00:32 indigo-tracker user.info kernel: Freeing init memory: 144K
+Jan  1 03:00:32 indigo-tracker user.info kernel: Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+Jan  1 03:00:32 indigo-tracker user.err kernel: gps: creating command 4
+Jan  1 03:00:37 indigo-tracker user.debug sqlite: gps connected ok
+Sep 16 14:19:35 indigo-tracker daemon.notice ntpdate[1261]: step time server 46.46.152.214 offset 1379326730.604348 sec
+Sep 16 14:19:35 indigo-tracker user.notice root: Playing ntp started
+Sep 16 14:19:35 indigo-tracker user.notice root: Starting sender: OK
+Sep 16 14:19:36 indigo-tracker user.notice root: gpsreader started
+Sep 16 14:19:36 indigo-tracker user.notice root: Starting openvpn:
+Sep 16 14:19:36 indigo-tracker user.debug sender: using uuid c8dd8624-f845-11e2-8bb9-000c29d2c11e
+Sep 16 14:19:36 indigo-tracker user.debug sqlite: gps connected ok
+Sep 16 14:19:36 indigo-tracker user.debug sqlite: gpsdb started ok
+Sep 16 14:19:36 indigo-tracker user.debug sqlite: gps created
+Sep 16 14:19:36 indigo-tracker daemon.notice openvpn[1286]: OpenVPN 2.1.4 arm-linux [SSL] [LZO2] [EPOLL] built on Feb 21 2011
+Sep 16 14:19:36 indigo-tracker daemon.warn openvpn[1286]: NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Sep 16 14:19:36 indigo-tracker daemon.warn openvpn[1286]: WARNING: file 'keys/device.key' is group or others accessible
+Sep 16 14:19:36 indigo-tracker daemon.notice openvpn[1286]: LZO compression initialized
+Sep 16 14:19:36 indigo-tracker daemon.notice openvpn[1286]: Control Channel MTU parms [ L:1544 D:140 EF:40 EB:0 ET:0 EL:0 ]
+Sep 16 14:19:36 indigo-tracker daemon.notice openvpn[1286]: Socket Buffers: R=[87380->131072] S=[16384->131072]
+Sep 16 14:19:36 indigo-tracker daemon.notice openvpn[1286]: Data Channel MTU parms [ L:1544 D:1450 EF:44 EB:135 ET:0 EL:0 AF:3/1 ]
+Sep 16 14:19:36 indigo-tracker daemon.notice openvpn[1290]: Attempting to establish TCP connection with 72.249.145.165:1195 [nonblock]
+Sep 16 14:19:36 indigo-tracker user.notice root:  indigoclient
+Sep 16 14:19:36 indigo-tracker user.notice root: Current time is valid
+Sep 16 14:19:37 indigo-tracker daemon.notice openvpn[1290]: TCP connection established with 72.249.145.165:1195
+Sep 16 14:19:37 indigo-tracker daemon.notice openvpn[1290]: TCPv4_CLIENT link local: [undef]
+Sep 16 14:19:37 indigo-tracker daemon.notice openvpn[1290]: TCPv4_CLIENT link remote: 72.249.145.165:1195
+Sep 16 14:19:38 indigo-tracker daemon.notice openvpn[1290]: TLS: Initial packet from 72.249.145.165:1195, sid=e833b40d deca9924
+Sep 16 14:19:41 indigo-tracker user.debug sender: send success
+Sep 16 14:19:51 indigo-tracker cron.err crond[1103]: time disparity of 22988779 minutes detected
+Sep 16 14:19:57 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep 16 14:19:57 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep 16 14:19:57 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep 16 14:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1303 cmd /etc/cron/check_updates.sh
+Sep 16 14:20:24 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep 16 14:20:24 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep 16 14:20:24 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep 16 14:20:24 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep 16 14:20:24 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep 16 14:20:24 indigo-tracker daemon.notice openvpn[1290]: [devices-vpn-server] Peer Connection Initiated with 72.249.145.165:1195
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: SENT CONTROL [devices-vpn-server]: 'PUSH_REQUEST' (status=1)
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: PUSH: Received control message: 'PUSH_REPLY,route-gateway 10.1.0.1,topology subnet,ping 120,ping-restart 1200,ifconfig 10.1.0.65 255.255.255.0'
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: timers and/or timeouts modified
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: --ifconfig/up options modified
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: route-related options modified
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: TUN/TAP device tun0 opened
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: TUN/TAP TX queue length set to 100
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: /sbin/ifconfig tun0 10.1.0.65 netmask 255.255.255.0 mtu 1500 broadcast 10.1.0.255
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: /etc/openvpn/vpn-up tun0 1500 1544 10.1.0.65 255.255.255.0 init
+Sep 16 14:20:27 indigo-tracker daemon.notice openvpn[1290]: Initialization Sequence Completed
+Sep 16 14:20:36 indigo-tracker user.debug sqlite: sending keepalive
+Sep 16 14:20:40 indigo-tracker user.debug sender: nothing to send, continuing
+Sep 16 14:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1315 cmd /etc/cron/check_updates.sh
+Sep 16 14:21:06 indigo-tracker auth.info login[1314]: root login on 'pts/0'
+Sep 16 14:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1324 cmd /etc/cron/check_updates.sh

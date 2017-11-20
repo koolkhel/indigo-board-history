@@ -1,0 +1,60 @@
+#!/bin/sh
+#
+# SD card initialization
+#
+
+DEV=/dev/${DEVICE:-mmcblk0p1}
+start() {
+ 	echo "Checking SD card..."
+	if [ -b $DEV ]; then
+	    pgrep mjpg_streamer && light_blink
+	    e2fsck -y $DEV
+	    # 0 - No errors
+	    # 1 - File system errors corrected
+	    # 2 - File system errors corrected, system should
+	    # be rebooted
+	    if [ $? -lt 4 ]; then
+	    	pgrep mjpg_streamer && light_on
+		mount -o async,noatime,nodiratime $DEV /mnt/mmcblk0p1
+		if [ ! -d /mnt/mmcblk0p1/video ]; then
+			mkdir /mnt/mmcblk0p1/video
+		fi
+		rm -rf /mnt/mmcblk0p1/lost\+found/*
+		# only we know if the SD card was mounted
+		/bin/notify_flash_insert.sh
+	    else 
+			# flash was removed while mounting or smth else
+			/bin/notify_flash_remove.sh
+			light_off
+	    fi
+	fi
+}	
+stop() {
+	echo -n "Unmounting SD card..."
+	/bin/notify_flash_remove.sh
+	killall e2fsck
+	pgrep mjpg_streamer && light_off
+	sleep 4
+	umount -f /mnt/mmcblk0p1
+}
+restart() {
+	stop
+	start
+}	
+
+case "$1" in
+  start)
+  	start
+	;;
+  stop)
+  	stop
+	;;
+  restart|reload)
+  	restart
+	;;
+  *)
+	echo $"Usage: $0 {start|stop|restart}"
+	exit 1
+esac
+
+

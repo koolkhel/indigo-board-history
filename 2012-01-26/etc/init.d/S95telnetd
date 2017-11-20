@@ -1,0 +1,40 @@
+#! /bin/sh
+
+set -e
+
+DESC="telnted"
+NAME=telnetd
+DAEMON=/usr/sbin/$NAME
+
+source /etc/sysvars
+
+case "$1" in
+  start)
+	echo -n "Starting $DESC: "
+	start-stop-daemon -S -a $DAEMON -x $NAME -- -b $our_address
+	# make telnet unkillable
+	for pid in `pgrep telnetd`; do
+	    echo -1000 > /proc/$pid/oom_score_adj
+	done
+	
+#	telnetd -b 192.168.201.18
+	echo "OK"
+	;;
+  stop)
+	echo -n "Stopping $DESC: "
+	start-stop-daemon -K -x $NAME
+	echo "OK"
+	;;
+  restart|force-reload)
+	echo "Restarting $DESC: "
+	$0 stop
+	sleep 1
+	$0 start
+	echo ""
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart|force-reload}" >&2
+	exit 1
+	;;
+esac
+

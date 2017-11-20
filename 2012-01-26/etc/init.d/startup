@@ -1,0 +1,14 @@
+#!/bin/sh
+
+/etc/init.d/S10init start
+/etc/init.d/S20random start
+/etc/init.d/S30piopins start
+/etc/init.d/S30dbus start
+/etc/init.d/S32sysdaemon start
+/etc/init.d/S35mmc start
+/etc/init.d/S40network start
+/etc/init.d/S41gpsd start
+/etc/init.d/S42pppd start
+/etc/init.d/S46vsftpd start
+/etc/init.d/S99at start
+

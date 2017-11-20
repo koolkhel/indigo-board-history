@@ -1,0 +1,1356 @@
+Nov 23 17:17:23 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:17:23 indigo-tracker user.debug sender: send success
+Nov 23 17:17:26 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:17:35 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:17:37 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:17:42 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:17:55 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:18:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4167 cmd /etc/cron/check_updates.sh
+Nov 23 17:19:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4178 cmd /etc/cron/check_updates.sh
+Nov 23 17:19:16 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:19:20 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:19:20 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:19:27 indigo-tracker user.debug sender: send success
+Nov 23 17:19:27 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:19:42 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:19:48 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:19:58 indigo-tracker user.debug sender: send success
+Nov 23 17:20:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4198 cmd /etc/cron/check_updates.sh
+Nov 23 17:20:22 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:20:33 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:20:33 indigo-tracker user.debug sender: send success
+Nov 23 17:20:35 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:20:35 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:20:46 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:21:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4216 cmd /etc/cron/check_updates.sh
+Nov 23 17:21:04 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:21:07 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:21:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:21:24 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:21:35 indigo-tracker user.debug sender: send success
+Nov 23 17:21:46 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:22:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:22:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4238 cmd /etc/cron/check_updates.sh
+Nov 23 17:22:47 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 17:23:02 indigo-tracker cron.info crond[495]: crond: USER root pid 4253 cmd /etc/cron/check_updates.sh
+Nov 23 17:23:03 indigo-tracker user.debug sender: send success
+Nov 23 17:23:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:24:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4264 cmd /etc/cron/check_updates.sh
+Nov 23 17:24:48 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 17:24:59 indigo-tracker user.debug sender: send success
+Nov 23 17:25:00 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:25:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4278 cmd /etc/cron/check_updates.sh
+Nov 23 17:26:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4290 cmd /etc/cron/check_updates.sh
+Nov 23 17:27:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4300 cmd /etc/cron/check_updates.sh
+Nov 23 17:28:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4312 cmd /etc/cron/check_updates.sh
+Nov 23 17:29:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4323 cmd /etc/cron/check_updates.sh
+Nov 23 17:29:49 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 17:29:59 indigo-tracker user.debug sender: send success
+Nov 23 17:30:00 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4338 cmd /etc/cron/check_pppd
+Nov 23 17:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4339 cmd /etc/cron/check_updates.sh
+Nov 23 17:30:02 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 17:31:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4353 cmd /etc/cron/check_updates.sh
+Nov 23 17:32:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4365 cmd /etc/cron/check_updates.sh
+Nov 23 17:33:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4377 cmd /etc/cron/check_updates.sh
+Nov 23 17:34:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4388 cmd /etc/cron/check_updates.sh
+Nov 23 17:35:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4397 cmd /etc/cron/check_updates.sh
+Nov 23 17:35:05 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:35:17 indigo-tracker user.debug sender: send success
+Nov 23 17:35:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:35:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:35:36 indigo-tracker user.debug sender: send success
+Nov 23 17:35:37 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:35:49 indigo-tracker user.debug sender: send success
+Nov 23 17:35:51 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:36:01 indigo-tracker user.debug sender: send success
+Nov 23 17:36:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4414 cmd /etc/cron/check_updates.sh
+Nov 23 17:36:43 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:37:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4426 cmd /etc/cron/check_updates.sh
+Nov 23 17:37:13 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:37:26 indigo-tracker user.debug sender: send success
+Nov 23 17:37:28 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:37:32 indigo-tracker user.debug sender: send success
+Nov 23 17:37:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:37:49 indigo-tracker user.debug sender: send success
+Nov 23 17:37:54 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:37:56 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:38:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4436 cmd /etc/cron/check_updates.sh
+Nov 23 17:38:02 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:38:13 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:39:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4455 cmd /etc/cron/check_updates.sh
+Nov 23 17:39:39 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:39:39 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:39:43 indigo-tracker user.debug sender: send success
+Nov 23 17:39:44 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:39:50 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:39:53 indigo-tracker user.debug sender: send success
+Nov 23 17:39:54 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:40:01 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:40:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4477 cmd /etc/cron/check_updates.sh
+Nov 23 17:40:10 indigo-tracker user.debug sender: send success
+Nov 23 17:40:21 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:40:43 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:40:52 indigo-tracker user.debug sender: send success
+Nov 23 17:40:53 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:40:57 indigo-tracker user.debug sender: send success
+Nov 23 17:40:58 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:41:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4492 cmd /etc/cron/check_updates.sh
+Nov 23 17:41:11 indigo-tracker user.debug sender: send success
+Nov 23 17:41:12 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:41:24 indigo-tracker user.debug sender: send success
+Nov 23 17:41:26 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:41:42 indigo-tracker user.debug sender: send success
+Nov 23 17:41:47 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:41:49 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:42:00 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:42:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4510 cmd /etc/cron/check_updates.sh
+Nov 23 17:42:12 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:42:21 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:42:31 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:42:32 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:42:37 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:42:43 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:42:53 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:42:54 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:43:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4536 cmd /etc/cron/check_updates.sh
+Nov 23 17:43:03 indigo-tracker user.debug sender: send success
+Nov 23 17:43:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:43:17 indigo-tracker user.debug sender: send success
+Nov 23 17:44:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4545 cmd /etc/cron/check_updates.sh
+Nov 23 17:44:14 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4556 cmd /etc/cron/check_ntp
+Nov 23 17:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4557 cmd /etc/cron/check_updates.sh
+Nov 23 17:45:01 indigo-tracker user.notice root: Current time is valid
+Nov 23 17:45:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:45:22 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:45:24 indigo-tracker user.debug sender: send success
+Nov 23 17:45:32 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:45:42 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:46:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4580 cmd /etc/cron/check_updates.sh
+Nov 23 17:46:03 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:46:06 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:46:07 indigo-tracker user.debug sender: send success
+Nov 23 17:46:08 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:46:40 indigo-tracker user.debug sender: send success
+Nov 23 17:46:50 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:47:00 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:47:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4595 cmd /etc/cron/check_updates.sh
+Nov 23 17:47:11 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:47:20 indigo-tracker user.debug sender: send success
+Nov 23 17:47:21 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:47:22 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:47:32 indigo-tracker user.debug sender: send success
+Nov 23 17:47:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:47:45 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:48:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4617 cmd /etc/cron/check_updates.sh
+Nov 23 17:48:05 indigo-tracker user.debug sender: send success
+Nov 23 17:48:42 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:48:56 indigo-tracker user.debug sender: send success
+Nov 23 17:49:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4627 cmd /etc/cron/check_updates.sh
+Nov 23 17:49:07 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:49:10 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:49:19 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:49:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:50:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4645 cmd /etc/cron/check_updates.sh
+Nov 23 17:50:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:50:22 indigo-tracker user.debug sender: send success
+Nov 23 17:50:23 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:50:38 indigo-tracker user.debug sender: send success
+Nov 23 17:50:39 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:50:49 indigo-tracker user.debug sender: send success
+Nov 23 17:51:00 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:51:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4658 cmd /etc/cron/check_updates.sh
+Nov 23 17:51:10 indigo-tracker user.debug sender: send success
+Nov 23 17:51:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:51:33 indigo-tracker user.debug sender: send success
+Nov 23 17:52:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4668 cmd /etc/cron/check_updates.sh
+Nov 23 17:52:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:52:09 indigo-tracker user.debug sqlite: got enter
+Nov 23 17:52:12 indigo-tracker user.debug sqlite: got leave
+Nov 23 17:52:14 indigo-tracker user.debug sender: send success
+Nov 23 17:52:43 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:52:53 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:53:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4686 cmd /etc/cron/check_updates.sh
+Nov 23 17:53:23 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:53:34 indigo-tracker user.debug sender: send success
+Nov 23 17:53:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:53:45 indigo-tracker user.debug sender: send success
+Nov 23 17:53:56 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:54:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4697 cmd /etc/cron/check_updates.sh
+Nov 23 17:54:07 indigo-tracker user.debug sender: send success
+Nov 23 17:54:08 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:54:18 indigo-tracker user.debug sender: send success
+Nov 23 17:54:48 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:54:52 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:55:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4712 cmd /etc/cron/check_updates.sh
+Nov 23 17:55:02 indigo-tracker user.debug sender: send success
+Nov 23 17:55:02 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:55:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:55:32 indigo-tracker user.debug sender: send success
+Nov 23 17:55:34 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:55:43 indigo-tracker user.debug sender: send success
+Nov 23 17:55:44 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:55:44 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:56:00 indigo-tracker user.debug sender: send success
+Nov 23 17:56:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:56:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4732 cmd /etc/cron/check_updates.sh
+Nov 23 17:56:16 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:56:30 indigo-tracker user.debug sender: send success
+Nov 23 17:57:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4746 cmd /etc/cron/check_updates.sh
+Nov 23 17:57:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:57:28 indigo-tracker user.debug sender: send success
+Nov 23 17:57:29 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:57:31 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:57:40 indigo-tracker user.debug sender: send success
+Nov 23 17:57:41 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:57:42 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:57:51 indigo-tracker user.debug sender: send success
+Nov 23 17:57:52 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:57:52 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:57:58 indigo-tracker user.debug sender: send success
+Nov 23 17:57:59 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:58:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4769 cmd /etc/cron/check_updates.sh
+Nov 23 17:58:03 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:58:12 indigo-tracker user.debug sender: send success
+Nov 23 17:58:13 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:58:17 indigo-tracker user.debug sender: send success
+Nov 23 17:58:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:58:26 indigo-tracker user.debug sqlite: movement stop
+Nov 23 17:58:37 indigo-tracker user.debug sqlite: movement start
+Nov 23 17:58:41 indigo-tracker user.debug sender: send success
+Nov 23 17:59:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4792 cmd /etc/cron/check_updates.sh
+Nov 23 17:59:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 17:59:21 indigo-tracker user.debug sender: send success
+Nov 23 18:00:00 indigo-tracker user.debug recorder: scheduling next file at 1322060400 seconds unix time
+Nov 23 18:00:00 indigo-tracker user.debug recorder: file switch
+Nov 23 18:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4804 cmd /etc/cron/check_pppd
+Nov 23 18:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4805 cmd /etc/cron/check_updates.sh
+Nov 23 18:00:05 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 18:00:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:00:35 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:00:37 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:00:39 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:00:46 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:00:47 indigo-tracker user.debug sender: send success
+Nov 23 18:00:50 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:01:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4823 cmd /etc/cron/check_updates.sh
+Nov 23 18:01:08 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:01:26 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:01:37 indigo-tracker user.debug sender: send success
+Nov 23 18:01:47 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:01:58 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:02:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4843 cmd /etc/cron/check_updates.sh
+Nov 23 18:02:09 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:02:41 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:02:51 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:03:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4867 cmd /etc/cron/check_updates.sh
+Nov 23 18:03:10 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:03:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:03:26 indigo-tracker user.debug sender: send success
+Nov 23 18:03:27 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:03:41 indigo-tracker user.debug sender: send success
+Nov 23 18:03:43 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:03:53 indigo-tracker user.debug sender: send success
+Nov 23 18:03:54 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:03:54 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:04:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4878 cmd /etc/cron/check_updates.sh
+Nov 23 18:04:03 indigo-tracker user.debug sender: send success
+Nov 23 18:04:58 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4889 cmd /etc/cron/check_updates.sh
+Nov 23 18:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4890 cmd /etc/cron/rotate_video.sh
+Nov 23 18:05:03 indigo-tracker user.notice root: rotating video
+Nov 23 18:05:14 indigo-tracker user.debug sender: send success
+Nov 23 18:05:39 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:05:43 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:05:51 indigo-tracker user.debug sender: send success
+Nov 23 18:05:53 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:06:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4928 cmd /etc/cron/check_updates.sh
+Nov 23 18:06:04 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:06:36 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:06:36 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:06:47 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:07:02 indigo-tracker cron.info crond[495]: crond: USER root pid 4950 cmd /etc/cron/check_updates.sh
+Nov 23 18:07:08 indigo-tracker daemon.notice openvpn[728]: TLS: tls_process: killed expiring key
+Nov 23 18:07:21 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:07:26 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:07:42 indigo-tracker daemon.notice openvpn[728]: TLS: soft reset sec=0 bytes=52052/0 pkts=581/0
+Nov 23 18:07:48 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=1, /C=RU/ST=ROSTOV-ON-DON/L=Taganrog/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 18:07:48 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: nsCertType=SERVER
+Nov 23 18:07:48 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=0, /C=RU/ST=ROSTOV-ON-DON/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 18:08:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4966 cmd /etc/cron/check_updates.sh
+Nov 23 18:08:15 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 18:08:15 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 18:08:15 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 18:08:15 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 18:08:15 indigo-tracker daemon.notice openvpn[728]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Nov 23 18:08:22 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 18:08:32 indigo-tracker user.debug sender: send success
+Nov 23 18:08:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:09:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4982 cmd /etc/cron/check_updates.sh
+Nov 23 18:10:01 indigo-tracker cron.info crond[495]: crond: USER root pid 4994 cmd /etc/cron/check_updates.sh
+Nov 23 18:10:22 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 18:10:32 indigo-tracker user.debug sender: send success
+Nov 23 18:10:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:11:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5011 cmd /etc/cron/check_updates.sh
+Nov 23 18:12:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5024 cmd /etc/cron/check_updates.sh
+Nov 23 18:12:03 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:12:20 indigo-tracker user.debug sender: send success
+Nov 23 18:12:21 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:13:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5036 cmd /etc/cron/check_updates.sh
+Nov 23 18:14:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5048 cmd /etc/cron/check_updates.sh
+Nov 23 18:15:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5060 cmd /etc/cron/check_ntp
+Nov 23 18:15:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5061 cmd /etc/cron/check_updates.sh
+Nov 23 18:15:01 indigo-tracker user.notice root: Current time is valid
+Nov 23 18:15:23 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 18:15:34 indigo-tracker user.debug sender: send success
+Nov 23 18:15:36 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:16:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5081 cmd /etc/cron/check_updates.sh
+Nov 23 18:16:44 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:16:55 indigo-tracker user.debug sender: send success
+Nov 23 18:17:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5097 cmd /etc/cron/check_updates.sh
+Nov 23 18:17:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:17:37 indigo-tracker user.debug sender: send success
+Nov 23 18:17:42 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:17:58 indigo-tracker user.debug sender: send success
+Nov 23 18:17:59 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:18:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5112 cmd /etc/cron/check_updates.sh
+Nov 23 18:18:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:18:29 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:18:32 indigo-tracker user.debug sender: send success
+Nov 23 18:18:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:18:49 indigo-tracker user.debug sender: send success
+Nov 23 18:19:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5128 cmd /etc/cron/check_updates.sh
+Nov 23 18:19:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:19:31 indigo-tracker user.debug sender: send success
+Nov 23 18:19:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:19:36 indigo-tracker user.debug sender: send success
+Nov 23 18:19:37 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:19:52 indigo-tracker user.debug sender: send success
+Nov 23 18:19:58 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:20:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5140 cmd /etc/cron/check_updates.sh
+Nov 23 18:20:12 indigo-tracker user.debug sender: send success
+Nov 23 18:20:13 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:20:22 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:20:24 indigo-tracker user.debug sender: send success
+Nov 23 18:20:26 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:20:36 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:21:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5158 cmd /etc/cron/check_updates.sh
+Nov 23 18:21:45 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:21:46 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:21:50 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:22:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5177 cmd /etc/cron/check_updates.sh
+Nov 23 18:22:01 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:22:32 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:23:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5188 cmd /etc/cron/check_updates.sh
+Nov 23 18:23:17 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:23:18 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:23:28 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:23:41 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:23:51 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:23:59 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:24:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5209 cmd /etc/cron/check_updates.sh
+Nov 23 18:24:02 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:24:13 indigo-tracker user.debug sender: send success
+Nov 23 18:24:23 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:24:26 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:24:27 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:24:38 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:24:47 indigo-tracker daemon.notice openvpn[728]: [dev-vpn] Inactivity timeout (--ping-restart), restarting
+Nov 23 18:24:47 indigo-tracker daemon.notice openvpn[728]: TCP/UDP: Closing socket
+Nov 23 18:24:47 indigo-tracker daemon.notice openvpn[728]: SIGUSR1[soft,ping-restart] received, process restarting
+Nov 23 18:24:47 indigo-tracker daemon.notice openvpn[728]: Restart pause, 2 second(s)
+Nov 23 18:24:49 indigo-tracker daemon.warn openvpn[728]: NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Nov 23 18:24:49 indigo-tracker daemon.notice openvpn[728]: Re-using SSL/TLS context
+Nov 23 18:24:49 indigo-tracker daemon.notice openvpn[728]: LZO compression initialized
+Nov 23 18:24:49 indigo-tracker daemon.notice openvpn[728]: Control Channel MTU parms [ L:1546 D:138 EF:38 EB:0 ET:0 EL:0 ]
+Nov 23 18:24:49 indigo-tracker daemon.notice openvpn[728]: Socket Buffers: R=[108544->131072] S=[108544->131072]
+Nov 23 18:24:50 indigo-tracker daemon.notice openvpn[728]: Data Channel MTU parms [ L:1546 D:1300 EF:46 EB:135 ET:0 EL:0 AF:3/1 ]
+Nov 23 18:24:50 indigo-tracker daemon.notice openvpn[728]: Fragmentation MTU parms [ L:1546 D:1300 EF:45 EB:135 ET:1 EL:0 AF:3/1 ]
+Nov 23 18:24:50 indigo-tracker daemon.notice openvpn[728]: UDPv4 link local: [undef]
+Nov 23 18:24:50 indigo-tracker daemon.notice openvpn[728]: UDPv4 link remote: 72.249.145.165:1194
+Nov 23 18:24:51 indigo-tracker daemon.notice openvpn[728]: TLS: Initial packet from 72.249.145.165:1194, sid=d8adc3ec 3ccef4d8
+Nov 23 18:24:54 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:24:56 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=1, /C=RU/ST=ROSTOV-ON-DON/L=Taganrog/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 18:24:56 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: nsCertType=SERVER
+Nov 23 18:24:56 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=0, /C=RU/ST=ROSTOV-ON-DON/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 18:25:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5231 cmd /etc/cron/check_updates.sh
+Nov 23 18:25:03 indigo-tracker user.debug sender: send success
+Nov 23 18:25:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:25:05 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:25:10 indigo-tracker user.debug sender: send success
+Nov 23 18:25:10 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 18:25:10 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 18:25:10 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 18:25:10 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 18:25:10 indigo-tracker daemon.notice openvpn[728]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Nov 23 18:25:10 indigo-tracker daemon.notice openvpn[728]: [dev-vpn] Peer Connection Initiated with 72.249.145.165:1194
+Nov 23 18:25:11 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:25:12 indigo-tracker daemon.notice openvpn[728]: SENT CONTROL [dev-vpn]: 'PUSH_REQUEST' (status=1)
+Nov 23 18:25:14 indigo-tracker daemon.notice openvpn[728]: PUSH: Received control message: 'PUSH_REPLY,route 192.168.201.0 255.255.255.0,topology net30,ping 20,ping-restart 50,ifconfig 192.168.201.18 192.168.201.17'
+Nov 23 18:25:14 indigo-tracker daemon.notice openvpn[728]: OPTIONS IMPORT: timers and/or timeouts modified
+Nov 23 18:25:14 indigo-tracker daemon.notice openvpn[728]: OPTIONS IMPORT: --ifconfig/up options modified
+Nov 23 18:25:14 indigo-tracker daemon.notice openvpn[728]: OPTIONS IMPORT: route options modified
+Nov 23 18:25:14 indigo-tracker daemon.notice openvpn[728]: Preserving previous TUN/TAP instance: tun0
+Nov 23 18:25:14 indigo-tracker daemon.notice openvpn[728]: Initialization Sequence Completed
+Nov 23 18:25:23 indigo-tracker user.debug sender: send success
+Nov 23 18:25:24 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:25:34 indigo-tracker user.debug sender: send success
+Nov 23 18:26:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5241 cmd /etc/cron/check_updates.sh
+Nov 23 18:26:30 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:26:40 indigo-tracker user.debug sender: send success
+Nov 23 18:27:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5251 cmd /etc/cron/check_updates.sh
+Nov 23 18:27:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:27:25 indigo-tracker user.debug sender: send success
+Nov 23 18:27:36 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:27:47 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:27:55 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:27:59 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:28:00 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:28:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5266 cmd /etc/cron/check_updates.sh
+Nov 23 18:28:06 indigo-tracker user.debug sender: send success
+Nov 23 18:28:12 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:28:27 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:28:31 indigo-tracker user.debug sender: send success
+Nov 23 18:28:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:28:46 indigo-tracker user.debug sender: send success
+Nov 23 18:28:47 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:28:49 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:29:00 indigo-tracker user.debug sender: send success
+Nov 23 18:29:01 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:29:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5288 cmd /etc/cron/check_updates.sh
+Nov 23 18:29:23 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:29:43 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:29:54 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5310 cmd /etc/cron/check_pppd
+Nov 23 18:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5311 cmd /etc/cron/check_updates.sh
+Nov 23 18:30:02 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 18:30:03 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:30:15 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:30:21 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:30:26 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:30:29 indigo-tracker user.debug sender: send success
+Nov 23 18:30:37 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:31:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5338 cmd /etc/cron/check_updates.sh
+Nov 23 18:31:20 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:31:21 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:31:22 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:31:25 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:31:46 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:32:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5353 cmd /etc/cron/check_updates.sh
+Nov 23 18:32:16 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:32:26 indigo-tracker user.debug sender: send success
+Nov 23 18:32:51 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:32:52 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:32:59 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:33:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5372 cmd /etc/cron/check_updates.sh
+Nov 23 18:33:13 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:33:34 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:33:45 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:34:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5391 cmd /etc/cron/check_updates.sh
+Nov 23 18:34:05 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:34:15 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:34:16 indigo-tracker user.debug sender: send success
+Nov 23 18:34:17 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:34:27 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:34:39 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:35:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5413 cmd /etc/cron/check_updates.sh
+Nov 23 18:35:10 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:35:29 indigo-tracker user.debug sender: send success
+Nov 23 18:35:34 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:35:45 indigo-tracker user.debug sender: send success
+Nov 23 18:35:45 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:35:55 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:35:56 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:36:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5430 cmd /etc/cron/check_updates.sh
+Nov 23 18:36:05 indigo-tracker user.debug sender: send success
+Nov 23 18:36:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:36:20 indigo-tracker user.debug sender: send success
+Nov 23 18:36:21 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:36:31 indigo-tracker user.debug sender: send success
+Nov 23 18:37:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5441 cmd /etc/cron/check_updates.sh
+Nov 23 18:37:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:37:14 indigo-tracker user.debug sender: send success
+Nov 23 18:37:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:37:26 indigo-tracker user.debug sender: send success
+Nov 23 18:37:38 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:37:43 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:37:47 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:37:58 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:38:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5459 cmd /etc/cron/check_updates.sh
+Nov 23 18:38:18 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:38:24 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:39:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5469 cmd /etc/cron/check_updates.sh
+Nov 23 18:39:10 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:39:15 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:39:26 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:39:28 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:39:52 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:40:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5491 cmd /etc/cron/check_updates.sh
+Nov 23 18:40:12 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:40:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:40:26 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:40:35 indigo-tracker user.debug sender: send success
+Nov 23 18:40:36 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:40:41 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:40:49 indigo-tracker user.debug sender: send success
+Nov 23 18:40:50 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:41:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5512 cmd /etc/cron/check_updates.sh
+Nov 23 18:41:01 indigo-tracker user.debug sender: send success
+Nov 23 18:41:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:41:30 indigo-tracker user.debug sender: send success
+Nov 23 18:42:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5522 cmd /etc/cron/check_updates.sh
+Nov 23 18:42:18 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:42:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:42:48 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:42:51 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:43:01 indigo-tracker user.debug sender: send success
+Nov 23 18:43:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5544 cmd /etc/cron/check_updates.sh
+Nov 23 18:43:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:43:12 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:43:26 indigo-tracker user.debug sender: send success
+Nov 23 18:43:31 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:43:33 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:43:36 indigo-tracker user.debug sender: send success
+Nov 23 18:43:37 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:44:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5563 cmd /etc/cron/check_updates.sh
+Nov 23 18:44:04 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:44:14 indigo-tracker user.debug sender: send success
+Nov 23 18:44:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:44:16 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:44:25 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:44:26 indigo-tracker user.debug sender: send success
+Nov 23 18:44:27 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:44:29 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5585 cmd /etc/cron/check_ntp
+Nov 23 18:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5586 cmd /etc/cron/check_updates.sh
+Nov 23 18:45:02 indigo-tracker user.notice root: Current time is valid
+Nov 23 18:45:02 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:45:11 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:45:13 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:45:22 indigo-tracker user.debug sender: send success
+Nov 23 18:45:23 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:45:24 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:45:34 indigo-tracker user.debug sender: send success
+Nov 23 18:45:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:45:52 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:45:55 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:46:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5617 cmd /etc/cron/check_updates.sh
+Nov 23 18:46:02 indigo-tracker user.debug sender: send success
+Nov 23 18:46:28 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:46:39 indigo-tracker user.debug sender: send success
+Nov 23 18:46:44 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:46:57 indigo-tracker user.debug sender: send success
+Nov 23 18:46:58 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:47:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5627 cmd /etc/cron/check_updates.sh
+Nov 23 18:47:08 indigo-tracker user.debug sender: send success
+Nov 23 18:47:09 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:47:13 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:47:16 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:47:17 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:47:20 indigo-tracker user.debug sender: send success
+Nov 23 18:47:22 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:47:30 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:47:53 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:48:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5646 cmd /etc/cron/check_updates.sh
+Nov 23 18:48:04 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:48:07 indigo-tracker user.debug sender: send success
+Nov 23 18:48:15 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:48:17 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:19 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:24 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:24 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:48:26 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:26 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:48:28 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:48:28 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:29 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:48:33 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:36 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:39 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:41 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:45 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:48:48 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:48:59 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:49:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5672 cmd /etc/cron/check_updates.sh
+Nov 23 18:49:51 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:50:02 indigo-tracker cron.info crond[495]: crond: USER root pid 5682 cmd /etc/cron/check_updates.sh
+Nov 23 18:50:05 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:50:05 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:50:06 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:50:06 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:50:07 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:50:09 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:50:27 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:50:50 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:50:57 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:50:58 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:51:00 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:51:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5700 cmd /etc/cron/check_updates.sh
+Nov 23 18:51:03 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:51:05 indigo-tracker user.debug sender: send success
+Nov 23 18:51:14 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:51:38 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:51:42 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:51:43 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:51:45 indigo-tracker user.debug sender: send success
+Nov 23 18:51:49 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:51:56 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:51:58 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:51:59 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:52:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5722 cmd /etc/cron/check_updates.sh
+Nov 23 18:52:10 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:52:30 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:52:32 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:52:34 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:52:35 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:52:36 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:52:37 indigo-tracker user.debug sqlite: got enter
+Nov 23 18:52:52 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:52:54 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:52:55 indigo-tracker user.debug sqlite: got leave
+Nov 23 18:53:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5739 cmd /etc/cron/check_updates.sh
+Nov 23 18:53:06 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:53:50 indigo-tracker user.debug sqlite: movement stop
+Nov 23 18:54:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5758 cmd /etc/cron/check_updates.sh
+Nov 23 18:54:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:54:51 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 18:55:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5772 cmd /etc/cron/check_updates.sh
+Nov 23 18:55:01 indigo-tracker user.debug sender: send success
+Nov 23 18:55:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:56:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5784 cmd /etc/cron/check_updates.sh
+Nov 23 18:56:22 indigo-tracker user.debug sqlite: movement start
+Nov 23 18:56:31 indigo-tracker user.debug sender: send success
+Nov 23 18:56:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:56:43 indigo-tracker user.debug sender: send success
+Nov 23 18:56:44 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:56:54 indigo-tracker user.debug sender: send success
+Nov 23 18:57:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5798 cmd /etc/cron/check_updates.sh
+Nov 23 18:57:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:57:14 indigo-tracker user.debug sender: send success
+Nov 23 18:57:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:57:41 indigo-tracker user.debug sender: send success
+Nov 23 18:58:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5809 cmd /etc/cron/check_updates.sh
+Nov 23 18:58:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 18:58:16 indigo-tracker user.debug sender: send success
+Nov 23 18:59:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5819 cmd /etc/cron/check_updates.sh
+Nov 23 19:00:00 indigo-tracker user.debug recorder: scheduling next file at 1322064000 seconds unix time
+Nov 23 19:00:00 indigo-tracker user.debug recorder: file switch
+Nov 23 19:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5830 cmd /etc/cron/check_pppd
+Nov 23 19:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5831 cmd /etc/cron/check_updates.sh
+Nov 23 19:00:05 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 19:00:20 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:00:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:00:41 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:00:54 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:01:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5858 cmd /etc/cron/check_updates.sh
+Nov 23 19:01:22 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:01:31 indigo-tracker user.debug sender: send success
+Nov 23 19:01:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:01:42 indigo-tracker user.debug sender: send success
+Nov 23 19:01:53 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:02:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5875 cmd /etc/cron/check_updates.sh
+Nov 23 19:02:07 indigo-tracker user.debug sender: send success
+Nov 23 19:02:36 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:02:56 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:03:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5890 cmd /etc/cron/check_updates.sh
+Nov 23 19:03:07 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:03:10 indigo-tracker user.debug sender: send success
+Nov 23 19:03:11 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:03:20 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:03:23 indigo-tracker user.debug sender: send success
+Nov 23 19:03:30 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:03:41 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:03:57 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:04:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5913 cmd /etc/cron/check_updates.sh
+Nov 23 19:04:02 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:04:13 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:04:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:04:44 indigo-tracker user.debug sender: send success
+Nov 23 19:05:00 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5931 cmd /etc/cron/check_updates.sh
+Nov 23 19:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5932 cmd /etc/cron/rotate_video.sh
+Nov 23 19:05:03 indigo-tracker user.notice root: rotating video
+Nov 23 19:05:03 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:05:10 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:05:15 indigo-tracker user.debug sender: send success
+Nov 23 19:05:21 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:06:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5973 cmd /etc/cron/check_updates.sh
+Nov 23 19:06:37 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:06:47 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:07:01 indigo-tracker cron.info crond[495]: crond: USER root pid 5991 cmd /etc/cron/check_updates.sh
+Nov 23 19:07:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:07:45 indigo-tracker user.debug sender: send success
+Nov 23 19:07:46 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:08:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6005 cmd /etc/cron/check_updates.sh
+Nov 23 19:08:03 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:08:17 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:08:29 indigo-tracker user.debug sender: send success
+Nov 23 19:08:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:08:48 indigo-tracker user.debug sender: send success
+Nov 23 19:08:49 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:08:58 indigo-tracker user.debug sender: send success
+Nov 23 19:09:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6019 cmd /etc/cron/check_updates.sh
+Nov 23 19:09:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:09:40 indigo-tracker user.debug sender: send success
+Nov 23 19:10:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6030 cmd /etc/cron/check_updates.sh
+Nov 23 19:11:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6042 cmd /etc/cron/check_updates.sh
+Nov 23 19:11:16 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:11:19 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:11:34 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:12:02 indigo-tracker cron.info crond[495]: crond: USER root pid 6060 cmd /etc/cron/check_updates.sh
+Nov 23 19:13:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6070 cmd /etc/cron/check_updates.sh
+Nov 23 19:13:05 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:13:06 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:13:10 indigo-tracker user.debug sender: send success
+Nov 23 19:13:12 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:13:16 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:13:26 indigo-tracker user.debug sender: send success
+Nov 23 19:13:37 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:13:46 indigo-tracker user.debug sender: send success
+Nov 23 19:13:47 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:13:50 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:13:56 indigo-tracker user.debug sender: send success
+Nov 23 19:13:57 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:14:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6092 cmd /etc/cron/check_updates.sh
+Nov 23 19:14:01 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:14:12 indigo-tracker user.debug sender: send success
+Nov 23 19:14:23 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:14:37 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:14:38 indigo-tracker user.debug sender: send success
+Nov 23 19:14:42 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:14:47 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:14:58 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:15:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6114 cmd /etc/cron/check_ntp
+Nov 23 19:15:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6115 cmd /etc/cron/check_updates.sh
+Nov 23 19:15:01 indigo-tracker user.notice root: Current time is valid
+Nov 23 19:15:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:15:17 indigo-tracker user.debug sender: send success
+Nov 23 19:15:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:15:37 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:15:40 indigo-tracker user.debug sender: send success
+Nov 23 19:15:52 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:15:58 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:16:00 indigo-tracker user.debug sender: send success
+Nov 23 19:16:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6137 cmd /etc/cron/check_updates.sh
+Nov 23 19:16:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:16:36 indigo-tracker user.debug sender: send success
+Nov 23 19:16:44 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:16:45 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:17:00 indigo-tracker user.debug sender: send success
+Nov 23 19:17:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6151 cmd /etc/cron/check_updates.sh
+Nov 23 19:17:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:17:06 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:17:16 indigo-tracker user.debug sender: send success
+Nov 23 19:18:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6165 cmd /etc/cron/check_updates.sh
+Nov 23 19:18:10 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:18:30 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:18:43 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:18:45 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:18:46 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:18:47 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:18:51 indigo-tracker user.debug sender: send success
+Nov 23 19:18:53 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:19:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6188 cmd /etc/cron/check_updates.sh
+Nov 23 19:19:04 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:19:28 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:19:38 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:19:49 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:20:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6214 cmd /etc/cron/check_updates.sh
+Nov 23 19:20:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:20:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:20:42 indigo-tracker user.debug sender: send success
+Nov 23 19:21:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6229 cmd /etc/cron/check_updates.sh
+Nov 23 19:21:13 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:21:15 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:21:17 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:21:19 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:21:28 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:22:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6246 cmd /etc/cron/check_updates.sh
+Nov 23 19:22:12 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:22:14 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:22:15 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:22:25 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:22:35 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:23:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6265 cmd /etc/cron/check_updates.sh
+Nov 23 19:23:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:23:12 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:23:19 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:23:19 indigo-tracker user.debug sender: send success
+Nov 23 19:23:24 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:23:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:23:34 indigo-tracker user.debug sender: send success
+Nov 23 19:23:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:23:48 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:23:53 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:23:55 indigo-tracker user.debug sender: send success
+Nov 23 19:24:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6286 cmd /etc/cron/check_updates.sh
+Nov 23 19:24:04 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:24:28 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:24:45 indigo-tracker daemon.notice openvpn[728]: [dev-vpn] Inactivity timeout (--ping-restart), restarting
+Nov 23 19:24:45 indigo-tracker user.debug sender: send success
+Nov 23 19:24:45 indigo-tracker daemon.notice openvpn[728]: TCP/UDP: Closing socket
+Nov 23 19:24:45 indigo-tracker daemon.notice openvpn[728]: SIGUSR1[soft,ping-restart] received, process restarting
+Nov 23 19:24:45 indigo-tracker daemon.notice openvpn[728]: Restart pause, 2 second(s)
+Nov 23 19:24:48 indigo-tracker daemon.warn openvpn[728]: NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Nov 23 19:24:48 indigo-tracker daemon.notice openvpn[728]: Re-using SSL/TLS context
+Nov 23 19:24:48 indigo-tracker daemon.notice openvpn[728]: LZO compression initialized
+Nov 23 19:24:48 indigo-tracker daemon.notice openvpn[728]: Control Channel MTU parms [ L:1546 D:138 EF:38 EB:0 ET:0 EL:0 ]
+Nov 23 19:24:48 indigo-tracker daemon.notice openvpn[728]: Socket Buffers: R=[108544->131072] S=[108544->131072]
+Nov 23 19:24:49 indigo-tracker daemon.notice openvpn[728]: Data Channel MTU parms [ L:1546 D:1300 EF:46 EB:135 ET:0 EL:0 AF:3/1 ]
+Nov 23 19:24:49 indigo-tracker daemon.notice openvpn[728]: Fragmentation MTU parms [ L:1546 D:1300 EF:45 EB:135 ET:1 EL:0 AF:3/1 ]
+Nov 23 19:24:49 indigo-tracker daemon.notice openvpn[728]: UDPv4 link local: [undef]
+Nov 23 19:24:49 indigo-tracker daemon.notice openvpn[728]: UDPv4 link remote: 72.249.145.165:1194
+Nov 23 19:24:50 indigo-tracker daemon.notice openvpn[728]: TLS: Initial packet from 72.249.145.165:1194, sid=f7535d7e 65d780de
+Nov 23 19:24:55 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:24:56 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=1, /C=RU/ST=ROSTOV-ON-DON/L=Taganrog/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 19:24:56 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: nsCertType=SERVER
+Nov 23 19:24:56 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=0, /C=RU/ST=ROSTOV-ON-DON/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 19:25:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6301 cmd /etc/cron/check_updates.sh
+Nov 23 19:25:06 indigo-tracker user.debug sender: send success
+Nov 23 19:25:07 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:25:14 indigo-tracker user.debug sender: send success
+Nov 23 19:25:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:25:20 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 19:25:20 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 19:25:20 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 19:25:20 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 19:25:20 indigo-tracker daemon.notice openvpn[728]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Nov 23 19:25:20 indigo-tracker daemon.notice openvpn[728]: [dev-vpn] Peer Connection Initiated with 72.249.145.165:1194
+Nov 23 19:25:22 indigo-tracker daemon.notice openvpn[728]: SENT CONTROL [dev-vpn]: 'PUSH_REQUEST' (status=1)
+Nov 23 19:25:23 indigo-tracker daemon.notice openvpn[728]: PUSH: Received control message: 'PUSH_REPLY,route 192.168.201.0 255.255.255.0,topology net30,ping 20,ping-restart 50,ifconfig 192.168.201.18 192.168.201.17'
+Nov 23 19:25:23 indigo-tracker daemon.notice openvpn[728]: OPTIONS IMPORT: timers and/or timeouts modified
+Nov 23 19:25:23 indigo-tracker daemon.notice openvpn[728]: OPTIONS IMPORT: --ifconfig/up options modified
+Nov 23 19:25:23 indigo-tracker daemon.notice openvpn[728]: OPTIONS IMPORT: route options modified
+Nov 23 19:25:23 indigo-tracker daemon.notice openvpn[728]: Preserving previous TUN/TAP instance: tun0
+Nov 23 19:25:23 indigo-tracker daemon.notice openvpn[728]: Initialization Sequence Completed
+Nov 23 19:25:35 indigo-tracker user.debug sender: send success
+Nov 23 19:26:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6312 cmd /etc/cron/check_updates.sh
+Nov 23 19:26:54 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:26:56 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:27:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6326 cmd /etc/cron/check_updates.sh
+Nov 23 19:27:05 indigo-tracker user.debug sender: send success
+Nov 23 19:27:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:27:59 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 19:28:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6341 cmd /etc/cron/check_updates.sh
+Nov 23 19:28:08 indigo-tracker user.debug sender: send success
+Nov 23 19:28:09 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:29:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6352 cmd /etc/cron/check_updates.sh
+Nov 23 19:29:34 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:29:59 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 19:30:00 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:30:01 indigo-tracker user.debug sender: send success
+Nov 23 19:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6370 cmd /etc/cron/check_pppd
+Nov 23 19:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6371 cmd /etc/cron/check_updates.sh
+Nov 23 19:30:15 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 19:31:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6386 cmd /etc/cron/check_updates.sh
+Nov 23 19:31:44 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:31:57 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:32:02 indigo-tracker cron.info crond[495]: crond: USER root pid 6401 cmd /etc/cron/check_updates.sh
+Nov 23 19:32:45 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 19:32:55 indigo-tracker user.debug sender: send success
+Nov 23 19:32:56 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:33:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6415 cmd /etc/cron/check_updates.sh
+Nov 23 19:34:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6427 cmd /etc/cron/check_updates.sh
+Nov 23 19:34:46 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 19:34:56 indigo-tracker user.debug sender: send success
+Nov 23 19:34:57 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:35:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6441 cmd /etc/cron/check_updates.sh
+Nov 23 19:36:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6452 cmd /etc/cron/check_updates.sh
+Nov 23 19:37:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6463 cmd /etc/cron/check_updates.sh
+Nov 23 19:37:06 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:37:17 indigo-tracker user.debug sender: send success
+Nov 23 19:37:27 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:37:40 indigo-tracker user.debug sender: send success
+Nov 23 19:37:48 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:38:01 indigo-tracker user.debug sender: send success
+Nov 23 19:38:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6478 cmd /etc/cron/check_updates.sh
+Nov 23 19:38:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:38:24 indigo-tracker user.debug sender: send success
+Nov 23 19:38:25 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:38:28 indigo-tracker user.debug sender: send success
+Nov 23 19:38:29 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:38:46 indigo-tracker user.debug sender: send success
+Nov 23 19:38:51 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:39:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6488 cmd /etc/cron/check_updates.sh
+Nov 23 19:39:11 indigo-tracker user.debug sender: send success
+Nov 23 19:39:42 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:39:52 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:40:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6506 cmd /etc/cron/check_updates.sh
+Nov 23 19:40:09 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:40:22 indigo-tracker user.debug sender: send success
+Nov 23 19:40:23 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:40:24 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:40:28 indigo-tracker user.debug sender: send success
+Nov 23 19:40:29 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:40:35 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:40:44 indigo-tracker user.debug sender: send success
+Nov 23 19:40:45 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:41:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6526 cmd /etc/cron/check_updates.sh
+Nov 23 19:41:02 indigo-tracker user.debug sender: send success
+Nov 23 19:41:04 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:41:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:41:34 indigo-tracker user.debug sender: send success
+Nov 23 19:42:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:42:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6536 cmd /etc/cron/check_updates.sh
+Nov 23 19:42:14 indigo-tracker user.debug sender: send success
+Nov 23 19:42:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:42:27 indigo-tracker user.debug sender: send success
+Nov 23 19:42:28 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:42:38 indigo-tracker user.debug sender: send success
+Nov 23 19:42:39 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:42:52 indigo-tracker user.debug sender: send success
+Nov 23 19:42:53 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:43:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6544 cmd /etc/cron/check_updates.sh
+Nov 23 19:43:04 indigo-tracker user.debug sender: send success
+Nov 23 19:43:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:43:31 indigo-tracker user.debug sender: send success
+Nov 23 19:43:33 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:43:34 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:43:37 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:43:41 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:43:52 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:44:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6562 cmd /etc/cron/check_updates.sh
+Nov 23 19:44:40 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:44:49 indigo-tracker user.debug sender: send success
+Nov 23 19:44:50 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6571 cmd /etc/cron/check_ntp
+Nov 23 19:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6572 cmd /etc/cron/check_updates.sh
+Nov 23 19:45:02 indigo-tracker user.notice root: Current time is valid
+Nov 23 19:45:05 indigo-tracker user.debug sender: send success
+Nov 23 19:45:10 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:45:23 indigo-tracker user.debug sender: send success
+Nov 23 19:45:24 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:45:37 indigo-tracker user.debug sender: send success
+Nov 23 19:45:38 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:45:55 indigo-tracker user.debug sender: send success
+Nov 23 19:46:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6587 cmd /etc/cron/check_updates.sh
+Nov 23 19:46:26 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:46:28 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:46:34 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:46:51 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:46:55 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:47:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6605 cmd /etc/cron/check_updates.sh
+Nov 23 19:47:07 indigo-tracker user.debug sender: send success
+Nov 23 19:47:49 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:47:52 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:47:56 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:48:01 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:48:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6619 cmd /etc/cron/check_updates.sh
+Nov 23 19:48:12 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:48:12 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:48:15 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:48:19 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:48:24 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:48:31 indigo-tracker user.debug sender: send success
+Nov 23 19:48:36 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:48:37 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:48:49 indigo-tracker user.debug sender: send success
+Nov 23 19:48:59 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:49:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6645 cmd /etc/cron/check_updates.sh
+Nov 23 19:49:07 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:49:12 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:49:16 indigo-tracker user.debug sender: send success
+Nov 23 19:49:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:49:50 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:50:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6661 cmd /etc/cron/check_updates.sh
+Nov 23 19:50:02 indigo-tracker user.debug sender: send success
+Nov 23 19:50:09 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:50:16 indigo-tracker user.debug sender: send success
+Nov 23 19:50:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:50:34 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:50:38 indigo-tracker user.debug sender: send success
+Nov 23 19:50:48 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:50:55 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:51:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6679 cmd /etc/cron/check_updates.sh
+Nov 23 19:51:02 indigo-tracker user.debug sender: send success
+Nov 23 19:51:03 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:51:22 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:51:38 indigo-tracker user.debug sender: send success
+Nov 23 19:51:42 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:51:59 indigo-tracker user.debug sender: send success
+Nov 23 19:52:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6688 cmd /etc/cron/check_updates.sh
+Nov 23 19:52:08 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:52:29 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:53:02 indigo-tracker cron.info crond[495]: crond: USER root pid 6705 cmd /etc/cron/check_updates.sh
+Nov 23 19:53:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:53:09 indigo-tracker user.debug sender: send success
+Nov 23 19:53:10 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:53:27 indigo-tracker user.debug sender: send success
+Nov 23 19:53:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:53:47 indigo-tracker user.debug sender: send success
+Nov 23 19:53:58 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:54:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6715 cmd /etc/cron/check_updates.sh
+Nov 23 19:54:08 indigo-tracker user.debug sender: send success
+Nov 23 19:54:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:54:34 indigo-tracker user.debug sender: send success
+Nov 23 19:54:45 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:54:56 indigo-tracker user.debug sender: send success
+Nov 23 19:54:57 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:54:58 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:55:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6724 cmd /etc/cron/check_updates.sh
+Nov 23 19:55:03 indigo-tracker user.debug sqlite: got leave
+Nov 23 19:55:08 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:55:19 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:56:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6741 cmd /etc/cron/check_updates.sh
+Nov 23 19:56:02 indigo-tracker user.debug sqlite: got enter
+Nov 23 19:56:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:56:30 indigo-tracker user.debug sender: send success
+Nov 23 19:56:31 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:56:32 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:56:49 indigo-tracker user.debug sender: send success
+Nov 23 19:56:50 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:56:53 indigo-tracker user.debug sqlite: movement start
+Nov 23 19:57:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6759 cmd /etc/cron/check_updates.sh
+Nov 23 19:57:03 indigo-tracker user.debug sender: send success
+Nov 23 19:57:13 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:57:27 indigo-tracker user.debug sender: send success
+Nov 23 19:57:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:57:52 indigo-tracker user.debug sender: send success
+Nov 23 19:58:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6771 cmd /etc/cron/check_updates.sh
+Nov 23 19:58:25 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:58:30 indigo-tracker user.debug sender: send success
+Nov 23 19:58:31 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 19:58:47 indigo-tracker user.debug sender: send success
+Nov 23 19:58:58 indigo-tracker user.debug sqlite: movement stop
+Nov 23 19:59:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6784 cmd /etc/cron/check_updates.sh
+Nov 23 19:59:09 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:00:00 indigo-tracker user.debug recorder: scheduling next file at 1322067600 seconds unix time
+Nov 23 20:00:00 indigo-tracker user.debug recorder: file switch
+Nov 23 20:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6797 cmd /etc/cron/check_pppd
+Nov 23 20:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6798 cmd /etc/cron/check_updates.sh
+Nov 23 20:00:03 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:00:10 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 20:00:17 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:01:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6821 cmd /etc/cron/check_updates.sh
+Nov 23 20:01:21 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:01:23 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:01:32 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:01:48 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:01:56 indigo-tracker user.debug sender: send success
+Nov 23 20:01:57 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:02:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6840 cmd /etc/cron/check_updates.sh
+Nov 23 20:02:14 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:02:16 indigo-tracker user.debug sender: send success
+Nov 23 20:02:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:03:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6852 cmd /etc/cron/check_updates.sh
+Nov 23 20:03:16 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:03:23 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:03:34 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:03:56 indigo-tracker user.debug sender: send success
+Nov 23 20:04:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6870 cmd /etc/cron/check_updates.sh
+Nov 23 20:04:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:04:19 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:04:31 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:04:36 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:04:43 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:04:44 indigo-tracker user.debug sender: send success
+Nov 23 20:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6884 cmd /etc/cron/check_updates.sh
+Nov 23 20:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6885 cmd /etc/cron/rotate_video.sh
+Nov 23 20:05:02 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:05:03 indigo-tracker user.notice root: rotating video
+Nov 23 20:05:03 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:05:13 indigo-tracker user.debug sender: send success
+Nov 23 20:05:14 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:05:24 indigo-tracker user.debug sender: send success
+Nov 23 20:05:25 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:05:31 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:05:35 indigo-tracker user.debug sender: send success
+Nov 23 20:05:37 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:05:47 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:06:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6931 cmd /etc/cron/check_updates.sh
+Nov 23 20:06:16 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:06:27 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:06:32 indigo-tracker user.debug sender: send success
+Nov 23 20:06:32 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:06:37 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:06:43 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:06:48 indigo-tracker user.debug sender: send success
+Nov 23 20:06:49 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:07:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6949 cmd /etc/cron/check_updates.sh
+Nov 23 20:07:04 indigo-tracker user.debug sender: send success
+Nov 23 20:07:05 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:07:16 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:07:16 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:07:32 indigo-tracker user.debug sender: send success
+Nov 23 20:07:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:08:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6965 cmd /etc/cron/check_updates.sh
+Nov 23 20:08:07 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 20:08:13 indigo-tracker user.debug sender: send success
+Nov 23 20:08:14 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:09:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6979 cmd /etc/cron/check_updates.sh
+Nov 23 20:09:07 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:09:14 indigo-tracker user.debug sender: send success
+Nov 23 20:09:15 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:09:21 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:09:30 indigo-tracker user.debug sender: send success
+Nov 23 20:09:31 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:10:01 indigo-tracker cron.info crond[495]: crond: USER root pid 6999 cmd /etc/cron/check_updates.sh
+Nov 23 20:10:24 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 20:10:34 indigo-tracker user.debug sender: send success
+Nov 23 20:10:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:11:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7016 cmd /etc/cron/check_updates.sh
+Nov 23 20:11:34 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:11:42 indigo-tracker user.debug sender: send success
+Nov 23 20:11:43 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:11:45 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:11:57 indigo-tracker user.debug sender: send success
+Nov 23 20:11:58 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:12:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7034 cmd /etc/cron/check_updates.sh
+Nov 23 20:12:36 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:12:58 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:13:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7053 cmd /etc/cron/check_updates.sh
+Nov 23 20:13:16 indigo-tracker user.debug sender: send success
+Nov 23 20:13:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:13:59 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 20:14:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7068 cmd /etc/cron/check_updates.sh
+Nov 23 20:14:31 indigo-tracker user.debug sender: send success
+Nov 23 20:14:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:15:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7080 cmd /etc/cron/check_ntp
+Nov 23 20:15:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7081 cmd /etc/cron/check_updates.sh
+Nov 23 20:15:01 indigo-tracker user.notice root: Current time is valid
+Nov 23 20:15:59 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 20:16:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7101 cmd /etc/cron/check_updates.sh
+Nov 23 20:16:10 indigo-tracker user.debug sender: send success
+Nov 23 20:16:11 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:17:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7113 cmd /etc/cron/check_updates.sh
+Nov 23 20:18:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7123 cmd /etc/cron/check_updates.sh
+Nov 23 20:19:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7135 cmd /etc/cron/check_updates.sh
+Nov 23 20:20:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7147 cmd /etc/cron/check_updates.sh
+Nov 23 20:21:00 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 20:21:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7163 cmd /etc/cron/check_updates.sh
+Nov 23 20:21:11 indigo-tracker user.debug sender: send success
+Nov 23 20:21:12 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:22:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7176 cmd /etc/cron/check_updates.sh
+Nov 23 20:23:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7187 cmd /etc/cron/check_updates.sh
+Nov 23 20:24:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7199 cmd /etc/cron/check_updates.sh
+Nov 23 20:25:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7211 cmd /etc/cron/check_updates.sh
+Nov 23 20:25:20 indigo-tracker daemon.notice openvpn[728]: TLS: soft reset sec=0 bytes=53795/0 pkts=595/0
+Nov 23 20:25:33 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=1, /C=RU/ST=ROSTOV-ON-DON/L=Taganrog/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 20:25:33 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: nsCertType=SERVER
+Nov 23 20:25:33 indigo-tracker daemon.notice openvpn[728]: VERIFY OK: depth=0, /C=RU/ST=ROSTOV-ON-DON/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+Nov 23 20:25:47 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 20:25:47 indigo-tracker daemon.notice openvpn[728]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 20:25:47 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Nov 23 20:25:47 indigo-tracker daemon.notice openvpn[728]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Nov 23 20:25:47 indigo-tracker daemon.notice openvpn[728]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Nov 23 20:26:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7222 cmd /etc/cron/check_updates.sh
+Nov 23 20:27:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7233 cmd /etc/cron/check_updates.sh
+Nov 23 20:28:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7245 cmd /etc/cron/check_updates.sh
+Nov 23 20:29:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7256 cmd /etc/cron/check_updates.sh
+Nov 23 20:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7268 cmd /etc/cron/check_pppd
+Nov 23 20:30:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7269 cmd /etc/cron/check_updates.sh
+Nov 23 20:30:03 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 20:30:32 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:30:43 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:30:48 indigo-tracker user.debug sender: send success
+Nov 23 20:30:53 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:31:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7295 cmd /etc/cron/check_updates.sh
+Nov 23 20:32:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7307 cmd /etc/cron/check_updates.sh
+Nov 23 20:32:09 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:32:11 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:32:21 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:32:32 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:33:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7325 cmd /etc/cron/check_updates.sh
+Nov 23 20:33:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:33:16 indigo-tracker user.debug sender: send success
+Nov 23 20:34:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7337 cmd /etc/cron/check_updates.sh
+Nov 23 20:34:05 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:34:20 indigo-tracker user.debug sender: send success
+Nov 23 20:35:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7347 cmd /etc/cron/check_updates.sh
+Nov 23 20:35:26 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:35:36 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:36:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:36:02 indigo-tracker cron.info crond[495]: crond: USER root pid 7361 cmd /etc/cron/check_updates.sh
+Nov 23 20:36:30 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:36:35 indigo-tracker user.debug sender: send success
+Nov 23 20:36:37 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:36:50 indigo-tracker user.debug sender: send success
+Nov 23 20:36:51 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:37:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7377 cmd /etc/cron/check_updates.sh
+Nov 23 20:37:03 indigo-tracker user.debug sender: send success
+Nov 23 20:37:18 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:37:41 indigo-tracker user.debug sender: send success
+Nov 23 20:37:43 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:38:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7389 cmd /etc/cron/check_updates.sh
+Nov 23 20:38:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:38:30 indigo-tracker user.debug sender: send success
+Nov 23 20:39:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7399 cmd /etc/cron/check_updates.sh
+Nov 23 20:39:23 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:39:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:39:35 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:39:38 indigo-tracker user.debug sender: send success
+Nov 23 20:39:39 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:40:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7417 cmd /etc/cron/check_updates.sh
+Nov 23 20:40:01 indigo-tracker user.debug sender: send success
+Nov 23 20:41:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7429 cmd /etc/cron/check_updates.sh
+Nov 23 20:41:23 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:41:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:41:53 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:42:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7448 cmd /etc/cron/check_updates.sh
+Nov 23 20:42:03 indigo-tracker user.debug sender: send success
+Nov 23 20:42:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:42:12 indigo-tracker user.debug sender: send success
+Nov 23 20:42:13 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:42:31 indigo-tracker user.debug sender: send success
+Nov 23 20:43:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7459 cmd /etc/cron/check_updates.sh
+Nov 23 20:43:19 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:43:29 indigo-tracker user.debug sender: send success
+Nov 23 20:44:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7469 cmd /etc/cron/check_updates.sh
+Nov 23 20:44:24 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:44:34 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:44:44 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7489 cmd /etc/cron/check_ntp
+Nov 23 20:45:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7490 cmd /etc/cron/check_updates.sh
+Nov 23 20:45:01 indigo-tracker user.notice root: Current time is valid
+Nov 23 20:45:16 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:45:28 indigo-tracker user.debug sender: send success
+Nov 23 20:46:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7506 cmd /etc/cron/check_updates.sh
+Nov 23 20:46:31 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:46:37 indigo-tracker user.debug sender: send success
+Nov 23 20:46:38 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:46:51 indigo-tracker user.debug sender: send success
+Nov 23 20:46:53 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:46:58 indigo-tracker user.debug sender: send success
+Nov 23 20:46:59 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:47:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7518 cmd /etc/cron/check_updates.sh
+Nov 23 20:47:16 indigo-tracker user.debug sender: send success
+Nov 23 20:47:46 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:47:59 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:48:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7532 cmd /etc/cron/check_updates.sh
+Nov 23 20:48:07 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:48:18 indigo-tracker user.debug sender: send success
+Nov 23 20:49:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7546 cmd /etc/cron/check_updates.sh
+Nov 23 20:49:39 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:49:41 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:49:50 indigo-tracker user.debug sender: send success
+Nov 23 20:49:51 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:49:52 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:50:00 indigo-tracker user.debug sender: send success
+Nov 23 20:50:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7566 cmd /etc/cron/check_updates.sh
+Nov 23 20:50:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:50:09 indigo-tracker user.debug sender: send success
+Nov 23 20:50:10 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:50:21 indigo-tracker user.debug sender: send success
+Nov 23 20:50:22 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:50:32 indigo-tracker user.debug sender: send success
+Nov 23 20:50:33 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:50:46 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:50:57 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:50:57 indigo-tracker user.debug sender: send success
+Nov 23 20:51:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7585 cmd /etc/cron/check_updates.sh
+Nov 23 20:51:16 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:51:30 indigo-tracker user.debug sender: send success
+Nov 23 20:51:49 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:51:56 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:52:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7600 cmd /etc/cron/check_updates.sh
+Nov 23 20:52:10 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:52:15 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:52:19 indigo-tracker user.debug sender: send success
+Nov 23 20:52:21 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:52:33 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:53:01 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:53:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7623 cmd /etc/cron/check_updates.sh
+Nov 23 20:53:03 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:53:08 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:53:09 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:53:09 indigo-tracker user.debug sqlite: got enter
+Nov 23 20:53:18 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:53:26 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:53:29 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:53:40 indigo-tracker user.debug sender: send success
+Nov 23 20:54:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7642 cmd /etc/cron/check_updates.sh
+Nov 23 20:55:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7652 cmd /etc/cron/check_updates.sh
+Nov 23 20:55:16 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:55:32 indigo-tracker user.debug sender: send success
+Nov 23 20:55:36 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:55:49 indigo-tracker user.debug sender: send success
+Nov 23 20:56:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7664 cmd /etc/cron/check_updates.sh
+Nov 23 20:56:21 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:56:55 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:57:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7674 cmd /etc/cron/check_updates.sh
+Nov 23 20:57:07 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:57:18 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:57:54 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:57:57 indigo-tracker user.debug sqlite: got leave
+Nov 23 20:58:00 indigo-tracker user.debug sqlite: movement stop
+Nov 23 20:58:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7697 cmd /etc/cron/check_updates.sh
+Nov 23 20:58:12 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:58:14 indigo-tracker user.debug sqlite: movement start
+Nov 23 20:58:23 indigo-tracker user.debug sender: send success
+Nov 23 20:58:24 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:58:35 indigo-tracker user.debug sender: send success
+Nov 23 20:59:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7712 cmd /etc/cron/check_updates.sh
+Nov 23 20:59:01 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:59:16 indigo-tracker user.debug sender: send success
+Nov 23 20:59:17 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:59:26 indigo-tracker user.debug sender: send success
+Nov 23 20:59:27 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:59:39 indigo-tracker user.debug sender: send success
+Nov 23 20:59:48 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 20:59:59 indigo-tracker user.debug sender: send success
+Nov 23 21:00:00 indigo-tracker user.debug recorder: scheduling next file at 1322071200 seconds unix time
+Nov 23 21:00:00 indigo-tracker user.debug recorder: file switch
+Nov 23 21:00:00 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7724 cmd /etc/cron/check_pppd
+Nov 23 21:00:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7725 cmd /etc/cron/check_updates.sh
+Nov 23 21:00:07 indigo-tracker user.notice root: pppd ok, 8.8.8.8 pingable
+Nov 23 21:00:09 indigo-tracker user.debug sender: send success
+Nov 23 21:00:10 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:00:23 indigo-tracker user.debug sender: send success
+Nov 23 21:01:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7739 cmd /etc/cron/check_updates.sh
+Nov 23 21:01:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:01:10 indigo-tracker user.debug sender: send success
+Nov 23 21:01:11 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:01:40 indigo-tracker user.debug sender: send success
+Nov 23 21:02:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7748 cmd /etc/cron/check_updates.sh
+Nov 23 21:02:02 indigo-tracker user.debug sqlite: movement stop
+Nov 23 21:02:14 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:02:24 indigo-tracker user.debug sqlite: movement start
+Nov 23 21:02:33 indigo-tracker user.debug sender: send success
+Nov 23 21:02:34 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:02:34 indigo-tracker user.debug sqlite: movement stop
+Nov 23 21:02:43 indigo-tracker user.debug sender: send success
+Nov 23 21:02:44 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:03:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7771 cmd /etc/cron/check_updates.sh
+Nov 23 21:03:35 indigo-tracker user.debug sqlite: sending keepalive
+Nov 23 21:03:36 indigo-tracker user.debug sqlite: movement start
+Nov 23 21:03:47 indigo-tracker user.debug sender: send success
+Nov 23 21:04:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7788 cmd /etc/cron/check_updates.sh
+Nov 23 21:04:07 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:04:19 indigo-tracker user.debug sender: send success
+Nov 23 21:04:20 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:04:28 indigo-tracker user.debug sender: send success
+Nov 23 21:04:29 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:04:34 indigo-tracker user.debug sender: send success
+Nov 23 21:04:35 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:04:54 indigo-tracker user.debug sender: send success
+Nov 23 21:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7798 cmd /etc/cron/check_updates.sh
+Nov 23 21:05:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7799 cmd /etc/cron/rotate_video.sh
+Nov 23 21:05:03 indigo-tracker user.notice root: rotating video
+Nov 23 21:05:49 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:05:56 indigo-tracker user.debug sqlite: got enter
+Nov 23 21:05:58 indigo-tracker user.debug sqlite: got enter
+Nov 23 21:06:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7830 cmd /etc/cron/check_updates.sh
+Nov 23 21:06:20 indigo-tracker user.debug sender: send success
+Nov 23 21:06:32 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:06:50 indigo-tracker user.debug sender: send success
+Nov 23 21:07:00 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:07:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7840 cmd /etc/cron/check_updates.sh
+Nov 23 21:07:05 indigo-tracker user.debug sender: send success
+Nov 23 21:07:06 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:07:08 indigo-tracker user.debug sqlite: got enter
+Nov 23 21:07:24 indigo-tracker user.debug sender: send success
+Nov 23 21:08:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7849 cmd /etc/cron/check_updates.sh
+Nov 23 21:08:04 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:08:22 indigo-tracker user.debug sender: send success
+Nov 23 21:08:26 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:08:41 indigo-tracker user.debug sender: send success
+Nov 23 21:08:46 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:08:54 indigo-tracker auth.info login[7853]: root login on 'pts/0'
+Nov 23 21:09:01 indigo-tracker cron.info crond[495]: crond: USER root pid 7863 cmd /etc/cron/check_updates.sh
+Nov 23 21:09:29 indigo-tracker user.debug sender: send success
+Nov 23 21:09:42 indigo-tracker user.debug sender: nothing to send, continuing
+Nov 23 21:09:42 indigo-tracker user.debug sqlite: movement stop
+Nov 23 21:09:53 indigo-tracker user.debug sqlite: movement start
+Nov 23 21:09:53 indigo-tracker user.debug sender: send success

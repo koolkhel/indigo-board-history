@@ -1,0 +1,2498 @@
+Jan  1 03:05:59 indigo-tracker local2.info chat[983]: ATD*99#^M^M
+Jan  1 03:05:59 indigo-tracker local2.info chat[983]: ERROR
+Jan  1 03:05:59 indigo-tracker local2.info chat[983]:  -- failed
+Jan  1 03:05:59 indigo-tracker local2.info chat[983]: Failed (ERROR)
+Jan  1 03:05:59 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 982), status = 0x5
+Jan  1 03:05:59 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: abort on (BUSY)
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: abort on (ERROR)
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: send (ATZ^M)
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: timeout set to 12 seconds
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: expect (OK)
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: ATZ^M^M
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: OK
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]:  -- got it
+Jan  1 03:06:00 indigo-tracker local2.info chat[985]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: timeout set to 45 seconds
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: expect (OK)
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: ^M
+Jan  1 03:06:01 indigo-tracker cron.info crond[470]: crond: USER root pid 986 cmd /etc/cron/check_updates.sh
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: OK
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]:  -- got it
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: send (ATD*99#^M)
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: expect (CONNECT)
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: ^M
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: ATD*99#^M^M
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: ERROR
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]:  -- failed
+Jan  1 03:06:01 indigo-tracker local2.info chat[985]: Failed (ERROR)
+Jan  1 03:06:01 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 984), status = 0x5
+Jan  1 03:06:01 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: abort on (BUSY)
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: abort on (ERROR)
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: send (ATZ^M)
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: timeout set to 12 seconds
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: expect (OK)
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: ATZ^M^M
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: OK
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]:  -- got it
+Jan  1 03:06:02 indigo-tracker local2.info chat[989]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: timeout set to 45 seconds
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: expect (OK)
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: ^M
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: OK
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]:  -- got it
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: send (ATD*99#^M)
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: expect (CONNECT)
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: ^M
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: ATD*99#^M^M
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: ERROR
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]:  -- failed
+Jan  1 03:06:03 indigo-tracker local2.info chat[989]: Failed (ERROR)
+Jan  1 03:06:03 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 988), status = 0x5
+Jan  1 03:06:03 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: abort on (BUSY)
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: abort on (ERROR)
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: send (ATZ^M)
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: timeout set to 12 seconds
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: expect (OK)
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: ATZ^M^M
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: OK
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]:  -- got it
+Jan  1 03:06:04 indigo-tracker local2.info chat[991]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: timeout set to 45 seconds
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: expect (OK)
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: ^M
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: OK
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]:  -- got it
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: send (ATD*99#^M)
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: expect (CONNECT)
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: ^M
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: ATD*99#^M^M
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: ERROR
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]:  -- failed
+Jan  1 03:06:05 indigo-tracker local2.info chat[991]: Failed (ERROR)
+Jan  1 03:06:05 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 990), status = 0x5
+Jan  1 03:06:05 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: abort on (BUSY)
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: abort on (ERROR)
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: send (ATZ^M)
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: timeout set to 12 seconds
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: expect (OK)
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: ATZ^M^M
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: OK
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]:  -- got it
+Jan  1 03:06:06 indigo-tracker local2.info chat[993]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: timeout set to 45 seconds
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: expect (OK)
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: ^M
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: OK
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]:  -- got it
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: send (ATD*99#^M)
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: expect (CONNECT)
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: ^M
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: ATD*99#^M^M
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: ERROR
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]:  -- failed
+Jan  1 03:06:07 indigo-tracker local2.info chat[993]: Failed (ERROR)
+Jan  1 03:06:07 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 992), status = 0x5
+Jan  1 03:06:07 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:08 indigo-tracker local2.info chat[995]: abort on (BUSY)
+Jan  1 03:06:08 indigo-tracker local2.info chat[995]: abort on (ERROR)
+Jan  1 03:06:08 indigo-tracker local2.info chat[995]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:08 indigo-tracker local2.info chat[995]: send (ATZ^M)
+Jan  1 03:06:08 indigo-tracker local2.info chat[995]: timeout set to 12 seconds
+Jan  1 03:06:08 indigo-tracker local2.info chat[995]: expect (OK)
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: ATZ^M^M
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: OK
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]:  -- got it
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: timeout set to 45 seconds
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: expect (OK)
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: ^M
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: OK
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]:  -- got it
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: send (ATD*99#^M)
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: expect (CONNECT)
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: ^M
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: ATD*99#^M^M
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: ERROR
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]:  -- failed
+Jan  1 03:06:09 indigo-tracker local2.info chat[995]: Failed (ERROR)
+Jan  1 03:06:09 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 994), status = 0x5
+Jan  1 03:06:09 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:10 indigo-tracker local2.info chat[997]: abort on (BUSY)
+Jan  1 03:06:10 indigo-tracker local2.info chat[997]: abort on (ERROR)
+Jan  1 03:06:10 indigo-tracker local2.info chat[997]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:10 indigo-tracker local2.info chat[997]: send (ATZ^M)
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: timeout set to 12 seconds
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: expect (OK)
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: ATZ^M^M
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: OK
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]:  -- got it
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: timeout set to 45 seconds
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: expect (OK)
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: ^M
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: OK
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]:  -- got it
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: send (ATD*99#^M)
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: expect (CONNECT)
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: ^M
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: ATD*99#^M^M
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: ERROR
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]:  -- failed
+Jan  1 03:06:11 indigo-tracker local2.info chat[997]: Failed (ERROR)
+Jan  1 03:06:11 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 996), status = 0x5
+Jan  1 03:06:11 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: abort on (BUSY)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: abort on (ERROR)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: send (ATZ^M)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: timeout set to 12 seconds
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: expect (OK)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: ATZ^M^M
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: OK
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]:  -- got it
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: timeout set to 45 seconds
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: expect (OK)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: ^M
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: OK
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]:  -- got it
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: send (ATD*99#^M)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: expect (CONNECT)
+Jan  1 03:06:13 indigo-tracker local2.info chat[999]: ^M
+Jan  1 03:06:14 indigo-tracker local2.info chat[999]: ATD*99#^M^M
+Jan  1 03:06:14 indigo-tracker local2.info chat[999]: ERROR
+Jan  1 03:06:14 indigo-tracker local2.info chat[999]:  -- failed
+Jan  1 03:06:14 indigo-tracker local2.info chat[999]: Failed (ERROR)
+Jan  1 03:06:14 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 998), status = 0x5
+Jan  1 03:06:14 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: abort on (BUSY)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: abort on (ERROR)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: send (ATZ^M)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: timeout set to 12 seconds
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: expect (OK)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: ATZ^M^M
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: OK
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]:  -- got it
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: timeout set to 45 seconds
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: expect (OK)
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: ^M
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: OK
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]:  -- got it
+Jan  1 03:06:15 indigo-tracker local2.info chat[1001]: send (ATD*99#^M)
+Jan  1 03:06:16 indigo-tracker local2.info chat[1001]: expect (CONNECT)
+Jan  1 03:06:16 indigo-tracker local2.info chat[1001]: ^M
+Jan  1 03:06:16 indigo-tracker local2.info chat[1001]: ATD*99#^M^M
+Jan  1 03:06:16 indigo-tracker local2.info chat[1001]: ERROR
+Jan  1 03:06:16 indigo-tracker local2.info chat[1001]:  -- failed
+Jan  1 03:06:16 indigo-tracker local2.info chat[1001]: Failed (ERROR)
+Jan  1 03:06:16 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1000), status = 0x5
+Jan  1 03:06:16 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: abort on (BUSY)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: abort on (ERROR)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: send (ATZ^M)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: timeout set to 12 seconds
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: expect (OK)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: ATZ^M^M
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: OK
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]:  -- got it
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: timeout set to 45 seconds
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: expect (OK)
+Jan  1 03:06:17 indigo-tracker local2.info chat[1003]: ^M
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: OK
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]:  -- got it
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: send (ATD*99#^M)
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: expect (CONNECT)
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: ^M
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: ATD*99#^M^M
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: ERROR
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]:  -- failed
+Jan  1 03:06:18 indigo-tracker local2.info chat[1003]: Failed (ERROR)
+Jan  1 03:06:18 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1002), status = 0x5
+Jan  1 03:06:18 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: abort on (BUSY)
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: abort on (ERROR)
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: send (ATZ^M)
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: timeout set to 12 seconds
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: expect (OK)
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: ATZ^M^M
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: OK
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]:  -- got it
+Jan  1 03:06:19 indigo-tracker local2.info chat[1005]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: timeout set to 45 seconds
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: expect (OK)
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: ^M
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: OK
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]:  -- got it
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: send (ATD*99#^M)
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: expect (CONNECT)
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: ^M
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: ATD*99#^M^M
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: ERROR
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]:  -- failed
+Jan  1 03:06:20 indigo-tracker local2.info chat[1005]: Failed (ERROR)
+Jan  1 03:06:20 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1004), status = 0x5
+Jan  1 03:06:20 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: abort on (BUSY)
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: abort on (ERROR)
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: send (ATZ^M)
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: timeout set to 12 seconds
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: expect (OK)
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: ATZ^M^M
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: OK
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]:  -- got it
+Jan  1 03:06:21 indigo-tracker local2.info chat[1007]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: timeout set to 45 seconds
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: expect (OK)
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: ^M
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: OK
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]:  -- got it
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: send (ATD*99#^M)
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: expect (CONNECT)
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: ^M
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: ATD*99#^M^M
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: ERROR
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]:  -- failed
+Jan  1 03:06:22 indigo-tracker local2.info chat[1007]: Failed (ERROR)
+Jan  1 03:06:22 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1006), status = 0x5
+Jan  1 03:06:22 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: abort on (BUSY)
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: abort on (ERROR)
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: send (ATZ^M)
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: timeout set to 12 seconds
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: expect (OK)
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: ATZ^M^M
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: OK
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]:  -- got it
+Jan  1 03:06:23 indigo-tracker local2.info chat[1009]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: timeout set to 45 seconds
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: expect (OK)
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: ^M
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: OK
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]:  -- got it
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: send (ATD*99#^M)
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: expect (CONNECT)
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: ^M
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: ATD*99#^M^M
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: ERROR
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]:  -- failed
+Jan  1 03:06:24 indigo-tracker local2.info chat[1009]: Failed (ERROR)
+Jan  1 03:06:24 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1008), status = 0x5
+Jan  1 03:06:24 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: abort on (BUSY)
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: abort on (ERROR)
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: send (ATZ^M)
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: timeout set to 12 seconds
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: expect (OK)
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: ATZ^M^M
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: OK
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]:  -- got it
+Jan  1 03:06:25 indigo-tracker local2.info chat[1011]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: timeout set to 45 seconds
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: expect (OK)
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: ^M
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: OK
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]:  -- got it
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: send (ATD*99#^M)
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: expect (CONNECT)
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: ^M
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: ATD*99#^M^M
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: ERROR
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]:  -- failed
+Jan  1 03:06:26 indigo-tracker local2.info chat[1011]: Failed (ERROR)
+Jan  1 03:06:26 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1010), status = 0x5
+Jan  1 03:06:26 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: abort on (BUSY)
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: abort on (ERROR)
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: send (ATZ^M)
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: timeout set to 12 seconds
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: expect (OK)
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: ATZ^M^M
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: OK
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]:  -- got it
+Jan  1 03:06:27 indigo-tracker local2.info chat[1013]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: timeout set to 45 seconds
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: expect (OK)
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: ^M
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: OK
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]:  -- got it
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: send (ATD*99#^M)
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: expect (CONNECT)
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: ^M
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: ATD*99#^M^M
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: ERROR
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]:  -- failed
+Jan  1 03:06:28 indigo-tracker local2.info chat[1013]: Failed (ERROR)
+Jan  1 03:06:28 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1012), status = 0x5
+Jan  1 03:06:28 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: abort on (BUSY)
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: abort on (ERROR)
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: send (ATZ^M)
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: timeout set to 12 seconds
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: expect (OK)
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: ATZ^M^M
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: OK
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]:  -- got it
+Jan  1 03:06:29 indigo-tracker local2.info chat[1015]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: timeout set to 45 seconds
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: expect (OK)
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: ^M
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: OK
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]:  -- got it
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: send (ATD*99#^M)
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: expect (CONNECT)
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: ^M
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: ATD*99#^M^M
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: ERROR
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]:  -- failed
+Jan  1 03:06:30 indigo-tracker local2.info chat[1015]: Failed (ERROR)
+Jan  1 03:06:30 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1014), status = 0x5
+Jan  1 03:06:30 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:31 indigo-tracker local2.info chat[1017]: abort on (BUSY)
+Jan  1 03:06:31 indigo-tracker local2.info chat[1017]: abort on (ERROR)
+Jan  1 03:06:31 indigo-tracker local2.info chat[1017]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:31 indigo-tracker local2.info chat[1017]: send (ATZ^M)
+Jan  1 03:06:31 indigo-tracker local2.info chat[1017]: timeout set to 12 seconds
+Jan  1 03:06:31 indigo-tracker local2.info chat[1017]: expect (OK)
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: ATZ^M^M
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: OK
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]:  -- got it
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: timeout set to 45 seconds
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: expect (OK)
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: ^M
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: OK
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]:  -- got it
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: send (ATD*99#^M)
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: expect (CONNECT)
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: ^M
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: ATD*99#^M^M
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: ERROR
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]:  -- failed
+Jan  1 03:06:32 indigo-tracker local2.info chat[1017]: Failed (ERROR)
+Jan  1 03:06:32 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1016), status = 0x5
+Jan  1 03:06:32 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:33 indigo-tracker local2.info chat[1019]: abort on (BUSY)
+Jan  1 03:06:33 indigo-tracker local2.info chat[1019]: abort on (ERROR)
+Jan  1 03:06:33 indigo-tracker local2.info chat[1019]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:33 indigo-tracker local2.info chat[1019]: send (ATZ^M)
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: timeout set to 12 seconds
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: expect (OK)
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: ATZ^M^M
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: OK
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]:  -- got it
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: timeout set to 45 seconds
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: expect (OK)
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: ^M
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: OK
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]:  -- got it
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: send (ATD*99#^M)
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: expect (CONNECT)
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: ^M
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: ATD*99#^M^M
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: ERROR
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]:  -- failed
+Jan  1 03:06:34 indigo-tracker local2.info chat[1019]: Failed (ERROR)
+Jan  1 03:06:34 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1018), status = 0x5
+Jan  1 03:06:34 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: abort on (BUSY)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: abort on (ERROR)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: send (ATZ^M)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: timeout set to 12 seconds
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: expect (OK)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: ATZ^M^M
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: OK
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]:  -- got it
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: timeout set to 45 seconds
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: expect (OK)
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: ^M
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: OK
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]:  -- got it
+Jan  1 03:06:36 indigo-tracker local2.info chat[1021]: send (ATD*99#^M)
+Jan  1 03:06:37 indigo-tracker local2.info chat[1021]: expect (CONNECT)
+Jan  1 03:06:37 indigo-tracker local2.info chat[1021]: ^M
+Jan  1 03:06:37 indigo-tracker local2.info chat[1021]: ATD*99#^M^M
+Jan  1 03:06:37 indigo-tracker local2.info chat[1021]: ERROR
+Jan  1 03:06:37 indigo-tracker local2.info chat[1021]:  -- failed
+Jan  1 03:06:37 indigo-tracker local2.info chat[1021]: Failed (ERROR)
+Jan  1 03:06:37 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 1020), status = 0x5
+Jan  1 03:06:37 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:16 indigo-tracker syslog.info syslogd started: BusyBox v1.18.3
+Jan  1 03:00:16 indigo-tracker user.notice kernel: klogd started: BusyBox v1.18.3 (2011-03-29 18:29:13 MSD)
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Linux version 2.6.38+ (yury@debian-dev-vm) (gcc version 4.4.5 (indigo-ct-ng) ) #60 Wed Sep 21 16:51:48 MSD 2011
+Jan  1 03:00:16 indigo-tracker user.warn kernel: CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+Jan  1 03:00:16 indigo-tracker user.warn kernel: CPU: VIVT data cache, VIVT instruction cache
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Machine: Indigo AT91SAM9260-SK
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Memory policy: ECC disabled, Data cache writeback
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Clocks: CPU 196 MHz, master 98 MHz, main 12.000 MHz
+Jan  1 03:00:16 indigo-tracker user.debug kernel: On node 0 totalpages: 16384
+Jan  1 03:00:16 indigo-tracker user.debug kernel: free_area_init_node: node 0, pgdat c0369484, node_mem_map c037b000
+Jan  1 03:00:16 indigo-tracker user.debug kernel:   Normal zone: 128 pages used for memmap
+Jan  1 03:00:16 indigo-tracker user.debug kernel:   Normal zone: 0 pages reserved
+Jan  1 03:00:16 indigo-tracker user.debug kernel:   Normal zone: 16256 pages, LIFO batch:3
+Jan  1 03:00:16 indigo-tracker user.debug kernel: pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan  1 03:00:16 indigo-tracker user.debug kernel: pcpu-alloc: [0] 0 
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Kernel command line: console=ttyS0,115200=mem=64M root=/dev/mtdblock3
+Jan  1 03:00:16 indigo-tracker user.info kernel: PID hash table entries: 256 (order: -2, 1024 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Memory: 64MB = 64MB total
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Memory: 61364k/61364k available, 4172k reserved, 0K highmem
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Virtual kernel memory layout:
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     DMA     : 0xffc00000 - 0xffe00000   (   2 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     vmalloc : 0xc4800000 - 0xfee00000   ( 934 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     modules : 0xbf000000 - 0xc0000000   (  16 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:       .init : 0xc0008000 - 0xc0024000   ( 112 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:       .text : 0xc0024000 - 0xc03419d4   (3191 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:       .data : 0xc0342000 - 0xc0369c60   ( 160 kB)
+Jan  1 03:00:16 indigo-tracker user.info kernel: NR_IRQS:192
+Jan  1 03:00:16 indigo-tracker user.info kernel: AT91: 96 gpio irqs in 3 banks
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Console: colour dummy device 80x30
+Jan  1 03:00:16 indigo-tracker user.info kernel: console [ttyS0] enabled
+Jan  1 03:00:16 indigo-tracker user.info kernel: Calibrating delay loop... 97.89 BogoMIPS (lpj=489472)
+Jan  1 03:00:16 indigo-tracker user.info kernel: pid_max: default: 32768 minimum: 301
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Mount-cache hash table entries: 512
+Jan  1 03:00:16 indigo-tracker user.info kernel: CPU: Testing write buffer coherency: ok
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 16
+Jan  1 03:00:16 indigo-tracker user.warn kernel: bio: create slab <bio-0> at 0
+Jan  1 03:00:16 indigo-tracker user.notice kernel: SCSI subsystem initialized
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver usbfs
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver hub
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new device driver usb
+Jan  1 03:00:16 indigo-tracker user.info kernel: Advanced Linux Sound Architecture Driver Version 1.0.23.
+Jan  1 03:00:16 indigo-tracker user.info kernel: Switching to clocksource pit
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 2
+Jan  1 03:00:16 indigo-tracker user.info kernel: IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP established hash table entries: 2048 (order: 2, 16384 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP bind hash table entries: 2048 (order: 1, 8192 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP: Hash tables configured (established 2048 bind 2048)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP reno registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: UDP hash table entries: 256 (order: 0, 4096 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 1
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: yaffs built Sep 21 2011 13:46:29 Installing.
+Jan  1 03:00:16 indigo-tracker user.info kernel: msgmni has been set to 119
+Jan  1 03:00:16 indigo-tracker user.info kernel: io scheduler noop registered (default)
+Jan  1 03:00:16 indigo-tracker user.info kernel: io scheduler deadline registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_usart.0: ttyS0 at MMIO 0xfefff200 (irq = 1) is a ATMEL_SERIAL
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_usart.1: ttyS1 at MMIO 0xfffb0000 (irq = 6) is a ATMEL_SERIAL
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_usart.2: ttyS2 at MMIO 0xfffb8000 (irq = 8) is a ATMEL_SERIAL
+Jan  1 03:00:16 indigo-tracker user.debug kernel: SK-AT91SAM9XE512: SIM508 power management driver, major 135, minor 0.
+Jan  1 03:00:16 indigo-tracker user.info kernel: brd: module loaded
+Jan  1 03:00:16 indigo-tracker user.info kernel: loop: module loaded
+Jan  1 03:00:16 indigo-tracker user.info kernel: ssc ssc.0: Atmel SSC device at 0xc4818000 (irq 14)
+Jan  1 03:00:16 indigo-tracker user.info kernel: NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Scanning device for bad blocks
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Bad eraseblock 1686 at 0x00000d2c0000
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Creating 6 MTD partitions on "atmel_nand":
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000000000-0x000000020000 : "Bootstrap partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000020000-0x000000060000 : "U-boot Partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x0000000a0000-0x0000002a0000 : "Kernel Partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000800000-0x000010000000 : "Storage Partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000060000-0x000000080000 : "U-boot Environment"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000080000-0x0000000a0000 : "U-boot Environment Backup"
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_spi atmel_spi.0: Atmel SPI Controller at 0xfffc8000 (irq 12)
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffcc000 (irq 13)
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP generic driver version 2.4.2
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP Deflate Compression module registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP BSD Compression module registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP MPPE Compression module registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 24
+Jan  1 03:00:16 indigo-tracker user.info kernel: SLIP: version 0.8.4-NET3.019-NEWTTY (dynamic channels, max=256).
+Jan  1 03:00:16 indigo-tracker user.info kernel: CSLIP: code copyright 1989 Regents of the University of California.
+Jan  1 03:00:16 indigo-tracker user.info kernel: tun: Universal TUN/TAP device driver, 1.6
+Jan  1 03:00:16 indigo-tracker user.info kernel: tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Jan  1 03:00:16 indigo-tracker user.info kernel: macb macb: invalid hw address, using random
+Jan  1 03:00:16 indigo-tracker user.info kernel: MACB_mii_bus: probed
+Jan  1 03:00:16 indigo-tracker user.info kernel: eth0: Atmel MACB at 0xfffc4000 irq 21 (26:41:6d:78:c1:d7)
+Jan  1 03:00:16 indigo-tracker user.info kernel: eth0: attached PHY driver [Micrel KS8001 or KS8721] (mii_bus:phy_addr=ffffffff:01, irq=-1)
+Jan  1 03:00:16 indigo-tracker user.info kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Jan  1 03:00:16 indigo-tracker user.info kernel: at91_ohci at91_ohci: AT91 OHCI
+Jan  1 03:00:16 indigo-tracker user.info kernel: at91_ohci at91_ohci: new USB bus registered, assigned bus number 1
+Jan  1 03:00:16 indigo-tracker user.info kernel: at91_ohci at91_ohci: irq 20, io mem 0x00500000
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: New USB device found, idVendor=1d6b, idProduct=0001
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: Product: AT91 OHCI
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: Manufacturer: Linux 2.6.38+ ohci_hcd
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: SerialNumber: at91
+Jan  1 03:00:16 indigo-tracker user.info kernel: hub 1-0:1.0: USB hub found
+Jan  1 03:00:16 indigo-tracker user.info kernel: hub 1-0:1.0: 2 ports detected
+Jan  1 03:00:16 indigo-tracker user.info kernel: Initializing USB Mass Storage driver...
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver usb-storage
+Jan  1 03:00:16 indigo-tracker user.info kernel: USB Mass Storage support registered.
+Jan  1 03:00:16 indigo-tracker user.info kernel: rtc-at91sam9 at91_rtt.0: rtc core: registered at91_rtt as rtc0
+Jan  1 03:00:16 indigo-tracker user.warn kernel: rtc-at91sam9 at91_rtt.0: rtc0: SET TIME!
+Jan  1 03:00:16 indigo-tracker user.info kernel: i2c /dev entries driver
+Jan  1 03:00:16 indigo-tracker user.info kernel: Linux video capture interface: v2.00
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver uvcvideo
+Jan  1 03:00:16 indigo-tracker user.info kernel: USB Video Class driver (v1.0.0)
+Jan  1 03:00:16 indigo-tracker user.info kernel: AT91SAM9 Watchdog enabled (heartbeat=15 sec, nowayout=0)
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver snd-usb-audio
+Jan  1 03:00:16 indigo-tracker user.info kernel: ALSA device list:
+Jan  1 03:00:16 indigo-tracker user.info kernel:   No soundcards found.
+Jan  1 03:00:16 indigo-tracker user.info kernel: nf_conntrack version 0.5.0 (958 buckets, 3832 max)
+Jan  1 03:00:16 indigo-tracker user.info kernel: ip_tables: (C) 2000-2006 Netfilter Core Team
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP cubic registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 17
+Jan  1 03:00:16 indigo-tracker user.err kernel: rtc-at91sam9 at91_rtt.0: hctosys: unable to read the hardware clock
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_mci atmel_mci: Atmel MCI controller at 0xfffa8000 irq 9, 1 slots
+Jan  1 03:00:16 indigo-tracker user.info kernel: yaffs: dev is 32505859 name is "mtdblock3" rw
+Jan  1 03:00:16 indigo-tracker user.info kernel: yaffs: passed flags ""
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: yaffs: Attempting MTD mount of 31.3,"mtdblock3"
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: auto selecting yaffs2
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: block 1623 is bad
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: yaffs_read_super: is_checkpointed 0
+Jan  1 03:00:16 indigo-tracker user.warn kernel: VFS: Mounted root (yaffs filesystem) on device 31:3.
+Jan  1 03:00:16 indigo-tracker user.info kernel: Freeing init memory: 112K
+Jan  1 03:00:16 indigo-tracker user.alert kernel: piopins: with filter
+Jan  1 03:00:16 indigo-tracker user.warn kernel: piopins: system time doesn't seem to be true, will not flush anything
+Jan  1 03:00:16 indigo-tracker user.info kernel: SK-AT91SAM9XE512: SIM508 GPS power OFF.
+Jan  1 03:00:16 indigo-tracker user.info kernel: SK-AT91SAM9XE512: SIM508 GPS power ON.
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: timeout set to 45 seconds
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: expect (OK)
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: ^M
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: OK
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]:  -- got it
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: send (ATD*99#^M)
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: expect (CONNECT)
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: ^M
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: ATD*99#^M^M
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: ERROR
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]:  -- failed
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: Failed (ERROR)
+Jan  1 03:00:17 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 619), status = 0x5
+Jan  1 03:00:17 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: abort on (BUSY)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: abort on (ERROR)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: send (ATZ^M)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: timeout set to 12 seconds
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: expect (OK)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: ATZ^M^M
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: OK
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]:  -- got it
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: timeout set to 45 seconds
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: expect (OK)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: ^M
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: OK
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]:  -- got it
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: send (ATD*99#^M)
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: expect (CONNECT)
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: ^M
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: ATD*99#^M^M
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: ERROR
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]:  -- failed
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: Failed (ERROR)
+Jan  1 03:00:19 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 631), status = 0x5
+Jan  1 03:00:19 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: abort on (BUSY)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: abort on (ERROR)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: send (ATZ^M)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: timeout set to 12 seconds
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: expect (OK)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: ATZ^M^M
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: OK
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]:  -- got it
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:20 indigo-tracker auth.info login[628]: root login on 'ttyS0'
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: timeout set to 45 seconds
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: expect (OK)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: ^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: OK
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]:  -- got it
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: send (ATD*99#^M)
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: expect (CONNECT)
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: ^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: ATD*99#^M^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: ERROR
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]:  -- failed
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: Failed (ERROR)
+Jan  1 03:00:21 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 633), status = 0x5
+Jan  1 03:00:21 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: abort on (BUSY)
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: abort on (ERROR)
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: send (ATZ^M)
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: timeout set to 12 seconds
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: expect (OK)
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: ATZ^M^M
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: OK
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]:  -- got it
+Jan  1 03:00:22 indigo-tracker local2.info chat[640]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: timeout set to 45 seconds
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: expect (OK)
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: ^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: OK
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]:  -- got it
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: send (ATD*99#^M)
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: expect (CONNECT)
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: ^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: ATD*99#^M^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: ERROR
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]:  -- failed
+Jan  1 03:00:23 indigo-tracker local2.info chat[640]: Failed (ERROR)
+Jan  1 03:00:23 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 639), status = 0x5
+Jan  1 03:00:23 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: abort on (BUSY)
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: abort on (ERROR)
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: send (ATZ^M)
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: timeout set to 12 seconds
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: expect (OK)
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: ATZ^M^M
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: OK
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]:  -- got it
+Jan  1 03:00:24 indigo-tracker local2.info chat[642]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: timeout set to 45 seconds
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: expect (OK)
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: ^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: OK
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]:  -- got it
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: send (ATD*99#^M)
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: expect (CONNECT)
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: ^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: ATD*99#^M^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: ERROR
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]:  -- failed
+Jan  1 03:00:25 indigo-tracker local2.info chat[642]: Failed (ERROR)
+Jan  1 03:00:25 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 641), status = 0x5
+Jan  1 03:00:25 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: abort on (BUSY)
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: abort on (ERROR)
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: send (ATZ^M)
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: timeout set to 12 seconds
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: expect (OK)
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: ATZ^M^M
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: OK
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]:  -- got it
+Jan  1 03:00:26 indigo-tracker local2.info chat[645]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: timeout set to 45 seconds
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: expect (OK)
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: ^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: OK
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]:  -- got it
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: send (ATD*99#^M)
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: expect (CONNECT)
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: ^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: ATD*99#^M^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: ERROR
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]:  -- failed
+Jan  1 03:00:27 indigo-tracker local2.info chat[645]: Failed (ERROR)
+Jan  1 03:00:27 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 644), status = 0x5
+Jan  1 03:00:27 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: abort on (BUSY)
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: abort on (ERROR)
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: send (ATZ^M)
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: timeout set to 12 seconds
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: expect (OK)
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: ATZ^M^M
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: OK
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]:  -- got it
+Jan  1 03:00:28 indigo-tracker local2.info chat[647]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: timeout set to 45 seconds
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: expect (OK)
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: ^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: OK
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]:  -- got it
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: send (ATD*99#^M)
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: expect (CONNECT)
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: ^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: ATD*99#^M^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: ERROR
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]:  -- failed
+Jan  1 03:00:29 indigo-tracker local2.info chat[647]: Failed (ERROR)
+Jan  1 03:00:29 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 646), status = 0x5
+Jan  1 03:00:29 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: abort on (BUSY)
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: abort on (ERROR)
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: send (ATZ^M)
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: timeout set to 12 seconds
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: expect (OK)
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: ATZ^M^M
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: OK
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]:  -- got it
+Jan  1 03:00:30 indigo-tracker local2.info chat[649]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: timeout set to 45 seconds
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: expect (OK)
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: ^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: OK
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]:  -- got it
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: send (ATD*99#^M)
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: expect (CONNECT)
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: ^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: ATD*99#^M^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: ERROR
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]:  -- failed
+Jan  1 03:00:31 indigo-tracker local2.info chat[649]: Failed (ERROR)
+Jan  1 03:00:31 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 648), status = 0x5
+Jan  1 03:00:31 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: abort on (BUSY)
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: abort on (ERROR)
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: send (ATZ^M)
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: timeout set to 12 seconds
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: expect (OK)
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: ATZ^M^M
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: OK
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]:  -- got it
+Jan  1 03:00:32 indigo-tracker local2.info chat[651]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: timeout set to 45 seconds
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: expect (OK)
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: ^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: OK
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]:  -- got it
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: send (ATD*99#^M)
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: expect (CONNECT)
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: ^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: ATD*99#^M^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: ERROR
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]:  -- failed
+Jan  1 03:00:33 indigo-tracker local2.info chat[651]: Failed (ERROR)
+Jan  1 03:00:33 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 650), status = 0x5
+Jan  1 03:00:33 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:34 indigo-tracker local2.info chat[653]: abort on (BUSY)
+Jan  1 03:00:34 indigo-tracker local2.info chat[653]: abort on (ERROR)
+Jan  1 03:00:34 indigo-tracker local2.info chat[653]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:34 indigo-tracker local2.info chat[653]: send (ATZ^M)
+Jan  1 03:00:34 indigo-tracker local2.info chat[653]: timeout set to 12 seconds
+Jan  1 03:00:34 indigo-tracker local2.info chat[653]: expect (OK)
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: ATZ^M^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: OK
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]:  -- got it
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: timeout set to 45 seconds
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: expect (OK)
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: ^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: OK
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]:  -- got it
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: send (ATD*99#^M)
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: expect (CONNECT)
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: ^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: ATD*99#^M^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: ERROR
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]:  -- failed
+Jan  1 03:00:35 indigo-tracker local2.info chat[653]: Failed (ERROR)
+Jan  1 03:00:35 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 652), status = 0x5
+Jan  1 03:00:35 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:36 indigo-tracker local2.info chat[655]: abort on (BUSY)
+Jan  1 03:00:36 indigo-tracker local2.info chat[655]: abort on (ERROR)
+Jan  1 03:00:36 indigo-tracker local2.info chat[655]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:36 indigo-tracker local2.info chat[655]: send (ATZ^M)
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: timeout set to 12 seconds
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: expect (OK)
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: ATZ^M^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: OK
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]:  -- got it
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: timeout set to 45 seconds
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: expect (OK)
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: ^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: OK
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]:  -- got it
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: send (ATD*99#^M)
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: expect (CONNECT)
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: ^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: ATD*99#^M^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: ERROR
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]:  -- failed
+Jan  1 03:00:37 indigo-tracker local2.info chat[655]: Failed (ERROR)
+Jan  1 03:00:37 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 654), status = 0x5
+Jan  1 03:00:37 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: abort on (BUSY)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: abort on (ERROR)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: send (ATZ^M)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: timeout set to 12 seconds
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: expect (OK)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: ATZ^M^M
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: OK
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]:  -- got it
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: timeout set to 45 seconds
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: expect (OK)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: ^M
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: OK
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]:  -- got it
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: send (ATD*99#^M)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: expect (CONNECT)
+Jan  1 03:00:39 indigo-tracker local2.info chat[657]: ^M
+Jan  1 03:00:40 indigo-tracker local2.info chat[657]: ATD*99#^M^M
+Jan  1 03:00:40 indigo-tracker local2.info chat[657]: ERROR
+Jan  1 03:00:40 indigo-tracker local2.info chat[657]:  -- failed
+Jan  1 03:00:40 indigo-tracker local2.info chat[657]: Failed (ERROR)
+Jan  1 03:00:40 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 656), status = 0x5
+Jan  1 03:00:40 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: abort on (BUSY)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: abort on (ERROR)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: send (ATZ^M)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: timeout set to 12 seconds
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: expect (OK)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: ATZ^M^M
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: OK
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]:  -- got it
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: timeout set to 45 seconds
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: expect (OK)
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: ^M
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: OK
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]:  -- got it
+Jan  1 03:00:41 indigo-tracker local2.info chat[659]: send (ATD*99#^M)
+Jan  1 03:00:42 indigo-tracker local2.info chat[659]: expect (CONNECT)
+Jan  1 03:00:42 indigo-tracker local2.info chat[659]: ^M
+Jan  1 03:00:42 indigo-tracker local2.info chat[659]: ATD*99#^M^M
+Jan  1 03:00:42 indigo-tracker local2.info chat[659]: ERROR
+Jan  1 03:00:42 indigo-tracker local2.info chat[659]:  -- failed
+Jan  1 03:00:42 indigo-tracker local2.info chat[659]: Failed (ERROR)
+Jan  1 03:00:42 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 658), status = 0x5
+Jan  1 03:00:42 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: abort on (BUSY)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: abort on (ERROR)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: send (ATZ^M)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: timeout set to 12 seconds
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: expect (OK)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: ATZ^M^M
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: OK
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]:  -- got it
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: timeout set to 45 seconds
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: expect (OK)
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: ^M
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: OK
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]:  -- got it
+Jan  1 03:00:43 indigo-tracker local2.info chat[661]: send (ATD*99#^M)
+Jan  1 03:00:44 indigo-tracker local2.info chat[661]: expect (CONNECT)
+Jan  1 03:00:44 indigo-tracker local2.info chat[661]: ^M
+Jan  1 03:00:44 indigo-tracker local2.info chat[661]: ATD*99#^M^M
+Jan  1 03:00:44 indigo-tracker local2.info chat[661]: ERROR
+Jan  1 03:00:44 indigo-tracker local2.info chat[661]:  -- failed
+Jan  1 03:00:44 indigo-tracker local2.info chat[661]: Failed (ERROR)
+Jan  1 03:00:44 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 660), status = 0x5
+Jan  1 03:00:44 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: abort on (BUSY)
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: abort on (ERROR)
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: send (ATZ^M)
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: timeout set to 12 seconds
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: expect (OK)
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: ATZ^M^M
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: OK
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]:  -- got it
+Jan  1 03:00:45 indigo-tracker local2.info chat[663]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: timeout set to 45 seconds
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: expect (OK)
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: ^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: OK
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]:  -- got it
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: send (ATD*99#^M)
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: expect (CONNECT)
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: ^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: ATD*99#^M^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: ERROR
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]:  -- failed
+Jan  1 03:00:46 indigo-tracker local2.info chat[663]: Failed (ERROR)
+Jan  1 03:00:46 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 662), status = 0x5
+Jan  1 03:00:46 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: abort on (BUSY)
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: abort on (ERROR)
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: send (ATZ^M)
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: timeout set to 12 seconds
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: expect (OK)
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: ATZ^M^M
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: OK
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]:  -- got it
+Jan  1 03:00:47 indigo-tracker local2.info chat[665]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: timeout set to 45 seconds
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: expect (OK)
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: ^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: OK
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]:  -- got it
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: send (ATD*99#^M)
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: expect (CONNECT)
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: ^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: ATD*99#^M^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: ERROR
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]:  -- failed
+Jan  1 03:00:48 indigo-tracker local2.info chat[665]: Failed (ERROR)
+Jan  1 03:00:48 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 664), status = 0x5
+Jan  1 03:00:48 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: abort on (BUSY)
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: abort on (ERROR)
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: send (ATZ^M)
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: timeout set to 12 seconds
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: expect (OK)
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: ATZ^M^M
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: OK
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]:  -- got it
+Jan  1 03:00:49 indigo-tracker local2.info chat[667]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: timeout set to 45 seconds
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: expect (OK)
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: ^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: OK
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]:  -- got it
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: send (ATD*99#^M)
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: expect (CONNECT)
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: ^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: ATD*99#^M^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: ERROR
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]:  -- failed
+Jan  1 03:00:50 indigo-tracker local2.info chat[667]: Failed (ERROR)
+Jan  1 03:00:50 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 666), status = 0x5
+Jan  1 03:00:50 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: abort on (BUSY)
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: abort on (ERROR)
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: send (ATZ^M)
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: timeout set to 12 seconds
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: expect (OK)
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: ATZ^M^M
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: OK
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]:  -- got it
+Jan  1 03:00:51 indigo-tracker local2.info chat[669]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: timeout set to 45 seconds
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: expect (OK)
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: ^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: OK
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]:  -- got it
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: send (ATD*99#^M)
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: expect (CONNECT)
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: ^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: ATD*99#^M^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: ERROR
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]:  -- failed
+Jan  1 03:00:52 indigo-tracker local2.info chat[669]: Failed (ERROR)
+Jan  1 03:00:52 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 668), status = 0x5
+Jan  1 03:00:52 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: abort on (BUSY)
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: abort on (ERROR)
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: send (ATZ^M)
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: timeout set to 12 seconds
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: expect (OK)
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: ATZ^M^M
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: OK
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]:  -- got it
+Jan  1 03:00:53 indigo-tracker local2.info chat[671]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: timeout set to 45 seconds
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: expect (OK)
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: ^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: OK
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]:  -- got it
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: send (ATD*99#^M)
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: expect (CONNECT)
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: ^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: ATD*99#^M^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: ERROR
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]:  -- failed
+Jan  1 03:00:54 indigo-tracker local2.info chat[671]: Failed (ERROR)
+Jan  1 03:00:54 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 670), status = 0x5
+Jan  1 03:00:54 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: abort on (BUSY)
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: abort on (ERROR)
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: send (ATZ^M)
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: timeout set to 12 seconds
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: expect (OK)
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: ATZ^M^M
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: OK
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]:  -- got it
+Jan  1 03:00:55 indigo-tracker local2.info chat[673]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: timeout set to 45 seconds
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: expect (OK)
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: ^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: OK
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]:  -- got it
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: send (ATD*99#^M)
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: expect (CONNECT)
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: ^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: ATD*99#^M^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: ERROR
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]:  -- failed
+Jan  1 03:00:56 indigo-tracker local2.info chat[673]: Failed (ERROR)
+Jan  1 03:00:56 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 672), status = 0x5
+Jan  1 03:00:56 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: abort on (BUSY)
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: abort on (ERROR)
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: send (ATZ^M)
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: timeout set to 12 seconds
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: expect (OK)
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: ATZ^M^M
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: OK
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]:  -- got it
+Jan  1 03:00:57 indigo-tracker local2.info chat[675]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: timeout set to 45 seconds
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: expect (OK)
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: ^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: OK
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]:  -- got it
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: send (ATD*99#^M)
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: expect (CONNECT)
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: ^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: ATD*99#^M^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: ERROR
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]:  -- failed
+Jan  1 03:00:58 indigo-tracker local2.info chat[675]: Failed (ERROR)
+Jan  1 03:00:58 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 674), status = 0x5
+Jan  1 03:00:58 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:59 indigo-tracker local2.info chat[677]: abort on (BUSY)
+Jan  1 03:00:59 indigo-tracker local2.info chat[677]: abort on (ERROR)
+Jan  1 03:00:59 indigo-tracker local2.info chat[677]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:59 indigo-tracker local2.info chat[677]: send (ATZ^M)
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: timeout set to 12 seconds
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: expect (OK)
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: ATZ^M^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: OK
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]:  -- got it
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: timeout set to 45 seconds
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: expect (OK)
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: ^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: OK
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]:  -- got it
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: send (ATD*99#^M)
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: expect (CONNECT)
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: ^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: ATD*99#^M^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: ERROR
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]:  -- failed
+Jan  1 03:01:00 indigo-tracker local2.info chat[677]: Failed (ERROR)
+Jan  1 03:01:00 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 676), status = 0x5
+Jan  1 03:01:00 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:01 indigo-tracker cron.info crond[470]: crond: USER root pid 678 cmd /etc/cron/check_updates.sh
+Jan  1 03:01:01 indigo-tracker local2.info chat[681]: abort on (BUSY)
+Jan  1 03:01:01 indigo-tracker local2.info chat[681]: abort on (ERROR)
+Jan  1 03:01:01 indigo-tracker local2.info chat[681]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: send (ATZ^M)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: timeout set to 12 seconds
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: expect (OK)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: ATZ^M^M
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: OK
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]:  -- got it
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: timeout set to 45 seconds
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: expect (OK)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: ^M
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: OK
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]:  -- got it
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: send (ATD*99#^M)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: expect (CONNECT)
+Jan  1 03:01:02 indigo-tracker local2.info chat[681]: ^M
+Jan  1 03:01:03 indigo-tracker local2.info chat[681]: ATD*99#^M^M
+Jan  1 03:01:03 indigo-tracker local2.info chat[681]: ERROR
+Jan  1 03:01:03 indigo-tracker local2.info chat[681]:  -- failed
+Jan  1 03:01:03 indigo-tracker local2.info chat[681]: Failed (ERROR)
+Jan  1 03:01:03 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 680), status = 0x5
+Jan  1 03:01:03 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: abort on (BUSY)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: abort on (ERROR)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: send (ATZ^M)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: timeout set to 12 seconds
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: expect (OK)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: ATZ^M^M
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: OK
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]:  -- got it
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: timeout set to 45 seconds
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: expect (OK)
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: ^M
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: OK
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]:  -- got it
+Jan  1 03:01:04 indigo-tracker local2.info chat[683]: send (ATD*99#^M)
+Jan  1 03:01:05 indigo-tracker local2.info chat[683]: expect (CONNECT)
+Jan  1 03:01:05 indigo-tracker local2.info chat[683]: ^M
+Jan  1 03:01:05 indigo-tracker local2.info chat[683]: ATD*99#^M^M
+Jan  1 03:01:05 indigo-tracker local2.info chat[683]: ERROR
+Jan  1 03:01:05 indigo-tracker local2.info chat[683]:  -- failed
+Jan  1 03:01:05 indigo-tracker local2.info chat[683]: Failed (ERROR)
+Jan  1 03:01:05 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 682), status = 0x5
+Jan  1 03:01:05 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: abort on (BUSY)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: abort on (ERROR)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: send (ATZ^M)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: timeout set to 12 seconds
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: expect (OK)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: ATZ^M^M
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: OK
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]:  -- got it
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: timeout set to 45 seconds
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: expect (OK)
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: ^M
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: OK
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]:  -- got it
+Jan  1 03:01:06 indigo-tracker local2.info chat[685]: send (ATD*99#^M)
+Jan  1 03:01:07 indigo-tracker local2.info chat[685]: expect (CONNECT)
+Jan  1 03:01:07 indigo-tracker local2.info chat[685]: ^M
+Jan  1 03:01:07 indigo-tracker local2.info chat[685]: ATD*99#^M^M
+Jan  1 03:01:07 indigo-tracker local2.info chat[685]: ERROR
+Jan  1 03:01:07 indigo-tracker local2.info chat[685]:  -- failed
+Jan  1 03:01:07 indigo-tracker local2.info chat[685]: Failed (ERROR)
+Jan  1 03:01:07 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 684), status = 0x5
+Jan  1 03:01:07 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: abort on (BUSY)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: abort on (ERROR)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: send (ATZ^M)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: timeout set to 12 seconds
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: expect (OK)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: ATZ^M^M
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: OK
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]:  -- got it
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: timeout set to 45 seconds
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: expect (OK)
+Jan  1 03:01:08 indigo-tracker local2.info chat[687]: ^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: OK
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]:  -- got it
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: send (ATD*99#^M)
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: expect (CONNECT)
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: ^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: ATD*99#^M^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: ERROR
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]:  -- failed
+Jan  1 03:01:09 indigo-tracker local2.info chat[687]: Failed (ERROR)
+Jan  1 03:01:09 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 686), status = 0x5
+Jan  1 03:01:09 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: abort on (BUSY)
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: abort on (ERROR)
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: send (ATZ^M)
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: timeout set to 12 seconds
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: expect (OK)
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: ATZ^M^M
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: OK
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]:  -- got it
+Jan  1 03:01:10 indigo-tracker local2.info chat[689]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: timeout set to 45 seconds
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: expect (OK)
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: ^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: OK
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]:  -- got it
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: send (ATD*99#^M)
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: expect (CONNECT)
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: ^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: ATD*99#^M^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: ERROR
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]:  -- failed
+Jan  1 03:01:11 indigo-tracker local2.info chat[689]: Failed (ERROR)
+Jan  1 03:01:11 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 688), status = 0x5
+Jan  1 03:01:11 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: abort on (BUSY)
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: abort on (ERROR)
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: send (ATZ^M)
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: timeout set to 12 seconds
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: expect (OK)
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: ATZ^M^M
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: OK
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]:  -- got it
+Jan  1 03:01:12 indigo-tracker local2.info chat[691]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: timeout set to 45 seconds
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: expect (OK)
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: ^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: OK
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]:  -- got it
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: send (ATD*99#^M)
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: expect (CONNECT)
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: ^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: ATD*99#^M^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: ERROR
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]:  -- failed
+Jan  1 03:01:13 indigo-tracker local2.info chat[691]: Failed (ERROR)
+Jan  1 03:01:13 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 690), status = 0x5
+Jan  1 03:01:13 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: abort on (BUSY)
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: abort on (ERROR)
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: send (ATZ^M)
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: timeout set to 12 seconds
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: expect (OK)
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: ATZ^M^M
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: OK
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]:  -- got it
+Jan  1 03:01:14 indigo-tracker local2.info chat[693]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: timeout set to 45 seconds
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: expect (OK)
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: ^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: OK
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]:  -- got it
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: send (ATD*99#^M)
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: expect (CONNECT)
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: ^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: ATD*99#^M^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: ERROR
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]:  -- failed
+Jan  1 03:01:15 indigo-tracker local2.info chat[693]: Failed (ERROR)
+Jan  1 03:01:15 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 692), status = 0x5
+Jan  1 03:01:15 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: abort on (BUSY)
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: abort on (ERROR)
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: send (ATZ^M)
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: timeout set to 12 seconds
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: expect (OK)
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: ATZ^M^M
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: OK
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]:  -- got it
+Jan  1 03:01:16 indigo-tracker local2.info chat[695]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: timeout set to 45 seconds
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: expect (OK)
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: ^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: OK
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]:  -- got it
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: send (ATD*99#^M)
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: expect (CONNECT)
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: ^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: ATD*99#^M^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: ERROR
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]:  -- failed
+Jan  1 03:01:17 indigo-tracker local2.info chat[695]: Failed (ERROR)
+Jan  1 03:01:17 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 694), status = 0x5
+Jan  1 03:01:17 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: abort on (BUSY)
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: abort on (ERROR)
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: send (ATZ^M)
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: timeout set to 12 seconds
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: expect (OK)
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: ATZ^M^M
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: OK
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]:  -- got it
+Jan  1 03:01:18 indigo-tracker local2.info chat[697]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: timeout set to 45 seconds
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: expect (OK)
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: ^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: OK
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]:  -- got it
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: send (ATD*99#^M)
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: expect (CONNECT)
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: ^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: ATD*99#^M^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: ERROR
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]:  -- failed
+Jan  1 03:01:19 indigo-tracker local2.info chat[697]: Failed (ERROR)
+Jan  1 03:01:19 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 696), status = 0x5
+Jan  1 03:01:19 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: abort on (BUSY)
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: abort on (ERROR)
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: send (ATZ^M)
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: timeout set to 12 seconds
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: expect (OK)
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: ATZ^M^M
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: OK
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]:  -- got it
+Jan  1 03:01:20 indigo-tracker local2.info chat[699]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: timeout set to 45 seconds
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: expect (OK)
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: ^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: OK
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]:  -- got it
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: send (ATD*99#^M)
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: expect (CONNECT)
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: ^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: ATD*99#^M^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: ERROR
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]:  -- failed
+Jan  1 03:01:21 indigo-tracker local2.info chat[699]: Failed (ERROR)
+Jan  1 03:01:21 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 698), status = 0x5
+Jan  1 03:01:21 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:22 indigo-tracker local2.info chat[701]: abort on (BUSY)
+Jan  1 03:01:22 indigo-tracker local2.info chat[701]: abort on (ERROR)
+Jan  1 03:01:22 indigo-tracker local2.info chat[701]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:22 indigo-tracker local2.info chat[701]: send (ATZ^M)
+Jan  1 03:01:22 indigo-tracker local2.info chat[701]: timeout set to 12 seconds
+Jan  1 03:01:22 indigo-tracker local2.info chat[701]: expect (OK)
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: ATZ^M^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: OK
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]:  -- got it
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: timeout set to 45 seconds
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: expect (OK)
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: ^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: OK
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]:  -- got it
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: send (ATD*99#^M)
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: expect (CONNECT)
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: ^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: ATD*99#^M^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: ERROR
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]:  -- failed
+Jan  1 03:01:23 indigo-tracker local2.info chat[701]: Failed (ERROR)
+Jan  1 03:01:23 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 700), status = 0x5
+Jan  1 03:01:23 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:24 indigo-tracker local2.info chat[703]: abort on (BUSY)
+Jan  1 03:01:24 indigo-tracker local2.info chat[703]: abort on (ERROR)
+Jan  1 03:01:24 indigo-tracker local2.info chat[703]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:24 indigo-tracker local2.info chat[703]: send (ATZ^M)
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: timeout set to 12 seconds
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: expect (OK)
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: ATZ^M^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: OK
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]:  -- got it
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: timeout set to 45 seconds
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: expect (OK)
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: ^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: OK
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]:  -- got it
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: send (ATD*99#^M)
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: expect (CONNECT)
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: ^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: ATD*99#^M^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: ERROR
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]:  -- failed
+Jan  1 03:01:25 indigo-tracker local2.info chat[703]: Failed (ERROR)
+Jan  1 03:01:25 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 702), status = 0x5
+Jan  1 03:01:25 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: abort on (BUSY)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: abort on (ERROR)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: send (ATZ^M)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: timeout set to 12 seconds
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: expect (OK)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: ATZ^M^M
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: OK
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]:  -- got it
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: timeout set to 45 seconds
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: expect (OK)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: ^M
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: OK
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]:  -- got it
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: send (ATD*99#^M)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: expect (CONNECT)
+Jan  1 03:01:27 indigo-tracker local2.info chat[705]: ^M
+Jan  1 03:01:28 indigo-tracker local2.info chat[705]: ATD*99#^M^M
+Jan  1 03:01:28 indigo-tracker local2.info chat[705]: ERROR
+Jan  1 03:01:28 indigo-tracker local2.info chat[705]:  -- failed
+Jan  1 03:01:28 indigo-tracker local2.info chat[705]: Failed (ERROR)
+Jan  1 03:01:28 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 704), status = 0x5
+Jan  1 03:01:28 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: abort on (BUSY)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: abort on (ERROR)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: send (ATZ^M)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: timeout set to 12 seconds
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: expect (OK)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: ATZ^M^M
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: OK
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]:  -- got it
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: timeout set to 45 seconds
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: expect (OK)
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: ^M
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: OK
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]:  -- got it
+Jan  1 03:01:29 indigo-tracker local2.info chat[707]: send (ATD*99#^M)
+Jan  1 03:00:16 indigo-tracker syslog.info syslogd started: BusyBox v1.18.3
+Jan  1 03:00:16 indigo-tracker cron.notice atd[626]: Removing stale lockfile for pid 626
+Jan  1 03:00:16 indigo-tracker user.notice kernel: klogd started: BusyBox v1.18.3 (2011-03-29 18:29:13 MSD)
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Linux version 2.6.38+ (yury@debian-dev-vm) (gcc version 4.4.5 (indigo-ct-ng) ) #60 Wed Sep 21 16:51:48 MSD 2011
+Jan  1 03:00:16 indigo-tracker user.warn kernel: CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+Jan  1 03:00:16 indigo-tracker user.warn kernel: CPU: VIVT data cache, VIVT instruction cache
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Machine: Indigo AT91SAM9260-SK
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Memory policy: ECC disabled, Data cache writeback
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Clocks: CPU 196 MHz, master 98 MHz, main 12.000 MHz
+Jan  1 03:00:16 indigo-tracker user.debug kernel: On node 0 totalpages: 16384
+Jan  1 03:00:16 indigo-tracker user.debug kernel: free_area_init_node: node 0, pgdat c0369484, node_mem_map c037b000
+Jan  1 03:00:16 indigo-tracker user.debug kernel:   Normal zone: 128 pages used for memmap
+Jan  1 03:00:16 indigo-tracker user.debug kernel:   Normal zone: 0 pages reserved
+Jan  1 03:00:16 indigo-tracker user.debug kernel:   Normal zone: 16256 pages, LIFO batch:3
+Jan  1 03:00:16 indigo-tracker user.debug kernel: pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan  1 03:00:16 indigo-tracker user.debug kernel: pcpu-alloc: [0] 0 
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Kernel command line: console=ttyS0,115200=mem=64M root=/dev/mtdblock3
+Jan  1 03:00:16 indigo-tracker user.info kernel: PID hash table entries: 256 (order: -2, 1024 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Memory: 64MB = 64MB total
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Memory: 61364k/61364k available, 4172k reserved, 0K highmem
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Virtual kernel memory layout:
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     DMA     : 0xffc00000 - 0xffe00000   (   2 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     vmalloc : 0xc4800000 - 0xfee00000   ( 934 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:     modules : 0xbf000000 - 0xc0000000   (  16 MB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:       .init : 0xc0008000 - 0xc0024000   ( 112 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:       .text : 0xc0024000 - 0xc03419d4   (3191 kB)
+Jan  1 03:00:16 indigo-tracker user.notice kernel:       .data : 0xc0342000 - 0xc0369c60   ( 160 kB)
+Jan  1 03:00:16 indigo-tracker user.info kernel: NR_IRQS:192
+Jan  1 03:00:16 indigo-tracker user.info kernel: AT91: 96 gpio irqs in 3 banks
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Console: colour dummy device 80x30
+Jan  1 03:00:16 indigo-tracker user.info kernel: console [ttyS0] enabled
+Jan  1 03:00:16 indigo-tracker user.info kernel: Calibrating delay loop... 97.89 BogoMIPS (lpj=489472)
+Jan  1 03:00:16 indigo-tracker user.info kernel: pid_max: default: 32768 minimum: 301
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Mount-cache hash table entries: 512
+Jan  1 03:00:16 indigo-tracker user.info kernel: CPU: Testing write buffer coherency: ok
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 16
+Jan  1 03:00:16 indigo-tracker user.warn kernel: bio: create slab <bio-0> at 0
+Jan  1 03:00:16 indigo-tracker user.notice kernel: SCSI subsystem initialized
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver usbfs
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver hub
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new device driver usb
+Jan  1 03:00:16 indigo-tracker user.info kernel: Advanced Linux Sound Architecture Driver Version 1.0.23.
+Jan  1 03:00:16 indigo-tracker user.info kernel: Switching to clocksource pit
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 2
+Jan  1 03:00:16 indigo-tracker user.info kernel: IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP established hash table entries: 2048 (order: 2, 16384 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP bind hash table entries: 2048 (order: 1, 8192 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP: Hash tables configured (established 2048 bind 2048)
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP reno registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: UDP hash table entries: 256 (order: 0, 4096 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 1
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: yaffs built Sep 21 2011 13:46:29 Installing.
+Jan  1 03:00:16 indigo-tracker user.info kernel: msgmni has been set to 119
+Jan  1 03:00:16 indigo-tracker user.info kernel: io scheduler noop registered (default)
+Jan  1 03:00:16 indigo-tracker user.info kernel: io scheduler deadline registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_usart.0: ttyS0 at MMIO 0xfefff200 (irq = 1) is a ATMEL_SERIAL
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_usart.1: ttyS1 at MMIO 0xfffb0000 (irq = 6) is a ATMEL_SERIAL
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_usart.2: ttyS2 at MMIO 0xfffb8000 (irq = 8) is a ATMEL_SERIAL
+Jan  1 03:00:16 indigo-tracker user.debug kernel: SK-AT91SAM9XE512: SIM508 power management driver, major 135, minor 0.
+Jan  1 03:00:16 indigo-tracker user.info kernel: brd: module loaded
+Jan  1 03:00:16 indigo-tracker user.info kernel: loop: module loaded
+Jan  1 03:00:16 indigo-tracker user.info kernel: ssc ssc.0: Atmel SSC device at 0xc4818000 (irq 14)
+Jan  1 03:00:16 indigo-tracker user.info kernel: NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit)
+Jan  1 03:00:16 indigo-tracker user.info kernel: Scanning device for bad blocks
+Jan  1 03:00:16 indigo-tracker user.warn kernel: Bad eraseblock 1686 at 0x00000d2c0000
+Jan  1 03:00:16 indigo-tracker user.notice kernel: Creating 6 MTD partitions on "atmel_nand":
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000000000-0x000000020000 : "Bootstrap partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000020000-0x000000060000 : "U-boot Partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x0000000a0000-0x0000002a0000 : "Kernel Partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000800000-0x000010000000 : "Storage Partition"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000060000-0x000000080000 : "U-boot Environment"
+Jan  1 03:00:16 indigo-tracker user.notice kernel: 0x000000080000-0x0000000a0000 : "U-boot Environment Backup"
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_spi atmel_spi.0: Atmel SPI Controller at 0xfffc8000 (irq 12)
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffcc000 (irq 13)
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP generic driver version 2.4.2
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP Deflate Compression module registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP BSD Compression module registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: PPP MPPE Compression module registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 24
+Jan  1 03:00:16 indigo-tracker user.info kernel: SLIP: version 0.8.4-NET3.019-NEWTTY (dynamic channels, max=256).
+Jan  1 03:00:16 indigo-tracker user.info kernel: CSLIP: code copyright 1989 Regents of the University of California.
+Jan  1 03:00:16 indigo-tracker user.info kernel: tun: Universal TUN/TAP device driver, 1.6
+Jan  1 03:00:16 indigo-tracker user.info kernel: tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Jan  1 03:00:16 indigo-tracker user.info kernel: MACB_mii_bus: probed
+Jan  1 03:00:16 indigo-tracker user.info kernel: eth0: Atmel MACB at 0xfffc4000 irq 21 (00:1f:f2:00:00:00)
+Jan  1 03:00:16 indigo-tracker user.info kernel: eth0: attached PHY driver [Micrel KS8001 or KS8721] (mii_bus:phy_addr=ffffffff:01, irq=-1)
+Jan  1 03:00:16 indigo-tracker user.info kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Jan  1 03:00:16 indigo-tracker user.info kernel: at91_ohci at91_ohci: AT91 OHCI
+Jan  1 03:00:16 indigo-tracker user.info kernel: at91_ohci at91_ohci: new USB bus registered, assigned bus number 1
+Jan  1 03:00:16 indigo-tracker user.info kernel: at91_ohci at91_ohci: irq 20, io mem 0x00500000
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: New USB device found, idVendor=1d6b, idProduct=0001
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: Product: AT91 OHCI
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: Manufacturer: Linux 2.6.38+ ohci_hcd
+Jan  1 03:00:16 indigo-tracker user.info kernel: usb usb1: SerialNumber: at91
+Jan  1 03:00:16 indigo-tracker user.info kernel: hub 1-0:1.0: USB hub found
+Jan  1 03:00:16 indigo-tracker user.info kernel: hub 1-0:1.0: 2 ports detected
+Jan  1 03:00:16 indigo-tracker user.info kernel: Initializing USB Mass Storage driver...
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver usb-storage
+Jan  1 03:00:16 indigo-tracker user.info kernel: USB Mass Storage support registered.
+Jan  1 03:00:16 indigo-tracker user.info kernel: rtc-at91sam9 at91_rtt.0: rtc core: registered at91_rtt as rtc0
+Jan  1 03:00:16 indigo-tracker user.warn kernel: rtc-at91sam9 at91_rtt.0: rtc0: SET TIME!
+Jan  1 03:00:16 indigo-tracker user.info kernel: i2c /dev entries driver
+Jan  1 03:00:16 indigo-tracker user.info kernel: Linux video capture interface: v2.00
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver uvcvideo
+Jan  1 03:00:16 indigo-tracker user.info kernel: USB Video Class driver (v1.0.0)
+Jan  1 03:00:16 indigo-tracker user.info kernel: AT91SAM9 Watchdog enabled (heartbeat=15 sec, nowayout=0)
+Jan  1 03:00:16 indigo-tracker user.info kernel: usbcore: registered new interface driver snd-usb-audio
+Jan  1 03:00:16 indigo-tracker user.info kernel: ALSA device list:
+Jan  1 03:00:16 indigo-tracker user.info kernel:   No soundcards found.
+Jan  1 03:00:16 indigo-tracker user.info kernel: nf_conntrack version 0.5.0 (958 buckets, 3832 max)
+Jan  1 03:00:16 indigo-tracker user.info kernel: ip_tables: (C) 2000-2006 Netfilter Core Team
+Jan  1 03:00:16 indigo-tracker user.info kernel: TCP cubic registered
+Jan  1 03:00:16 indigo-tracker user.info kernel: NET: Registered protocol family 17
+Jan  1 03:00:16 indigo-tracker user.err kernel: rtc-at91sam9 at91_rtt.0: hctosys: unable to read the hardware clock
+Jan  1 03:00:16 indigo-tracker user.info kernel: atmel_mci atmel_mci: Atmel MCI controller at 0xfffa8000 irq 9, 1 slots
+Jan  1 03:00:16 indigo-tracker user.info kernel: yaffs: dev is 32505859 name is "mtdblock3" rw
+Jan  1 03:00:16 indigo-tracker user.info kernel: yaffs: passed flags ""
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: yaffs: Attempting MTD mount of 31.3,"mtdblock3"
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: auto selecting yaffs2
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: block 1623 is bad
+Jan  1 03:00:16 indigo-tracker user.debug kernel: yaffs: yaffs_read_super: is_checkpointed 0
+Jan  1 03:00:16 indigo-tracker user.warn kernel: VFS: Mounted root (yaffs filesystem) on device 31:3.
+Jan  1 03:00:16 indigo-tracker user.info kernel: Freeing init memory: 112K
+Jan  1 03:00:16 indigo-tracker user.alert kernel: piopins: with filter
+Jan  1 03:00:16 indigo-tracker user.warn kernel: piopins: system time doesn't seem to be true, will not flush anything
+Jan  1 03:00:16 indigo-tracker user.info kernel: SK-AT91SAM9XE512: SIM508 GPS power OFF.
+Jan  1 03:00:16 indigo-tracker user.info kernel: eth0: link up (100/Full)
+Jan  1 03:00:16 indigo-tracker user.info kernel: SK-AT91SAM9XE512: SIM508 GPS power ON.
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: timeout set to 45 seconds
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: expect (OK)
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: ^M
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: OK
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]:  -- got it
+Jan  1 03:00:16 indigo-tracker local2.info chat[620]: send (ATD*99#^M)
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: expect (CONNECT)
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: ^M
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: ATD*99#^M^M
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: ERROR
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]:  -- failed
+Jan  1 03:00:17 indigo-tracker local2.info chat[620]: Failed (ERROR)
+Jan  1 03:00:17 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 619), status = 0x5
+Jan  1 03:00:17 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: abort on (BUSY)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: abort on (ERROR)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: send (ATZ^M)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: timeout set to 12 seconds
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: expect (OK)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: ATZ^M^M
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: OK
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]:  -- got it
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: timeout set to 45 seconds
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: expect (OK)
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: ^M
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: OK
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]:  -- got it
+Jan  1 03:00:18 indigo-tracker local2.info chat[632]: send (ATD*99#^M)
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: expect (CONNECT)
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: ^M
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: ATD*99#^M^M
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: ERROR
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]:  -- failed
+Jan  1 03:00:19 indigo-tracker local2.info chat[632]: Failed (ERROR)
+Jan  1 03:00:19 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 631), status = 0x5
+Jan  1 03:00:19 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: abort on (BUSY)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: abort on (ERROR)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: send (ATZ^M)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: timeout set to 12 seconds
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: expect (OK)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: ATZ^M^M
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: OK
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]:  -- got it
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: timeout set to 45 seconds
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: expect (OK)
+Jan  1 03:00:20 indigo-tracker local2.info chat[634]: ^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: OK
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]:  -- got it
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: send (ATD*99#^M)
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: expect (CONNECT)
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: ^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: ATD*99#^M^M
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: ERROR
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]:  -- failed
+Jan  1 03:00:21 indigo-tracker local2.info chat[634]: Failed (ERROR)
+Jan  1 03:00:21 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 633), status = 0x5
+Jan  1 03:00:21 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: abort on (BUSY)
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: abort on (ERROR)
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: send (ATZ^M)
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: timeout set to 12 seconds
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: expect (OK)
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: ATZ^M^M
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: OK
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]:  -- got it
+Jan  1 03:00:22 indigo-tracker local2.info chat[637]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: timeout set to 45 seconds
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: expect (OK)
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: ^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: OK
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]:  -- got it
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: send (ATD*99#^M)
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: expect (CONNECT)
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: ^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: ATD*99#^M^M
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: ERROR
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]:  -- failed
+Jan  1 03:00:23 indigo-tracker local2.info chat[637]: Failed (ERROR)
+Jan  1 03:00:23 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 636), status = 0x5
+Jan  1 03:00:23 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: abort on (BUSY)
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: abort on (ERROR)
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: send (ATZ^M)
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: timeout set to 12 seconds
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: expect (OK)
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: ATZ^M^M
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: OK
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]:  -- got it
+Jan  1 03:00:24 indigo-tracker local2.info chat[639]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: timeout set to 45 seconds
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: expect (OK)
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: ^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: OK
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]:  -- got it
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: send (ATD*99#^M)
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: expect (CONNECT)
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: ^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: ATD*99#^M^M
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: ERROR
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]:  -- failed
+Jan  1 03:00:25 indigo-tracker local2.info chat[639]: Failed (ERROR)
+Jan  1 03:00:25 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 638), status = 0x5
+Jan  1 03:00:25 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: abort on (BUSY)
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: abort on (ERROR)
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: send (ATZ^M)
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: timeout set to 12 seconds
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: expect (OK)
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: ATZ^M^M
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: OK
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]:  -- got it
+Jan  1 03:00:26 indigo-tracker local2.info chat[643]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: timeout set to 45 seconds
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: expect (OK)
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: ^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: OK
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]:  -- got it
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: send (ATD*99#^M)
+Jan  1 03:00:27 indigo-tracker user.info kernel: warning: `vsftpd' uses 32-bit capabilities (legacy support in use)
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: expect (CONNECT)
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: ^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: ATD*99#^M^M
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: ERROR
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]:  -- failed
+Jan  1 03:00:27 indigo-tracker local2.info chat[643]: Failed (ERROR)
+Jan  1 03:00:27 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 642), status = 0x5
+Jan  1 03:00:27 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: abort on (BUSY)
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: abort on (ERROR)
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: send (ATZ^M)
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: timeout set to 12 seconds
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: expect (OK)
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: ATZ^M^M
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: OK
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]:  -- got it
+Jan  1 03:00:28 indigo-tracker local2.info chat[646]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: timeout set to 45 seconds
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: expect (OK)
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: ^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: OK
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]:  -- got it
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: send (ATD*99#^M)
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: expect (CONNECT)
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: ^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: ATD*99#^M^M
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: ERROR
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]:  -- failed
+Jan  1 03:00:29 indigo-tracker local2.info chat[646]: Failed (ERROR)
+Jan  1 03:00:29 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 645), status = 0x5
+Jan  1 03:00:29 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: abort on (BUSY)
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: abort on (ERROR)
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: send (ATZ^M)
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: timeout set to 12 seconds
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: expect (OK)
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: ATZ^M^M
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: OK
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]:  -- got it
+Jan  1 03:00:30 indigo-tracker local2.info chat[648]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: timeout set to 45 seconds
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: expect (OK)
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: ^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: OK
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]:  -- got it
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: send (ATD*99#^M)
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: expect (CONNECT)
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: ^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: ATD*99#^M^M
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: ERROR
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]:  -- failed
+Jan  1 03:00:31 indigo-tracker local2.info chat[648]: Failed (ERROR)
+Jan  1 03:00:31 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 647), status = 0x5
+Jan  1 03:00:31 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: abort on (BUSY)
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: abort on (ERROR)
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: send (ATZ^M)
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: timeout set to 12 seconds
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: expect (OK)
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: ATZ^M^M
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: OK
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]:  -- got it
+Jan  1 03:00:32 indigo-tracker local2.info chat[650]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: timeout set to 45 seconds
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: expect (OK)
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: ^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: OK
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]:  -- got it
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: send (ATD*99#^M)
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: expect (CONNECT)
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: ^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: ATD*99#^M^M
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: ERROR
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]:  -- failed
+Jan  1 03:00:33 indigo-tracker local2.info chat[650]: Failed (ERROR)
+Jan  1 03:00:33 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 649), status = 0x5
+Jan  1 03:00:33 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:34 indigo-tracker local2.info chat[652]: abort on (BUSY)
+Jan  1 03:00:34 indigo-tracker local2.info chat[652]: abort on (ERROR)
+Jan  1 03:00:34 indigo-tracker local2.info chat[652]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:34 indigo-tracker local2.info chat[652]: send (ATZ^M)
+Jan  1 03:00:34 indigo-tracker local2.info chat[652]: timeout set to 12 seconds
+Jan  1 03:00:34 indigo-tracker local2.info chat[652]: expect (OK)
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: ATZ^M^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: OK
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]:  -- got it
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: timeout set to 45 seconds
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: expect (OK)
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: ^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: OK
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]:  -- got it
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: send (ATD*99#^M)
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: expect (CONNECT)
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: ^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: ATD*99#^M^M
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: ERROR
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]:  -- failed
+Jan  1 03:00:35 indigo-tracker local2.info chat[652]: Failed (ERROR)
+Jan  1 03:00:35 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 651), status = 0x5
+Jan  1 03:00:35 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:36 indigo-tracker local2.info chat[654]: abort on (BUSY)
+Jan  1 03:00:36 indigo-tracker local2.info chat[654]: abort on (ERROR)
+Jan  1 03:00:36 indigo-tracker local2.info chat[654]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:36 indigo-tracker local2.info chat[654]: send (ATZ^M)
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: timeout set to 12 seconds
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: expect (OK)
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: ATZ^M^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: OK
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]:  -- got it
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: timeout set to 45 seconds
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: expect (OK)
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: ^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: OK
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]:  -- got it
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: send (ATD*99#^M)
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: expect (CONNECT)
+Jan  1 03:00:37 indigo-tracker local2.info chat[654]: ^M
+Jan  1 03:00:38 indigo-tracker local2.info chat[654]: ATD*99#^M^M
+Jan  1 03:00:38 indigo-tracker local2.info chat[654]: ERROR
+Jan  1 03:00:38 indigo-tracker local2.info chat[654]:  -- failed
+Jan  1 03:00:38 indigo-tracker local2.info chat[654]: Failed (ERROR)
+Jan  1 03:00:38 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 653), status = 0x5
+Jan  1 03:00:38 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: abort on (BUSY)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: abort on (ERROR)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: send (ATZ^M)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: timeout set to 12 seconds
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: expect (OK)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: ATZ^M^M
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: OK
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]:  -- got it
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: timeout set to 45 seconds
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: expect (OK)
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: ^M
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: OK
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]:  -- got it
+Jan  1 03:00:39 indigo-tracker local2.info chat[656]: send (ATD*99#^M)
+Jan  1 03:00:40 indigo-tracker local2.info chat[656]: expect (CONNECT)
+Jan  1 03:00:40 indigo-tracker local2.info chat[656]: ^M
+Jan  1 03:00:40 indigo-tracker local2.info chat[656]: ATD*99#^M^M
+Jan  1 03:00:40 indigo-tracker local2.info chat[656]: ERROR
+Jan  1 03:00:40 indigo-tracker local2.info chat[656]:  -- failed
+Jan  1 03:00:40 indigo-tracker local2.info chat[656]: Failed (ERROR)
+Jan  1 03:00:40 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 655), status = 0x5
+Jan  1 03:00:40 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: abort on (BUSY)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: abort on (ERROR)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: send (ATZ^M)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: timeout set to 12 seconds
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: expect (OK)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: ATZ^M^M
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: OK
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]:  -- got it
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: timeout set to 45 seconds
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: expect (OK)
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: ^M
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: OK
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]:  -- got it
+Jan  1 03:00:41 indigo-tracker local2.info chat[658]: send (ATD*99#^M)
+Jan  1 03:00:42 indigo-tracker local2.info chat[658]: expect (CONNECT)
+Jan  1 03:00:42 indigo-tracker local2.info chat[658]: ^M
+Jan  1 03:00:42 indigo-tracker local2.info chat[658]: ATD*99#^M^M
+Jan  1 03:00:42 indigo-tracker local2.info chat[658]: ERROR
+Jan  1 03:00:42 indigo-tracker local2.info chat[658]:  -- failed
+Jan  1 03:00:42 indigo-tracker local2.info chat[658]: Failed (ERROR)
+Jan  1 03:00:42 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 657), status = 0x5
+Jan  1 03:00:42 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: abort on (BUSY)
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: abort on (ERROR)
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: send (ATZ^M)
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: timeout set to 12 seconds
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: expect (OK)
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: ATZ^M^M
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: OK
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]:  -- got it
+Jan  1 03:00:43 indigo-tracker local2.info chat[660]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: timeout set to 45 seconds
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: expect (OK)
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: ^M
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: OK
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]:  -- got it
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: send (ATD*99#^M)
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: expect (CONNECT)
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: ^M
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: ATD*99#^M^M
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: ERROR
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]:  -- failed
+Jan  1 03:00:44 indigo-tracker local2.info chat[660]: Failed (ERROR)
+Jan  1 03:00:44 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 659), status = 0x5
+Jan  1 03:00:44 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: abort on (BUSY)
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: abort on (ERROR)
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: send (ATZ^M)
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: timeout set to 12 seconds
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: expect (OK)
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: ATZ^M^M
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: OK
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]:  -- got it
+Jan  1 03:00:45 indigo-tracker local2.info chat[662]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: timeout set to 45 seconds
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: expect (OK)
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: ^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: OK
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]:  -- got it
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: send (ATD*99#^M)
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: expect (CONNECT)
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: ^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: ATD*99#^M^M
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: ERROR
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]:  -- failed
+Jan  1 03:00:46 indigo-tracker local2.info chat[662]: Failed (ERROR)
+Jan  1 03:00:46 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 661), status = 0x5
+Jan  1 03:00:46 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: abort on (BUSY)
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: abort on (ERROR)
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: send (ATZ^M)
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: timeout set to 12 seconds
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: expect (OK)
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: ATZ^M^M
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: OK
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]:  -- got it
+Jan  1 03:00:47 indigo-tracker local2.info chat[664]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: timeout set to 45 seconds
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: expect (OK)
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: ^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: OK
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]:  -- got it
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: send (ATD*99#^M)
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: expect (CONNECT)
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: ^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: ATD*99#^M^M
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: ERROR
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]:  -- failed
+Jan  1 03:00:48 indigo-tracker local2.info chat[664]: Failed (ERROR)
+Jan  1 03:00:48 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 663), status = 0x5
+Jan  1 03:00:48 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: abort on (BUSY)
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: abort on (ERROR)
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: send (ATZ^M)
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: timeout set to 12 seconds
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: expect (OK)
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: ATZ^M^M
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: OK
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]:  -- got it
+Jan  1 03:00:49 indigo-tracker local2.info chat[666]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: timeout set to 45 seconds
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: expect (OK)
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: ^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: OK
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]:  -- got it
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: send (ATD*99#^M)
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: expect (CONNECT)
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: ^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: ATD*99#^M^M
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: ERROR
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]:  -- failed
+Jan  1 03:00:50 indigo-tracker local2.info chat[666]: Failed (ERROR)
+Jan  1 03:00:50 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 665), status = 0x5
+Jan  1 03:00:50 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: abort on (BUSY)
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: abort on (ERROR)
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: send (ATZ^M)
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: timeout set to 12 seconds
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: expect (OK)
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: ATZ^M^M
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: OK
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]:  -- got it
+Jan  1 03:00:51 indigo-tracker local2.info chat[668]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: timeout set to 45 seconds
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: expect (OK)
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: ^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: OK
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]:  -- got it
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: send (ATD*99#^M)
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: expect (CONNECT)
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: ^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: ATD*99#^M^M
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: ERROR
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]:  -- failed
+Jan  1 03:00:52 indigo-tracker local2.info chat[668]: Failed (ERROR)
+Jan  1 03:00:52 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 667), status = 0x5
+Jan  1 03:00:52 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: abort on (BUSY)
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: abort on (ERROR)
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: send (ATZ^M)
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: timeout set to 12 seconds
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: expect (OK)
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: ATZ^M^M
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: OK
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]:  -- got it
+Jan  1 03:00:53 indigo-tracker local2.info chat[670]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: timeout set to 45 seconds
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: expect (OK)
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: ^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: OK
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]:  -- got it
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: send (ATD*99#^M)
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: expect (CONNECT)
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: ^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: ATD*99#^M^M
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: ERROR
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]:  -- failed
+Jan  1 03:00:54 indigo-tracker local2.info chat[670]: Failed (ERROR)
+Jan  1 03:00:54 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 669), status = 0x5
+Jan  1 03:00:54 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: abort on (BUSY)
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: abort on (ERROR)
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: send (ATZ^M)
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: timeout set to 12 seconds
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: expect (OK)
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: ATZ^M^M
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: OK
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]:  -- got it
+Jan  1 03:00:55 indigo-tracker local2.info chat[672]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: timeout set to 45 seconds
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: expect (OK)
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: ^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: OK
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]:  -- got it
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: send (ATD*99#^M)
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: expect (CONNECT)
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: ^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: ATD*99#^M^M
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: ERROR
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]:  -- failed
+Jan  1 03:00:56 indigo-tracker local2.info chat[672]: Failed (ERROR)
+Jan  1 03:00:56 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 671), status = 0x5
+Jan  1 03:00:56 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:57 indigo-tracker local2.info chat[674]: abort on (BUSY)
+Jan  1 03:00:57 indigo-tracker local2.info chat[674]: abort on (ERROR)
+Jan  1 03:00:57 indigo-tracker local2.info chat[674]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:57 indigo-tracker local2.info chat[674]: send (ATZ^M)
+Jan  1 03:00:57 indigo-tracker local2.info chat[674]: timeout set to 12 seconds
+Jan  1 03:00:57 indigo-tracker local2.info chat[674]: expect (OK)
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: ATZ^M^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: OK
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]:  -- got it
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: timeout set to 45 seconds
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: expect (OK)
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: ^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: OK
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]:  -- got it
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: send (ATD*99#^M)
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: expect (CONNECT)
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: ^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: ATD*99#^M^M
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: ERROR
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]:  -- failed
+Jan  1 03:00:58 indigo-tracker local2.info chat[674]: Failed (ERROR)
+Jan  1 03:00:58 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 673), status = 0x5
+Jan  1 03:00:58 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:00:59 indigo-tracker local2.info chat[676]: abort on (BUSY)
+Jan  1 03:00:59 indigo-tracker local2.info chat[676]: abort on (ERROR)
+Jan  1 03:00:59 indigo-tracker local2.info chat[676]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:00:59 indigo-tracker local2.info chat[676]: send (ATZ^M)
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: timeout set to 12 seconds
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: expect (OK)
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: ATZ^M^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: OK
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]:  -- got it
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: timeout set to 45 seconds
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: expect (OK)
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: ^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: OK
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]:  -- got it
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: send (ATD*99#^M)
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: expect (CONNECT)
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: ^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: ATD*99#^M^M
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: ERROR
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]:  -- failed
+Jan  1 03:01:00 indigo-tracker local2.info chat[676]: Failed (ERROR)
+Jan  1 03:01:00 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 675), status = 0x5
+Jan  1 03:01:00 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:01 indigo-tracker cron.info crond[470]: crond: USER root pid 677 cmd /etc/cron/check_updates.sh
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: abort on (BUSY)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: abort on (ERROR)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: send (ATZ^M)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: timeout set to 12 seconds
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: expect (OK)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: ATZ^M^M
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: OK
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]:  -- got it
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: timeout set to 45 seconds
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: expect (OK)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: ^M
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: OK
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]:  -- got it
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: send (ATD*99#^M)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: expect (CONNECT)
+Jan  1 03:01:02 indigo-tracker local2.info chat[680]: ^M
+Jan  1 03:01:03 indigo-tracker local2.info chat[680]: ATD*99#^M^M
+Jan  1 03:01:03 indigo-tracker local2.info chat[680]: ERROR
+Jan  1 03:01:03 indigo-tracker local2.info chat[680]:  -- failed
+Jan  1 03:01:03 indigo-tracker local2.info chat[680]: Failed (ERROR)
+Jan  1 03:01:03 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 679), status = 0x5
+Jan  1 03:01:03 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: abort on (BUSY)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: abort on (ERROR)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: send (ATZ^M)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: timeout set to 12 seconds
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: expect (OK)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: ATZ^M^M
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: OK
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]:  -- got it
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: timeout set to 45 seconds
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: expect (OK)
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: ^M
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: OK
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]:  -- got it
+Jan  1 03:01:04 indigo-tracker local2.info chat[682]: send (ATD*99#^M)
+Jan  1 03:01:05 indigo-tracker local2.info chat[682]: expect (CONNECT)
+Jan  1 03:01:05 indigo-tracker local2.info chat[682]: ^M
+Jan  1 03:01:05 indigo-tracker local2.info chat[682]: ATD*99#^M^M
+Jan  1 03:01:05 indigo-tracker local2.info chat[682]: ERROR
+Jan  1 03:01:05 indigo-tracker local2.info chat[682]:  -- failed
+Jan  1 03:01:05 indigo-tracker local2.info chat[682]: Failed (ERROR)
+Jan  1 03:01:05 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 681), status = 0x5
+Jan  1 03:01:05 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: abort on (BUSY)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: abort on (ERROR)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: send (ATZ^M)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: timeout set to 12 seconds
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: expect (OK)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: ATZ^M^M
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: OK
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]:  -- got it
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: timeout set to 45 seconds
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: expect (OK)
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: ^M
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: OK
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]:  -- got it
+Jan  1 03:01:06 indigo-tracker local2.info chat[684]: send (ATD*99#^M)
+Jan  1 03:01:07 indigo-tracker local2.info chat[684]: expect (CONNECT)
+Jan  1 03:01:07 indigo-tracker local2.info chat[684]: ^M
+Jan  1 03:01:07 indigo-tracker local2.info chat[684]: ATD*99#^M^M
+Jan  1 03:01:07 indigo-tracker local2.info chat[684]: ERROR
+Jan  1 03:01:07 indigo-tracker local2.info chat[684]:  -- failed
+Jan  1 03:01:07 indigo-tracker local2.info chat[684]: Failed (ERROR)
+Jan  1 03:01:07 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 683), status = 0x5
+Jan  1 03:01:07 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: abort on (BUSY)
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: abort on (ERROR)
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: send (ATZ^M)
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: timeout set to 12 seconds
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: expect (OK)
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: ATZ^M^M
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: OK
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]:  -- got it
+Jan  1 03:01:08 indigo-tracker local2.info chat[686]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: timeout set to 45 seconds
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: expect (OK)
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: ^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: OK
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]:  -- got it
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: send (ATD*99#^M)
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: expect (CONNECT)
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: ^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: ATD*99#^M^M
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: ERROR
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]:  -- failed
+Jan  1 03:01:09 indigo-tracker local2.info chat[686]: Failed (ERROR)
+Jan  1 03:01:09 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 685), status = 0x5
+Jan  1 03:01:09 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: abort on (BUSY)
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: abort on (ERROR)
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: send (ATZ^M)
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: timeout set to 12 seconds
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: expect (OK)
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: ATZ^M^M
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: OK
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]:  -- got it
+Jan  1 03:01:10 indigo-tracker local2.info chat[688]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: timeout set to 45 seconds
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: expect (OK)
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: ^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: OK
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]:  -- got it
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: send (ATD*99#^M)
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: expect (CONNECT)
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: ^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: ATD*99#^M^M
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: ERROR
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]:  -- failed
+Jan  1 03:01:11 indigo-tracker local2.info chat[688]: Failed (ERROR)
+Jan  1 03:01:11 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 687), status = 0x5
+Jan  1 03:01:11 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: abort on (BUSY)
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: abort on (ERROR)
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: send (ATZ^M)
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: timeout set to 12 seconds
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: expect (OK)
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: ATZ^M^M
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: OK
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]:  -- got it
+Jan  1 03:01:12 indigo-tracker local2.info chat[690]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: timeout set to 45 seconds
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: expect (OK)
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: ^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: OK
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]:  -- got it
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: send (ATD*99#^M)
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: expect (CONNECT)
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: ^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: ATD*99#^M^M
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: ERROR
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]:  -- failed
+Jan  1 03:01:13 indigo-tracker local2.info chat[690]: Failed (ERROR)
+Jan  1 03:01:13 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 689), status = 0x5
+Jan  1 03:01:13 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: abort on (BUSY)
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: abort on (ERROR)
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: send (ATZ^M)
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: timeout set to 12 seconds
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: expect (OK)
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: ATZ^M^M
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: OK
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]:  -- got it
+Jan  1 03:01:14 indigo-tracker local2.info chat[692]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: timeout set to 45 seconds
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: expect (OK)
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: ^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: OK
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]:  -- got it
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: send (ATD*99#^M)
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: expect (CONNECT)
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: ^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: ATD*99#^M^M
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: ERROR
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]:  -- failed
+Jan  1 03:01:15 indigo-tracker local2.info chat[692]: Failed (ERROR)
+Jan  1 03:01:15 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 691), status = 0x5
+Jan  1 03:01:15 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: abort on (BUSY)
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: abort on (ERROR)
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: send (ATZ^M)
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: timeout set to 12 seconds
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: expect (OK)
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: ATZ^M^M
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: OK
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]:  -- got it
+Jan  1 03:01:16 indigo-tracker local2.info chat[694]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: timeout set to 45 seconds
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: expect (OK)
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: ^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: OK
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]:  -- got it
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: send (ATD*99#^M)
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: expect (CONNECT)
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: ^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: ATD*99#^M^M
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: ERROR
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]:  -- failed
+Jan  1 03:01:17 indigo-tracker local2.info chat[694]: Failed (ERROR)
+Jan  1 03:01:17 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 693), status = 0x5
+Jan  1 03:01:17 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: abort on (BUSY)
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: abort on (ERROR)
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: send (ATZ^M)
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: timeout set to 12 seconds
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: expect (OK)
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: ATZ^M^M
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: OK
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]:  -- got it
+Jan  1 03:01:18 indigo-tracker local2.info chat[696]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: timeout set to 45 seconds
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: expect (OK)
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: ^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: OK
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]:  -- got it
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: send (ATD*99#^M)
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: expect (CONNECT)
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: ^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: ATD*99#^M^M
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: ERROR
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]:  -- failed
+Jan  1 03:01:19 indigo-tracker local2.info chat[696]: Failed (ERROR)
+Jan  1 03:01:19 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 695), status = 0x5
+Jan  1 03:01:19 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: abort on (BUSY)
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: abort on (ERROR)
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: send (ATZ^M)
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: timeout set to 12 seconds
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: expect (OK)
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: ATZ^M^M
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: OK
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]:  -- got it
+Jan  1 03:01:20 indigo-tracker local2.info chat[698]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: timeout set to 45 seconds
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: expect (OK)
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: ^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: OK
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]:  -- got it
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: send (ATD*99#^M)
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: expect (CONNECT)
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: ^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: ATD*99#^M^M
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: ERROR
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]:  -- failed
+Jan  1 03:01:21 indigo-tracker local2.info chat[698]: Failed (ERROR)
+Jan  1 03:01:21 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 697), status = 0x5
+Jan  1 03:01:21 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:22 indigo-tracker local2.info chat[700]: abort on (BUSY)
+Jan  1 03:01:22 indigo-tracker local2.info chat[700]: abort on (ERROR)
+Jan  1 03:01:22 indigo-tracker local2.info chat[700]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:22 indigo-tracker local2.info chat[700]: send (ATZ^M)
+Jan  1 03:01:22 indigo-tracker local2.info chat[700]: timeout set to 12 seconds
+Jan  1 03:01:22 indigo-tracker local2.info chat[700]: expect (OK)
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: ATZ^M^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: OK
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]:  -- got it
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: timeout set to 45 seconds
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: expect (OK)
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: ^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: OK
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]:  -- got it
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: send (ATD*99#^M)
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: expect (CONNECT)
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: ^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: ATD*99#^M^M
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: ERROR
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]:  -- failed
+Jan  1 03:01:23 indigo-tracker local2.info chat[700]: Failed (ERROR)
+Jan  1 03:01:23 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 699), status = 0x5
+Jan  1 03:01:23 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: abort on (BUSY)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: abort on (ERROR)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: send (ATZ^M)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: timeout set to 12 seconds
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: expect (OK)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: ATZ^M^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: OK
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]:  -- got it
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: timeout set to 45 seconds
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: expect (OK)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: ^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: OK
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]:  -- got it
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: send (ATD*99#^M)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: expect (CONNECT)
+Jan  1 03:01:25 indigo-tracker local2.info chat[702]: ^M
+Jan  1 03:01:26 indigo-tracker local2.info chat[702]: ATD*99#^M^M
+Jan  1 03:01:26 indigo-tracker local2.info chat[702]: ERROR
+Jan  1 03:01:26 indigo-tracker local2.info chat[702]:  -- failed
+Jan  1 03:01:26 indigo-tracker local2.info chat[702]: Failed (ERROR)
+Jan  1 03:01:26 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 701), status = 0x5
+Jan  1 03:01:26 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: abort on (BUSY)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: abort on (ERROR)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: send (ATZ^M)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: timeout set to 12 seconds
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: expect (OK)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: ATZ^M^M
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: OK
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]:  -- got it
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: timeout set to 45 seconds
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: expect (OK)
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: ^M
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: OK
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]:  -- got it
+Jan  1 03:01:27 indigo-tracker local2.info chat[704]: send (ATD*99#^M)
+Jan  1 03:01:28 indigo-tracker local2.info chat[704]: expect (CONNECT)
+Jan  1 03:01:28 indigo-tracker local2.info chat[704]: ^M
+Jan  1 03:01:28 indigo-tracker local2.info chat[704]: ATD*99#^M^M
+Jan  1 03:01:28 indigo-tracker local2.info chat[704]: ERROR
+Jan  1 03:01:28 indigo-tracker local2.info chat[704]:  -- failed
+Jan  1 03:01:28 indigo-tracker local2.info chat[704]: Failed (ERROR)
+Jan  1 03:01:28 indigo-tracker daemon.debug pppd[617]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 703), status = 0x5
+Jan  1 03:01:28 indigo-tracker daemon.err pppd[617]: Connect script failed
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: abort on (BUSY)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: abort on (ERROR)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: send (ATZ^M)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: timeout set to 12 seconds
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: expect (OK)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: ATZ^M^M
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: OK
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]:  -- got it
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: send (AT+CGDCONT=1,"IP","internet"^M)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: timeout set to 45 seconds
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: expect (OK)
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: ^M
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: AT+CGDCONT=1,"IP","internet"^M^M
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: OK
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]:  -- got it
+Jan  1 03:01:29 indigo-tracker local2.info chat[706]: send (ATD*99#^M)
+Jan  1 03:01:30 indigo-tracker local2.info chat[706]: expect (CONNECT)
+Jan  1 03:01:30 indigo-tracker local2.info chat[706]: ^M

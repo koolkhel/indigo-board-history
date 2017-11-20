@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "connection down" > /tmp/status
+(sleep 5; /etc/init.d/S42pppd start) &

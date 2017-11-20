@@ -1,0 +1,39 @@
+#!/bin/sh
+#
+# Start the system
+#
+
+#    /bin/mount -o remount,rw /
+#    /bin/mount -t proc proc /proc
+		# mdev scans /sys/... for devices
+#    /bin/mount -t sysfs sysfs /sys
+
+		# and puts the result here
+    /bin/mount -t tmpfs mdev /dev
+    /bin/mount -t tmpfs none /tmp
+    hostname `cat /etc/hostname`
+    if [ ! -f /lib/modules/`uname -r`/modules.dep ]; then
+    	/usr/sbin/depmod -a
+    fi
+		# seemingly for telnet
+    /bin/mkdir /dev/pts
+    /bin/mount -t devpts devpts /dev/pts
+
+		# "tell us about devices"
+    /bin/echo /sbin/mdev > /proc/sys/kernel/hotplug
+		# scan for all devices, load drivers and nodes
+    /sbin/mdev -s
+
+#    /bin/mount /dev/mtdblock1 /
+    
+#    /bin/mount /dev/mtdblock1 /mnt/nand
+#    /bin/mount -t jffs2 /dev/mtdblock1 /mnt/nand -o sync
+
+    /bin/mount -a
+	crontab /etc/crontab
+    crond
+    
+    modprobe mmc_block
+    modprobe at91_mci
+    modprobe uvcvideo
+    

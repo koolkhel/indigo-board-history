@@ -1,0 +1,9 @@
+export our_address=192.168.201.18
+export GPS_INTERVAL=10
+export SENDER_INTERVAL=1
+export DATABASE=/opt/base.db
+export SERVER_URL=http://serv.indigosystem.ru:8180/serv/server:deviceevent
+export NEURONS_FILE_8=/opt/neuro-8.txt
+export NEURONS_FILE_10=/opt/neuro-10.txt
+export SENDER_KEY=/opt/key.txt
+export EVENT_SCRIPTS=/etc/events/

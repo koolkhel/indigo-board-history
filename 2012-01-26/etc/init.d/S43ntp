@@ -1,0 +1,50 @@
+#!/bin/bash
+#
+# System-V init script for the openntp daemon
+#
+
+case "$1" in
+	status)
+		test `date '+%s'` -gt 1234567890 
+		retval=$?
+		if [ $retval -eq "0" ]; then
+			logger "Current time is valid"
+			echo "Current time is valid"
+			exit 0
+		else
+			echo "Current time is not valid"
+			logger "Current time is not valid"
+			exit 1
+		fi
+	;;
+	start|restart) 
+		retval=1
+		retrycount=0
+		while [ $retval != "0" ]; do
+			logger Trying to get system time over ntp
+			ntpdate -b -s -t 15 -v ru.pool.ntp.org && ($0 started)
+			$0 status
+			retval=$?
+			let retrycount=$retrycount+1
+			if [ $retrycount -ge 5 ]; then
+				logger 5 attempts to get time, sleeping 60 seconds
+				retrycount=0
+				sleep 60
+			fi
+		done;
+	;;
+	started)
+		if [ ! -f /tmp/got_time ]; then
+			logger Playing ntp started
+			/etc/init.d/S97sender start
+			/etc/init.d/S97gpsreader start
+			/etc/init.d/S97people start
+			/etc/init.d/S90openvpn start
+			/etc/init.d/S98video start
+			# not restart if accidentally $0 started is called again
+			echo 1 > /tmp/got_time
+		fi
+	;;
+esac
+
+exit 0

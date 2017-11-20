@@ -1,0 +1,36 @@
+#! /bin/sh
+
+set -e
+
+DESC="people"
+NAME=people-arm
+DAEMON=/opt/$NAME
+
+source /etc/sysvars
+
+case "$1" in
+  start)
+	echo -n "Starting $DESC: "
+	start-stop-daemon -S --pidfile /var/run/$NAME -m -b -a $DAEMON -- -d /opt/debug-sample.txt
+	echo "OK"
+	logger "$DESC started"
+	;;
+  stop)
+	echo -n "Stopping $DESC: "
+	start-stop-daemon -K --pidfile /var/run/$NAME
+	echo "OK"
+	logger "$DESC stopped"
+	;;
+  restart|force-reload)
+	echo "Restarting $DESC: "
+	$0 stop
+	sleep 1
+	$0 start
+	echo ""
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart|force-reload}" >&2
+	exit 1
+	;;
+esac
+

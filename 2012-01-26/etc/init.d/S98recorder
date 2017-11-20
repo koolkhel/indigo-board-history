@@ -1,0 +1,38 @@
+#! /bin/sh
+
+set -e
+
+DESC="recorder"
+NAME=recorder-arm
+DAEMON=/opt/$NAME
+
+source /etc/sysvars
+
+case "$1" in
+  start)
+	echo -n "Starting $DESC: "
+	start-stop-daemon -S --pidfile /var/run/$NAME -m -a $DAEMON -- -i /dev/dsp -d $VIDEO &
+	logger "$DESC started"
+	echo "OK"
+	;;
+  stop)
+	echo -n "Stopping $DESC: "
+	logger "$DESC stopped"
+	if [ -f /var/run/$NAME ]; then
+		start-stop-daemon -K --pidfile /var/run/$NAME
+	fi
+	echo "OK"
+	;;
+  restart|force-reload)
+	echo "Restarting $DESC: "
+	$0 stop
+	sleep 1
+	$0 start
+	echo ""
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart|force-reload}" >&2
+	exit 1
+	;;
+esac
+

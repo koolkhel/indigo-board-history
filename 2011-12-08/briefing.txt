@@ -1,0 +1,54 @@
+Несколько раз pppd не захотел нормально стартовать при запуске. Повторить такое не получилось.
+
+Вот, хотя бы сохраняю логи, чтобы потом попытаться понять, в чём же заключалась такая проблема.
+
+Судя по всему, произошло это 5-го декабря в первом часу дня.
+
+При перезагрузке пппд "почти" соединился, не договорился в самый последний момент.
+
+Затем:
+NO CARRIER
+ERROR на AT+CGDCONT
+и далее второе до упора
+
+В какой ситуации у нас ERROR на AT+CGDCONT? Можно проверять по AT+CGATT, есть ли у нас
+контекст этого самого GPRS и пробовать его установить, если его нте.
+
+Через некоторое время появляется 
+IPCP timeout sending Config-Requests
+затем "No network protocols running" и завершение связи.
+
+Потом опять NO CARRIER. Потом опять ерроры на AT+CGDCONT. Потом опять проходит почти до конца
+и получает "No network protocols running"
+
+TermReq id = 0x8
+
+Пугает разве что no auth is possible. В нормальной ситуации такое есть?
+
+Эталон примерно такой:
+n  1 03:00:07 indigo-tracker daemon.warn pppd[494]: Warning - secret file /etc/ppp/pap-secrets has world and/or group access
+Jan  1 03:00:07 indigo-tracker daemon.debug pppd[494]: sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xcafc1dcc>]
+Jan  1 03:00:07 indigo-tracker daemon.debug pppd[494]: rcvd [LCP ConfAck id=0x1 <asyncmap 0x0> <magic 0xcafc1dcc>]
+Jan  1 03:00:07 indigo-tracker user.info kernel: SK-AT91SAM9XE512: SIM508 GPS power OFF.
+Jan  1 03:00:09 indigo-tracker daemon.debug pppd[494]: rcvd [LCP ConfReq id=0x2 <mru 1600> <auth pap> <magic 0xc3c65c9> <asyncmap 0x0> <pcomp> <accomp>]
+Jan  1 03:00:09 indigo-tracker daemon.debug pppd[494]: No auth is possible
+Jan  1 03:00:09 indigo-tracker daemon.debug pppd[494]: sent [LCP ConfRej id=0x2 <auth pap> <pcomp> <accomp>]
+Jan  1 03:00:09 indigo-tracker daemon.debug pppd[494]: rcvd [LCP ConfReq id=0x3 <mru 1600> <magic 0xc3c65c9> <asyncmap 0x0>]
+Jan  1 03:00:09 indigo-tracker daemon.debug pppd[494]: sent [LCP ConfAck id=0x3 <mru 1600> <magic 0xc3c65c9> <asyncmap 0x0>]
+Jan  1 03:00:09 indigo-tracker daemon.debug pppd[494]: sent [IPCP ConfReq id=0x1 <addr 0.0.0.0>]
+Jan  1 03:00:10 indigo-tracker auth.info login[525]: root login on 'ttyS0'
+Jan  1 03:00:12 indigo-tracker daemon.debug pppd[494]: rcvd [IPCP ConfNak id=0x1 <addr 10.218.66.119>]
+Jan  1 03:00:12 indigo-tracker daemon.debug pppd[494]: sent [IPCP ConfReq id=0x2 <addr 10.218.66.119>]
+Jan  1 03:00:12 indigo-tracker daemon.debug pppd[494]: rcvd [IPCP ConfReq id=0x1 <addr 10.0.0.1>]
+Jan  1 03:00:12 indigo-tracker daemon.debug pppd[494]: sent [IPCP ConfAck id=0x1 <addr 10.0.0.1>]
+Jan  1 03:00:12 indigo-tracker user.info kernel: SK-AT91SAM9XE512: SIM508 GPS power ON.
+Jan  1 03:00:15 indigo-tracker daemon.debug pppd[494]: sent [IPCP ConfReq id=0x2 <addr 10.218.66.119>]
+Jan  1 03:00:15 indigo-tracker daemon.debug pppd[494]: rcvd [IPCP ConfAck id=0x2 <addr 10.218.66.119>]
+
+У пппд какой-то странный using channel 9.
+
+Потом через полчаса колебаний, pppd натыкается на выключенный модем (всё логично -- пппд запущен, нета нет,
+значит надо было тыкнуть модем. Ну выключился, ну что такого)
+
+Потом, через час, наконец, девайс всё же вышел в онлайн. Где и работал ещё полчаса. После чего, судя по всему,
+девайс выключился нахрен. Это вот самое главное.

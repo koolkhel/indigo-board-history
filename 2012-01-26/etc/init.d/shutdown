@@ -1,0 +1,10 @@
+/etc/init.d/S98video stop
+for i in /etc/init.d/S97*; do
+	$i stop
+done;
+/etc/init.d/S90openvpn stop
+/etc/init.d/S42pppd stop
+/etc/init.d/S41gpsd stop
+
+/etc/init.d/S35mmc stop
+/etc/init.d/S30dbus stop

@@ -1,0 +1,933 @@
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1694 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1695 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1696 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1697 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1698 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1699 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1700 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1701 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1702 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1703 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1704 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1705 bad
+Jan  1 03:00:32 indigo-tracker user.debug kernel: yaffs: checking block 1706 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1707 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1708 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1709 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1710 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1711 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1712 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1713 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1714 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1715 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1716 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1717 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1718 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1719 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1720 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1721 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1722 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1723 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1724 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1725 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1726 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1727 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1728 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1729 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1730 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1731 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1732 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1733 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1734 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1735 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1736 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1737 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1738 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1739 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1740 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1741 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1742 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1743 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1744 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1745 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1746 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1747 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1748 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1749 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1750 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1751 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1752 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1753 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1754 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1755 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1756 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1757 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1758 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1759 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1760 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1761 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1762 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1763 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1764 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1765 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1766 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1767 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1768 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1769 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1770 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1771 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1772 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1773 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1774 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1775 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1776 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1777 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1778 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1779 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1780 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1781 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1782 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1783 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1784 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1785 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1786 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1787 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1788 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1789 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1790 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: checking block 1791 bad
+Jan  1 03:00:33 indigo-tracker user.debug kernel: yaffs: yaffs_read_super: is_checkpointed 0
+Jan  1 03:00:33 indigo-tracker user.info kernel: VFS: Mounted root (yaffs filesystem) on device 31:1.
+Jan  1 03:00:33 indigo-tracker user.info kernel: Freeing init memory: 144K
+Jan  1 03:00:33 indigo-tracker user.info kernel: Adding 30716k swap on /dev/mtdblock2.  Priority:-1 extents:1 across:30716k SS
+Jan  1 03:00:33 indigo-tracker user.err kernel: gps: creating command 4
+Jan  1 03:00:37 indigo-tracker user.debug sqlite: gps connected ok
+Sep  7 14:49:27 indigo-tracker daemon.notice ntpdate[1261]: step time server 85.21.78.8 offset 1378550922.442078 sec
+Sep  7 14:49:27 indigo-tracker user.notice root: Playing ntp started
+Sep  7 14:49:27 indigo-tracker user.notice root: Starting sender: OK
+Sep  7 14:49:27 indigo-tracker user.notice root: gpsreader started
+Sep  7 14:49:27 indigo-tracker user.notice root: Starting openvpn:
+Sep  7 14:49:27 indigo-tracker user.debug sender: using uuid c904902a-f845-11e2-b4a2-000c29d2c11e
+Sep  7 14:49:27 indigo-tracker user.debug sqlite: gps connected ok
+Sep  7 14:49:28 indigo-tracker user.debug sqlite: gpsdb started ok
+Sep  7 14:49:28 indigo-tracker user.debug sqlite: gps created
+Sep  7 14:49:28 indigo-tracker daemon.notice openvpn[1286]: OpenVPN 2.1.4 arm-linux [SSL] [LZO2] [EPOLL] built on Feb 21 2011
+Sep  7 14:49:28 indigo-tracker daemon.warn openvpn[1286]: NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Sep  7 14:49:28 indigo-tracker daemon.warn openvpn[1286]: WARNING: file 'keys/device.key' is group or others accessible
+Sep  7 14:49:28 indigo-tracker daemon.notice openvpn[1286]: LZO compression initialized
+Sep  7 14:49:28 indigo-tracker daemon.notice openvpn[1286]: Control Channel MTU parms [ L:1544 D:140 EF:40 EB:0 ET:0 EL:0 ]
+Sep  7 14:49:28 indigo-tracker daemon.notice openvpn[1286]: Socket Buffers: R=[87380->131072] S=[16384->131072]
+Sep  7 14:49:28 indigo-tracker daemon.notice openvpn[1286]: Data Channel MTU parms [ L:1544 D:1450 EF:44 EB:135 ET:0 EL:0 AF:3/1 ]
+Sep  7 14:49:28 indigo-tracker daemon.notice openvpn[1290]: Attempting to establish TCP connection with 72.249.145.165:1195 [nonblock]
+Sep  7 14:49:28 indigo-tracker user.notice root:  indigoclient
+Sep  7 14:49:28 indigo-tracker user.notice root: Current time is valid
+Sep  7 14:49:30 indigo-tracker daemon.notice openvpn[1290]: TCP connection established with 72.249.145.165:1195
+Sep  7 14:49:30 indigo-tracker daemon.notice openvpn[1290]: TCPv4_CLIENT link local: [undef]
+Sep  7 14:49:30 indigo-tracker daemon.notice openvpn[1290]: TCPv4_CLIENT link remote: 72.249.145.165:1195
+Sep  7 14:49:30 indigo-tracker user.debug sender: send success
+Sep  7 14:49:31 indigo-tracker daemon.notice openvpn[1290]: TLS: Initial packet from 72.249.145.165:1195, sid=90c2263a 40f8229a
+Sep  7 14:49:31 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 14:49:43 indigo-tracker cron.err crond[1103]: time disparity of 22975849 minutes detected
+Sep  7 14:49:46 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 14:49:46 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 14:49:46 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 14:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1303 cmd /etc/cron/check_updates.sh
+Sep  7 14:50:28 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 14:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1309 cmd /etc/cron/check_updates.sh
+Sep  7 14:51:25 indigo-tracker user.debug sender: send success
+Sep  7 14:51:26 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 14:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1311 cmd /etc/cron/check_updates.sh
+Sep  7 14:52:20 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 14:52:20 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 14:52:20 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 14:52:20 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 14:52:20 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 14:52:20 indigo-tracker daemon.notice openvpn[1290]: [devices-vpn-server] Peer Connection Initiated with 72.249.145.165:1195
+Sep  7 14:52:22 indigo-tracker daemon.notice openvpn[1290]: SENT CONTROL [devices-vpn-server]: 'PUSH_REQUEST' (status=1)
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: PUSH: Received control message: 'PUSH_REPLY,route-gateway 10.1.0.1,topology subnet,ping 120,ping-restart 1200,ifconfig 10.1.0.47 255.255.255.0'
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: timers and/or timeouts modified
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: --ifconfig/up options modified
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: route-related options modified
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: TUN/TAP device tun0 opened
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: TUN/TAP TX queue length set to 100
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: /sbin/ifconfig tun0 10.1.0.47 netmask 255.255.255.0 mtu 1500 broadcast 10.1.0.255
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: /etc/openvpn/vpn-up tun0 1500 1544 10.1.0.47 255.255.255.0 init
+Sep  7 14:52:26 indigo-tracker daemon.notice openvpn[1290]: Initialization Sequence Completed
+Sep  7 14:52:28 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 14:52:31 indigo-tracker user.debug sender: send success
+Sep  7 14:52:32 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 14:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1322 cmd /etc/cron/check_updates.sh
+Sep  7 14:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1324 cmd /etc/cron/check_updates.sh
+Sep  7 14:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1326 cmd /etc/cron/check_updates.sh
+Sep  7 14:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1328 cmd /etc/cron/check_updates.sh
+Sep  7 14:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1330 cmd /etc/cron/check_updates.sh
+Sep  7 14:57:29 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 14:57:32 indigo-tracker user.debug sender: send success
+Sep  7 14:57:33 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 14:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1336 cmd /etc/cron/check_updates.sh
+Sep  7 14:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1338 cmd /etc/cron/check_updates.sh
+Sep  7 15:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1340 cmd /etc/cron/check_pppd
+Sep  7 15:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1341 cmd /etc/cron/check_updates.sh
+Sep  7 15:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1346 cmd /etc/cron/check_updates.sh
+Sep  7 15:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1348 cmd /etc/cron/check_updates.sh
+Sep  7 15:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1350 cmd /etc/cron/check_updates.sh
+Sep  7 15:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1352 cmd /etc/cron/check_updates.sh
+Sep  7 15:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1354 cmd /etc/cron/check_updates.sh
+Sep  7 15:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1355 cmd /etc/cron/rotate_video.sh
+Sep  7 15:05:01 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 15:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1373 cmd /etc/cron/check_updates.sh
+Sep  7 15:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1375 cmd /etc/cron/check_updates.sh
+Sep  7 15:07:29 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 15:07:34 indigo-tracker user.debug sender: send success
+Sep  7 15:07:35 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 15:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1381 cmd /etc/cron/check_updates.sh
+Sep  7 15:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1383 cmd /etc/cron/check_updates.sh
+Sep  7 15:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1385 cmd /etc/cron/check_updates.sh
+Sep  7 15:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1387 cmd /etc/cron/check_updates.sh
+Sep  7 15:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1389 cmd /etc/cron/check_updates.sh
+Sep  7 15:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1391 cmd /etc/cron/check_updates.sh
+Sep  7 15:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1393 cmd /etc/cron/check_updates.sh
+Sep  7 15:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1395 cmd /etc/cron/check_ntp
+Sep  7 15:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1396 cmd /etc/cron/check_updates.sh
+Sep  7 15:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 15:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1402 cmd /etc/cron/check_updates.sh
+Sep  7 15:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1404 cmd /etc/cron/check_updates.sh
+Sep  7 15:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1406 cmd /etc/cron/check_updates.sh
+Sep  7 15:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1408 cmd /etc/cron/check_updates.sh
+Sep  7 15:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1410 cmd /etc/cron/check_updates.sh
+Sep  7 15:21:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 1412 cmd /etc/cron/check_updates.sh
+Sep  7 15:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1414 cmd /etc/cron/check_updates.sh
+Sep  7 15:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1416 cmd /etc/cron/check_updates.sh
+Sep  7 15:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1418 cmd /etc/cron/check_updates.sh
+Sep  7 15:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1420 cmd /etc/cron/check_updates.sh
+Sep  7 15:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1422 cmd /etc/cron/check_updates.sh
+Sep  7 15:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1424 cmd /etc/cron/check_updates.sh
+Sep  7 15:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1426 cmd /etc/cron/check_updates.sh
+Sep  7 15:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1428 cmd /etc/cron/check_updates.sh
+Sep  7 15:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1430 cmd /etc/cron/check_pppd
+Sep  7 15:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1431 cmd /etc/cron/check_updates.sh
+Sep  7 15:31:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1436 cmd /etc/cron/check_updates.sh
+Sep  7 15:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1438 cmd /etc/cron/check_updates.sh
+Sep  7 15:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1440 cmd /etc/cron/check_updates.sh
+Sep  7 15:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1442 cmd /etc/cron/check_updates.sh
+Sep  7 15:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1444 cmd /etc/cron/check_updates.sh
+Sep  7 15:36:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1446 cmd /etc/cron/check_updates.sh
+Sep  7 15:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1448 cmd /etc/cron/check_updates.sh
+Sep  7 15:37:32 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 15:37:36 indigo-tracker user.debug sender: send success
+Sep  7 15:37:37 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 15:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1454 cmd /etc/cron/check_updates.sh
+Sep  7 15:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1456 cmd /etc/cron/check_updates.sh
+Sep  7 15:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1458 cmd /etc/cron/check_updates.sh
+Sep  7 15:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1460 cmd /etc/cron/check_updates.sh
+Sep  7 15:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1462 cmd /etc/cron/check_updates.sh
+Sep  7 15:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1464 cmd /etc/cron/check_updates.sh
+Sep  7 15:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1466 cmd /etc/cron/check_updates.sh
+Sep  7 15:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1468 cmd /etc/cron/check_ntp
+Sep  7 15:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1469 cmd /etc/cron/check_updates.sh
+Sep  7 15:45:02 indigo-tracker user.notice root: Current time is valid
+Sep  7 15:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1475 cmd /etc/cron/check_updates.sh
+Sep  7 15:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1477 cmd /etc/cron/check_updates.sh
+Sep  7 15:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1479 cmd /etc/cron/check_updates.sh
+Sep  7 15:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1481 cmd /etc/cron/check_updates.sh
+Sep  7 15:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1483 cmd /etc/cron/check_updates.sh
+Sep  7 15:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1485 cmd /etc/cron/check_updates.sh
+Sep  7 15:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1487 cmd /etc/cron/check_updates.sh
+Sep  7 15:52:20 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=0 bytes=3045/0 pkts=58/0
+Sep  7 15:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1489 cmd /etc/cron/check_updates.sh
+Sep  7 15:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1491 cmd /etc/cron/check_updates.sh
+Sep  7 15:54:46 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 15:54:46 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 15:54:46 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 15:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1493 cmd /etc/cron/check_updates.sh
+Sep  7 15:55:04 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 15:55:04 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 15:55:04 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 15:55:04 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 15:55:04 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 15:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1495 cmd /etc/cron/check_updates.sh
+Sep  7 15:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1497 cmd /etc/cron/check_updates.sh
+Sep  7 15:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1499 cmd /etc/cron/check_updates.sh
+Sep  7 15:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1501 cmd /etc/cron/check_updates.sh
+Sep  7 16:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1503 cmd /etc/cron/check_pppd
+Sep  7 16:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1504 cmd /etc/cron/check_updates.sh
+Sep  7 16:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1509 cmd /etc/cron/check_updates.sh
+Sep  7 16:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1511 cmd /etc/cron/check_updates.sh
+Sep  7 16:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1513 cmd /etc/cron/check_updates.sh
+Sep  7 16:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1515 cmd /etc/cron/check_updates.sh
+Sep  7 16:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1517 cmd /etc/cron/check_updates.sh
+Sep  7 16:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1518 cmd /etc/cron/rotate_video.sh
+Sep  7 16:05:02 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 16:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1536 cmd /etc/cron/check_updates.sh
+Sep  7 16:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1538 cmd /etc/cron/check_updates.sh
+Sep  7 16:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1540 cmd /etc/cron/check_updates.sh
+Sep  7 16:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1542 cmd /etc/cron/check_updates.sh
+Sep  7 16:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1544 cmd /etc/cron/check_updates.sh
+Sep  7 16:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1546 cmd /etc/cron/check_updates.sh
+Sep  7 16:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1548 cmd /etc/cron/check_updates.sh
+Sep  7 16:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1550 cmd /etc/cron/check_updates.sh
+Sep  7 16:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1552 cmd /etc/cron/check_updates.sh
+Sep  7 16:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1554 cmd /etc/cron/check_ntp
+Sep  7 16:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1555 cmd /etc/cron/check_updates.sh
+Sep  7 16:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 16:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1561 cmd /etc/cron/check_updates.sh
+Sep  7 16:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1563 cmd /etc/cron/check_updates.sh
+Sep  7 16:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1565 cmd /etc/cron/check_updates.sh
+Sep  7 16:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1567 cmd /etc/cron/check_updates.sh
+Sep  7 16:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1569 cmd /etc/cron/check_updates.sh
+Sep  7 16:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1571 cmd /etc/cron/check_updates.sh
+Sep  7 16:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1573 cmd /etc/cron/check_updates.sh
+Sep  7 16:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1575 cmd /etc/cron/check_updates.sh
+Sep  7 16:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1577 cmd /etc/cron/check_updates.sh
+Sep  7 16:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1579 cmd /etc/cron/check_updates.sh
+Sep  7 16:25:56 indigo-tracker auth.info login[1581]: root login on 'pts/0'
+Sep  7 16:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1585 cmd /etc/cron/check_updates.sh
+Sep  7 16:26:55 indigo-tracker user.debug sqlite: exiting by signal 15
+Sep  7 16:26:55 indigo-tracker user.debug sqlite: gps finished ok
+Sep  7 16:26:55 indigo-tracker user.notice root: gpsreader stopped
+Sep  7 16:26:55 indigo-tracker user.debug sqlite: gpsdb closed ok
+Sep  7 16:26:58 indigo-tracker user.notice root: gpsreader started
+Sep  7 16:26:58 indigo-tracker user.debug sqlite: gps connected ok
+Sep  7 16:26:59 indigo-tracker user.debug sqlite: gpsdb started ok
+Sep  7 16:26:59 indigo-tracker user.debug sqlite: gps created
+Sep  7 16:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1597 cmd /etc/cron/check_updates.sh
+Sep  7 16:27:59 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 16:28:01 indigo-tracker user.debug sender: send success
+Sep  7 16:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1603 cmd /etc/cron/check_updates.sh
+Sep  7 16:28:02 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 16:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1605 cmd /etc/cron/check_updates.sh
+Sep  7 16:29:59 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 16:30:01 indigo-tracker user.debug sender: send success
+Sep  7 16:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1611 cmd /etc/cron/check_pppd
+Sep  7 16:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1612 cmd /etc/cron/check_updates.sh
+Sep  7 16:30:02 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 16:31:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1617 cmd /etc/cron/check_updates.sh
+Sep  7 16:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1619 cmd /etc/cron/check_updates.sh
+Sep  7 16:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1621 cmd /etc/cron/check_updates.sh
+Sep  7 16:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1623 cmd /etc/cron/check_updates.sh
+Sep  7 16:35:00 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 16:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1629 cmd /etc/cron/check_updates.sh
+Sep  7 16:35:02 indigo-tracker user.debug sender: send success
+Sep  7 16:35:03 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 16:36:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1631 cmd /etc/cron/check_updates.sh
+Sep  7 16:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1633 cmd /etc/cron/check_updates.sh
+Sep  7 16:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1635 cmd /etc/cron/check_updates.sh
+Sep  7 16:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1637 cmd /etc/cron/check_updates.sh
+Sep  7 16:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1639 cmd /etc/cron/check_updates.sh
+Sep  7 16:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1641 cmd /etc/cron/check_updates.sh
+Sep  7 16:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1643 cmd /etc/cron/check_updates.sh
+Sep  7 16:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1645 cmd /etc/cron/check_updates.sh
+Sep  7 16:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1647 cmd /etc/cron/check_updates.sh
+Sep  7 16:45:00 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 16:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1653 cmd /etc/cron/check_ntp
+Sep  7 16:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1654 cmd /etc/cron/check_updates.sh
+Sep  7 16:45:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 16:45:03 indigo-tracker user.debug sender: send success
+Sep  7 16:45:04 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 16:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1660 cmd /etc/cron/check_updates.sh
+Sep  7 16:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1662 cmd /etc/cron/check_updates.sh
+Sep  7 16:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1664 cmd /etc/cron/check_updates.sh
+Sep  7 16:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1666 cmd /etc/cron/check_updates.sh
+Sep  7 16:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1668 cmd /etc/cron/check_updates.sh
+Sep  7 16:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1670 cmd /etc/cron/check_updates.sh
+Sep  7 16:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1672 cmd /etc/cron/check_updates.sh
+Sep  7 16:52:20 indigo-tracker daemon.notice openvpn[1290]: TLS: tls_process: killed expiring key
+Sep  7 16:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1674 cmd /etc/cron/check_updates.sh
+Sep  7 16:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1676 cmd /etc/cron/check_updates.sh
+Sep  7 16:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1678 cmd /etc/cron/check_updates.sh
+Sep  7 16:55:04 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=0 bytes=35271/0 pkts=315/0
+Sep  7 16:55:20 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 16:55:20 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 16:55:20 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 16:55:53 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 16:55:53 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 16:55:53 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 16:55:53 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 16:55:53 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 16:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1680 cmd /etc/cron/check_updates.sh
+Sep  7 16:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1682 cmd /etc/cron/check_updates.sh
+Sep  7 16:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1684 cmd /etc/cron/check_updates.sh
+Sep  7 16:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1686 cmd /etc/cron/check_updates.sh
+Sep  7 17:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1688 cmd /etc/cron/check_pppd
+Sep  7 17:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1689 cmd /etc/cron/check_updates.sh
+Sep  7 17:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1694 cmd /etc/cron/check_updates.sh
+Sep  7 17:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1696 cmd /etc/cron/check_updates.sh
+Sep  7 17:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1698 cmd /etc/cron/check_updates.sh
+Sep  7 17:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1700 cmd /etc/cron/check_updates.sh
+Sep  7 17:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1702 cmd /etc/cron/check_updates.sh
+Sep  7 17:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1703 cmd /etc/cron/rotate_video.sh
+Sep  7 17:05:01 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 17:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1721 cmd /etc/cron/check_updates.sh
+Sep  7 17:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1723 cmd /etc/cron/check_updates.sh
+Sep  7 17:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1725 cmd /etc/cron/check_updates.sh
+Sep  7 17:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1727 cmd /etc/cron/check_updates.sh
+Sep  7 17:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1729 cmd /etc/cron/check_updates.sh
+Sep  7 17:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1731 cmd /etc/cron/check_updates.sh
+Sep  7 17:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1733 cmd /etc/cron/check_updates.sh
+Sep  7 17:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1735 cmd /etc/cron/check_updates.sh
+Sep  7 17:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1737 cmd /etc/cron/check_updates.sh
+Sep  7 17:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1739 cmd /etc/cron/check_ntp
+Sep  7 17:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1740 cmd /etc/cron/check_updates.sh
+Sep  7 17:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 17:15:03 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 17:15:06 indigo-tracker user.debug sender: send success
+Sep  7 17:15:07 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 17:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1750 cmd /etc/cron/check_updates.sh
+Sep  7 17:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1752 cmd /etc/cron/check_updates.sh
+Sep  7 17:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1754 cmd /etc/cron/check_updates.sh
+Sep  7 17:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1756 cmd /etc/cron/check_updates.sh
+Sep  7 17:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1758 cmd /etc/cron/check_updates.sh
+Sep  7 17:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1760 cmd /etc/cron/check_updates.sh
+Sep  7 17:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1762 cmd /etc/cron/check_updates.sh
+Sep  7 17:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1764 cmd /etc/cron/check_updates.sh
+Sep  7 17:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1766 cmd /etc/cron/check_updates.sh
+Sep  7 17:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1768 cmd /etc/cron/check_updates.sh
+Sep  7 17:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1770 cmd /etc/cron/check_updates.sh
+Sep  7 17:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1772 cmd /etc/cron/check_updates.sh
+Sep  7 17:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1774 cmd /etc/cron/check_updates.sh
+Sep  7 17:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1776 cmd /etc/cron/check_updates.sh
+Sep  7 17:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1778 cmd /etc/cron/check_pppd
+Sep  7 17:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1779 cmd /etc/cron/check_updates.sh
+Sep  7 17:31:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1784 cmd /etc/cron/check_updates.sh
+Sep  7 17:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1786 cmd /etc/cron/check_updates.sh
+Sep  7 17:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1788 cmd /etc/cron/check_updates.sh
+Sep  7 17:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1790 cmd /etc/cron/check_updates.sh
+Sep  7 17:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1792 cmd /etc/cron/check_updates.sh
+Sep  7 17:36:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1794 cmd /etc/cron/check_updates.sh
+Sep  7 17:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1796 cmd /etc/cron/check_updates.sh
+Sep  7 17:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1798 cmd /etc/cron/check_updates.sh
+Sep  7 17:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1800 cmd /etc/cron/check_updates.sh
+Sep  7 17:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1802 cmd /etc/cron/check_updates.sh
+Sep  7 17:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1804 cmd /etc/cron/check_updates.sh
+Sep  7 17:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1806 cmd /etc/cron/check_updates.sh
+Sep  7 17:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1808 cmd /etc/cron/check_updates.sh
+Sep  7 17:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1810 cmd /etc/cron/check_updates.sh
+Sep  7 17:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1812 cmd /etc/cron/check_ntp
+Sep  7 17:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1813 cmd /etc/cron/check_updates.sh
+Sep  7 17:45:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 17:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1819 cmd /etc/cron/check_updates.sh
+Sep  7 17:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1821 cmd /etc/cron/check_updates.sh
+Sep  7 17:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1823 cmd /etc/cron/check_updates.sh
+Sep  7 17:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1825 cmd /etc/cron/check_updates.sh
+Sep  7 17:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1827 cmd /etc/cron/check_updates.sh
+Sep  7 17:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1829 cmd /etc/cron/check_updates.sh
+Sep  7 17:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1831 cmd /etc/cron/check_updates.sh
+Sep  7 17:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1833 cmd /etc/cron/check_updates.sh
+Sep  7 17:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1835 cmd /etc/cron/check_updates.sh
+Sep  7 17:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1837 cmd /etc/cron/check_updates.sh
+Sep  7 17:55:04 indigo-tracker daemon.notice openvpn[1290]: TLS: tls_process: killed expiring key
+Sep  7 17:55:53 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=0 bytes=28074/0 pkts=244/0
+Sep  7 17:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1839 cmd /etc/cron/check_updates.sh
+Sep  7 17:56:13 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 17:56:13 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 17:56:13 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 17:56:33 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 17:56:33 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 17:56:33 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 17:56:33 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 17:56:33 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 17:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1841 cmd /etc/cron/check_updates.sh
+Sep  7 17:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1843 cmd /etc/cron/check_updates.sh
+Sep  7 17:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1845 cmd /etc/cron/check_updates.sh
+Sep  7 18:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1847 cmd /etc/cron/check_pppd
+Sep  7 18:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1848 cmd /etc/cron/check_updates.sh
+Sep  7 18:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1853 cmd /etc/cron/check_updates.sh
+Sep  7 18:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1855 cmd /etc/cron/check_updates.sh
+Sep  7 18:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1857 cmd /etc/cron/check_updates.sh
+Sep  7 18:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1859 cmd /etc/cron/check_updates.sh
+Sep  7 18:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1861 cmd /etc/cron/check_updates.sh
+Sep  7 18:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1862 cmd /etc/cron/rotate_video.sh
+Sep  7 18:05:01 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 18:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1880 cmd /etc/cron/check_updates.sh
+Sep  7 18:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1882 cmd /etc/cron/check_updates.sh
+Sep  7 18:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1884 cmd /etc/cron/check_updates.sh
+Sep  7 18:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1886 cmd /etc/cron/check_updates.sh
+Sep  7 18:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1888 cmd /etc/cron/check_updates.sh
+Sep  7 18:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1890 cmd /etc/cron/check_updates.sh
+Sep  7 18:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1892 cmd /etc/cron/check_updates.sh
+Sep  7 18:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1894 cmd /etc/cron/check_updates.sh
+Sep  7 18:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1896 cmd /etc/cron/check_updates.sh
+Sep  7 18:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1898 cmd /etc/cron/check_ntp
+Sep  7 18:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1899 cmd /etc/cron/check_updates.sh
+Sep  7 18:15:02 indigo-tracker user.notice root: Current time is valid
+Sep  7 18:15:08 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 18:15:10 indigo-tracker user.debug sender: send success
+Sep  7 18:15:11 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 18:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1909 cmd /etc/cron/check_updates.sh
+Sep  7 18:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1911 cmd /etc/cron/check_updates.sh
+Sep  7 18:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1913 cmd /etc/cron/check_updates.sh
+Sep  7 18:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1915 cmd /etc/cron/check_updates.sh
+Sep  7 18:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1917 cmd /etc/cron/check_updates.sh
+Sep  7 18:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1919 cmd /etc/cron/check_updates.sh
+Sep  7 18:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1921 cmd /etc/cron/check_updates.sh
+Sep  7 18:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1923 cmd /etc/cron/check_updates.sh
+Sep  7 18:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1925 cmd /etc/cron/check_updates.sh
+Sep  7 18:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1927 cmd /etc/cron/check_updates.sh
+Sep  7 18:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1929 cmd /etc/cron/check_updates.sh
+Sep  7 18:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1931 cmd /etc/cron/check_updates.sh
+Sep  7 18:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1933 cmd /etc/cron/check_updates.sh
+Sep  7 18:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1935 cmd /etc/cron/check_updates.sh
+Sep  7 18:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1937 cmd /etc/cron/check_pppd
+Sep  7 18:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1938 cmd /etc/cron/check_updates.sh
+Sep  7 18:31:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1943 cmd /etc/cron/check_updates.sh
+Sep  7 18:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1945 cmd /etc/cron/check_updates.sh
+Sep  7 18:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1947 cmd /etc/cron/check_updates.sh
+Sep  7 18:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1949 cmd /etc/cron/check_updates.sh
+Sep  7 18:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1951 cmd /etc/cron/check_updates.sh
+Sep  7 18:36:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1953 cmd /etc/cron/check_updates.sh
+Sep  7 18:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1955 cmd /etc/cron/check_updates.sh
+Sep  7 18:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1957 cmd /etc/cron/check_updates.sh
+Sep  7 18:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1959 cmd /etc/cron/check_updates.sh
+Sep  7 18:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1961 cmd /etc/cron/check_updates.sh
+Sep  7 18:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1963 cmd /etc/cron/check_updates.sh
+Sep  7 18:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1965 cmd /etc/cron/check_updates.sh
+Sep  7 18:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1967 cmd /etc/cron/check_updates.sh
+Sep  7 18:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1969 cmd /etc/cron/check_updates.sh
+Sep  7 18:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1971 cmd /etc/cron/check_ntp
+Sep  7 18:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1972 cmd /etc/cron/check_updates.sh
+Sep  7 18:45:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 18:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1978 cmd /etc/cron/check_updates.sh
+Sep  7 18:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1980 cmd /etc/cron/check_updates.sh
+Sep  7 18:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1982 cmd /etc/cron/check_updates.sh
+Sep  7 18:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1984 cmd /etc/cron/check_updates.sh
+Sep  7 18:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1986 cmd /etc/cron/check_updates.sh
+Sep  7 18:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1988 cmd /etc/cron/check_updates.sh
+Sep  7 18:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1990 cmd /etc/cron/check_updates.sh
+Sep  7 18:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1992 cmd /etc/cron/check_updates.sh
+Sep  7 18:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1994 cmd /etc/cron/check_updates.sh
+Sep  7 18:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1996 cmd /etc/cron/check_updates.sh
+Sep  7 18:55:53 indigo-tracker daemon.notice openvpn[1290]: TLS: tls_process: killed expiring key
+Sep  7 18:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 1998 cmd /etc/cron/check_updates.sh
+Sep  7 18:56:34 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=-1 bytes=34156/0 pkts=294/0
+Sep  7 18:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2000 cmd /etc/cron/check_updates.sh
+Sep  7 18:57:27 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 18:57:27 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 18:57:27 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 18:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2002 cmd /etc/cron/check_updates.sh
+Sep  7 18:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2004 cmd /etc/cron/check_updates.sh
+Sep  7 18:59:08 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 18:59:08 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 18:59:08 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 18:59:08 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 18:59:08 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 19:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2006 cmd /etc/cron/check_pppd
+Sep  7 19:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2007 cmd /etc/cron/check_updates.sh
+Sep  7 19:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2012 cmd /etc/cron/check_updates.sh
+Sep  7 19:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2014 cmd /etc/cron/check_updates.sh
+Sep  7 19:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2016 cmd /etc/cron/check_updates.sh
+Sep  7 19:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2018 cmd /etc/cron/check_updates.sh
+Sep  7 19:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2020 cmd /etc/cron/check_updates.sh
+Sep  7 19:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2021 cmd /etc/cron/rotate_video.sh
+Sep  7 19:05:02 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 19:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2039 cmd /etc/cron/check_updates.sh
+Sep  7 19:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2041 cmd /etc/cron/check_updates.sh
+Sep  7 19:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2043 cmd /etc/cron/check_updates.sh
+Sep  7 19:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2045 cmd /etc/cron/check_updates.sh
+Sep  7 19:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2047 cmd /etc/cron/check_updates.sh
+Sep  7 19:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2049 cmd /etc/cron/check_updates.sh
+Sep  7 19:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2051 cmd /etc/cron/check_updates.sh
+Sep  7 19:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2053 cmd /etc/cron/check_updates.sh
+Sep  7 19:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2055 cmd /etc/cron/check_updates.sh
+Sep  7 19:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2057 cmd /etc/cron/check_ntp
+Sep  7 19:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2058 cmd /etc/cron/check_updates.sh
+Sep  7 19:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 19:15:13 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 19:15:15 indigo-tracker user.debug sender: send success
+Sep  7 19:15:16 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 19:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2068 cmd /etc/cron/check_updates.sh
+Sep  7 19:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2070 cmd /etc/cron/check_updates.sh
+Sep  7 19:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2072 cmd /etc/cron/check_updates.sh
+Sep  7 19:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2074 cmd /etc/cron/check_updates.sh
+Sep  7 19:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2076 cmd /etc/cron/check_updates.sh
+Sep  7 19:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2078 cmd /etc/cron/check_updates.sh
+Sep  7 19:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2080 cmd /etc/cron/check_updates.sh
+Sep  7 19:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2082 cmd /etc/cron/check_updates.sh
+Sep  7 19:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2084 cmd /etc/cron/check_updates.sh
+Sep  7 19:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2086 cmd /etc/cron/check_updates.sh
+Sep  7 19:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2088 cmd /etc/cron/check_updates.sh
+Sep  7 19:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2090 cmd /etc/cron/check_updates.sh
+Sep  7 19:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2092 cmd /etc/cron/check_updates.sh
+Sep  7 19:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2094 cmd /etc/cron/check_updates.sh
+Sep  7 19:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2096 cmd /etc/cron/check_pppd
+Sep  7 19:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2097 cmd /etc/cron/check_updates.sh
+Sep  7 19:31:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 2102 cmd /etc/cron/check_updates.sh
+Sep  7 19:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2104 cmd /etc/cron/check_updates.sh
+Sep  7 19:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2106 cmd /etc/cron/check_updates.sh
+Sep  7 19:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2108 cmd /etc/cron/check_updates.sh
+Sep  7 19:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2110 cmd /etc/cron/check_updates.sh
+Sep  7 19:36:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2112 cmd /etc/cron/check_updates.sh
+Sep  7 19:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2114 cmd /etc/cron/check_updates.sh
+Sep  7 19:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2116 cmd /etc/cron/check_updates.sh
+Sep  7 19:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2118 cmd /etc/cron/check_updates.sh
+Sep  7 19:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2120 cmd /etc/cron/check_updates.sh
+Sep  7 19:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2122 cmd /etc/cron/check_updates.sh
+Sep  7 19:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2124 cmd /etc/cron/check_updates.sh
+Sep  7 19:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2126 cmd /etc/cron/check_updates.sh
+Sep  7 19:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2128 cmd /etc/cron/check_updates.sh
+Sep  7 19:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2130 cmd /etc/cron/check_ntp
+Sep  7 19:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2131 cmd /etc/cron/check_updates.sh
+Sep  7 19:45:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 19:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2137 cmd /etc/cron/check_updates.sh
+Sep  7 19:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2139 cmd /etc/cron/check_updates.sh
+Sep  7 19:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2141 cmd /etc/cron/check_updates.sh
+Sep  7 19:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2143 cmd /etc/cron/check_updates.sh
+Sep  7 19:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2145 cmd /etc/cron/check_updates.sh
+Sep  7 19:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2147 cmd /etc/cron/check_updates.sh
+Sep  7 19:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2149 cmd /etc/cron/check_updates.sh
+Sep  7 19:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2151 cmd /etc/cron/check_updates.sh
+Sep  7 19:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2153 cmd /etc/cron/check_updates.sh
+Sep  7 19:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2155 cmd /etc/cron/check_updates.sh
+Sep  7 19:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2157 cmd /etc/cron/check_updates.sh
+Sep  7 19:56:34 indigo-tracker daemon.notice openvpn[1290]: TLS: tls_process: killed expiring key
+Sep  7 19:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2159 cmd /etc/cron/check_updates.sh
+Sep  7 19:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2161 cmd /etc/cron/check_updates.sh
+Sep  7 19:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2163 cmd /etc/cron/check_updates.sh
+Sep  7 19:59:08 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=0 bytes=43414/0 pkts=366/0
+Sep  7 20:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2165 cmd /etc/cron/check_pppd
+Sep  7 20:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2166 cmd /etc/cron/check_updates.sh
+Sep  7 20:00:38 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 20:00:38 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 20:00:38 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 20:00:59 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 20:00:59 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 20:00:59 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 20:00:59 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 20:00:59 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 20:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2171 cmd /etc/cron/check_updates.sh
+Sep  7 20:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2173 cmd /etc/cron/check_updates.sh
+Sep  7 20:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2175 cmd /etc/cron/check_updates.sh
+Sep  7 20:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2177 cmd /etc/cron/check_updates.sh
+Sep  7 20:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2179 cmd /etc/cron/check_updates.sh
+Sep  7 20:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2180 cmd /etc/cron/rotate_video.sh
+Sep  7 20:05:01 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 20:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2198 cmd /etc/cron/check_updates.sh
+Sep  7 20:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2200 cmd /etc/cron/check_updates.sh
+Sep  7 20:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2202 cmd /etc/cron/check_updates.sh
+Sep  7 20:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2204 cmd /etc/cron/check_updates.sh
+Sep  7 20:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2206 cmd /etc/cron/check_updates.sh
+Sep  7 20:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2208 cmd /etc/cron/check_updates.sh
+Sep  7 20:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2210 cmd /etc/cron/check_updates.sh
+Sep  7 20:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2212 cmd /etc/cron/check_updates.sh
+Sep  7 20:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2214 cmd /etc/cron/check_updates.sh
+Sep  7 20:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2216 cmd /etc/cron/check_ntp
+Sep  7 20:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2217 cmd /etc/cron/check_updates.sh
+Sep  7 20:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 20:15:18 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 20:15:21 indigo-tracker user.debug sender: send success
+Sep  7 20:15:22 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 20:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2227 cmd /etc/cron/check_updates.sh
+Sep  7 20:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2229 cmd /etc/cron/check_updates.sh
+Sep  7 20:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2231 cmd /etc/cron/check_updates.sh
+Sep  7 20:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2233 cmd /etc/cron/check_updates.sh
+Sep  7 20:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2235 cmd /etc/cron/check_updates.sh
+Sep  7 20:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2237 cmd /etc/cron/check_updates.sh
+Sep  7 20:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2239 cmd /etc/cron/check_updates.sh
+Sep  7 20:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2241 cmd /etc/cron/check_updates.sh
+Sep  7 20:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2243 cmd /etc/cron/check_updates.sh
+Sep  7 20:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2245 cmd /etc/cron/check_updates.sh
+Sep  7 20:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2247 cmd /etc/cron/check_updates.sh
+Sep  7 20:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2249 cmd /etc/cron/check_updates.sh
+Sep  7 20:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2251 cmd /etc/cron/check_updates.sh
+Sep  7 20:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2253 cmd /etc/cron/check_updates.sh
+Sep  7 20:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2255 cmd /etc/cron/check_pppd
+Sep  7 20:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2256 cmd /etc/cron/check_updates.sh
+Sep  7 20:31:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2261 cmd /etc/cron/check_updates.sh
+Sep  7 20:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2263 cmd /etc/cron/check_updates.sh
+Sep  7 20:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2265 cmd /etc/cron/check_updates.sh
+Sep  7 20:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2267 cmd /etc/cron/check_updates.sh
+Sep  7 20:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2269 cmd /etc/cron/check_updates.sh
+Sep  7 20:36:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2271 cmd /etc/cron/check_updates.sh
+Sep  7 20:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2273 cmd /etc/cron/check_updates.sh
+Sep  7 20:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2275 cmd /etc/cron/check_updates.sh
+Sep  7 20:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2277 cmd /etc/cron/check_updates.sh
+Sep  7 20:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2279 cmd /etc/cron/check_updates.sh
+Sep  7 20:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2281 cmd /etc/cron/check_updates.sh
+Sep  7 20:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2283 cmd /etc/cron/check_updates.sh
+Sep  7 20:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2285 cmd /etc/cron/check_updates.sh
+Sep  7 20:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2287 cmd /etc/cron/check_updates.sh
+Sep  7 20:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2289 cmd /etc/cron/check_ntp
+Sep  7 20:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2290 cmd /etc/cron/check_updates.sh
+Sep  7 20:45:02 indigo-tracker user.notice root: Current time is valid
+Sep  7 20:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2296 cmd /etc/cron/check_updates.sh
+Sep  7 20:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2298 cmd /etc/cron/check_updates.sh
+Sep  7 20:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2300 cmd /etc/cron/check_updates.sh
+Sep  7 20:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2302 cmd /etc/cron/check_updates.sh
+Sep  7 20:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2304 cmd /etc/cron/check_updates.sh
+Sep  7 20:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2306 cmd /etc/cron/check_updates.sh
+Sep  7 20:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2308 cmd /etc/cron/check_updates.sh
+Sep  7 20:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2310 cmd /etc/cron/check_updates.sh
+Sep  7 20:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2312 cmd /etc/cron/check_updates.sh
+Sep  7 20:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2314 cmd /etc/cron/check_updates.sh
+Sep  7 20:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2316 cmd /etc/cron/check_updates.sh
+Sep  7 20:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2318 cmd /etc/cron/check_updates.sh
+Sep  7 20:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2320 cmd /etc/cron/check_updates.sh
+Sep  7 20:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2322 cmd /etc/cron/check_updates.sh
+Sep  7 20:59:09 indigo-tracker daemon.notice openvpn[1290]: TLS: tls_process: killed expiring key
+Sep  7 21:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2324 cmd /etc/cron/check_pppd
+Sep  7 21:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2325 cmd /etc/cron/check_updates.sh
+Sep  7 21:01:00 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=-1 bytes=47157/0 pkts=399/0
+Sep  7 21:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2330 cmd /etc/cron/check_updates.sh
+Sep  7 21:01:10 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 21:01:10 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 21:01:10 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 21:01:27 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 21:01:27 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 21:01:27 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 21:01:27 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 21:01:27 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 21:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2332 cmd /etc/cron/check_updates.sh
+Sep  7 21:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2334 cmd /etc/cron/check_updates.sh
+Sep  7 21:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2336 cmd /etc/cron/check_updates.sh
+Sep  7 21:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2338 cmd /etc/cron/check_updates.sh
+Sep  7 21:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2339 cmd /etc/cron/rotate_video.sh
+Sep  7 21:05:02 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 21:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2357 cmd /etc/cron/check_updates.sh
+Sep  7 21:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2359 cmd /etc/cron/check_updates.sh
+Sep  7 21:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2361 cmd /etc/cron/check_updates.sh
+Sep  7 21:09:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2363 cmd /etc/cron/check_updates.sh
+Sep  7 21:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2365 cmd /etc/cron/check_updates.sh
+Sep  7 21:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2367 cmd /etc/cron/check_updates.sh
+Sep  7 21:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2369 cmd /etc/cron/check_updates.sh
+Sep  7 21:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2371 cmd /etc/cron/check_updates.sh
+Sep  7 21:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2373 cmd /etc/cron/check_updates.sh
+Sep  7 21:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2375 cmd /etc/cron/check_ntp
+Sep  7 21:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2376 cmd /etc/cron/check_updates.sh
+Sep  7 21:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 21:15:23 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 21:15:27 indigo-tracker user.debug sender: send success
+Sep  7 21:15:28 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 21:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2386 cmd /etc/cron/check_updates.sh
+Sep  7 21:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2388 cmd /etc/cron/check_updates.sh
+Sep  7 21:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2390 cmd /etc/cron/check_updates.sh
+Sep  7 21:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2392 cmd /etc/cron/check_updates.sh
+Sep  7 21:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2394 cmd /etc/cron/check_updates.sh
+Sep  7 21:21:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2396 cmd /etc/cron/check_updates.sh
+Sep  7 21:22:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2398 cmd /etc/cron/check_updates.sh
+Sep  7 21:23:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2400 cmd /etc/cron/check_updates.sh
+Sep  7 21:24:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2402 cmd /etc/cron/check_updates.sh
+Sep  7 21:25:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2404 cmd /etc/cron/check_updates.sh
+Sep  7 21:26:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2406 cmd /etc/cron/check_updates.sh
+Sep  7 21:27:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2408 cmd /etc/cron/check_updates.sh
+Sep  7 21:28:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2410 cmd /etc/cron/check_updates.sh
+Sep  7 21:29:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2412 cmd /etc/cron/check_updates.sh
+Sep  7 21:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2414 cmd /etc/cron/check_pppd
+Sep  7 21:30:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2415 cmd /etc/cron/check_updates.sh
+Sep  7 21:31:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2420 cmd /etc/cron/check_updates.sh
+Sep  7 21:32:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2422 cmd /etc/cron/check_updates.sh
+Sep  7 21:33:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2424 cmd /etc/cron/check_updates.sh
+Sep  7 21:34:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2426 cmd /etc/cron/check_updates.sh
+Sep  7 21:35:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2428 cmd /etc/cron/check_updates.sh
+Sep  7 21:36:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 2430 cmd /etc/cron/check_updates.sh
+Sep  7 21:37:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2432 cmd /etc/cron/check_updates.sh
+Sep  7 21:38:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2434 cmd /etc/cron/check_updates.sh
+Sep  7 21:39:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2436 cmd /etc/cron/check_updates.sh
+Sep  7 21:40:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2438 cmd /etc/cron/check_updates.sh
+Sep  7 21:41:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2440 cmd /etc/cron/check_updates.sh
+Sep  7 21:42:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2442 cmd /etc/cron/check_updates.sh
+Sep  7 21:43:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2444 cmd /etc/cron/check_updates.sh
+Sep  7 21:44:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2446 cmd /etc/cron/check_updates.sh
+Sep  7 21:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2448 cmd /etc/cron/check_ntp
+Sep  7 21:45:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2449 cmd /etc/cron/check_updates.sh
+Sep  7 21:45:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 21:46:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2455 cmd /etc/cron/check_updates.sh
+Sep  7 21:47:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2457 cmd /etc/cron/check_updates.sh
+Sep  7 21:48:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2459 cmd /etc/cron/check_updates.sh
+Sep  7 21:49:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2461 cmd /etc/cron/check_updates.sh
+Sep  7 21:50:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2463 cmd /etc/cron/check_updates.sh
+Sep  7 21:51:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2465 cmd /etc/cron/check_updates.sh
+Sep  7 21:52:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2467 cmd /etc/cron/check_updates.sh
+Sep  7 21:53:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2469 cmd /etc/cron/check_updates.sh
+Sep  7 21:54:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2471 cmd /etc/cron/check_updates.sh
+Sep  7 21:55:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2473 cmd /etc/cron/check_updates.sh
+Sep  7 21:56:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2475 cmd /etc/cron/check_updates.sh
+Sep  7 21:57:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2477 cmd /etc/cron/check_updates.sh
+Sep  7 21:58:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2479 cmd /etc/cron/check_updates.sh
+Sep  7 21:59:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2481 cmd /etc/cron/check_updates.sh
+Sep  7 22:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2483 cmd /etc/cron/check_pppd
+Sep  7 22:00:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2484 cmd /etc/cron/check_updates.sh
+Sep  7 22:01:00 indigo-tracker daemon.notice openvpn[1290]: TLS: tls_process: killed expiring key
+Sep  7 22:01:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2491 cmd /etc/cron/check_updates.sh
+Sep  7 22:01:28 indigo-tracker daemon.notice openvpn[1290]: TLS: soft reset sec=-1 bytes=41823/0 pkts=355/0
+Sep  7 22:02:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2497 cmd /etc/cron/check_updates.sh
+Sep  7 22:03:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2501 cmd /etc/cron/check_updates.sh
+Sep  7 22:04:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2507 cmd /etc/cron/check_updates.sh
+Sep  7 22:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2513 cmd /etc/cron/check_updates.sh
+Sep  7 22:05:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2514 cmd /etc/cron/rotate_video.sh
+Sep  7 22:05:01 indigo-tracker user.notice root: no output folder configured for camera /etc/video.*
+Sep  7 22:06:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2534 cmd /etc/cron/check_updates.sh
+Sep  7 22:06:28 indigo-tracker daemon.err openvpn[1290]: TLS Error: TLS key negotiation failed to occur within 300 seconds (check your network connectivity)
+Sep  7 22:06:28 indigo-tracker daemon.err openvpn[1290]: TLS Error: TLS handshake failed
+Sep  7 22:06:28 indigo-tracker daemon.notice openvpn[1290]: TLS: move_session: dest=TM_LAME_DUCK src=TM_ACTIVE reinit_src=1
+Sep  7 22:06:28 indigo-tracker daemon.err openvpn[1290]: Fatal TLS error (check_tls_errors_co), restarting
+Sep  7 22:06:28 indigo-tracker daemon.notice openvpn[1290]: TCP/UDP: Closing socket
+Sep  7 22:06:28 indigo-tracker daemon.notice openvpn[1290]: SIGUSR1[soft,tls-error] received, process restarting
+Sep  7 22:06:28 indigo-tracker daemon.notice openvpn[1290]: Restart pause, 5 second(s)
+Sep  7 22:06:33 indigo-tracker daemon.warn openvpn[1290]: NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Sep  7 22:06:33 indigo-tracker daemon.notice openvpn[1290]: Re-using SSL/TLS context
+Sep  7 22:06:33 indigo-tracker daemon.notice openvpn[1290]: LZO compression initialized
+Sep  7 22:06:33 indigo-tracker daemon.notice openvpn[1290]: Control Channel MTU parms [ L:1544 D:140 EF:40 EB:0 ET:0 EL:0 ]
+Sep  7 22:06:33 indigo-tracker daemon.notice openvpn[1290]: Socket Buffers: R=[87380->131072] S=[16384->131072]
+Sep  7 22:06:33 indigo-tracker daemon.notice openvpn[1290]: Data Channel MTU parms [ L:1544 D:1450 EF:44 EB:135 ET:0 EL:0 AF:3/1 ]
+Sep  7 22:06:33 indigo-tracker daemon.notice openvpn[1290]: Attempting to establish TCP connection with 72.249.145.165:1195 [nonblock]
+Sep  7 22:06:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Connection timed out
+Sep  7 22:06:45 indigo-tracker user.notice root: GSMmux restarted from check_pppd with reset of GPRS module
+Sep  7 22:06:45 indigo-tracker daemon.info pppd[1199]: Terminating on signal 15
+Sep  7 22:06:45 indigo-tracker daemon.info pppd[1199]: Connect time 22976286.3 minutes.
+Sep  7 22:06:45 indigo-tracker daemon.info pppd[1199]: Sent 365012 bytes, received 362332 bytes.
+Sep  7 22:06:45 indigo-tracker daemon.notice pppd[1199]: Connection terminated.
+Sep  7 22:06:45 indigo-tracker user.notice root: pppd stopped
+Sep  7 22:06:45 indigo-tracker daemon.warn pppd[1199]: disconnect script failed
+Sep  7 22:06:45 indigo-tracker daemon.info pppd[1199]: Exit.
+Sep  7 22:06:45 indigo-tracker user.debug sender: cannot send message to server, http_code 0 and curl_result 7
+Sep  7 22:06:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:06:50 indigo-tracker user.notice root: PPPd is starting
+Sep  7 22:06:52 indigo-tracker user.notice root: Stopping cbclogger daemon: OK
+Sep  7 22:06:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:06:55 indigo-tracker user.notice root: pppd stopped
+Sep  7 22:06:55 indigo-tracker user.notice root: Stopping cbclogger daemon: OK
+Sep  7 22:06:56 indigo-tracker user.notice root: gsmmux stopped successfully
+Sep  7 22:06:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:06:59 indigo-tracker user.err kernel: gsm: creating command 2
+Sep  7 22:07:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2646 cmd /etc/cron/check_updates.sh
+Sep  7 22:07:03 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:07 indigo-tracker user.err kernel: gsm: creating command 1
+Sep  7 22:07:08 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:13 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:18 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:19 indigo-tracker user.notice root: gsmmux is starting
+Sep  7 22:07:19 indigo-tracker user.debug gsmmux: gsmmux is starting
+Sep  7 22:07:23 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:26 indigo-tracker user.notice root: gsmmux is started successfully
+Sep  7 22:07:28 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:33 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:36 indigo-tracker user.notice root: PPPd is starting
+Sep  7 22:07:36 indigo-tracker daemon.notice pppd[2724]: pppd 2.4.5 started by root, uid 0
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: abort on (BUSY)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: abort on (ERROR)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: abort on (NO CARRIER)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: abort on (UNDER-VOLTAGE WARNNING)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: timeout set to 12 seconds
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: send (AT^M)
+Sep  7 22:07:36 indigo-tracker user.notice root: PPPd started
+Sep  7 22:07:36 indigo-tracker user.notice root: Starting cbclogger daemon: OK
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: expect (OK)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: AT^M^M
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: OK
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]:  -- got it
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: send (AT^M)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: expect (OK)
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: ^M
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: AT^M^M
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: OK
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]:  -- got it
+Sep  7 22:07:36 indigo-tracker local2.info chat[2727]: send (AT+CGDCONT=1,"IP","internet.mts.ru"^M)
+Sep  7 22:07:36 indigo-tracker user.notice root: GSMmux/pppd should be started now
+Sep  7 22:07:36 indigo-tracker user.debug sqlite: gps connected ok
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: timeout set to 45 seconds
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: expect (OK)
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: ^M
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: AT+CGDCONT=1,"IP","internet.mts.ru"^M^M
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: OK
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]:  -- got it
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: send (ATD*99***1#^M)
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: expect (CONNECT)
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: ^M
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: ATD*99***1#^M^M
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: CONNECT
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]:  -- got it
+Sep  7 22:07:37 indigo-tracker local2.info chat[2727]: send (^M)
+Sep  7 22:07:37 indigo-tracker daemon.info pppd[2724]: Serial connection established.
+Sep  7 22:07:37 indigo-tracker daemon.info pppd[2724]: Using interface ppp0
+Sep  7 22:07:37 indigo-tracker daemon.notice pppd[2724]: Connect: ppp0 <--> /dev/gsmtty1
+Sep  7 22:07:38 indigo-tracker daemon.warn pppd[2724]: Warning - secret file /etc/ppp/pap-secrets has world and/or group access
+Sep  7 22:07:38 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:41 indigo-tracker daemon.info pppd[2724]: LCP terminated by peer (PDP context activation failed, no network protocol running)
+Sep  7 22:07:41 indigo-tracker daemon.notice pppd[2724]: Connection terminated.
+Sep  7 22:07:41 indigo-tracker daemon.warn pppd[2724]: disconnect script failed
+Sep  7 22:07:43 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:48 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:53 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: abort on (BUSY)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: abort on (ERROR)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: abort on (NO CARRIER)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: abort on (UNDER-VOLTAGE WARNNING)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: timeout set to 12 seconds
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: send (AT^M)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: expect (OK)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: AT^M^M
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: OK
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]:  -- got it
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: send (AT^M)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: expect (OK)
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: ^M
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: AT^M^M
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: OK
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]:  -- got it
+Sep  7 22:07:56 indigo-tracker local2.info chat[2742]: send (AT+CGDCONT=1,"IP","internet.mts.ru"^M)
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]: timeout set to 45 seconds
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]: expect (OK)
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]: ^M
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]: AT+CGDCONT=1,"IP","internet.mts.ru"^M^M
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]: OK
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]:  -- got it
+Sep  7 22:07:57 indigo-tracker local2.info chat[2742]: send (ATD*99***1#^M)
+Sep  7 22:07:58 indigo-tracker local2.info chat[2742]: expect (CONNECT)
+Sep  7 22:07:58 indigo-tracker local2.info chat[2742]: ^M
+Sep  7 22:07:58 indigo-tracker local2.info chat[2742]: ATD*99***1#^M^M
+Sep  7 22:07:58 indigo-tracker local2.info chat[2742]: CONNECT
+Sep  7 22:07:58 indigo-tracker local2.info chat[2742]:  -- got it
+Sep  7 22:07:58 indigo-tracker local2.info chat[2742]: send (^M)
+Sep  7 22:07:58 indigo-tracker daemon.info pppd[2724]: Serial connection established.
+Sep  7 22:07:58 indigo-tracker daemon.info pppd[2724]: Using interface ppp0
+Sep  7 22:07:58 indigo-tracker daemon.notice pppd[2724]: Connect: ppp0 <--> /dev/gsmtty1
+Sep  7 22:07:58 indigo-tracker daemon.err openvpn[1290]: TCP: connect to 72.249.145.165:1195 failed, will try again in 5 seconds: Network is unreachable
+Sep  7 22:07:59 indigo-tracker daemon.warn pppd[2724]: Warning - secret file /etc/ppp/pap-secrets has world and/or group access
+Sep  7 22:08:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2745 cmd /etc/cron/check_updates.sh
+Sep  7 22:08:02 indigo-tracker daemon.notice pppd[2724]: local  IP address 10.162.127.108
+Sep  7 22:08:02 indigo-tracker daemon.notice pppd[2724]: remote IP address 192.200.1.21
+Sep  7 22:08:02 indigo-tracker user.notice root: Trying to get system time over ntp
+Sep  7 22:08:02 indigo-tracker daemon.notice ntpdate[2751]: ntpdate 4.2.6p3@1.2290 Sun Feb 20 22:12:26 UTC 2011 (1)
+Sep  7 22:08:04 indigo-tracker user.debug sender: send success
+Sep  7 22:08:04 indigo-tracker daemon.notice openvpn[1290]: TCP connection established with 72.249.145.165:1195
+Sep  7 22:08:04 indigo-tracker daemon.notice openvpn[1290]: TCPv4_CLIENT link local: [undef]
+Sep  7 22:08:04 indigo-tracker daemon.notice openvpn[1290]: TCPv4_CLIENT link remote: 72.249.145.165:1195
+Sep  7 22:08:05 indigo-tracker daemon.notice openvpn[1290]: TLS: Initial packet from 72.249.145.165:1195, sid=733c7ab6 4cc4ebb5
+Sep  7 22:08:05 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 22:08:13 indigo-tracker daemon.notice ntpdate[2751]: step time server 85.21.78.23 offset 0.555525 sec
+Sep  7 22:08:13 indigo-tracker user.notice root: Current time is valid
+Sep  7 22:08:15 indigo-tracker user.debug sender: send success
+Sep  7 22:08:16 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 22:08:17 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Sep  7 22:08:17 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: nsCertType=SERVER
+Sep  7 22:08:17 indigo-tracker daemon.notice openvpn[1290]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Sep  7 22:08:40 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 22:08:40 indigo-tracker daemon.notice openvpn[1290]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 22:08:40 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Sep  7 22:08:40 indigo-tracker daemon.notice openvpn[1290]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Sep  7 22:08:40 indigo-tracker daemon.notice openvpn[1290]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Sep  7 22:08:40 indigo-tracker daemon.notice openvpn[1290]: [devices-vpn-server] Peer Connection Initiated with 72.249.145.165:1195
+Sep  7 22:08:42 indigo-tracker daemon.notice openvpn[1290]: SENT CONTROL [devices-vpn-server]: 'PUSH_REQUEST' (status=1)
+Sep  7 22:08:44 indigo-tracker daemon.notice openvpn[1290]: PUSH: Received control message: 'PUSH_REPLY,route-gateway 10.1.0.1,topology subnet,ping 120,ping-restart 1200,ifconfig 10.1.0.47 255.255.255.0'
+Sep  7 22:08:44 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: timers and/or timeouts modified
+Sep  7 22:08:44 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: --ifconfig/up options modified
+Sep  7 22:08:44 indigo-tracker daemon.notice openvpn[1290]: OPTIONS IMPORT: route-related options modified
+Sep  7 22:08:44 indigo-tracker daemon.notice openvpn[1290]: Preserving previous TUN/TAP instance: tun0
+Sep  7 22:08:44 indigo-tracker daemon.notice openvpn[1290]: Initialization Sequence Completed
+Sep  7 22:09:02 indigo-tracker cron.info crond[1103]: crond: USER root pid 2761 cmd /etc/cron/check_updates.sh
+Sep  7 22:10:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2763 cmd /etc/cron/check_updates.sh
+Sep  7 22:11:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2766 cmd /etc/cron/check_updates.sh
+Sep  7 22:12:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2768 cmd /etc/cron/check_updates.sh
+Sep  7 22:13:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2770 cmd /etc/cron/check_updates.sh
+Sep  7 22:14:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2772 cmd /etc/cron/check_updates.sh
+Sep  7 22:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2774 cmd /etc/cron/check_ntp
+Sep  7 22:15:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2775 cmd /etc/cron/check_updates.sh
+Sep  7 22:15:01 indigo-tracker user.notice root: Current time is valid
+Sep  7 22:15:28 indigo-tracker user.debug sqlite: sending keepalive
+Sep  7 22:15:31 indigo-tracker user.debug sender: send success
+Sep  7 22:15:32 indigo-tracker user.debug sender: nothing to send, continuing
+Sep  7 22:16:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2785 cmd /etc/cron/check_updates.sh
+Sep  7 22:17:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2787 cmd /etc/cron/check_updates.sh
+Sep  7 22:18:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2789 cmd /etc/cron/check_updates.sh
+Sep  7 22:19:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2791 cmd /etc/cron/check_updates.sh
+Sep  7 22:19:54 indigo-tracker auth.info login[2793]: root login on 'pts/1'
+Sep  7 22:20:01 indigo-tracker cron.info crond[1103]: crond: USER root pid 2797 cmd /etc/cron/check_updates.sh

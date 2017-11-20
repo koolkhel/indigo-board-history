@@ -1,0 +1,34 @@
+
+Configuration scripts for using GPRS phones in the computer lab.
+$Id: README.gprs,v 1.1 2001/12/10 16:26:02 tjd21 Exp $
+
+Brief installation instructions:  
+
+ 1) Install ppp.
+    PPP is available from http://www.samba.org/ppp/
+    These scripts are known to work with version 2.4.1.
+
+ 2) Untar these scripts into /etc/ppp, or wherever you installed ppp.
+    (cd /etc/; tar xzf /path/to/gprs-ppp-scripts.tgz)
+    If you put ppp somewhere other than the default,
+    you may need to edit some filenames in the scripts
+
+ 3) Set up your RADIUS password in pap-secrets and/or chap-secrets.
+    Motorola phones use PAP, Ericsson use CHAP.  Either way, 
+    edit /etc/ppp/{chap,pap}-secrets to add a line with
+    your username, <tab>, *, <tab>, and your secret on it. e.g.:
+tjd21	*	mysecret
+
+ 4) Edit /etc/ppp/peers/gprs-eric (or gprs-moto) to use your
+    username and your modem device.
+
+ 5) Run 'pppd call gprs-eric' (or gprs-moto).
+
+By default these scripts don't background pppd or create an IP route
+over the new link: edit /etc/ppp/gprs-options to change that.
+
+Edit /etc/ppp/chatscripts/gprs-{eric,moto}-connect-chat if you want
+to change the GGSN to connect to, of the PDP context number to use.
+
+
+

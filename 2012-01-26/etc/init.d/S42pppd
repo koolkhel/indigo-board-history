@@ -1,0 +1,34 @@
+#!/bin/sh
+
+case "$1" in
+	start)
+		if [ ! -c /dev/sim508 ]; then
+			/bin/mknod /dev/sim508 c 135 0
+		fi
+		killall pppd
+		pppd call gprs-megafon
+		# make pppd unkillable by oom
+		for pid in `pgrep pppd`; do
+		    echo -1000 > /proc/$pid/oom_score_adj
+		done
+		echo "pppd started"
+		;;
+	stop)
+		killall pppd
+		echo "pppd stopped"
+		;;
+	status)
+		/sbin/route -n | grep ppp0 > /dev/null && echo "connection running" || (echo "no connection" && exit 1)
+		;;
+	started)
+		/etc/init.d/S43ntp start
+		/etc/events/04_gprs_on.sh
+		;;
+	restart)
+		$0 stop
+		$0 start
+		;;
+	*)
+		echo "usage: S42gpsd (start|stop|restart|status)"
+		;;
+esac

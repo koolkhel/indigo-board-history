@@ -1,0 +1,9 @@
+SAY "trying to do ok \n"
+'' 'ATZ'
+TIMEOUT 12
+OK 'AT+CGDCONT=1,"IP","internet.TELE2.ru"'
+SAY "context ok"
+TIMEOUT 45
+OK 'ATD*99#'
+CONNECT ''
+SAY "connect ok"

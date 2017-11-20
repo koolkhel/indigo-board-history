@@ -1,0 +1,38 @@
+#!/bin/sh
+#
+# Start the network....
+#
+
+start() {
+ 	echo "Starting network..."
+ 	ifconfig lo 127.0.0.1 up
+ 	ifconfig eth0 192.168.17.155 netmask 255.255.255.0 up
+ 	route add -net 127.0.0.0 netmask 255.0.0.0 lo
+ 	route add default gw 192.168.17.254
+}	
+stop() {
+	echo -n "Stopping network..."
+	/sbin/ifdown -a
+}
+restart() {
+	stop
+	start
+}	
+
+case "$1" in
+  start)
+  	start
+	;;
+  stop)
+  	stop
+	;;
+  restart|reload)
+  	restart
+	;;
+  *)
+	echo $"Usage: $0 {start|stop|restart}"
+	exit 1
+esac
+
+exit $?
+

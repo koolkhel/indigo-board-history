@@ -1,0 +1,41 @@
+#!/bin/sh
+
+set -e
+
+DESC="mjpeg-streamer"
+NAME=mjpg_streamer
+DAEMON=/opt/$NAME
+
+source /etc/sysvars
+
+case "$1" in
+  start)
+#  	killall -q $NAME
+  	sleep 3
+	echo -n "Starting $DESC: "
+	export LD_LIBRARY_PATH=/opt
+	/opt/mjpg_streamer -i "/opt/input_uvc.so -d /dev/video0 -f $VIDEO_FPS -r 640x480" \
+		-o "/opt/output_file.so -f $VIDEO" \
+		-o "/opt/output_http.so -w /opt/mjpeg/www" &
+	logger "$DESC started"
+	echo "OK"
+	;;
+  stop)
+	echo -n "Stopping $DESC: "
+	logger "$DESC stopped"
+	killall -q $NAME
+	echo "OK"
+	;;
+  restart|force-reload)
+	echo "Restarting $DESC: "
+	$0 stop
+	sleep 1
+	$0 start
+	echo ""
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart|force-reload}" >&2
+	exit 1
+	;;
+esac
+

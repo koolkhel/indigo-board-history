@@ -1,0 +1,12 @@
+ABORT BUSY
+ABORT ERROR
+ABORT 'UNDER-VOLTAGE WARNNING'
+SAY "trying to do ok \n"
+'' 'ATZ'
+TIMEOUT 12
+OK 'AT+CGDCONT=1,"IP","internet"'
+SAY "context ok"
+TIMEOUT 45
+OK 'ATD*99#'
+CONNECT ''
+SAY "connect ok"

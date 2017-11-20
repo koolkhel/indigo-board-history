@@ -1,0 +1,5 @@
+#!/bin/sh
+/etc/init.d/S90openvpn started
+#/etc/init.d/S95telnetd start
+#telnetd -b 192.168.201.18
+#/etc/init.d/S96vsftp

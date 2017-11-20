@@ -1,0 +1,15 @@
+# Check GSM once in a while
+0,30 * * * * /etc/cron/check_pppd
+# Without time nothing will work
+15,45 * * * * /etc/cron/check_ntp
+# Check /tmp for update files every minute
+* * * * * /etc/cron/check_updates.sh
+# Every 5-th minute of hour delete least recent hour
+5 * * * * /etc/cron/rotate_video.sh
+# Video starts at 5 am
+0 5 * * * /etc/init.d/S98video start
+# Video stops at 11:55 pm
+55 23 * * * /etc/init.d/S98video stop
+
+# Generate sample for automatic retriveal
+30 23 * * * /etc/cron/make-sample.sh

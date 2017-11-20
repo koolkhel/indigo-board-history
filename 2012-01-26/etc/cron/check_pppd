@@ -1,0 +1,59 @@
+#!/bin/bash
+
+function pingable {
+	# current retry count
+	retrycount=0
+	# which host to ping
+	address=$1
+	# max number of attempts
+	maxtries=5
+	# timeout for single ping
+	delay=10
+	ping -c 1 -w $delay $1 > /dev/null
+	while [ $? -ne 0 -a $retrycount -lt $maxtries ]; do
+		let retrycount=$retrycount+1
+		sleep 1
+		ping -c 1 -w $delay $1 > /dev/null
+	done;
+
+	if [ $? -ne 0 -a $retrycount -eq $maxtries ]; then
+		return 1
+	else
+		return 0
+	fi;
+}
+
+function run_pppd {
+	/etc/events/04_gprs_off.sh
+	logger PPPd restarted from check_pppd
+	/etc/init.d/S42pppd stop
+	sleep 2
+	killall -9 pppd
+	sleep 2
+	/etc/init.d/S42pppd start
+	exit 5
+}
+
+function run_pppd_full {
+	/etc/events/04_gprs_off.sh
+	logger PPPd restarted from check_pppd with reset of GPRS module
+	/etc/init.d/S42pppd stop
+	# shutdown gsm
+	#echo -n 0 > /dev/pc10; usleep 2500000; echo -n 1 > /dev/pc10
+	# gsm up
+	# turn gsm on as it is supposedly off now
+	echo -n 0 > /dev/pc10; usleep 2500000; echo -n 1 > /dev/pc10
+	/etc/init.d/S42pppd start
+	exit 6
+}
+
+pgrep pppd > /dev/null || run_pppd
+if [ $? -eq 5 ]; then
+	exit 0
+fi
+echo where not should
+pingable 8.8.8.8 || run_pppd_full
+if [ $? -eq 6 ]; then
+	exit 0
+fi
+logger "pppd ok, 8.8.8.8 pingable"

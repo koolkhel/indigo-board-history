@@ -1,0 +1,25 @@
+#!/bin/sh
+
+case "$1" in
+	start)
+		if [ ! -c /dev/sim508 ]; then
+			/bin/mknod /dev/sim508 c 135 0
+		fi
+		killall gpsd
+		echo 3 > /dev/sim508
+		sleep 2
+		echo 2 > /dev/sim508
+		stty -F /dev/ttyS2 ispeed 57600	
+		stty -F /dev/ttyS2 ispeed 57600
+
+		/usr/sbin/gpsd -N /dev/ttyS2 &
+		echo "GPSd started"
+		;;
+	stop)
+		killall gpsd
+		echo "GPSd stopped"
+		;;
+	*)
+		echo "usage: S45gpsd (start|stop)"
+		;;
+esac

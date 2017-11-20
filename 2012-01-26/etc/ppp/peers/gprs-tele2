@@ -1,0 +1,19 @@
+name mts
+/dev/ttyS1
+115200
+debug
+show-password
+connect 'chat -v -f /etc/ppp/chatscripts/tele2-connect'
+disconnect /etc/ppp/peers/gprs-disconnect-chat
+nocrtscts
+local
+noipdefault
+ipcp-accept-local
+defaultroute
+usepeerdns
+novj
+nobsdcomp
+novjccomp
+nopcomp
+noaccomp
+noauth

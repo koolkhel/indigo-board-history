@@ -1,0 +1,27 @@
+lcp-echo-failure 0
+lcp-echo-interval 0
+/dev/ttyS1
+115200
+debug
+connect 'chat -v -f /etc/ppp/chatscripts/megafon-connect'
+disconnect /etc/ppp/peers/gprs-disconnect-chat
+nocrtscts
+local
+noipdefault
+ipcp-accept-local
+defaultroute
+replacedefaultroute
+novj
+nobsdcomp
+novjccomp
+noccp
+nopcomp
+noaccomp
+noauth
+persist
+lock
+maxfail 0
+holdoff 1
+# vpn hack
+#mtu 1400
+#mru 1400

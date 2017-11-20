@@ -1,0 +1,66 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 12 (0xc)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=RU, ST=ROSTOV-ON-DON, L=Taganrog, O=Indigo, CN=dev-vpn/emailAddress=yury@indigosystem.ru
+        Validity
+            Not Before: Aug 12 12:19:18 2011 GMT
+            Not After : Aug  9 12:19:18 2021 GMT
+        Subject: C=RU, ST=ROSTOV-ON-DON, O=Indigo, CN=Device_3/emailAddress=yury@indigosystem.ru
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:aa:e6:56:8a:ac:f8:c1:77:7e:43:d9:1f:72:ae:
+                    1f:8f:01:6d:a5:21:fc:2d:bd:46:3e:1b:62:4e:b8:
+                    1d:9e:4a:f0:b9:a3:6f:3e:60:15:63:0f:37:5b:e8:
+                    d7:a2:2b:75:e6:b6:21:6c:f8:20:72:b9:76:69:1e:
+                    ee:5a:d6:d6:d1:54:8d:6d:f2:4e:61:56:ad:ed:13:
+                    0e:88:a4:1f:be:28:a2:b3:42:4a:dd:de:f1:a6:cc:
+                    8c:f3:14:1f:33:0c:38:9c:92:9e:ec:2d:a0:70:f7:
+                    ff:00:5e:32:d8:41:28:a2:b9:a5:7b:8b:25:5f:d0:
+                    59:67:e8:2d:fb:fc:89:ee:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                0D:55:83:E3:14:E3:7B:EB:21:D8:E6:D0:07:B3:5F:81:44:C9:E3:63
+            X509v3 Authority Key Identifier: 
+                keyid:51:DA:45:3A:67:48:43:65:E4:03:00:65:AA:44:60:04:E9:80:FF:61
+                DirName:/C=RU/ST=ROSTOV-ON-DON/L=Taganrog/O=Indigo/CN=dev-vpn/emailAddress=yury@indigosystem.ru
+                serial:DC:E5:F9:23:73:28:E8:A0
+
+    Signature Algorithm: md5WithRSAEncryption
+        9a:2f:8e:3b:9b:49:11:3c:bc:d6:44:dc:8e:83:82:3a:b3:27:
+        ac:ab:a2:84:b9:ec:a2:51:fa:dc:d8:85:f3:b1:7f:03:fc:9b:
+        a6:46:f5:23:7b:fd:10:27:fd:4d:e2:84:73:66:ca:d6:f7:1c:
+        44:25:bf:4e:4f:c9:68:5e:51:a3:4f:4d:c0:78:3b:61:6a:6e:
+        b2:61:25:99:ca:d1:53:06:6a:b8:a4:c2:9d:1f:93:82:2f:21:
+        94:2f:1f:ef:cc:f1:67:ce:e2:eb:4d:a1:e2:99:4e:5d:e2:c4:
+        6f:5f:26:7f:f4:3e:44:9a:49:2c:ee:4f:14:35:7b:f6:d5:20:
+        25:36
+-----BEGIN CERTIFICATE-----
+MIIDezCCAuSgAwIBAgIBDDANBgkqhkiG9w0BAQQFADCBgDELMAkGA1UEBhMCUlUx
+FjAUBgNVBAgTDVJPU1RPVi1PTi1ET04xETAPBgNVBAcTCFRhZ2Fucm9nMQ8wDQYD
+VQQKEwZJbmRpZ28xEDAOBgNVBAMTB2Rldi12cG4xIzAhBgkqhkiG9w0BCQEWFHl1
+cnlAaW5kaWdvc3lzdGVtLnJ1MB4XDTExMDgxMjEyMTkxOFoXDTIxMDgwOTEyMTkx
+OFowbjELMAkGA1UEBhMCUlUxFjAUBgNVBAgTDVJPU1RPVi1PTi1ET04xDzANBgNV
+BAoTBkluZGlnbzERMA8GA1UEAxQIRGV2aWNlXzMxIzAhBgkqhkiG9w0BCQEWFHl1
+cnlAaW5kaWdvc3lzdGVtLnJ1MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCq
+5laKrPjBd35D2R9yrh+PAW2lIfwtvUY+G2JOuB2eSvC5o28+YBVjDzdb6NeiK3Xm
+tiFs+CByuXZpHu5a1tbRVI1t8k5hVq3tEw6IpB++KKKzQkrd3vGmzIzzFB8zDDic
+kp7sLaBw9/8AXjLYQSiiuaV7iyVf0Fln6C37/Inu7wIDAQABo4IBFDCCARAwCQYD
+VR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlm
+aWNhdGUwHQYDVR0OBBYEFA1Vg+MU43vrIdjm0AezX4FEyeNjMIG1BgNVHSMEga0w
+gaqAFFHaRTpnSENl5AMAZapEYATpgP9hoYGGpIGDMIGAMQswCQYDVQQGEwJSVTEW
+MBQGA1UECBMNUk9TVE9WLU9OLURPTjERMA8GA1UEBxMIVGFnYW5yb2cxDzANBgNV
+BAoTBkluZGlnbzEQMA4GA1UEAxMHZGV2LXZwbjEjMCEGCSqGSIb3DQEJARYUeXVy
+eUBpbmRpZ29zeXN0ZW0ucnWCCQDc5fkjcyjooDANBgkqhkiG9w0BAQQFAAOBgQCa
+L447m0kRPLzWRNyOg4I6syesq6KEueyiUfrc2IXzsX8D/JumRvUje/0QJ/1N4oRz
+ZsrW9xxEJb9OT8loXlGjT03AeDtham6yYSWZytFTBmq4pMKdH5OCLyGULx/vzPFn
+zuLrTaHimU5d4sRvXyZ/9D5Emkks7k8UNXv21SAlNg==
+-----END CERTIFICATE-----

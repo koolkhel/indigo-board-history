@@ -1,0 +1,948 @@
+Jan  1 16:14:51 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:14:53 indigo-tracker local2.info chat[18746]: abort on (BUSY)
+Jan  1 16:14:53 indigo-tracker local2.info chat[18746]: abort on (ERROR)
+Jan  1 16:14:53 indigo-tracker local2.info chat[18746]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:14:53 indigo-tracker local2.info chat[18746]: send (ATZ^M)
+Jan  1 16:14:53 indigo-tracker local2.info chat[18746]: timeout set to 12 seconds
+Jan  1 16:14:53 indigo-tracker local2.info chat[18746]: expect (OK)
+Jan  1 16:15:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18747 cmd /etc/cron/check_ntp
+Jan  1 16:15:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18748 cmd /etc/cron/check_updates.sh
+Jan  1 16:15:01 indigo-tracker user.notice root: Current time is not valid
+Jan  1 16:15:05 indigo-tracker local2.info chat[18746]: alarm
+Jan  1 16:15:05 indigo-tracker local2.info chat[18746]: Failed
+Jan  1 16:15:05 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18745), status = 0x3
+Jan  1 16:15:05 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:15:06 indigo-tracker local2.info chat[18757]: abort on (BUSY)
+Jan  1 16:15:06 indigo-tracker local2.info chat[18757]: abort on (ERROR)
+Jan  1 16:15:06 indigo-tracker local2.info chat[18757]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:15:06 indigo-tracker local2.info chat[18757]: send (ATZ^M)
+Jan  1 16:15:06 indigo-tracker local2.info chat[18757]: timeout set to 12 seconds
+Jan  1 16:15:06 indigo-tracker local2.info chat[18757]: expect (OK)
+Jan  1 16:15:18 indigo-tracker local2.info chat[18757]: alarm
+Jan  1 16:15:18 indigo-tracker local2.info chat[18757]: Failed
+Jan  1 16:15:18 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18756), status = 0x3
+Jan  1 16:15:18 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:15:19 indigo-tracker local2.info chat[18762]: abort on (BUSY)
+Jan  1 16:15:19 indigo-tracker local2.info chat[18762]: abort on (ERROR)
+Jan  1 16:15:19 indigo-tracker local2.info chat[18762]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:15:19 indigo-tracker local2.info chat[18762]: send (ATZ^M)
+Jan  1 16:15:19 indigo-tracker local2.info chat[18762]: timeout set to 12 seconds
+Jan  1 16:15:19 indigo-tracker local2.info chat[18762]: expect (OK)
+Jan  1 16:15:31 indigo-tracker local2.info chat[18762]: alarm
+Jan  1 16:15:31 indigo-tracker local2.info chat[18762]: Failed
+Jan  1 16:15:31 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18761), status = 0x3
+Jan  1 16:15:31 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:15:32 indigo-tracker local2.info chat[18766]: abort on (BUSY)
+Jan  1 16:15:32 indigo-tracker local2.info chat[18766]: abort on (ERROR)
+Jan  1 16:15:32 indigo-tracker local2.info chat[18766]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:15:32 indigo-tracker local2.info chat[18766]: send (ATZ^M)
+Jan  1 16:15:32 indigo-tracker local2.info chat[18766]: timeout set to 12 seconds
+Jan  1 16:15:32 indigo-tracker local2.info chat[18766]: expect (OK)
+Jan  1 16:15:44 indigo-tracker local2.info chat[18766]: alarm
+Jan  1 16:15:44 indigo-tracker local2.info chat[18766]: Failed
+Jan  1 16:15:44 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18765), status = 0x3
+Jan  1 16:15:44 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:15:45 indigo-tracker local2.info chat[18772]: abort on (BUSY)
+Jan  1 16:15:45 indigo-tracker local2.info chat[18772]: abort on (ERROR)
+Jan  1 16:15:45 indigo-tracker local2.info chat[18772]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:15:45 indigo-tracker local2.info chat[18772]: send (ATZ^M)
+Jan  1 16:15:45 indigo-tracker local2.info chat[18772]: timeout set to 12 seconds
+Jan  1 16:15:45 indigo-tracker local2.info chat[18772]: expect (OK)
+Jan  1 16:15:57 indigo-tracker local2.info chat[18772]: alarm
+Jan  1 16:15:57 indigo-tracker local2.info chat[18772]: Failed
+Jan  1 16:15:57 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18771), status = 0x3
+Jan  1 16:15:57 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:15:58 indigo-tracker local2.info chat[18776]: abort on (BUSY)
+Jan  1 16:15:58 indigo-tracker local2.info chat[18776]: abort on (ERROR)
+Jan  1 16:15:58 indigo-tracker local2.info chat[18776]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:15:58 indigo-tracker local2.info chat[18776]: send (ATZ^M)
+Jan  1 16:15:58 indigo-tracker local2.info chat[18776]: timeout set to 12 seconds
+Jan  1 16:15:58 indigo-tracker local2.info chat[18776]: expect (OK)
+Jan  1 16:16:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18777 cmd /etc/cron/check_updates.sh
+Jan  1 16:16:10 indigo-tracker local2.info chat[18776]: alarm
+Jan  1 16:16:10 indigo-tracker local2.info chat[18776]: Failed
+Jan  1 16:16:10 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18775), status = 0x3
+Jan  1 16:16:10 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:16:11 indigo-tracker local2.info chat[18782]: abort on (BUSY)
+Jan  1 16:16:11 indigo-tracker local2.info chat[18782]: abort on (ERROR)
+Jan  1 16:16:11 indigo-tracker local2.info chat[18782]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:16:11 indigo-tracker local2.info chat[18782]: send (ATZ^M)
+Jan  1 16:16:12 indigo-tracker local2.info chat[18782]: timeout set to 12 seconds
+Jan  1 16:16:12 indigo-tracker local2.info chat[18782]: expect (OK)
+Jan  1 16:16:24 indigo-tracker local2.info chat[18782]: alarm
+Jan  1 16:16:24 indigo-tracker local2.info chat[18782]: Failed
+Jan  1 16:16:24 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18781), status = 0x3
+Jan  1 16:16:24 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:16:25 indigo-tracker local2.info chat[18788]: abort on (BUSY)
+Jan  1 16:16:25 indigo-tracker local2.info chat[18788]: abort on (ERROR)
+Jan  1 16:16:25 indigo-tracker local2.info chat[18788]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:16:25 indigo-tracker local2.info chat[18788]: send (ATZ^M)
+Jan  1 16:16:25 indigo-tracker local2.info chat[18788]: timeout set to 12 seconds
+Jan  1 16:16:25 indigo-tracker local2.info chat[18788]: expect (OK)
+Jan  1 16:16:37 indigo-tracker local2.info chat[18788]: alarm
+Jan  1 16:16:37 indigo-tracker local2.info chat[18788]: Failed
+Jan  1 16:16:37 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18787), status = 0x3
+Jan  1 16:16:37 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:16:38 indigo-tracker local2.info chat[18792]: abort on (BUSY)
+Jan  1 16:16:38 indigo-tracker local2.info chat[18792]: abort on (ERROR)
+Jan  1 16:16:38 indigo-tracker local2.info chat[18792]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:16:38 indigo-tracker local2.info chat[18792]: send (ATZ^M)
+Jan  1 16:16:38 indigo-tracker local2.info chat[18792]: timeout set to 12 seconds
+Jan  1 16:16:38 indigo-tracker local2.info chat[18792]: expect (OK)
+Jan  1 16:16:50 indigo-tracker local2.info chat[18792]: alarm
+Jan  1 16:16:50 indigo-tracker local2.info chat[18792]: Failed
+Jan  1 16:16:50 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18791), status = 0x3
+Jan  1 16:16:50 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:16:51 indigo-tracker local2.info chat[18796]: abort on (BUSY)
+Jan  1 16:16:51 indigo-tracker local2.info chat[18796]: abort on (ERROR)
+Jan  1 16:16:51 indigo-tracker local2.info chat[18796]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:16:51 indigo-tracker local2.info chat[18796]: send (ATZ^M)
+Jan  1 16:16:51 indigo-tracker local2.info chat[18796]: timeout set to 12 seconds
+Jan  1 16:16:51 indigo-tracker local2.info chat[18796]: expect (OK)
+Jan  1 16:17:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18799 cmd /etc/cron/check_updates.sh
+Jan  1 16:17:03 indigo-tracker local2.info chat[18796]: alarm
+Jan  1 16:17:03 indigo-tracker local2.info chat[18796]: Failed
+Jan  1 16:17:03 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18795), status = 0x3
+Jan  1 16:17:03 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:17:04 indigo-tracker local2.info chat[18802]: abort on (BUSY)
+Jan  1 16:17:04 indigo-tracker local2.info chat[18802]: abort on (ERROR)
+Jan  1 16:17:04 indigo-tracker local2.info chat[18802]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:17:04 indigo-tracker local2.info chat[18802]: send (ATZ^M)
+Jan  1 16:17:04 indigo-tracker local2.info chat[18802]: timeout set to 12 seconds
+Jan  1 16:17:04 indigo-tracker local2.info chat[18802]: expect (OK)
+Jan  1 16:17:16 indigo-tracker local2.info chat[18802]: alarm
+Jan  1 16:17:16 indigo-tracker local2.info chat[18802]: Failed
+Jan  1 16:17:16 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18801), status = 0x3
+Jan  1 16:17:16 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:17:17 indigo-tracker local2.info chat[18808]: abort on (BUSY)
+Jan  1 16:17:17 indigo-tracker local2.info chat[18808]: abort on (ERROR)
+Jan  1 16:17:17 indigo-tracker local2.info chat[18808]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:17:17 indigo-tracker local2.info chat[18808]: send (ATZ^M)
+Jan  1 16:17:17 indigo-tracker local2.info chat[18808]: timeout set to 12 seconds
+Jan  1 16:17:17 indigo-tracker local2.info chat[18808]: expect (OK)
+Jan  1 16:17:29 indigo-tracker local2.info chat[18808]: alarm
+Jan  1 16:17:29 indigo-tracker local2.info chat[18808]: Failed
+Jan  1 16:17:29 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18807), status = 0x3
+Jan  1 16:17:29 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:17:31 indigo-tracker local2.info chat[18812]: abort on (BUSY)
+Jan  1 16:17:31 indigo-tracker local2.info chat[18812]: abort on (ERROR)
+Jan  1 16:17:31 indigo-tracker local2.info chat[18812]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:17:31 indigo-tracker local2.info chat[18812]: send (ATZ^M)
+Jan  1 16:17:31 indigo-tracker local2.info chat[18812]: timeout set to 12 seconds
+Jan  1 16:17:31 indigo-tracker local2.info chat[18812]: expect (OK)
+Jan  1 16:17:43 indigo-tracker local2.info chat[18812]: alarm
+Jan  1 16:17:43 indigo-tracker local2.info chat[18812]: Failed
+Jan  1 16:17:43 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18811), status = 0x3
+Jan  1 16:17:43 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:17:44 indigo-tracker local2.info chat[18816]: abort on (BUSY)
+Jan  1 16:17:44 indigo-tracker local2.info chat[18816]: abort on (ERROR)
+Jan  1 16:17:44 indigo-tracker local2.info chat[18816]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:17:44 indigo-tracker local2.info chat[18816]: send (ATZ^M)
+Jan  1 16:17:44 indigo-tracker local2.info chat[18816]: timeout set to 12 seconds
+Jan  1 16:17:44 indigo-tracker local2.info chat[18816]: expect (OK)
+Jan  1 16:17:56 indigo-tracker local2.info chat[18816]: alarm
+Jan  1 16:17:56 indigo-tracker local2.info chat[18816]: Failed
+Jan  1 16:17:56 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18815), status = 0x3
+Jan  1 16:17:56 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:17:57 indigo-tracker local2.info chat[18822]: abort on (BUSY)
+Jan  1 16:17:57 indigo-tracker local2.info chat[18822]: abort on (ERROR)
+Jan  1 16:17:57 indigo-tracker local2.info chat[18822]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:17:57 indigo-tracker local2.info chat[18822]: send (ATZ^M)
+Jan  1 16:17:57 indigo-tracker local2.info chat[18822]: timeout set to 12 seconds
+Jan  1 16:17:57 indigo-tracker local2.info chat[18822]: expect (OK)
+Jan  1 16:18:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18823 cmd /etc/cron/check_updates.sh
+Jan  1 16:18:09 indigo-tracker local2.info chat[18822]: alarm
+Jan  1 16:18:09 indigo-tracker local2.info chat[18822]: Failed
+Jan  1 16:18:09 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18821), status = 0x3
+Jan  1 16:18:09 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:18:10 indigo-tracker local2.info chat[18828]: abort on (BUSY)
+Jan  1 16:18:10 indigo-tracker local2.info chat[18828]: abort on (ERROR)
+Jan  1 16:18:10 indigo-tracker local2.info chat[18828]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:18:10 indigo-tracker local2.info chat[18828]: send (ATZ^M)
+Jan  1 16:18:10 indigo-tracker local2.info chat[18828]: timeout set to 12 seconds
+Jan  1 16:18:10 indigo-tracker local2.info chat[18828]: expect (OK)
+Jan  1 16:18:22 indigo-tracker local2.info chat[18828]: alarm
+Jan  1 16:18:22 indigo-tracker local2.info chat[18828]: Failed
+Jan  1 16:18:22 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18827), status = 0x3
+Jan  1 16:18:22 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:18:23 indigo-tracker local2.info chat[18832]: abort on (BUSY)
+Jan  1 16:18:23 indigo-tracker local2.info chat[18832]: abort on (ERROR)
+Jan  1 16:18:23 indigo-tracker local2.info chat[18832]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:18:23 indigo-tracker local2.info chat[18832]: send (ATZ^M)
+Jan  1 16:18:23 indigo-tracker local2.info chat[18832]: timeout set to 12 seconds
+Jan  1 16:18:23 indigo-tracker local2.info chat[18832]: expect (OK)
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:35 indigo-tracker local2.info chat[18832]: alarm
+Jan  1 16:18:35 indigo-tracker local2.info chat[18832]: Failed
+Jan  1 16:18:35 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18831), status = 0x3
+Jan  1 16:18:35 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:35 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:36 indigo-tracker local2.info chat[18838]: abort on (BUSY)
+Jan  1 16:18:36 indigo-tracker local2.info chat[18838]: abort on (ERROR)
+Jan  1 16:18:36 indigo-tracker local2.info chat[18838]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:18:36 indigo-tracker local2.info chat[18838]: send (ATZ^M)
+Jan  1 16:18:36 indigo-tracker local2.info chat[18838]: timeout set to 12 seconds
+Jan  1 16:18:36 indigo-tracker local2.info chat[18838]: expect (OK)
+Jan  1 16:18:36 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:36 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:37 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:37 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:38 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:38 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:39 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:39 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:39 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:39 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:40 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:18:40 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:18:48 indigo-tracker local2.info chat[18838]: alarm
+Jan  1 16:18:48 indigo-tracker local2.info chat[18838]: Failed
+Jan  1 16:18:48 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18837), status = 0x3
+Jan  1 16:18:48 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:18:49 indigo-tracker local2.info chat[18842]: abort on (BUSY)
+Jan  1 16:18:49 indigo-tracker local2.info chat[18842]: abort on (ERROR)
+Jan  1 16:18:49 indigo-tracker local2.info chat[18842]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:18:50 indigo-tracker local2.info chat[18842]: send (ATZ^M)
+Jan  1 16:18:50 indigo-tracker local2.info chat[18842]: timeout set to 12 seconds
+Jan  1 16:18:50 indigo-tracker local2.info chat[18842]: expect (OK)
+Jan  1 16:19:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18845 cmd /etc/cron/check_updates.sh
+Jan  1 16:19:02 indigo-tracker local2.info chat[18842]: alarm
+Jan  1 16:19:02 indigo-tracker local2.info chat[18842]: Failed
+Jan  1 16:19:02 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18841), status = 0x3
+Jan  1 16:19:02 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:19:03 indigo-tracker local2.info chat[18848]: abort on (BUSY)
+Jan  1 16:19:03 indigo-tracker local2.info chat[18848]: abort on (ERROR)
+Jan  1 16:19:03 indigo-tracker local2.info chat[18848]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:19:03 indigo-tracker local2.info chat[18848]: send (ATZ^M)
+Jan  1 16:19:03 indigo-tracker local2.info chat[18848]: timeout set to 12 seconds
+Jan  1 16:19:03 indigo-tracker local2.info chat[18848]: expect (OK)
+Jan  1 16:19:15 indigo-tracker local2.info chat[18848]: alarm
+Jan  1 16:19:15 indigo-tracker local2.info chat[18848]: Failed
+Jan  1 16:19:15 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18847), status = 0x3
+Jan  1 16:19:15 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:19:16 indigo-tracker local2.info chat[18852]: abort on (BUSY)
+Jan  1 16:19:16 indigo-tracker local2.info chat[18852]: abort on (ERROR)
+Jan  1 16:19:16 indigo-tracker local2.info chat[18852]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:19:16 indigo-tracker local2.info chat[18852]: send (ATZ^M)
+Jan  1 16:19:16 indigo-tracker local2.info chat[18852]: timeout set to 12 seconds
+Jan  1 16:19:16 indigo-tracker local2.info chat[18852]: expect (OK)
+Jan  1 16:19:28 indigo-tracker local2.info chat[18852]: alarm
+Jan  1 16:19:28 indigo-tracker local2.info chat[18852]: Failed
+Jan  1 16:19:28 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18851), status = 0x3
+Jan  1 16:19:28 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:19:29 indigo-tracker local2.info chat[18858]: abort on (BUSY)
+Jan  1 16:19:29 indigo-tracker local2.info chat[18858]: abort on (ERROR)
+Jan  1 16:19:29 indigo-tracker local2.info chat[18858]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:19:29 indigo-tracker local2.info chat[18858]: send (ATZ^M)
+Jan  1 16:19:29 indigo-tracker local2.info chat[18858]: timeout set to 12 seconds
+Jan  1 16:19:29 indigo-tracker local2.info chat[18858]: expect (OK)
+Jan  1 16:19:39 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:19:39 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:19:39 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:19:39 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:19:40 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:19:40 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:19:41 indigo-tracker local2.info chat[18858]: alarm
+Jan  1 16:19:41 indigo-tracker local2.info chat[18858]: Failed
+Jan  1 16:19:41 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18857), status = 0x3
+Jan  1 16:19:41 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:19:41 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:19:41 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:19:42 indigo-tracker local2.info chat[18862]: abort on (BUSY)
+Jan  1 16:19:42 indigo-tracker local2.info chat[18862]: abort on (ERROR)
+Jan  1 16:19:42 indigo-tracker local2.info chat[18862]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:19:42 indigo-tracker local2.info chat[18862]: send (ATZ^M)
+Jan  1 16:19:42 indigo-tracker local2.info chat[18862]: timeout set to 12 seconds
+Jan  1 16:19:42 indigo-tracker local2.info chat[18862]: expect (OK)
+Jan  1 16:19:54 indigo-tracker local2.info chat[18862]: alarm
+Jan  1 16:19:54 indigo-tracker local2.info chat[18862]: Failed
+Jan  1 16:19:54 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18861), status = 0x3
+Jan  1 16:19:54 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:19:55 indigo-tracker local2.info chat[18866]: abort on (BUSY)
+Jan  1 16:19:55 indigo-tracker local2.info chat[18866]: abort on (ERROR)
+Jan  1 16:19:55 indigo-tracker local2.info chat[18866]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:19:55 indigo-tracker local2.info chat[18866]: send (ATZ^M)
+Jan  1 16:19:55 indigo-tracker local2.info chat[18866]: timeout set to 12 seconds
+Jan  1 16:19:55 indigo-tracker local2.info chat[18866]: expect (OK)
+Jan  1 16:20:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18869 cmd /etc/cron/check_updates.sh
+Jan  1 16:20:07 indigo-tracker local2.info chat[18866]: alarm
+Jan  1 16:20:07 indigo-tracker local2.info chat[18866]: Failed
+Jan  1 16:20:07 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18865), status = 0x3
+Jan  1 16:20:07 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:20:08 indigo-tracker local2.info chat[18874]: abort on (BUSY)
+Jan  1 16:20:08 indigo-tracker local2.info chat[18874]: abort on (ERROR)
+Jan  1 16:20:08 indigo-tracker local2.info chat[18874]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:20:08 indigo-tracker local2.info chat[18874]: send (ATZ^M)
+Jan  1 16:20:09 indigo-tracker local2.info chat[18874]: timeout set to 12 seconds
+Jan  1 16:20:09 indigo-tracker local2.info chat[18874]: expect (OK)
+Jan  1 16:20:21 indigo-tracker local2.info chat[18874]: alarm
+Jan  1 16:20:21 indigo-tracker local2.info chat[18874]: Failed
+Jan  1 16:20:21 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18873), status = 0x3
+Jan  1 16:20:21 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:20:22 indigo-tracker local2.info chat[18878]: abort on (BUSY)
+Jan  1 16:20:22 indigo-tracker local2.info chat[18878]: abort on (ERROR)
+Jan  1 16:20:22 indigo-tracker local2.info chat[18878]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:20:22 indigo-tracker local2.info chat[18878]: send (ATZ^M)
+Jan  1 16:20:22 indigo-tracker local2.info chat[18878]: timeout set to 12 seconds
+Jan  1 16:20:22 indigo-tracker local2.info chat[18878]: expect (OK)
+Jan  1 16:20:34 indigo-tracker local2.info chat[18878]: alarm
+Jan  1 16:20:34 indigo-tracker local2.info chat[18878]: Failed
+Jan  1 16:20:34 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18877), status = 0x3
+Jan  1 16:20:34 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:20:35 indigo-tracker local2.info chat[18882]: abort on (BUSY)
+Jan  1 16:20:35 indigo-tracker local2.info chat[18882]: abort on (ERROR)
+Jan  1 16:20:35 indigo-tracker local2.info chat[18882]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:20:35 indigo-tracker local2.info chat[18882]: send (ATZ^M)
+Jan  1 16:20:35 indigo-tracker local2.info chat[18882]: timeout set to 12 seconds
+Jan  1 16:20:35 indigo-tracker local2.info chat[18882]: expect (OK)
+Jan  1 16:20:35 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:35 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:37 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:37 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:38 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:38 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:40 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:40 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:41 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:41 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:41 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:41 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:42 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:42 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:42 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:20:42 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:20:47 indigo-tracker local2.info chat[18882]: alarm
+Jan  1 16:20:47 indigo-tracker local2.info chat[18882]: Failed
+Jan  1 16:20:47 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18881), status = 0x3
+Jan  1 16:20:47 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:20:48 indigo-tracker local2.info chat[18888]: abort on (BUSY)
+Jan  1 16:20:48 indigo-tracker local2.info chat[18888]: abort on (ERROR)
+Jan  1 16:20:48 indigo-tracker local2.info chat[18888]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:20:48 indigo-tracker local2.info chat[18888]: send (ATZ^M)
+Jan  1 16:20:48 indigo-tracker local2.info chat[18888]: timeout set to 12 seconds
+Jan  1 16:20:48 indigo-tracker local2.info chat[18888]: expect (OK)
+Jan  1 16:21:00 indigo-tracker local2.info chat[18888]: alarm
+Jan  1 16:21:00 indigo-tracker local2.info chat[18888]: Failed
+Jan  1 16:21:00 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18887), status = 0x3
+Jan  1 16:21:00 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:21:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18891 cmd /etc/cron/check_updates.sh
+Jan  1 16:21:01 indigo-tracker local2.info chat[18894]: abort on (BUSY)
+Jan  1 16:21:01 indigo-tracker local2.info chat[18894]: abort on (ERROR)
+Jan  1 16:21:01 indigo-tracker local2.info chat[18894]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:21:01 indigo-tracker local2.info chat[18894]: send (ATZ^M)
+Jan  1 16:21:01 indigo-tracker local2.info chat[18894]: timeout set to 12 seconds
+Jan  1 16:21:01 indigo-tracker local2.info chat[18894]: expect (OK)
+Jan  1 16:21:08 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:08 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:09 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:09 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:12 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:12 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:12 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:12 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:12 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:12 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:13 indigo-tracker local2.info chat[18894]: alarm
+Jan  1 16:21:13 indigo-tracker local2.info chat[18894]: Failed
+Jan  1 16:21:13 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18893), status = 0x3
+Jan  1 16:21:13 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:21:13 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:13 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:14 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:14 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:14 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:14 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:14 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:14 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:14 indigo-tracker local2.info chat[18898]: abort on (BUSY)
+Jan  1 16:21:14 indigo-tracker local2.info chat[18898]: abort on (ERROR)
+Jan  1 16:21:14 indigo-tracker local2.info chat[18898]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:21:14 indigo-tracker local2.info chat[18898]: send (ATZ^M)
+Jan  1 16:21:14 indigo-tracker local2.info chat[18898]: timeout set to 12 seconds
+Jan  1 16:21:14 indigo-tracker local2.info chat[18898]: expect (OK)
+Jan  1 16:21:15 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:15 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:26 indigo-tracker local2.info chat[18898]: alarm
+Jan  1 16:21:26 indigo-tracker local2.info chat[18898]: Failed
+Jan  1 16:21:26 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18897), status = 0x3
+Jan  1 16:21:26 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:21:27 indigo-tracker local2.info chat[18902]: abort on (BUSY)
+Jan  1 16:21:27 indigo-tracker local2.info chat[18902]: abort on (ERROR)
+Jan  1 16:21:27 indigo-tracker local2.info chat[18902]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:21:27 indigo-tracker local2.info chat[18902]: send (ATZ^M)
+Jan  1 16:21:27 indigo-tracker local2.info chat[18902]: timeout set to 12 seconds
+Jan  1 16:21:27 indigo-tracker local2.info chat[18902]: expect (OK)
+Jan  1 16:21:40 indigo-tracker local2.info chat[18902]: alarm
+Jan  1 16:21:40 indigo-tracker local2.info chat[18902]: Failed
+Jan  1 16:21:40 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18901), status = 0x3
+Jan  1 16:21:40 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:21:41 indigo-tracker local2.info chat[18908]: abort on (BUSY)
+Jan  1 16:21:41 indigo-tracker local2.info chat[18908]: abort on (ERROR)
+Jan  1 16:21:41 indigo-tracker local2.info chat[18908]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:21:41 indigo-tracker local2.info chat[18908]: send (ATZ^M)
+Jan  1 16:21:41 indigo-tracker local2.info chat[18908]: timeout set to 12 seconds
+Jan  1 16:21:41 indigo-tracker local2.info chat[18908]: expect (OK)
+Jan  1 16:21:48 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:48 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:49 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:49 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:50 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:50 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:52 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:21:53 indigo-tracker local2.info chat[18908]: alarm
+Jan  1 16:21:53 indigo-tracker local2.info chat[18908]: Failed
+Jan  1 16:21:53 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18907), status = 0x3
+Jan  1 16:21:53 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:21:54 indigo-tracker local2.info chat[18912]: abort on (BUSY)
+Jan  1 16:21:54 indigo-tracker local2.info chat[18912]: abort on (ERROR)
+Jan  1 16:21:54 indigo-tracker local2.info chat[18912]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:21:54 indigo-tracker local2.info chat[18912]: send (ATZ^M)
+Jan  1 16:21:54 indigo-tracker local2.info chat[18912]: timeout set to 12 seconds
+Jan  1 16:21:54 indigo-tracker local2.info chat[18912]: expect (OK)
+Jan  1 16:21:54 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:21:54 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:22:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18915 cmd /etc/cron/check_updates.sh
+Jan  1 16:22:06 indigo-tracker local2.info chat[18912]: alarm
+Jan  1 16:22:06 indigo-tracker local2.info chat[18912]: Failed
+Jan  1 16:22:06 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18911), status = 0x3
+Jan  1 16:22:06 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:22:07 indigo-tracker local2.info chat[18918]: abort on (BUSY)
+Jan  1 16:22:07 indigo-tracker local2.info chat[18918]: abort on (ERROR)
+Jan  1 16:22:07 indigo-tracker local2.info chat[18918]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:22:07 indigo-tracker local2.info chat[18918]: send (ATZ^M)
+Jan  1 16:22:07 indigo-tracker local2.info chat[18918]: timeout set to 12 seconds
+Jan  1 16:22:07 indigo-tracker local2.info chat[18918]: expect (OK)
+Jan  1 16:22:19 indigo-tracker local2.info chat[18918]: alarm
+Jan  1 16:22:19 indigo-tracker local2.info chat[18918]: Failed
+Jan  1 16:22:19 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18917), status = 0x3
+Jan  1 16:22:19 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:22:20 indigo-tracker local2.info chat[18924]: abort on (BUSY)
+Jan  1 16:22:20 indigo-tracker local2.info chat[18924]: abort on (ERROR)
+Jan  1 16:22:20 indigo-tracker local2.info chat[18924]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:22:20 indigo-tracker local2.info chat[18924]: send (ATZ^M)
+Jan  1 16:22:20 indigo-tracker local2.info chat[18924]: timeout set to 12 seconds
+Jan  1 16:22:20 indigo-tracker local2.info chat[18924]: expect (OK)
+Jan  1 16:22:32 indigo-tracker local2.info chat[18924]: alarm
+Jan  1 16:22:32 indigo-tracker local2.info chat[18924]: Failed
+Jan  1 16:22:32 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18923), status = 0x3
+Jan  1 16:22:32 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:22:33 indigo-tracker local2.info chat[18928]: abort on (BUSY)
+Jan  1 16:22:33 indigo-tracker local2.info chat[18928]: abort on (ERROR)
+Jan  1 16:22:33 indigo-tracker local2.info chat[18928]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:22:33 indigo-tracker local2.info chat[18928]: send (ATZ^M)
+Jan  1 16:22:33 indigo-tracker local2.info chat[18928]: timeout set to 12 seconds
+Jan  1 16:22:33 indigo-tracker local2.info chat[18928]: expect (OK)
+Jan  1 16:22:35 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:22:35 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:22:37 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:22:37 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:22:45 indigo-tracker local2.info chat[18928]: alarm
+Jan  1 16:22:45 indigo-tracker local2.info chat[18928]: Failed
+Jan  1 16:22:45 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18927), status = 0x3
+Jan  1 16:22:45 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:22:46 indigo-tracker local2.info chat[18932]: abort on (BUSY)
+Jan  1 16:22:46 indigo-tracker local2.info chat[18932]: abort on (ERROR)
+Jan  1 16:22:46 indigo-tracker local2.info chat[18932]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:22:46 indigo-tracker local2.info chat[18932]: send (ATZ^M)
+Jan  1 16:22:46 indigo-tracker local2.info chat[18932]: timeout set to 12 seconds
+Jan  1 16:22:46 indigo-tracker local2.info chat[18932]: expect (OK)
+Jan  1 16:22:58 indigo-tracker local2.info chat[18932]: alarm
+Jan  1 16:22:58 indigo-tracker local2.info chat[18932]: Failed
+Jan  1 16:22:58 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18931), status = 0x3
+Jan  1 16:22:58 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:23:00 indigo-tracker local2.info chat[18938]: abort on (BUSY)
+Jan  1 16:23:00 indigo-tracker local2.info chat[18938]: abort on (ERROR)
+Jan  1 16:23:00 indigo-tracker local2.info chat[18938]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:23:00 indigo-tracker local2.info chat[18938]: send (ATZ^M)
+Jan  1 16:23:00 indigo-tracker local2.info chat[18938]: timeout set to 12 seconds
+Jan  1 16:23:00 indigo-tracker local2.info chat[18938]: expect (OK)
+Jan  1 16:23:01 indigo-tracker cron.info crond[450]: crond: USER root pid 18939 cmd /etc/cron/check_updates.sh
+Jan  1 16:23:12 indigo-tracker local2.info chat[18938]: alarm
+Jan  1 16:23:12 indigo-tracker local2.info chat[18938]: Failed
+Jan  1 16:23:12 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18937), status = 0x3
+Jan  1 16:23:12 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:23:13 indigo-tracker local2.info chat[18944]: abort on (BUSY)
+Jan  1 16:23:13 indigo-tracker local2.info chat[18944]: abort on (ERROR)
+Jan  1 16:23:13 indigo-tracker local2.info chat[18944]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:23:13 indigo-tracker local2.info chat[18944]: send (ATZ^M)
+Jan  1 16:23:13 indigo-tracker local2.info chat[18944]: timeout set to 12 seconds
+Jan  1 16:23:13 indigo-tracker local2.info chat[18944]: expect (OK)
+Jan  1 16:23:21 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:21 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:22 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:22 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:24 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:24 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:25 indigo-tracker local2.info chat[18944]: alarm
+Jan  1 16:23:25 indigo-tracker local2.info chat[18944]: Failed
+Jan  1 16:23:25 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18943), status = 0x3
+Jan  1 16:23:25 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:23:25 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:25 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:26 indigo-tracker local2.info chat[18948]: abort on (BUSY)
+Jan  1 16:23:26 indigo-tracker local2.info chat[18948]: abort on (ERROR)
+Jan  1 16:23:26 indigo-tracker local2.info chat[18948]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:23:26 indigo-tracker local2.info chat[18948]: send (ATZ^M)
+Jan  1 16:23:26 indigo-tracker local2.info chat[18948]: timeout set to 12 seconds
+Jan  1 16:23:26 indigo-tracker local2.info chat[18948]: expect (OK)
+Jan  1 16:23:28 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:28 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:28 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:28 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:28 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:28 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:29 indigo-tracker user.err kernel: piopins: did not found free event in the pool
+Jan  1 16:23:29 indigo-tracker user.err kernel: piopins: can't add an event because the pool is full
+Jan  1 16:23:38 indigo-tracker local2.info chat[18948]: alarm
+Jan  1 16:23:38 indigo-tracker local2.info chat[18948]: Failed
+Jan  1 16:23:38 indigo-tracker daemon.debug pppd[18414]: Script chat -v -f /etc/ppp/chatscripts/megafon-connect finished (pid 18947), status = 0x3
+Jan  1 16:23:38 indigo-tracker daemon.err pppd[18414]: Connect script failed
+Jan  1 16:23:39 indigo-tracker local2.info chat[18952]: abort on (BUSY)
+Jan  1 16:23:39 indigo-tracker local2.info chat[18952]: abort on (ERROR)
+Jan  1 16:23:39 indigo-tracker local2.info chat[18952]: abort on (UNDER-VOLTAGE WARNNING)
+Jan  1 16:23:39 indigo-tracker local2.info chat[18952]: send (ATZ^M)
+Jan  1 16:23:39 indigo-tracker local2.info chat[18952]: timeout set to 12 seconds
+Jan  1 16:23:39 indigo-tracker local2.info chat[18952]: expect (OK)
+Jan  1 03:00:09 indigo-tracker syslog.info syslogd started: BusyBox v1.18.3
+Jan  1 03:00:09 indigo-tracker user.notice kernel: klogd started: BusyBox v1.18.3 (2011-03-29 18:29:13 MSD)
+Jan  1 03:00:10 indigo-tracker user.notice kernel: Linux version 3.2.0+ (yury@debian-dev-vm) (gcc version 4.4.5 (indigo-ct-ng) ) #175 Fri Jan 27 21:55:22 MSK 2012
+Jan  1 03:00:10 indigo-tracker user.warn kernel: CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+Jan  1 03:00:10 indigo-tracker user.warn kernel: CPU: VIVT data cache, VIVT instruction cache
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Machine: Indigo Tracker
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Memory policy: ECC disabled, Data cache writeback
+Jan  1 03:00:10 indigo-tracker user.info kernel: AT91: Detected soc type: at91sam9260
+Jan  1 03:00:10 indigo-tracker user.info kernel: AT91: Detected soc subtype: Unknown
+Jan  1 03:00:10 indigo-tracker user.info kernel: AT91: sram at 0x200000 of 0x1000 mapped at 0xfef77000
+Jan  1 03:00:10 indigo-tracker user.info kernel: AT91: sram at 0x300000 of 0x1000 mapped at 0xfef76000
+Jan  1 03:00:10 indigo-tracker user.debug kernel: On node 0 totalpages: 16384
+Jan  1 03:00:10 indigo-tracker user.debug kernel: free_area_init_node: node 0, pgdat c036d7d0, node_mem_map c037e000
+Jan  1 03:00:10 indigo-tracker user.debug kernel:   Normal zone: 128 pages used for memmap
+Jan  1 03:00:10 indigo-tracker user.debug kernel:   Normal zone: 0 pages reserved
+Jan  1 03:00:10 indigo-tracker user.debug kernel:   Normal zone: 16256 pages, LIFO batch:3
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Clocks: CPU 196 MHz, master 98 MHz, main 12.000 MHz
+Jan  1 03:00:10 indigo-tracker user.debug kernel: pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan  1 03:00:10 indigo-tracker user.debug kernel: pcpu-alloc: [0] 0 
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 16256
+Jan  1 03:00:10 indigo-tracker user.notice kernel: Kernel command line: console=ttyS0,115200 root=/dev/mtdblock1
+Jan  1 03:00:10 indigo-tracker user.info kernel: PID hash table entries: 256 (order: -2, 1024 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: Memory: 64MB = 64MB total
+Jan  1 03:00:10 indigo-tracker user.notice kernel: Memory: 61356k/61356k available, 4180k reserved, 0K highmem
+Jan  1 03:00:10 indigo-tracker user.notice kernel: Virtual kernel memory layout:
+Jan  1 03:00:10 indigo-tracker user.notice kernel:     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:     vmalloc : 0xc4800000 - 0xfee00000   ( 934 MB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:     lowmem  : 0xc0000000 - 0xc4000000   (  64 MB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:     modules : 0xbf000000 - 0xc0000000   (  16 MB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:       .text : 0xc0008000 - 0xc0324000   (3184 kB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:       .init : 0xc0324000 - 0xc0341000   ( 116 kB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:       .data : 0xc0342000 - 0xc036dfa0   ( 176 kB)
+Jan  1 03:00:10 indigo-tracker user.notice kernel:        .bss : 0xc036dfc4 - 0xc037d1c8   (  61 kB)
+Jan  1 03:00:10 indigo-tracker user.info kernel: NR_IRQS:192
+Jan  1 03:00:10 indigo-tracker user.info kernel: AT91: 96 gpio irqs in 3 banks
+Jan  1 03:00:10 indigo-tracker user.info kernel: Console: colour dummy device 80x30
+Jan  1 03:00:10 indigo-tracker user.info kernel: Calibrating delay loop... 97.68 BogoMIPS (lpj=488448)
+Jan  1 03:00:10 indigo-tracker user.info kernel: pid_max: default: 32768 minimum: 301
+Jan  1 03:00:10 indigo-tracker user.info kernel: Mount-cache hash table entries: 512
+Jan  1 03:00:10 indigo-tracker user.info kernel: CPU: Testing write buffer coherency: ok
+Jan  1 03:00:10 indigo-tracker user.info kernel: NET: Registered protocol family 16
+Jan  1 03:00:10 indigo-tracker user.err kernel: adding device Sim508 GSM
+Jan  1 03:00:10 indigo-tracker user.err kernel: creating command 4
+Jan  1 03:00:10 indigo-tracker user.err kernel: indigo gpioperiph: gsm peripheral Sim508 GSM added
+Jan  1 03:00:10 indigo-tracker user.err kernel: adding device sim508 GPS
+Jan  1 03:00:10 indigo-tracker user.err kernel: indigo gpioperiph: gps peripheral sim508 GPS added
+Jan  1 03:00:10 indigo-tracker daemon.debug pppd[470]: rcvd [LCP ConfReq id=0x2 <mru 1600> <auth pap> <magic 0xc3c65c9> <asyncmap 0x0> <pcomp> <accomp>]
+Jan  1 03:00:10 indigo-tracker daemon.debug pppd[470]: No auth is possible
+Jan  1 03:00:10 indigo-tracker daemon.debug pppd[470]: sent [LCP ConfRej id=0x2 <auth pap> <pcomp> <accomp>]
+Jan  1 03:00:10 indigo-tracker user.err kernel: adding device (null)
+Jan  1 03:00:10 indigo-tracker user.err kernel: fatal error during object creation
+Jan  1 03:00:10 indigo-tracker user.info kernel: bio: create slab <bio-0> at 0
+Jan  1 03:00:10 indigo-tracker user.notice kernel: SCSI subsystem initialized
+Jan  1 03:00:10 indigo-tracker user.info kernel: usbcore: registered new interface driver usbfs
+Jan  1 03:00:10 indigo-tracker user.info kernel: usbcore: registered new interface driver hub
+Jan  1 03:00:10 indigo-tracker user.info kernel: usbcore: registered new device driver usb
+Jan  1 03:00:10 indigo-tracker user.info kernel: Advanced Linux Sound Architecture Driver Version 1.0.24.
+Jan  1 03:00:10 indigo-tracker user.info kernel: Switching to clocksource pit
+Jan  1 03:00:10 indigo-tracker user.info kernel: NET: Registered protocol family 2
+Jan  1 03:00:10 indigo-tracker user.info kernel: IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: TCP established hash table entries: 2048 (order: 2, 16384 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: TCP bind hash table entries: 2048 (order: 1, 8192 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: TCP: Hash tables configured (established 2048 bind 2048)
+Jan  1 03:00:10 indigo-tracker user.info kernel: TCP reno registered
+Jan  1 03:00:10 indigo-tracker user.info kernel: UDP hash table entries: 256 (order: 0, 4096 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+Jan  1 03:00:10 indigo-tracker user.info kernel: NET: Registered protocol family 1
+Jan  1 03:00:10 indigo-tracker daemon.debug pppd[470]: rcvd [LCP ConfReq id=0x3 <mru 1600> <magic 0xc3c65c9> <asyncmap 0x0>]
+Jan  1 03:00:10 indigo-tracker user.debug kernel: yaffs: yaffs built Jan 23 2012 18:16:47 Installing.
+Jan  1 03:00:10 indigo-tracker daemon.debug pppd[470]: sent [LCP ConfAck id=0x3 <mru 1600> <magic 0xc3c65c9> <asyncmap 0x0>]
+Jan  1 03:00:10 indigo-tracker user.info kernel: msgmni has been set to 119
+Jan  1 03:00:10 indigo-tracker daemon.debug pppd[470]: sent [IPCP ConfReq id=0x1 <addr 0.0.0.0>]
+Jan  1 03:00:10 indigo-tracker user.info kernel: io scheduler noop registered (default)
+Jan  1 03:00:10 indigo-tracker user.info kernel: io scheduler deadline registered
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_usart.0: ttyS0 at MMIO 0xfffff200 (irq = 1) is a ATMEL_SERIAL
+Jan  1 03:00:10 indigo-tracker user.info kernel: console [ttyS0] enabled
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_usart.1: ttyS1 at MMIO 0xfffb0000 (irq = 6) is a ATMEL_SERIAL
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_usart.3: ttyS2 at MMIO 0xfffb8000 (irq = 8) is a ATMEL_SERIAL
+Jan  1 03:00:10 indigo-tracker user.info kernel: brd: module loaded
+Jan  1 03:00:10 indigo-tracker user.info kernel: loop: module loaded
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_nand atmel_nand: No DMA support for NAND access.
+Jan  1 03:00:10 indigo-tracker user.info kernel: NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit)
+Jan  1 03:00:10 indigo-tracker user.info kernel: Scanning device for bad blocks
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Bad eraseblock 131 at 0x000001060000
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Bad eraseblock 918 at 0x0000072c0000
+Jan  1 03:00:10 indigo-tracker user.notice kernel: Creating 2 MTD partitions on "atmel_nand":
+Jan  1 03:00:10 indigo-tracker user.notice kernel: 0x000000000000-0x000000800000 : "Images"
+Jan  1 03:00:10 indigo-tracker user.notice kernel: 0x000000800000-0x000010000000 : "Storage Partition"
+Jan  1 03:00:10 indigo-tracker user.info kernel: tun: Universal TUN/TAP device driver, 1.6
+Jan  1 03:00:10 indigo-tracker user.info kernel: tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Jan  1 03:00:10 indigo-tracker user.info kernel: macb macb: invalid hw address, using random
+Jan  1 03:00:10 indigo-tracker user.info kernel: MACB_mii_bus: probed
+Jan  1 03:00:10 indigo-tracker user.info kernel: eth0: Atmel MACB at 0xfffc4000 irq 21 (32:fb:2d:e8:10:a5)
+Jan  1 03:00:10 indigo-tracker user.info kernel: eth0: attached PHY driver [Micrel KS8001 or KS8721] (mii_bus:phy_addr=ffffffff:01, irq=-1)
+Jan  1 03:00:10 indigo-tracker user.info kernel: PPP generic driver version 2.4.2
+Jan  1 03:00:10 indigo-tracker user.info kernel: PPP BSD Compression module registered
+Jan  1 03:00:10 indigo-tracker user.info kernel: PPP Deflate Compression module registered
+Jan  1 03:00:10 indigo-tracker user.info kernel: PPP MPPE Compression module registered
+Jan  1 03:00:10 indigo-tracker user.info kernel: NET: Registered protocol family 24
+Jan  1 03:00:10 indigo-tracker user.info kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Jan  1 03:00:10 indigo-tracker user.info kernel: at91_ohci at91_ohci: AT91 OHCI
+Jan  1 03:00:10 indigo-tracker user.info kernel: at91_ohci at91_ohci: new USB bus registered, assigned bus number 1
+Jan  1 03:00:10 indigo-tracker user.info kernel: at91_ohci at91_ohci: irq 20, io mem 0x00500000
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb usb1: New USB device found, idVendor=1d6b, idProduct=0001
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb usb1: Product: AT91 OHCI
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb usb1: Manufacturer: Linux 3.2.0+ ohci_hcd
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb usb1: SerialNumber: at91
+Jan  1 03:00:10 indigo-tracker user.info kernel: hub 1-0:1.0: USB hub found
+Jan  1 03:00:10 indigo-tracker user.info kernel: hub 1-0:1.0: 2 ports detected
+Jan  1 03:00:10 indigo-tracker user.info kernel: Initializing USB Mass Storage driver...
+Jan  1 03:00:10 indigo-tracker user.info kernel: usbcore: registered new interface driver usb-storage
+Jan  1 03:00:10 indigo-tracker user.info kernel: USB Mass Storage support registered.
+Jan  1 03:00:10 indigo-tracker user.info kernel: rtc-at91sam9 at91_rtt.0: rtc core: registered at91_rtt as rtc0
+Jan  1 03:00:10 indigo-tracker user.warn kernel: rtc-at91sam9 at91_rtt.0: rtc0: SET TIME!
+Jan  1 03:00:10 indigo-tracker user.info kernel: Linux video capture interface: v2.00
+Jan  1 03:00:10 indigo-tracker user.info kernel: usbcore: registered new interface driver uvcvideo
+Jan  1 03:00:10 indigo-tracker user.info kernel: USB Video Class driver (1.1.1)
+Jan  1 03:00:10 indigo-tracker user.info kernel: AT91SAM9 Watchdog enabled (heartbeat=15 sec, nowayout=0)
+Jan  1 03:00:10 indigo-tracker user.info kernel: usbcore: registered new interface driver snd-usb-audio
+Jan  1 03:00:10 indigo-tracker cron.notice atd[615]: Removing stale lockfile for pid 615
+Jan  1 03:00:10 indigo-tracker user.info kernel: ALSA device list:
+Jan  1 03:00:10 indigo-tracker user.info kernel:   No soundcards found.
+Jan  1 03:00:10 indigo-tracker user.info kernel: TCP cubic registered
+Jan  1 03:00:10 indigo-tracker user.info kernel: NET: Registered protocol family 17
+Jan  1 03:00:10 indigo-tracker user.err kernel: rtc-at91sam9 at91_rtt.0: hctosys: unable to read the hardware clock
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_mci atmel_mci: version: 0x210
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_mci atmel_mci: using PDC
+Jan  1 03:00:10 indigo-tracker user.info kernel: atmel_mci atmel_mci: Atmel MCI controller at 0xfffa8000 irq 9, 1 slots
+Jan  1 03:00:10 indigo-tracker user.info kernel: yaffs: dev is 32505857 name is "mtdblock1" rw
+Jan  1 03:00:10 indigo-tracker user.info kernel: yaffs: passed flags ""
+Jan  1 03:00:10 indigo-tracker user.debug kernel: yaffs: yaffs: Attempting MTD mount of 31.1,"mtdblock1"
+Jan  1 03:00:10 indigo-tracker user.debug kernel: yaffs: auto selecting yaffs2
+Jan  1 03:00:10 indigo-tracker user.debug kernel: yaffs: yaffs_read_super: is_checkpointed 1
+Jan  1 03:00:10 indigo-tracker user.info kernel: VFS: Mounted root (yaffs filesystem) on device 31:1.
+Jan  1 03:00:10 indigo-tracker user.info kernel: Freeing init memory: 116K
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb 1-1: new full-speed USB device number 2 using at91_ohci
+Jan  1 03:00:10 indigo-tracker user.err kernel: mmc0: unrecognised SCR structure version 7
+Jan  1 03:00:10 indigo-tracker user.err kernel: mmc0: error -22 whilst initialising SD card
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb 1-1: New USB device found, idVendor=046d, idProduct=0819
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=2
+Jan  1 03:00:10 indigo-tracker user.info kernel: usb 1-1: SerialNumber: 3104DFC0
+Jan  1 03:00:10 indigo-tracker user.warn kernel: mmc0: host does not support reading read-only switch. assuming write-enable.
+Jan  1 03:00:10 indigo-tracker user.info kernel: uvcvideo: Found UVC 1.00 device <unnamed> (046d:0819)
+Jan  1 03:00:10 indigo-tracker user.info kernel: mmc0: new SDHC card at address b368
+Jan  1 03:00:10 indigo-tracker user.info kernel: mmcblk0: mmc0:b368 SDC   14.9 GiB 
+Jan  1 03:00:10 indigo-tracker user.info kernel:  mmcblk0: p1
+Jan  1 03:00:10 indigo-tracker user.info kernel: input: UVC Camera (046d:0819) as /devices/platform/at91_ohci/usb1/1-1/1-1:1.0/input/input0
+Jan  1 03:00:10 indigo-tracker user.warn kernel: usb_audio: Warning! Unlikely big volume range (=6144), cval->res is probably wrong.
+Jan  1 03:00:10 indigo-tracker user.warn kernel: usb_audio: [5] FU [Mic Capture Volume] ch = 1, val = 768/6912/1
+Jan  1 03:00:10 indigo-tracker user.warn kernel: Disabling lock debugging due to kernel taint
+Jan  1 03:00:10 indigo-tracker user.alert kernel: system revision is 1
+Jan  1 03:00:10 indigo-tracker user.alert kernel: piopins: with filter
+Jan  1 03:00:10 indigo-tracker user.warn kernel: piopins: system time doesn't seem to be true, will not flush anything
+Jan  1 03:00:10 indigo-tracker user.err kernel: creating command 4
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: sent [IPCP ConfReq id=0x1 <addr 0.0.0.0>]
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: rcvd [IPCP ConfNak id=0x1 <addr 10.193.47.250>]
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: sent [IPCP ConfReq id=0x2 <addr 10.193.47.250>]
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: rcvd [IPCP ConfReq id=0x1 <addr 10.0.0.1>]
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: sent [IPCP ConfAck id=0x1 <addr 10.0.0.1>]
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: rcvd [IPCP ConfAck id=0x2 <addr 10.193.47.250>]
+Jan  1 03:00:13 indigo-tracker daemon.notice pppd[470]: replacing old default route to eth0 [192.168.17.254]
+Jan  1 03:00:13 indigo-tracker daemon.notice pppd[470]: local  IP address 10.193.47.250
+Jan  1 03:00:13 indigo-tracker daemon.notice pppd[470]: remote IP address 10.0.0.1
+Jan  1 03:00:13 indigo-tracker daemon.debug pppd[470]: Script /etc/ppp/ip-up started (pid 617)
+Jan  1 03:00:13 indigo-tracker user.notice root: Trying to get system time over ntp
+Jan  1 03:00:13 indigo-tracker daemon.notice ntpdate[621]: ntpdate 4.2.6p3@1.2290 Sun Feb 20 22:12:26 UTC 2011 (1)
+Apr  9 16:38:25 indigo-tracker daemon.notice ntpdate[621]: step time server 85.21.78.91 offset 1333975074.830878 sec
+Apr  9 16:38:25 indigo-tracker user.notice root: Playing ntp started
+Apr  9 16:38:25 indigo-tracker user.notice root: sender started
+Apr  9 16:38:25 indigo-tracker user.notice root: gpsreader started
+Apr  9 16:38:26 indigo-tracker user.notice root: people started
+Apr  9 16:38:26 indigo-tracker user.debug sqlite: gps connected ok
+Apr  9 16:38:26 indigo-tracker user.debug sender: using uuid dfc4b619-a454-494b-8700-6af1f6a6a404
+Apr  9 16:38:27 indigo-tracker daemon.notice openvpn[648]: OpenVPN 2.1.4 arm-linux [SSL] [LZO2] [EPOLL] built on Feb 21 2011
+Apr  9 16:38:27 indigo-tracker daemon.warn openvpn[648]: NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Apr  9 16:38:27 indigo-tracker user.debug sqlite: gpsdb started ok
+Apr  9 16:38:27 indigo-tracker user.debug sqlite: gps created
+Apr  9 16:38:27 indigo-tracker daemon.notice openvpn[648]: LZO compression initialized
+Apr  9 16:38:27 indigo-tracker daemon.notice openvpn[648]: Control Channel MTU parms [ L:1544 D:140 EF:40 EB:0 ET:0 EL:0 ]
+Apr  9 16:38:27 indigo-tracker daemon.notice openvpn[648]: Socket Buffers: R=[87380->131072] S=[16384->131072]
+Apr  9 16:38:28 indigo-tracker daemon.notice openvpn[648]: Data Channel MTU parms [ L:1544 D:1450 EF:44 EB:135 ET:0 EL:0 AF:3/1 ]
+Apr  9 16:38:28 indigo-tracker daemon.notice openvpn[657]: Attempting to establish TCP connection with 72.249.145.165:1195 [nonblock]
+Apr  9 16:38:28 indigo-tracker user.notice root: recorder started
+Apr  9 16:38:29 indigo-tracker user.debug recorder: recorder started
+Apr  9 16:38:29 indigo-tracker user.debug recorder: ready to record
+Apr  9 16:38:29 indigo-tracker user.debug recorder: scheduling next file at 1333976400 seconds unix time
+Apr  9 16:38:30 indigo-tracker daemon.notice openvpn[657]: TCP connection established with 72.249.145.165:1195
+Apr  9 16:38:30 indigo-tracker daemon.notice openvpn[657]: TCPv4_CLIENT link local: [undef]
+Apr  9 16:38:30 indigo-tracker daemon.notice openvpn[657]: TCPv4_CLIENT link remote: 72.249.145.165:1195
+Apr  9 16:38:31 indigo-tracker daemon.notice openvpn[657]: TLS: Initial packet from 72.249.145.165:1195, sid=fab05fe0 77b87a0a
+Apr  9 16:38:32 indigo-tracker user.notice root: mjpeg-streamer started
+Apr  9 16:38:32 indigo-tracker user.info MJPG-streamer [672]: starting application
+Apr  9 16:38:32 indigo-tracker user.info MJPG-streamer [672]: MJPG Streamer Version: svn rev: exported
+Apr  9 16:38:32 indigo-tracker user.info MJPG-streamer [672]: Using V4L2 device.: /dev/video0
+Apr  9 16:38:32 indigo-tracker user.info MJPG-streamer [672]: Desired Resolution: 640 x 480
+Apr  9 16:38:32 indigo-tracker user.info MJPG-streamer [672]: Frames Per Second.: 10
+Apr  9 16:38:32 indigo-tracker user.info MJPG-streamer [672]: Format............: MJPEG
+Apr  9 16:38:32 indigo-tracker user.notice root: Current time is valid
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: output folder.....: /mnt/mmcblk0p1/video
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: input plugin.....: 0: /opt/input_uvc.so
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: delay after save..: 0
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: ringbuffer size...: no ringbuffer
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: command...........: disabled
+Apr  9 16:38:33 indigo-tracker daemon.debug pppd[470]: Script /etc/ppp/ip-up finished (pid 617), status = 0x0
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: www-folder-path...: /opt/mjpeg/www/
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: HTTP TCP port.....: 8080
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: username:password.: disabled
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: commands..........: enabled
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: starting input plugin /opt/input_uvc.so
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: starting output plugin: /opt/output_file.so (ID: 00)
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: starting output plugin: /opt/output_http.so (ID: 01)
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: turning light off for camera 0
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 1 * 64036 = 64036 bytes
+Apr  9 16:38:33 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 2 * 64036 = 128072 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 3 * 64036 = 192108 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 4 * 64036 = 256144 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 5 * 64036 = 320180 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 6 * 64036 = 384216 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 7 * 64036 = 448252 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 8 * 64036 = 512288 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 9 * 64036 = 576324 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 10 * 64036 = 640360 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 11 * 64036 = 704396 bytes
+Apr  9 16:38:34 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 12 * 64036 = 768432 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 13 * 64036 = 832468 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 14 * 64036 = 896504 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 15 * 64036 = 960540 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 16 * 64036 = 1024576 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 17 * 64036 = 1088612 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 18 * 64036 = 1152648 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 19 * 64036 = 1216684 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 20 * 64036 = 1280720 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 21 * 64036 = 1344756 bytes
+Apr  9 16:38:35 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 22 * 64036 = 1408792 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 23 * 64036 = 1472828 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 24 * 64036 = 1536864 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 25 * 64036 = 1600900 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 26 * 64036 = 1664936 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 27 * 64036 = 1728972 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 28 * 64036 = 1793008 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 29 * 64036 = 1857044 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 30 * 64036 = 1921080 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 31 * 64036 = 1985116 bytes
+Apr  9 16:38:36 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 32 * 64036 = 2049152 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 33 * 64036 = 2113188 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 34 * 64036 = 2177224 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 35 * 64036 = 2241260 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 36 * 64036 = 2305296 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 37 * 64036 = 2369332 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 38 * 64036 = 2433368 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 39 * 64036 = 2497404 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 40 * 64036 = 2561440 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 41 * 64036 = 2625476 bytes
+Apr  9 16:38:37 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 42 * 64036 = 2689512 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 43 * 64036 = 2753548 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 44 * 64036 = 2817584 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 45 * 64036 = 2881620 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 46 * 64036 = 2945656 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 47 * 64036 = 3009692 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 48 * 64036 = 3073728 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 49 * 64036 = 3137764 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 50 * 64036 = 3201800 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 51 * 64036 = 3265836 bytes
+Apr  9 16:38:38 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 52 * 64036 = 3329872 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 53 * 64036 = 3393908 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 54 * 64036 = 3457944 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 55 * 64036 = 3521980 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 56 * 64036 = 3586016 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 57 * 64036 = 3650052 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 58 * 64036 = 3714088 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 59 * 64036 = 3778124 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 60 * 64036 = 3842160 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 61 * 64036 = 3906196 bytes
+Apr  9 16:38:39 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 62 * 64036 = 3970232 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 63 * 64036 = 4034268 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 64 * 64036 = 4098304 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 65 * 64036 = 4162340 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 66 * 64036 = 4226376 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 67 * 64036 = 4290412 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 68 * 64036 = 4354448 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 69 * 64036 = 4418484 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 70 * 64036 = 4482520 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 71 * 64036 = 4546556 bytes
+Apr  9 16:38:40 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 72 * 64036 = 4610592 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 73 * 64036 = 4674628 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 74 * 64036 = 4738664 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 75 * 64036 = 4802700 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 76 * 64036 = 4866736 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 77 * 64036 = 4930772 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 78 * 64036 = 4994808 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 79 * 64036 = 5058844 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 80 * 64036 = 5122880 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 81 * 64036 = 5186916 bytes
+Apr  9 16:38:41 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 82 * 64036 = 5250952 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 83 * 64036 = 5314988 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 84 * 64036 = 5379024 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 85 * 64036 = 5443060 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 86 * 64036 = 5507096 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 87 * 64036 = 5571132 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 88 * 64036 = 5635168 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 89 * 64036 = 5699204 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 90 * 64036 = 5763240 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 91 * 64036 = 5827276 bytes
+Apr  9 16:38:42 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 92 * 64036 = 5891312 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 93 * 64036 = 5955348 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 94 * 64036 = 6019384 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 95 * 64036 = 6083420 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 96 * 64036 = 6147456 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 97 * 64036 = 6211492 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 98 * 64036 = 6275528 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 99 * 64036 = 6339564 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 100 * 64036 = 6403600 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 101 * 64036 = 6467636 bytes
+Apr  9 16:38:43 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 102 * 64036 = 6531672 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 103 * 64036 = 6595708 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 104 * 64036 = 6659744 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 105 * 64036 = 6723780 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 106 * 64036 = 6787816 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 107 * 64036 = 6851852 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 108 * 64036 = 6915888 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 109 * 64036 = 6979924 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 110 * 64036 = 7043960 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 111 * 64036 = 7107996 bytes
+Apr  9 16:38:44 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 112 * 64036 = 7172032 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 113 * 64036 = 7236068 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 114 * 64036 = 7300104 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 115 * 64036 = 7364140 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 116 * 64036 = 7428176 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 117 * 64036 = 7492212 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 118 * 64036 = 7556248 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 119 * 64036 = 7620284 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 120 * 64036 = 7684320 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 121 * 64036 = 7748356 bytes
+Apr  9 16:38:45 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 122 * 64036 = 7812392 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 123 * 64036 = 7876428 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 124 * 64036 = 7940464 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 125 * 64036 = 8004500 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 126 * 64036 = 8068536 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 127 * 64036 = 8132572 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 128 * 64036 = 8196608 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 129 * 64036 = 8260644 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 130 * 64036 = 8324680 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 131 * 64036 = 8388716 bytes
+Apr  9 16:38:46 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 132 * 64036 = 8452752 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 133 * 64036 = 8516788 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 134 * 64036 = 8580824 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 135 * 64036 = 8644860 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 136 * 64036 = 8708896 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 137 * 64036 = 8772932 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 138 * 64036 = 8836968 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 139 * 64036 = 8901004 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 140 * 64036 = 8965040 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 141 * 64036 = 9029076 bytes
+Apr  9 16:38:47 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 142 * 64036 = 9093112 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 143 * 64036 = 9157148 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 144 * 64036 = 9221184 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 145 * 64036 = 9285220 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 146 * 64036 = 9349256 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 147 * 64036 = 9413292 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 148 * 64036 = 9477328 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 149 * 64036 = 9541364 bytes
+Apr  9 16:38:48 indigo-tracker user.info MJPG-streamer [672]: storage queue grew with total size of 150 * 64036 = 9605400 bytes
+Apr  9 16:38:56 indigo-tracker cron.err crond[450]: time disparity of 22232918 minutes detected
+Apr  9 16:39:01 indigo-tracker cron.info crond[450]: crond: USER root pid 705 cmd /etc/cron/check_updates.sh
+Apr  9 16:39:28 indigo-tracker user.debug sqlite: sending keepalive
+Apr  9 16:39:35 indigo-tracker daemon.notice openvpn[657]: VERIFY OK: depth=1, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn/name=devices-vpn/emailAddress=yury@indigosystem.ru
+Apr  9 16:39:35 indigo-tracker daemon.notice openvpn[657]: VERIFY OK: nsCertType=SERVER
+Apr  9 16:39:35 indigo-tracker daemon.notice openvpn[657]: VERIFY OK: depth=0, /C=RU/ST=Rostov/L=Taganrog/O=Indigo_Systems__Ltd/OU=Devices/CN=devices-vpn-server/name=devices-vpn-server/emailAddress=yury@indigosystem.ru
+Apr  9 16:40:01 indigo-tracker cron.info crond[450]: crond: USER root pid 723 cmd /etc/cron/check_updates.sh
+Apr  9 16:40:13 indigo-tracker daemon.notice openvpn[657]: Data Channel Encrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Apr  9 16:40:13 indigo-tracker daemon.notice openvpn[657]: Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Apr  9 16:40:13 indigo-tracker daemon.notice openvpn[657]: Data Channel Decrypt: Cipher 'BF-CBC' initialized with 128 bit key
+Apr  9 16:40:13 indigo-tracker daemon.notice openvpn[657]: Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Apr  9 16:40:13 indigo-tracker daemon.notice openvpn[657]: Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Apr  9 16:40:13 indigo-tracker daemon.notice openvpn[657]: [devices-vpn-server] Peer Connection Initiated with 72.249.145.165:1195
+Apr  9 16:40:15 indigo-tracker daemon.notice openvpn[657]: SENT CONTROL [devices-vpn-server]: 'PUSH_REQUEST' (status=1)
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: PUSH: Received control message: 'PUSH_REPLY,route-gateway 10.1.0.1,topology subnet,ping 120,ping-restart 1200,ifconfig 10.1.0.2 255.255.255.0'
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: OPTIONS IMPORT: timers and/or timeouts modified
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: OPTIONS IMPORT: --ifconfig/up options modified
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: OPTIONS IMPORT: route-related options modified
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: TUN/TAP device tun0 opened
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: TUN/TAP TX queue length set to 100
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: /sbin/ifconfig tun0 10.1.0.2 netmask 255.255.255.0 mtu 1500 broadcast 10.1.0.255
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: /etc/openvpn/vpn-up tun0 1500 1544 10.1.0.2 255.255.255.0 init
+Apr  9 16:40:17 indigo-tracker daemon.notice openvpn[657]: Initialization Sequence Completed
+Apr  9 16:40:25 indigo-tracker user.debug sqlite: got carrier
+Apr  9 16:40:28 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:40:28 indigo-tracker user.debug sqlite: saving initial point
+Apr  9 16:41:01 indigo-tracker cron.info crond[450]: crond: USER root pid 749 cmd /etc/cron/check_updates.sh
+Apr  9 16:41:28 indigo-tracker user.debug sqlite: sending keepalive
+Apr  9 16:41:29 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:41:39 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:41:49 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:41:59 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:42:01 indigo-tracker cron.info crond[450]: crond: USER root pid 783 cmd /etc/cron/check_updates.sh
+Apr  9 16:43:00 indigo-tracker user.debug sqlite: sending keepalive
+Apr  9 16:43:01 indigo-tracker cron.info crond[450]: crond: USER root pid 801 cmd /etc/cron/check_updates.sh
+Apr  9 16:43:16 indigo-tracker user.err kernel: piopins, delta_ns < 0, something terribly wrong
+Apr  9 16:43:16 indigo-tracker user.err kernel: piopins, delta_ns < 0, something terribly wrong
+Apr  9 16:43:16 indigo-tracker user.err kernel: piopins, delta_ns < 0, something terribly wrong
+Apr  9 16:43:16 indigo-tracker user.err kernel: piopins, delta_ns < 0, something terribly wrong
+Apr  9 16:44:01 indigo-tracker cron.info crond[450]: crond: USER root pid 816 cmd /etc/cron/check_updates.sh
+Apr  9 16:44:17 indigo-tracker auth.info login[811]: root login on 'pts/0'
+Apr  9 16:44:20 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:44:41 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:45:01 indigo-tracker cron.info crond[450]: crond: USER root pid 841 cmd /etc/cron/check_ntp
+Apr  9 16:45:01 indigo-tracker cron.info crond[450]: crond: USER root pid 842 cmd /etc/cron/check_updates.sh
+Apr  9 16:45:02 indigo-tracker user.notice root: Current time is valid
+Apr  9 16:45:04 indigo-tracker user.info MJPG-streamer [672]: serving client: 10.1.0.1
+Apr  9 16:45:11 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:45:42 indigo-tracker user.info MJPG-streamer [672]: serving client: 10.1.0.1
+Apr  9 16:45:42 indigo-tracker user.info MJPG-streamer [672]: frame timestamp is: 1333975542.60538
+Apr  9 16:46:01 indigo-tracker cron.info crond[450]: crond: USER root pid 866 cmd /etc/cron/check_updates.sh
+Apr  9 16:46:11 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:46:22 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:46:32 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:46:42 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:46:53 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:47:01 indigo-tracker cron.info crond[450]: crond: USER root pid 900 cmd /etc/cron/check_updates.sh
+Apr  9 16:47:03 indigo-tracker user.debug sqlite: movement start
+Apr  9 16:47:13 indigo-tracker user.debug sqlite: movement stop
+Apr  9 16:47:33 indigo-tracker user.debug sqlite: movement start

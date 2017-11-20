@@ -1,0 +1,48 @@
+#!/bin/bash
+
+set -e
+
+DESC="video"
+
+source /etc/sysvars
+
+DO_SOUND=${DO_SOUND:-NO}
+
+function kill_syncher {
+	if [ -f /tmp/syncher.pid ]; then
+		kill `cat /tmp/syncher.pid`
+		rm -f /tmp/syncher.pid
+	fi
+}
+
+case "$1" in
+  start)
+	echo -n "Starting $DESC: "
+	if [ $DO_SOUND = "YES" ]; then
+	    /etc/init.d/S98recorder start
+	fi
+	/etc/init.d/S99mjpeg start
+	kill_syncher
+	/opt/syncher.sh &
+	echo "OK"
+	;;
+  stop)
+	/etc/init.d/S99mjpeg stop
+	/etc/init.d/S98recorder stop
+	kill_syncher
+	echo -n "Stopping $DESC: "
+	;;
+  restart|force-reload)
+	echo "Restarting $DESC: "
+	$0 stop
+	sleep 1
+	$0 start
+	echo ""
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart|force-reload}" >&2
+	exit 1
+	;;
+esac
+
+exit 0

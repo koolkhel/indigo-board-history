@@ -1,0 +1,11 @@
+export our_address=192.168.201.54
+export GPS_INTERVAL=10
+export SENDER_INTERVAL=1
+export DATABASE=/opt/
+export DATABASE_MMC=/mnt/mmcblk0p1/
+export SERVER_URL=http://serv.indigosystem.ru:8180/serv/server:deviceevent
+export SENDER_KEY=/opt/key.txt
+export VIDEO=/mnt/mmcblk0p1/video
+export VIDEO_HOURS=13
+export DO_SOUND=YES
+export VIDEO_FPS=10
